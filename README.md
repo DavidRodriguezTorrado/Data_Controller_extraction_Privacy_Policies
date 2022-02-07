@@ -50,7 +50,7 @@ F1-score-negative: 0.9975279047119635<br>
 Accuracy: 0.9017436899939995<br>
 Conf_matrix: [103, 25, 8, 6658]
 
-SpaCy results metrics (final_validation_109_bog.csv):<br>
+SpaCy results metrics (spacy_109_bog_results.csv):<br>
 <br>
 Precision: 1.0<br>
 Recall: 0.9137931034482759<br>
