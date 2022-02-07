@@ -1,0 +1,53 @@
+Privacy Policy
+
+Disciple Skies Software is able to provide Polaris GPS Navigation to you free of charge by implementing advertising in the application. In order to provide meaningful advertising content and to monitor advertising traffic, our advertising partners will collect certain information to create a consumer profile that is used to customize, streamline and track advertising content to you. The information that is collected is anonymized meaning that it cannot directly identify you. Information that can directly identify you personally such as your name, address or telephone number IS NEVER collected by our advertising partners or by DS Software.
+
+This page is used to inform you regarding our policies with the collection, use, and disclosure of Personal Information if you decide to use our app.
+
+If you choose to use our app, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the the app. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in this app and at Privacy Policy unless otherwise defined in this Privacy Policy.
+
+Information Collection and Use
+
+For a better experience, while using Polaris GPS Navigation, we will ask for certain information, including but not limited to location information, and internet usage statistics as well as access to your device's file system (photos and files). The location information that we request is used for the core GPS Navigation functions in the application. This data may also be shared with our advertising partners after it is anonymized in order to deliver and monitor advertising content to you, as described above. File access is required in order to store maps and photos made with the app in your device's file system. Information that can directly personally identify you is never transmitted to Disciple Skies Software or our advertising partners by the application. Your device's IP address is transmitted to DS Software and our map providers when you download maps with the application, just as it is whenever you visit a website on the World Wide Web. The IP address is kept anonymous and is used for the purpose of monitoring and streamlining advertising content and to help debug the application as described below.
+
+Location information that is collected by the application is shared with third party map service providers in order to provide core application functionality. For driving directions, your exact location will be forwarded to the Google Directions Service via the Google Maps App on your device. A link to the Google Services Privacy Policies is given below.
+
+
+Link to privacy policy of third party service providers used by the app
+
+Google / Admob
+AppBrain
+
+Log Data
+
+We want to inform you that whenever you use Polaris GPS Navigation, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ("IP") address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of the error, and other statistics that are used to help debug the app and the operating system.
+
+Service Providers
+
+We may employ third-party companies and individuals due to the following reasons:
+
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+
+We want to inform users of this Service that these third parties have access to your anonymized personal information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+Security
+
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting a message in this application. These changes are effective immediately after the message is posted.
+
+Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us through our web site at:
+www.discipleskies.com

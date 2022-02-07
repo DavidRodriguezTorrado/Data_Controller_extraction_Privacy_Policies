@@ -1,0 +1,184 @@
+Careers
+Blog
+Join Us
+Privacy Policy
+Drivemode Privacy Policy
+Last Updated: 12/26/19
+
+Drivemode’s mission is to enable a smarter, safer, connected driving experience for everyone in any vehicle. Safety extends down to the safety of you and your data. In this policy we detail what data we collect, how we use it, and what we do protect it.
+
+About This Policy
+
+This privacy policy (this “Policy”) describes the collection of personal information by Drivemode, Inc., a Delaware corporation (“Company”, “we”, or “us”) from users of our Website at www.drivemode.com (the “Website”), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our “Services”). This Policy also describes our use and disclosure of such information. By using our Services, you consent to the collection, use, and disclosure of personal information in accordance with this Policy. This Policy is incorporated by reference into the Drivemode License Agreement (the “Agreement”) and subject to the provisions of the Agreement.
+
+Definitions
+
+“Personal Information,” as used in this Policy, is information that specifically identifies an individual, such as an individual’s name, address, telephone number, or e-mail address. Personal Information also includes information about an individual’s activities, such as information about his or her activity on our Services, location information, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to Personal Information that identifies that individual. Personal Information does not include “aggregate” or other non-personally identifiable information, including location or other driving information that is not otherwise tied to Personal Information that identifies an individual. Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed. We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes as described below.
+
+Information We Collect
+Information You Provide
+
+Profile Information When you create a profile with Drivemode, you may be given the option to access or register for the Services through the use of your user name and passwords for certain services provided by third parties (each an “Integrated Service”), such as through the use of your Google credentials through Google+ and Facebook credentials through Facebook Connect. By doing this, you authorize us to access and store the credentials you provide, your name, email address(es), date of birth, gender, current city, profile picture URL, and similar information regarding your contacts on Integrated Services, and other information that the Integrated Service makes available to us, and to use and disclose it in accordance with this Policy. You should check your Facebook, Google+, or other Integrated Service privacy settings to understand and change the information sent to us through Facebook Connect, Google+, or other Integrated Services. Please review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Services.
+
+Account Information Our Services may give you the ability to register for a Company account or to create and update a user profile on the applicable Service. If we offer user account or profile functionality on the Services, we will collect the Personal Information that you provide to us in the course of registering for an account or creating or updating a user profile. This information may include, for example, name, postal address, telephone number, e-mail address, and related demographic information about you. We may indicate that some personal information is required for you to register for the account or to create the profile, while some is optional.
+
+Content Some features within the app allow you to generate your own content to share with others or post in public areas (for example public forums or Twitter). Some of the types of content you can generate and share are your location information, forum post text, photos you upload, or other content which may contain Personal Information. If you use these features, we may need to collect Personal Information to provide you that service. For example, if you use Drivemode’s location sharing feature, we will share your location with the person(s) you choose to share with. We will share only the information required to perform the function with the person(s) you have chosen.
+
+Communications If you contact us by any means (email, contact forms, postal mail), we may receive Personal Information about you, such as your email address, phone number, account data, or other information. We use this information to provide you support and to improve our Services.
+
+Calendar You may choose to import your calendar into our Services. If so, we collect information about your calendar entries, which include calendar event titles, times, location, and other Personal Information. We use this information to find upcoming calendar events with locations and create shortcuts within our Services so you can start navigating to those locations.
+
+Call and Text Information If you make a phone call or send a text message using the Services, we may collect information regarding the call or text, including Personal Information. This may include phone numbers, contact records, user IDs, message contents, and other Personal Information. We use this information to make calls or send messages to the person you want to contact. We do not record phone calls or store transcripts of your messages other than what is necessary to read them out to you or send them to your contacts.
+
+Voice and Audio Information Our Services may give you the ability to use your voice or recorded audio to control or use certain features. For example, you may record and send a voice message to others through the Services or use your voice to control certain features in the app. If you use these features we collect the voice and audio data as well as any information, including Personal Information, contained therein. We use this data to provide these voice features and to improve the Services.
+
+Information We Collect When You Use Our Services
+
+Location Information We collect the precise location of your device, including trip route information. This data may be collected when the app is in use or when closed. This data is used to enable a variety of features. For example, automatically launching when you start driving, to display how far you drove, and visualizations of your driving routes. To determine location we use various location services on your device such as IP address, GPS, Wifi, and cell towers.
+
+Device Information We receive information from your device, including IP address, web browser type, mobile operating system version, phone carrier and manufacturer, device identifiers, and mobile advertising identifiers. We use this information to operate and improve the Services and provide advertisements and content that is tailored to you. We also collect mobile sensor data, such as speed, direction, and acceleration. We use mobile sensor data to improve location accuracy, analyze usage, and provide features such as the in-app speedometer and speed alarm.
+
+Vehicle Onboard Data If Drivemode is authorized to connect to a third party device which transfers data from your vehicle’s onboard computer, we may collect that data for display or analysis to provide you future services. Make sure to review the third party device’s terms of use and privacy policy carefully before connecting it to any of the Drivemode Services.
+
+Mobile Apps and Notifications Some features of our Services allow you to interact with other applications on your device. For example, the Drivemode app can display “Missed Call” notifications which you can tap to launch your calling app and return the call. To provide these feature we must collect information from the operating system by accessing notifications by other mobile applications on your device. To improve our Services, we may also collect information about your usage of other mobile apps such as which apps are launched or installed on the device.
+
+Usage and Log Information We collect information about your activity on our Services, such as service-related, diagnostic, and performance information. This includes information about how you use our Services, your settings, which features you use, and the time, frequency, and duration of your activities. We use this usage information to constantly improve our Services and to provide customer support.
+
+Cookies and Similar Technologies We collect information through the use of “cookies”, tracking pixels, web beacons and similar technologies. We may also collect information about the website which referred you to our web-based Services, and whether you opened or clicked on one of our email messages. We use this information to understand how you navigate through the Services, to learn what content is popular, to improve the effectiveness of advertising, and to save your preferences.
+
+Information From Other Sources
+
+We may receive information about you, including Personal Information, from third parties, and may combine this information with other information, including Personal Information, we maintain about you. If we do so, this Policy governs any combined information that we maintain in personally identifiable format. For instance, we may receive information about you when other users input User Materials or grant us access to Integrated Services, each of which may include information about you. We also receive information about you via APIs offered by social media and other vendors, such as Foursquare.
+
+How We Use Information
+
+We use the information we have to:
+
+Improve, operate, expand, and maintain our Services and related systems;
+Measure and analyze how our Services are used;
+Communicate with you, either directly or through a partner, including for marketing and promotional purposes;
+Hold contests or sweepstakes;
+Prevent fraud, violations of our License Agreement, or applicable laws;
+Provide personalized recommendations, advertisements, and content;
+Maintain a record of our dealings with you;
+Provide you with customer support;
+Facilitate transactions and payments;
+For other administrative purposes;
+For other purposes that we may disclose when we request your information and pursuant to your consent.
+How We Share Information We Collect
+
+Mobile Applications Your use of the Services may result in the disclosure of your Personal Information to vendors and licensors of the other mobile applications on your mobile device. For example, you may request assistance from the Services with directions to a particular location, and such data may be pushed to the maps application on your mobile device and, in turn, become available to the vendor of the maps application. The Services may also offer you the opportunity to access additional third party mobile applications not otherwise installed on your mobile device. For instance, the Services may present links with offers to sign up for services offered by third parties. If you click such a link or otherwise access such applications, we may disclose Personal Information to vendors and licensors of those applications. For instance, we may use your Personal Information to automatically populate registration forms for those applications on your behalf. If you download any such third party applications on your mobile device, the applicable terms of this Policy will apply.
+
+Analytics Providers We use analytics tools such as Google Analytics, Mixpanel, and Branch. These analytics tools collect information, such as how often you use the Apps, what features of the Apps are used, and other information as defined above under “Information We Collect”. We may use the information collected, including any Personal Information, to provide, protect, and improve our Services.
+
+Recipient of Communication Services Some of the communication features in our Services, such as calls, texts, and Voice Messages, give you the ability to share information, including Personal Information, with other recipients whom you specify. For example, if you use the Services to send a text message, we will share the message and any Personal Information contained with the recipient(s).
+
+Anonymized and Aggregated Data We anonymize and aggregate collected data and may share this data with affiliates, partners, potential partners, and users. This aggregated data does not identify you personally. We may also disclose aggregated user statistics for use in marketing purposes or presentations.
+
+Service Providers We may disclose Personal Information to third-party service providers (e.g., payment processing and data storage and processing facilities) that assist us in our work. We limit the Personal Information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such Personal Information. We may share your device identifier with third party data brokers in order to receive demographic information about you.
+
+Location and Driving Data We share location information and other driving related information, which may include Personal Information, with third parties. We and those third parties may perform various profiling activities using personal data. Profiling is using personal data to make predictions about people, or to categorize them into particular groups. For example, driving behavior data may be used to produce a driving score or develop features that predict future driving behavior. See the “Your Choices” section of this Policy, below, to learn about your choices with regard to location collection and sharing.
+
+Advertising Partners When you use our Services, our third party advertising partners may set and access cookies, pixel tags and similar technologies on your device and they may otherwise collect or have access to information about you that they may collect over time and across different online services. We and our advertising partners may personalize advertisements for products and services that you might be interested in based on your use of our Services. Visit “Your Choices”, below, to learn about your choices with regard to personalized advertising.
+
+Content Partners We may disclose Personal Information to third-party service providers with whom we cooperate to provide tailored content and otherwise enhance the Services. For instance, we may disclose Personal Information regarding your driving and music-listening habits to a vendor of a music application so that the Services may make music recommendations to you.
+
+Business Transfers Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of Company assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
+
+Public Areas Some features on our Services may allow you to upload, post, or otherwise transmit User Materials to public areas of the Services such as content that you post in a public profile on the Services. We may make these User Materials available for display upon Company properties that are not governed by this Policy, as well as to services operated by third parties that display content from the Website (collectively, “Syndicated Services”). Please be aware that any Personal Information that you include within any User Materials will be made available to other users of the Services, and to users of Syndicated Services, who view it. You include Personal Information in User Materials at your sole risk. Even after information posted on the Services is removed, caching and archiving services may have saved that information, and other users or third parties may have copied or stored the information available on the Services. We cannot warrant or guarantee that any Personal Information that you provide on and in connection with the Services will not be accessed, viewed, or used by unauthorized persons.
+
+Legal Requirements We also disclose Personal Information if we believe that doing so is legally required, or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others, or otherwise to help protect the safety or security of our Services and other users of the Services.
+
+Your Choices
+
+Email If you receive commercial e-mail from us, you may unsubscribe at any time by following the instructions contained within the e-mail. You may also opt-out from receiving commercial e-mail from us, and any other promotional communications that we may send to you from time to time (e.g., by postal mail) by sending your request to us by e-mail at privacy@drivemode.com or by writing to us at the address given at the end of this policy. It may take up to ten business days to process your request and you will continue to receive transactional and administrative messages about the Services.
+
+Location Information You can opt out of having your location data collected and shared with third parties by changing the settings on your mobile device. Certain services may lose functionality as a result.
+
+Personalized Advertising If you prefer to not receive personalized advertising, you can opt-out of some network advertising programs that use your information. To do so, please visit the Digital Advertising Alliance (DAA) Opt-Out Page: http://www.aboutads.info/choic... (browser opt out) and http://youradchoices.com/appch... (mobile app opt out) or the Network Advertising Initiative (NAI) Opt-Out Page: http://optout.networkadvertising.org/choices. You may also be able to change your mobile device settings to opt out of personalized advertising through mobile apps. Please note that even if you choose to opt out, you may still see advertisements.
+
+Editing and Accessing You may request us to provide a detailed explanation about any of the information we have collected and how we use it. You are also entitled to receive a copy of that information or make corrections to any inaccuracies you find in the collected information. Please contact us by sending and email to privacy@drivemode.com or via other methods under “Contact Us”.
+
+Users in California
+
+Pursuant to the California Consumer Protection Act of 2018 (“CCPA”), California residents have certain rights with respect to the collection, usage, and disclosure of their personal information.
+
+We do not sell your personal information to third parties and will not do so in the future without prior notice and provide a means to opt-out which is compliant with any applicable laws.
+
+Collection and Sharing of Data
+
+When using the Services we do collect various categories of data, including personal information such as identifiers, geolocation data, and device activity information. Additional details on the categories of information are provided in the “Information We Collect” section of this policy. This data, including personal information, may be shared with third parties. Additional details on the different types of data is shared and with whom we share the data with are provided in the “How We Share Information We Collect” section of this policy.
+
+Your Right to Know and Delete
+
+If you are a California resident, you have the right to know and access a copy of your personal information that we have collected within the preceding 12 months. You also have the right to request deletion of your personal information which we have collected.
+
+You may exercise any of these rights by submitting a request by email to privacy@drivemode.com and specifying the type of request. You will not be discriminated against for exercising these rights. We may require specific information to verify your identity to be able to process your request. Your request may be denied if we are unable to do so.
+
+You may also designate an authorized agent to submit a request on your behalf. You must be able to provide written proof of your permission for the agent to make such requests on your behalf.
+
+Other Rights of California Residents
+
+Pursuant to California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties’ or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a request to privacy@drivemode.com. Please allow 30 days for a response.
+
+Users in the European Union
+Your Rights under GDPR
+
+Under the EU General Data Protection Regulation (“GDPR”), if you are a user from the European Union (the “EU”), you have the following rights regarding your Personal Information to:
+
+Access your information;
+Edit or correct your information;
+Delete your information;
+Receive a copy of your information;
+Withdraw consent for the processing of your information.
+
+If you are an EU user of our Services and would like to exercise any of the rights covered by GDPR, including those listed in this Policy, please contact us by sending an email to privacy@drivemode.com. We will make a commercially reasonable effort to respond to your request within 30 days.
+
+Lawful Basis for Processing Information
+
+Under GDPR, the lawful basis in which we collect, use, and share the data described in this Policy are:
+
+To provide our Services;
+To protect the legitimate interests of you or others;
+With your consent;
+For our legitimate interests, as long as those interests do not conflict with your interests or fundamental rights which require protection of Personal Information;
+When necessary to fulfill legal obligations.
+Other
+
+Links The Services may contain links to other Web sites, products, or services that we do not own or operate. For example, the Services may contain links to third-party merchants from which users may purchase sound recordings that are streamed through the Services. The Services also may contain links to Third-Party Sites such as social networking services. If you choose to visit or use any Third-Party Sites or products or services available on or through such Third-Party Sites, please be aware that this Policy will not apply to your activities or any information you disclose while using those Third-Party Sites or any products or services available on or through such Third-Party Sites. We are not responsible for the privacy practices of these Third-Party Sites or any products or services on or through them. Additionally, please be aware that the Services may contain links to Web sites and services that we operate but that are governed by different privacy policies. We encourage you to carefully review the privacy policies applicable to any Web site or service you visit other than the Services before providing any Personal Information on them.
+
+Children Children’s safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children. Our Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent. If we learn that we have collected personal information from a child under the age of 13 on our Services, we will delete that information as quickly as possible. If you live in a country within the European Union, this same policy applies to children under the age of 16. If you believe that we may have collected any such personal information on our Services, please notify us at privacy@drivemode.com.
+
+International Visitors Our servers and data centers are located in the United States. If you choose to use the Services from outside the U.S., then you should know that you are transferring your Personal Information outside of your region and into the U.S. for storage and processing. By providing your Personal Information to us through your use of the Service, you agree to that transfer, storage, and processing in the U.S. Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Services. You should know that each region can have its own privacy and data security laws, some of which may be less stringent as compared to those of your own region.
+
+Security We use reasonable security measures that are designed to protect personal information from accidental loss, disclosure, misuse, and destruction. We encrypt data communications and rely on the security procedures of our cloud server vendors, such as Amazon Web Services and Google Drive. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any information that you provide to us. You transmit information to us at your own risk.
+
+Do Not Track We do not respond to “do not track” signals or other similar mechanisms.
+
+Updates to this Policy We may occasionally update this Policy. When we do, we will also revise the “last updated” date at the beginning of the Policy. Your continued use of our Services after such changes will be subject to the then-current policy. If we change this Policy in a manner that is materially less restrictive of our use or disclosure of your Personal Information, we will use reasonable efforts to notify you of the change and to obtain your consent prior to applying the change to any Personal Information that we collected from you prior to the date the change becomes effective. We encourage you to periodically review this Policy to stay informed about how we collect, use, and disclose personal information.
+
+Contact Us
+
+If you have any questions or comments about this Policy, please contact us using the following contact information:
+
+Drivemode, Inc.
+
+3039 Broadway
+
+Redwood City, CA 94062
+
+privacy@drivemode.com
+
+Careers
+Blog
+Join Us
+Let’s Get in Touch
+
+
+We’d love to hear from you.
+
+© 2022 Drivemode Inc.
+
+Support & FAQ
+Privacy
+License Agreement

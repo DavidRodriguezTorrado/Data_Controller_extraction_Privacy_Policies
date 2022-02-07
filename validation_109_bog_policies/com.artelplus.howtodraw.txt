@@ -1,0 +1,85 @@
+PRIVACY POLICY
+
+This privacy policy governs your use of software applications and other services for mobile devices that were created by Artfonica.
+
+Artfonica collects, stores and uses your personal information as a data controller in connection with and in order to provide and develop its mobile applications and other services (hereinafter collectively referred to as ‘Services’) according to this privacy policy (‘Privacy Policy’).
+
+For questions and information about Privacy Policy and data subject's rights, please contact us via Artfonica Contact Page.
+
+For information about our privacy practices related to data from children, please see ‘Children’s Privacy’ below.
+
+All Artfonica Services are governed by this Privacy Policy and by using or accessing a Service you give consent to the processing, use and disclosure of your data. Please do not install or use the Services if you do not agree to this Privacy Policy.
+
+Artfonica reserves the right to modify this Privacy Policy. Your continued use of Services will signify your acceptance of the changes to this Privacy Policy.
+
+WHAT INFORMATION DO SERVICES OBTAIN AND HOW IS IT USED?
+
+
+USER PROVIDED INFORMATION
+
+The Services obtain the information you provide when you download and register a Service. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Service unless you register with us.
+
+We may also use the information you provided to contact you from time to time to provide you with the important information, required notices and marketing promotions.
+
+
+
+AUTOMATICALLY COLLECTED INFORMATION
+
+In addition, Services may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Service.
+
+DO SERVICES COLLECT PRECISE REAL TIME LOCATION INFORMATION OF THE DEVICE?
+
+Services do not collect precise information about the location of your mobile device.
+
+DO THIRD PARTIES SEE AND/OR HAVE ACCESS TO INFORMATION OBTAINED BY SERVICES?
+
+Yes. We will share your information with third parties only in the ways that are described in this privacy statement.
+
+We may disclose User Provided and Automatically Collected Information:
+
+as required by law, such as to comply with a subpoena, or similar legal process;
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement;
+if Artfonica is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information;
+to advertisers and third party advertising networks and analytics companies as described in the section below.
+AUTOMATIC DATA COLLECTION AND ADVERTISING
+
+Artfonica reserves the right to use and disclose the collected, non-personal data for purposes of advertising by Artfonica or Artfonica’s partners and contractors. Artfonica may employ third party ad serving technologies that use certain methods to collect information as a result of ad serving through Services. Artfonica or third parties operating the ad serving technology may use demographic and geo-location information as well as information logged from your hardware or device to ensure that relevant advertising is presented within the Service. For such purposes, Artfonica or third parties may collect and use data collected by Services, including, but not limited to, the unique identification ID of your mobile device and your mobile telephone number. The foregoing data may be used and disclosed in accordance with this Privacy Policy and the privacy policy of the company providing the ad serving technology.
+
+To protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can’t identify you personally. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non- precise location information in order to help analyze and serve anonymous targeted advertising on Services and elsewhere. We may also share encrypted versions of information you have provided in order to enable our partners to append other available information about you for analysis or advertising related use.
+
+If you’d like to opt-out from third party use of this type of information to help serve targeted advertising, please visit the section entitled ‘Opt-out’ below.
+
+WHAT ARE MY OPT-OUT RIGHTS?
+
+There are opt-out options for users of Services:
+
+Opt-out of all information collection by uninstalling the Services: You can stop all collection of information by Services easily by uninstalling the Service. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via Artfonica Contact Page.
+
+ANALYTICS
+
+Artfonica uses your information to perform its own analytics and to enable analytics provided by third parties. We use analytical information for supporting business analysis and operations, business intelligence, product development, improving products and services, personalizing content, providing advertising, and making recommendations. Artfonica may also use third-parties, in order to develop and analyze use of Services. The foregoing data may be used and disclosed in accordance with this Privacy Policy and the privacy policy of the company providing the analytics services.
+
+SOCIAL MEDIA FEATURES AND TOOLS
+
+The Artfonica Services may include integrated social media features and tools, such as the Facebook ‘Like’ button, the YouTube ‘Share This’ button, and interactive mini-programs that run in the Services. These features may collect information on your IP address, which page you are visiting on Artfonica’s site or Services, and may set a cookie to enable the feature to function properly. Social media features and tools are either hosted by a third-party or hosted directly by Artfonica. Your interactions with these integrated social media features and tools are governed by the privacy policy of the company providing it.
+
+DATA RETENTION POLICY, MANAGING YOUR INFORMATION
+
+We will retain User Provided data for as long as you use Services and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via Services, please contact us via Artfonica Contact Page and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+
+CHILDREN’S PRIVACY
+
+We do not use Services to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us via Artfonica Contact Page. We will delete such information from our files within a reasonable time.
+
+SECURITY
+
+We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Services. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+
+CHANGES
+
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy on our website.  You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+CONTACT US
+
+If you have any questions regarding privacy while using Services, or have questions about our practices, please contact us via Artfonica Contact Page.

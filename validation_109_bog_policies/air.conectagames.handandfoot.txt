@@ -1,0 +1,103 @@
+ 
+Home About us Games Advertisers Technology Contact Jobs News
+Privacy Policy
+This Privacy Policy was last updated on the 21st of October 2021.
+
+Welcome to ConectaGames ( Web2mil S.A. ), we are a company offering Internet services, specifically games and applications for social networking sites and mobile devices (“applications”, or “application”). Your privacy is very important to us and we have designed our services with the protection of your information in mind. In this document we refer to Web2mil S.A. as: (“Web2mil S.A.”, “we”, “us” or “our”).
+
+This document (“Privacy Policy”) explains how our company handles your personal information. We advise you to read it and contact us in case you require any further information.
+
+When using our services or applications online, or in social networking sites, you also authorize the use of your personal information in accordance with the Privacy Policy contained in this document.
+
+By using our services you agree with what is contained in this Policy. You are also aware it may change at any time, and that in the event it does, these changes will be reflected in future documents. It is your responsibility to periodically review this document in order to review possible changes made to it.
+
+Information collected by our applications
+
+When you make use of, or install an application, it requests that you confirm the information you would like to share. The information requested is required in order to ensure its proper functioning. It generally includes your profile information (name, profile picture, gender, networks, user ID, contacts list, e-mail; and other information you may need or want to share). Our servers will register this information, if and only if, you agree to install the application and you give permission to allow sharing it with us. Web2mil S.A. is not responsible for the proper use of your information, or proper functioning of the application if the information given is not properly shared.
+
+It is also possible that we may require that you send us additional information about yourself to provide further app functionality. For cases in which further personal information is required, this extra information will be saved in addition to the information provided in the first place. Both the request and the information given will be covered under this Privacy Policy.
+
+When using our games or applications, you may choose to give other users more information about yourself. All of what you decide to share in this instance is under your absolute responsibility.
+
+Our applications may have advertisements or links to other websites. We are not responsible for their privacy policies, and we recommend our users to review them. This Privacy Policy is only limited to the information collected by our applications.
+
+What data are we collecting:
+
+For our applications to function properly, we need a minimum amount of data for a good user experience. This includes:
+
+User ID: Which is an identifier of the User, provided by Facebook for the use of the app , and not directly related to the Public user ID.
+
+Public_profile Allows the apps to read the Default Public Profile Fields on the User node. This permission is automatically granted by Facebook to all apps, and allows to show your picture and name on the app.
+
+User e-mail: Your email permission which allows the app to read a person's primary email address.
+
+User Friends: This permission allows the app to get a list of a person's friends using that app. This permission is used within the app to create the Friend's ranking for you to compete against your Facebook Friends that use the same app.
+
+There are other permission requests, which the app can use to provide more and better functionality, but the app might function without them. This permissions are: 1. user_birthday: The user_birthday permission allows the apps to read a person's birthday as listed in their Facebook profile. This permission allows the players to check the age of other players. It helps a lot in selecting partners and opponents to play with. It is desirable to but not mandatory for the app to function properly.
+
+user_gender: The user_gender permission allows the apps to read a person's gender as listed in their Facebook profile. This permission allows the app to show your gender and helps a lot in selecting partners and opponents to play with. It is also needed to set up the gender of the voice messages in the app that need voice messages as part of the game. It is desirable to but not mandatory for the app to function properly.
+
+user_link: The user_link permission allows the apps to access the Facebook profile URL of the person using your app. This permission allows the players to be able to check the users profile of their partners and opponents. It helps a lot in selecting partners and opponents to play with. It is desirable to but not mandatory for the app to function properly.
+
+How and Why is your data processed:
+
+All your personal information requested by the app, and shared by you are stored in our servers. The servers use encrypted disks, and encrypted connections. All backups of the personal data are also encrypted.
+
+Your data is used only for the games functionality, and to communicate new features about the games or to offer support when asked. No personal data is directly shared with third parties.
+
+Deleting your information:
+
+In the event that you are interested in deleting the information you have shared with the app, you can send an e-mail to soporte@web2mil.com.uy or to soportejuegos@web2mil.com.uy and we will proceed to delete all the platform data stored on our servers.
+
+Minors under 13 years old
+
+Web2mil S.A. does not save information from those younger than 13 years old. If you are younger than this age, we ask you to please refrain from registering in our games or applications, or from sending us information about yourself. In the event you are aware of any person younger than 13 who has sent us personal information, please let us know immediately in order to properly erase it. You may contact us at soporte@web2mil.com.uy.
+
+Minors 13 – 18 years old
+
+We advise minors between these ages to discuss with their parents or legal guardians before sending personal information to us or using our apps.
+
+How will we use your information
+
+Our company does not sell, rent or transmit your personal information to third parties. We utilize our user’s information to create statistics, improve our content, and to be able to better target advertisements, etc. None of these actions imply using your information to identify a person or to disclose personal information.
+
+The information the application uses is used for its proper functioning, and for us to be able to communicate with you and provide you with new content, or provide you with better services.
+
+In the event the law requires us, we will be allowed to provide your personal information or any other that we have collected related to you. This disclosure will only occur to avoid liability claims, conform to legal measures, to protect the rights, property and/or company assets or general public interest.
+
+Web2mil S.A. may keep or erase copies of the information that is generated or provided by you on our services (logs,etc) at our sole discretion, and for any reason we may consider convenient or inconvenient.
+
+Our application or service may require some information besides your personal information such as, your IP address or location, or any other type of technical information, which allows for the proper functioning of our application or its additional features.
+
+Web2mil S.A. is allowed to disclose your information to other companies under the intent of solving technical difficulties or to give you a better service, but will not allow these companies to use it freely. All the information that you generate or share within our chat or game will be considered public domain and may be used as such. Be it from Web2mil S.A. or by other users. You may cease to use our application when you desire, however information on your ranking on the game or application relative to other users may still appear. We are not required to keep your information at any time. The chat might be monitored by an automatic monitoring system or by a human person that might suspend or block your game account, or your ability to use the chat. This may happen anytime the monitoring system or person in charge, considers that an improper use of the chat or any other game function has been detected. Even in error this decision is final.
+
+Transferring your information
+
+Web2mil S.A. reserves the right to transfer your information in the event of transfer or selling of the company, or third party acquisition of those assets related to applications, or in the event of a merger with another company. We will inform our users, who have provided and kept their email address updated, of such development.
+
+Cookies
+
+Our services and applications may use cookies in order to better the quality of our service or provide additional ones. Cookies are small text files that are stored in your hard disk or computer memory, which hold additional information about your session and use of our service.
+
+Advertisers
+
+Web2mil S.A. does not provide its sponsors your personal information. However, they may employ cookies or other means to collect more information about you. For example: Advertisers may request Web2mil S.A. to show a specific advertisement to those 18 and older, or those living in a specific country, or any other general feature of our users. It is important for us that you understand that without giving out your personal information, advertisers may, in some ways, get indirect information about you. Additionally, Web2mil S.A. is not responsible for information requested by advertisers directly to you.
+
+Information protection
+
+Web2mil S.A. makes every effort to keep your personal information confidential by using encryption, firewalls, etc., but does not guarantee the above-mentioned are infallible. We are also not responsible for any kind of information theft by third parties. By using our services, you agree not to hold Web2mil S.A. responsible in any way, in the event that a technical or security issue exposes your personal information.
+
+Deleting your information:
+
+In the event that you are interested in deleting the login information that you have shared with the application or game, please send an e-mail to soporte@web2mil.com.uy or to soportejuegos@web2mil.com.uy or contact us using the Technical Support button.
+
+Contact
+
+You may contact us at any time by emailing us at soporte@web2mil.com.uy.
+
+
+
+
+	info@conectagames.com
+Montevideo-Uruguay
+Copyright © 2012 ConectaGames.	

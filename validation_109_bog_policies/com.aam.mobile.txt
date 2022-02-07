@@ -1,0 +1,116 @@
+Privacy Policy
+Privacy Policy
+
+At AAM, LLC (referred to as “Company,” “us” or “we”), we recognize that your privacy is important. This Policy discloses the privacy practices for the Company’s websites. This Policy also covers how personal and other information that we receive or collect about you is treated. Please read the information below to learn the following regarding your use of the Technology.
+
+
+You acknowledge that this Privacy Policy is designed to be read in connection with the Technology Terms and Conditions of Use, which is available at http://www.associatedasset.com and that by accessing or using our Technology, you agree to be bound by the Technology’s terms and conditions, as well as this Policy.
+
+
+We reserve the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our Technology, and by updating any privacy information on this page. Your continued use of the Technology and or Services available through the Technology after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) your agreement to abide and be bound by that Policy.
+
+
+If you have any questions about this Policy, please feel free to contact us at: privacy@associatedasset.com.
+
+
+[IMPORTANT: BY USING THE SITE AND/OR OFFERINGS AVAILABLE ON THIS SITE, YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED BELOW. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, DO NOT USE THE SITE.]
+
+
+1. Types of Information We Collect
+In order to better provide you the best possible services related to the management of homeowners' associations, we collect three types of information about our users: Identifying Information (“ID Info”), Homeowners' Association Documents ("HOA Documents"), and Aggregate Information.
+
+
+Identifying Information: This refers to information that lets us know the specifics of who you are. When you engage in certain activities using the Technology, such as registering for an account, downloading a product or service, or sending us feedback, we may ask you to provide certain information about yourself. Examples of ID Info may include your first and last name, email address, mailing address (including zip code), employer, job title and association, telephone number, facsimile number, and other identifying information.
+
+HOA Documents: This refers to information such as announcements, calendar entries, documents, correspondence, notes, records, task lists, and reports that are intended to be shared only with other association members, community managers or board members of your association who have an authorized user id and password to use the BoardVue services. HOA Documents are uploaded into locations on the Technology that are only accessible by authorized users of a particular association.
+
+
+Aggregate Information: This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you visit on our Site and what other sites may have directed you to us. This information, which is collected in a variety of different ways, is compiled and analyzed on both a personal and an aggregated basis. This information may include a Uniform Resource Locator (“URL”) that points to the site you just came from, which URL you go to after visiting our Technology, what browser you are using, what Technology resources you use, how long you use the resources, and your Internet Protocol (“IP”) address.
+
+
+2. How We Collect and Use Information
+
+We do not collect any ID Info about you unless you voluntarily provide it to us. However, you may be required to provide certain ID Info to us when you elect to use certain products or services available on the Technology. These may include: (a) registering for an account on our Technology; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting a form or transmitting other information by telephone or letter; or (e) submitting your credit card or other payment information when ordering and purchasing products and services on our Technology. When processing certain information, such as payment information with affiliated banking institutions or payment processors, we encrypt the transaction, using Secure Socket Layer (SSL) encryption technology, in order to prevent your ID Info from being stolen or intercepted. Additionally, your credit card information is encrypted and stored on a restricted-access database that is away from our main Technology and only accessible by authorized users.
+
+
+We will primarily use your ID Info to provide product or service offerings to you. We will also use certain forms of ID Info to enhance the operation of our Technology, improve our internal marketing and promotional efforts, statistically analyze Technology use, improve our product and service offerings, and customize our Technology’s content, layout, and services. We may use ID Info to deliver information to you and to contact you regarding administrative notices. Finally, we may use your ID Info to resolve disputes, troubleshoot problems and enforce our agreements with you, including our Technology Terms of Use, and this Privacy Policy.
+
+
+We do not collect any information regarding your HOA Documents and do not use any information contained in those documents.
+
+
+We may also collect certain Aggregate Information. For example, we may use your IP address to diagnose problems with our servers, software, to administer our Technology and to gather demographic information.
+
+
+3. Cookies
+Depending on how you use our Technology, we will store cookies on your computer in order to collect certain aggregate data about our users and to customize certain aspects of your specific user experience. A cookie is a small data text file which is stored on your computer that uniquely identifies your browser. Cookies may also include more personalized information, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server, and your first name to welcome you back to our Technology. We may use cookies to perform tasks such as: monitoring aggregate site or app usage metrics, storing and remembering your passwords (if you allow us to do so), storing account and advertising preferences that you have set, and personalizing the Services we make available to you. However, we do not use cookies to track your browsing behaviors.
+
+
+We may also use an outside advertising partner to display banner advertisements on our Technology. As part of their service, they will place a separate cookie on your computer. We will not provide any third-party advertising partners with any of your ID Info or information about your purchases. We and our third party ad server will collect and use Aggregate Information about you, such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server and whether you responded to a particular ad. Other advertisers may also place banner ads on our Technology in the same manner as above, but we will not disclose any ID Info to them.
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some aspects of the Technology may not function properly if you elect to disable cookies.
+
+
+4. Release of Information
+We will not sell, trade, or rent your ID Info to others. We do provide some of our product and service offerings through contractual arrangements made with affiliates, service providers, partners and other third parties (“Service Partners”). We and our Service Partners may need to use some ID Info in order to perform tasks between our respective sites, or to deliver products or services to you. For example, we must release your credit card information to the card-issuing bank to confirm payment for products and services purchased on the Technology.
+
+We will encourage our Service Partners to adopt and promote strong privacy policies. However, the use of your ID Info by our Service Partners is governed the respective privacy policies of those providers, and is not subject to our control. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through the Technology, including our Advertising and Service Partners, have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. We are not responsible for the policies or practices of third parties.
+
+
+Occasionally we may be required by law enforcement or judicial authorities to provide ID Info or HOA Documents to the appropriate governmental authorities. In such cases, we will disclose ID Info or HOA Documents upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+We may also provide Aggregate Information about our customers’ sales, traffic patterns, and related Technology information to third party advertisers, but these statistics do not include any Personally Identifiable Information.
+
+
+5. Updating and Correcting Information
+We believe you should have the ability to access and edit the ID Info that you have provided to us. You may change your ID Info in your account online by linking to your account in accordance with instructions posted elsewhere on the Technology. We encourage you to promptly update your ID Info if it changes. It may be impossible to completely delete your information without some residual information because of backups, and we cannot delete association records and other information that we need to have in order to provide the Services.
+
+
+6. User Choices on Collection and Use of Information
+We may, from time to time, send you email regarding new products and services that we feel may interest you. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally call or send you direct mail about products and services that may be of interest to you. Only Company (or agents working on behalf of Company and under confidentiality agreements) will send you these solicitations, and only if you have previously indicated that you wish to receive them. If you do not want to receive solicitations from us, you can “opt-out” of such solicitations.
+
+
+You also have choices with respect to cookies, as described above. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our Technology may not work properly in your case.
+
+
+7. Security of Your ID Info and HOA Documents
+When using our Technology you can be assured that your ID Info and HOA Documents are secure, consistent with current industry standards. We strive to take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of your ID Info or HOA Documents. For example:
+
+We work hard to ensure that the data we collect is reliable, accurate, complete and current. We encrypt all ID Info and HOA Documents in order to prevent unauthorized parties from viewing such information when it is transmitted to us. We also use it only for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
+We limit access to ID Info and HOA Documents only to specific employees, contractors and agents who have a reasonable need to come into contact with your information. For example, we may provide members of our technical support team with limited access to your account in order to allow them to troubleshoot problems you may be having with the Technology.
+Additionally, we also employ a number of physical, electronic, and procedural safeguards to protect ID Info and HOA Documents. Our secure servers and our data centers are protected by industry-standard encryption, and our servers reside behind firewalls and employ high-level password protection.
+Finally, access by you to your ID Info and HOA Documents is available through a password and unique customer ID selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone.
+
+In order to most effectively serve you, credit card transactions and order fulfillment are handled by established third party banking institutions and processing agents (such as PayPal). They receive the information needed to verify and authorize your credit card or other payment information and to process and ship your order.
+
+
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your ID Info and HOA Documents, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) the security, integrity and privacy of any and all information and data exchanged between you and us through the Technology cannot be guaranteed.
+
+8. Privacy Notice for California Residents
+Privacy Notice for California Residents can be found HERE
+
+
+9. Miscellaneous
+You must be at least 18 years old to have our permission to use the Technology. Our policy is that we do not knowingly collect, use or disclose ID Info about minor visitors.
+You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, email address, etc.) in areas on the Technology accessible by other users, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages (including unwanted spam messages) from third parties. Such activities are beyond our control and this Policy does not apply to such information. Please consult our Terms of Use Agreement for our conduct policies.
+
+
+If you have any questions, concerns or inquiries about our Privacy Policy, or our use of your ID Info, HOA Documents or Aggregate Information, or our privacy practices, please contact us at:privacy@associatedasset.com. You can also reach our Privacy Compliance Officer by sending written correspondence to:
+
+
+AAM, LLC
+1600 W. Broadway Rd., Suite 200
+Tempe, AZ 85282
+
+
+Attn: Privacy Compliance Officer
+
+Search
+Get in Touch
+Sitemap
+Terms
+Privacy
+
+2022 AAM, LLC All Rights Reserved
+
+Our site uses cookies to make your browsing experience better. By using our site, you agree to our use of cookies. Learn More. 
+
+Accept

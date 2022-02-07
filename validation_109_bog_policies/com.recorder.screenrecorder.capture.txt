@@ -1,0 +1,169 @@
+Mobi Recorder Privacy Policy
+
+Effective Date: 03/03/2021
+
+Please carefully read this Privacy Policy ( the “Policy”), which explains the categories of personal information that Shanghai Enjoy information technology Co., LTD. ("Mobi Recorder," "we" "us" or "our") collects when you (the “User” or “You”), as the user of our Mobi Recorder video creation tools through its website (the “Website”) and its mobile application (the “Application”) (collectively, the Website and Application are the "Services"), how that information is used, with whom it may be shared, and your privacy choices.
+
+1. Data controller and representative
+
+The Data Controller for the Mobi Recorder Services is Shanghai Enjoy Information Technology Co., LTD., which has a principal place of business at No.1515 Gumei Road Phoenix Mansion 19 Floor, Xuhui District, Shanghai, China. You can contact the Data Controller by emailing support@enjoy-global.com or Mobi Recorder’s data protection officer by emailing CDO @enjoy-global.com.
+
+2. Data Collection and Processing by Mobi Recorder
+
+When the User visits our Website, purchases an Application or Service, whether through the Website, within the Application, or through a third party app store, or uses the Application or Service, Mobi Recorder may collect and use personal data as follows:
+
+(1)  Personal data collected
+
+Mobi Recorder collects the following categories of personal data, which may be collected from you, through the collection forms in the ordering process or other processes.
+
+①Information you provide to us.
+
+We may ask that you provide certain information to us when you set up an account or profile on the Website, order the Application or contact us through the Website or Application for information or support. This information may include your email address, account name, or other personal identifier, order information, purchase-token, the products you purchase, date and amount of the order, expires date, currency code, country code;
+
+②Information we automatically collect when you visit our Website.
+
+This information may include your IP address (or other unique device identifier, including one that we may assign); certain details about your browser, operating system, and hardware; your location, if available; the URL that referred you to our Website; your activities on our Website, including your preferences; and other logging information, such as the date and time of your visit. We also use web server logs to collect and store information about Service usage. If applicable, when you visit our Website from a mobile device, like a smartphone, we may also collect additional information from your device, including your location, device identifier, and information about your mobile network.
+
+③Information we get from your use of our products.
+
+We collect information about the products that you use and how you use them and your local device information, including but not limited to your device information (e.g. phone model and brand), operating system (system version, ID, and language), IP address, operating, log information (access time、usage time、click operation, crash reports).
+
+④Third parties may use tracking technologies in connection with our Service, which may include the collection of information about your online activities over time and across third party websites.
+
+This Policy does not apply to these third party technologies because we may not control them and we are not responsible for them. Do Not Track is a technology that enables users to opt out of tracking by websites they do not visit. Currently, we do not monitor or take any action with respect to Do Not Track technology.
+
+3. Purpose and legal basis of the processing
+
+Mobi Recorder uses the information we collect about you for the following purposes:
+
+(1)  Identification and authentication: We use your data to verify you when you access your account （if available）for the Services.
+
+(2)  Operating our services: We use your data to provide our Services, process and fulfill orders, provide customer support, and to otherwise comply with our contractual obligations to you. We (and/or our third party vendors) use your financial information to process purchases made by you.
+
+(3)  Communicating with you: We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
+
+(4)  Improving our services: We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data. We may, however, need to analyze a specific case to address a specific problem (e.g., a bug that affects only a few accounts).
+
+(5)  Marketing and advertising: We use your data to show you ads on third party sites and to send you offers. We may also use your data in delivering third party advertisements to you. This may include "targeted ads" based upon your activities.
+
+(6)  Exercising our rights: Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
+
+(7)  Legal compliance: We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
+
+(8)  Protecting your information: Where appropriate, we may anonymize, backup, and delete certain data.
+
+We may use algorithms and other automated means to implement any of the above.
+
+To the extent that you are a resident of a European Union country or the United Kingdom, or the EU General Data Protection Regulation (GDPR) or the United Kingdom General Data Protection Regulation (UK GDPR) otherwise applies, whenever we process your data for one of the above purposes, we have determined that one or more of the following lawful bases apply:
+
+—Compliance with a legal obligation;
+
+—Performance of a contract;
+
+—Legitimate commercial interest;
+
+In the event that one of the above lawful bases do not apply, we will not process your personal information for that purpose without receiving your voluntary consent to do so. 
+
+4. Sharing of Personal Information with Third Parties
+
+We may share your personal information with companies that help us to run our business by processing personal information on behalf of us for the purposes identified above. Such companies include providers of payment processing services, server services providers, data analysis services providers, fraud monitoring and prevention providers, email delivery service providers, social media, and other marketing platforms and service providers.  We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share with them in accordance with this Policy. At the same time, we will clarify the privacy policy terms of this vendors f with you.
+
+Specifically, Mobi Recorder may use third party tracking tools (such as Google Firebase Analytics) to track the information on how users use the products and websites, such information will be stored in third party servers. Such third party track tools may send the data analysis report to Mobi Recorder for Mobi Recorder’s above mentioned purpose. These third party tracking tools include but are not limited to the following;
+
+Our partner firebase SDK will collect the following information from you: IP address, Users' names, Email addresses, iOS UDIDs, Secure Android IDs, Passwords, Phone numbers, User agents, Instance IDs, Crash traces, Breakpad minidump formatted data (NDK crashes only), Device specs (iOS), the above information will be used to uniquely identify the user to provide statistics and data analysis services.
+
+Mobi Recorder may store the collected information on the servers leased from providers of third- party server service.
+
+In addition, Mobi Recorder may disclose the User’s data to third parties for the following reasons:
+
+if Mobi Recorder is under a duty to disclose or share such personal data to comply with any legal obligation, or to protect the rights, property or safety of its business, its customers or others.
+
+in response to official requests (e.g., court orders, subpoenas, search warrants, national security requests, etc.) ("Requests") that we receive from government authorities or parties to legal proceedings. We handle user’s location Requests under user’s location law. If the Request originates from a foreign jurisdiction, we will typically disclose information where we in good faith believe that disclosure is permitted by both jurisdictions. In all cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
+
+where we reasonably believe that someone's life is at risk. For example, if we become aware of a person threatening to commit suicide, we may share that person's data with appropriate entities that may have the ability to help.
+
+in situations involving legal claims against us or one of our users. If you challenge such a notice, we may share your response with the complainant.
+
+with potential transaction partners, advisors, and others in the event our company is, in whole or part, acquired by a third party. In such a case, we will use reasonable efforts to require the acquiring entity to comply with this Privacy Policy.
+
+5. Transfer of personal data
+
+Your personal information may be stored on servers located in, and may be accessed by Mobi Recorder’s employees and contractors located in one or more countries outside of the country in which you reside。And by using an Application, the Services or the Site you consent to the transfer of your Information to countries, which may be outside of your country of residence and may provide for different and less stringent data protection rules than in your country. If you object to your Information being transferred or used as described in this Policy, please do not use any Application, the Services or the Site and immediately delete all Applications from your User Devices.
+
+6. Protection of Personal Information
+
+Mobi Recorder uses commercially reasonable and industry standard security technologies and safeguards to protect the User’s personal data processed by Mobi Recorder against unauthorized access, loss or destruction, unlawful processing and any processing which is inconsistent with the purposes set out in this privacy policy. We also expect our service providers to protect information in the same manner. No data transmission over the Internet, mobile networks, wireless transmission or electronic storage of information, however, can be guaranteed 100% secure. Please note that we cannot guarantee the security of any information you transmit to us.
+
+7. Duration of the storage
+
+Mobi Recorder will seek to minimize the amount of personal information that it collects and maintains and will delete personal data once it is no longer needed for the purpose for which it was collected. Mobi Recorder will store the collected personal data for the duration of the contract and 60 days after the termination of the contract. Unless we have received your request to delete your information, we will use the following criteria to determine the period for which we will keep your information:
+
+—our contractual obligations and rights in relation to the information involved;
+
+—legal obligations under applicable laws and regulations to retain data for a certain period of time;
+
+—statute of limitations under applicable laws;
+
+—our legitimate business purposes;
+
+8. User’s rights
+
+To the extent required by the law of your jurisdiction, you may have one or more of the below rights. Before you exercise any of the below rights, you may consult your legal counsel if the laws of your jurisdiction stipulate below rights.  You can exercise any of the below rights by submitting a support form, by emailing support@enjoy-global.com or CDO@enjoy-global.com.
+
+(1)  The right to be informed
+
+The User has the right to be provided with clear, transparent and easily understandable information about how Mobi Recorder collects and uses personal data and its rights. This is the reason why Mobi Recorder is providing the User with the information in this privacy policy.
+
+(2)  The right of access
+
+The User has the right to obtain access to its personal data (if Mobi Recorder is processing it), and other certain information (similar to that provided in this privacy policy).you may request certain information about our disclosure of personal information to third parties for their own direct marketing purposes during the preceding calendar year. This request is free and may be made once a year.
+
+(3)  The right to rectification
+
+The User is entitled to have its personal data corrected if it’s inaccurate or incomplete.
+
+(4) The right to erasure or deletion
+
+This ‘right to be forgotten’enables the User to request the deletion or removal of its personal data where there’s no compelling reason for Mobi Recorder to keep using it. This is not a general right to erasure; there are exceptions.
+
+(5) The right to restrict processing
+
+Under certain circumstances, the User has the rights to ‘block’ or suppress further use of its personal data.
+
+(6) The right to opt out of the sale of your personal information
+
+The user has the right to ‘opt out’ from the sale of their personal information to a third party.
+
+(7) The right to data portability
+
+The User has the right to receive their personal data maintained by Mobi Recorder in a structured, commonly used and machine readable format and has the right to transmit that data to another controller.
+
+(8) The right to object to processing
+
+The User has the right to object, on grounds relating to its particular situation, at any time, to the processing of its personal data.
+
+(9)  The right to lodge a complaint
+
+The User has the right to lodge a complaint about the way Mobi Recorder handles or processes its personal data with its national supervisory authority .
+
+(10)  The right to withdraw consent
+
+If the user has given its consent for a specific processing of its personal data implemented by Mobi Recorder, the User has the right to withdraw its consent at any time. In case the User does so, it does not mean that anything Mobi Recorder has done with the User’s personal data with its consent up to that point is unlawful but Mobi Recorder will not use the user’s personal data for that purpose in the future.
+
+(11)  The right to define instructions
+
+The User has the right to define general or specific instructions regarding storage, deletion and use of its personal data after death.
+
+9. Children's Privacy
+
+We do not knowingly collect personal information from individuals who are under the minimum required ages specified herein. You must be at least 14 years of age, or the age of majority in your jurisdiction (whichever is greater), to use our services. Individuals under the applicable age may use our services only through a parent or legal guardian's account and with their involvement. In accordance with the Child Online Privacy Protection Act, in the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you are believes Mobi Recorder may have collected personal information regarding your child, you may ask us to delete such information by using our support form.
+
+10. Revision of this Privacy Policy
+
+Occasionally, we may change this privacy policy (or other documents related to privacy policy) to allow Mobi Recorder to use or share your personal data differently. If we do, the links to the policy on our websites (which are generally found in the footer of the website) will indicate that the policy has been changed. For new users, the change will become effective upon posting. For existing users, if the change is significant, it will become effective after posting. We encourage you to periodically review the privacy policy for the latest information on our privacy practices.
+
+11. Contacting Mobi Recorder
+
+If the user needs to contact Mobi Recorder for any reason (including to exercise any of its rights concerning data protection as set out above) please contact support@enjoy-global.com or CDO@enjoy-global.com.
+
+Mobi Recorder will act on the User’s requests and provide information free of charge, except where the requests are manifestly unfounded or excessive (in particular because of their repetitive nature) in which case Mobi Recorder may charge a reasonable fee (taking into account the administrative costs of providing the information or communication or taking the action requested), or refuse to act on the request.

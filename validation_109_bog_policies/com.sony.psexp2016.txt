@@ -1,0 +1,246 @@
+Saltar a contenido principal
+ Sony
+Juegos
+Hardware
+Servicios
+Noticias
+Tienda
+Asistencia
+Iniciar sesión
+Buscar
+Política de privacidad
+Política de privacidad
+
+Acerca de nosotros y de esta Política
+
+Esta Política de privacidad explica cuándo recopilamos información sobre el usuario, incluida la 'Información personal', qué información recopilamos, por qué la recopilamos, cómo la utilizamos, con quién la compartimos, dónde se procesa, cómo la gestionamos y las opciones y los derechos legales del usuario asociados a esta información.
+
+Alcance de esta Política
+
+Sony Interactive Entertainment Europe Limited y su empresa filial de plena propiedad Sony Interactive Entertainment Network Europe Limited ('SIE', 'nosotros', 'nuestro' y 'nos') controlan la información recopilada cuando el usuario interactúa con PlayStation a través de nuestros sitios web, productos, servicios u otras actividades online ('Servicios').
+
+Contacto
+
+Para obtener información sobre nuestras Política de privacidad o el procesamiento que realizamos de la información sobre el usuario, este debe ponerse en contacto con nosotros a través de uno de los siguientes métodos:
+
+Correo postal:
+Data Protection Office
+Sony Interactive Entertainment Europe Limited/Sony Interactive Entertainment Network Europe Limited
+10 Great Marlborough Street
+London
+United Kingdom
+W1F 7LP
+
+Online: 
+siee.dpo@sony.com
+
+Sony Interactive Entertainment Europe Limited y Sony Interactive Entertainment Network Europe Limited son compañías registradas en Inglaterra con los siguientes números: 03277793 y 06020283.
+
+Versión 8.0 (octubre de 2020)
+
+Información que recopilamos o recibimos
+
+Recopilamos y recibimos información sobre el usuario por diferentes medios, como se describe a continuación.
+
+Información que nos proporciona el usuario
+
+Recopilamos información que nos proporciona directamente el usuario; por ejemplo, al introducirla en nuestro sitio web o incluirla en un mensaje de correo electrónico que nos envíe. Este tipo de recopilación suele producirse a través de los proceso de asistencia de nuestra empresa, por ejemplo:
+
+Procesos de registro o creación de una Cuenta de PlayStation Network ('Cuenta'), en los que se pide al usuario que proporcione información como la siguiente: Información de contacto (por ejemplo, nombre, dirección física o de correo electrónico, país o número de teléfono); información de administración de la cuenta (por ejemplo, nombre de usuario, contraseña o preguntas de seguridad); información de facturación (por ejemplo, número de tarjeta de crédito u otro medio de pago o dirección de facturación); fecha de nacimiento e información del perfil (por ejemplo, foto del perfil, idiomas o gustos). Procesos de compra, en los que podemos pedir al usuario que proporcione información de facturación adicional para procesar el pago. Procesos de asistencia técnica y atención al cliente, en los que podemos pedir al usuario que proporcione información de contacto e información relacionada con el problema por el que se ha puesto en contacto con nosotros. También podemos grabar las llamadas que realice el usuario al servicio de atención al cliente de PlayStation. Otros procesos empresariales, en los que podemos pedir al usuario que proporcione información como el nombre, la dirección de correo electrónico y el ID de la Cuenta si participa en encuestas de investigación de mercado, pruebas beta y otras investigaciones de pruebas de usuarios, concursos, promociones o eventos, o acepta recibir información de marketing por nuestra parte.
+
+Además, recopilamos la información que nos proporciona el usuario al introducirla de determinadas funciones de los Servicios. Por ejemplo, si el usuario desea publicar en un foro, nos proporciona el contenido de la publicación (que podría contener Información personal que recopilamos y posteriormente mostramos para el usuario en el foro). Asimismo, cuando el usuario utiliza otras funciones como mensajería de voz o texto, blogs, encuestas, contenidos generado por usuarios, transmisiones de actividades o redes sociales, podemos recopilar primero la información que introduzca en la función.
+
+El usuario debe asegurarse de que los datos personales que nos proporcione sean precisos y actuales. Enviaremos al usuario cualquier información importante relativa a su Cuenta utilizando la información de contacto que nos proporcione (incluidos los avisos de seguridad y privacidad de la Cuenta). El usuario puede comprobar y actualizar parte de la información que nos ha proporcionado en cualquier momento a través de la Gestión de la cuenta.
+
+Recopilación automática de información
+
+También podemos recopilar de forma automática o pasiva información sobre el uso que haga el usuario de nuestros Servicios; se deben consultar las subsecciones siguientes para obtener una lista de las categorías de fuentes de dicha información.
+
+Consolas y otros dispositivos
+
+Cada vez que el usuario utiliza una consola PlayStation o una aplicación de PlayStation en una consola PlayStation o en otros dispositivos (como un teléfono móvil o PC), podemos recopilar automáticamente información sobre el uso del dispositivo y la aplicación. Si el usuario inicia sesión en una Cuenta, podemos combinar esa información con el resto de información que tengamos de esa Cuenta.
+
+La información que recopilamos de los dispositivos puede incluir:
+
+Identificadores de dispositivos, como ID de consolas PlayStation, ID de dispositivos móviles, ID de cookies o números de serie del usuario. Identificadores de red como la dirección IP o MAC del usuario. Identificadores de autenticación de la Cuenta que evitan que el usuario tenga que volver a iniciar sesión. Contenidos y anuncios descargados en el dispositivo del usuario para los servicios online a los que acceda. Ubicaciones actuales y recientes del usuario (por ejemplo, en PS Vita). Trofeos, puntuaciones y clasificaciones conseguidos online y offline. Información sobre el dispositivo que está utilizando el usuario, los periféricos conectados (como mandos y cascos de realidad virtual) y cómo los ha configurado. Información sobre cómo utiliza el usuario el software instalado en su dispositivo (que puede incluir información sobre el uso del software offline), como la fecha y hora de uso, los juegos o la música reproducidos, el contenido explorado, compartido o descargado, los servicios a los que se ha accedido y durante cuánto tiempo, incluida la frecuencia de uso del chat y otras aplicaciones de comunicación. Las acciones que realice el usuario dentro de los juegos o aplicaciones publicados por SIE (por ejemplo, los obstáculos que salte o los niveles que alcance). Detalles de los errores y los tiempos de carga del software y, si el usuario ha activado el ajuste 'Informar automáticamente de los errores del software del sistema', información detallada sobre la avería, lo que incluye capturas de pantalla y vídeo capturado antes de la avería.
+
+En función del dispositivo o la aplicación, según la región, y para los juegos lanzados después de marzo de 2018, el usuario puede contar con opciones para controlar la recopilación de información por nuestra parte. Para obtener más información sobre estas opciones, se debe consultar la sección Opciones del usuario de esta Política de privacidad más abajo.
+
+PlayStation Network y Store
+
+Cada vez que el usuario inicie sesión en PlayStation Network y acceda a nuestros Servicios, automáticamente podremos:
+
+Recopilar información sobre el uso de los Servicios de PlayStation Network en el dispositivo del usuario. Registrar la actividad del usuario en nuestros servidores de PlayStation Network. Por ejemplo, podemos recibir identificadores del dispositivo y de la Cuenta, como el ID online de PlayStation Network y el ID de la Cuenta del usuario. También podemos recibir detalles de: el contenido, los anuncios y otra información que soliciten y reciban los dispositivos del usuario de nuestros servidores (como contenidos de Store, trofeos y listas de amigos) y sobre el momento de recepción e interacción con ellos; el contenido y las aplicaciones que el usuario añada al 'carrito' en nuestra Store, así como lo que compre.
+
+Juegos
+
+Cada vez que el usuario juega a un juego desarrollado o publicado por nosotros o por otra empresa de Sony Interactive Entertainment, automáticamente podemos:
+
+Recopilar información sobre el uso de ese juego en el dispositivo del usuario (que puede incluir información sobre el uso de juegos offline). Registrar la actividad del usuario en los servidores de nuestros juegos. Por ejemplo, podemos recibir identificadores del dispositivo y de la Cuenta, como el ID online de PlayStation Network, información sobre el uso de juegos online y sobre los jugadores contra los que juega el usuario.
+
+Sitios web, marketing y publicidad
+
+Cada vez que el usuario visita nuestros sitios web o recibe e interactúa con nuestras comunicaciones de marketing y la publicidad en sitios web y servicios nuestros o de terceros, podemos registrar automáticamente la actividad del usuario en los servidores web, de correo electrónico, de publicidad y marketing que controlamos a través de cookies (pequeños archivos de información que se ubican en un disco duro), balizas web, píxeles de seguimiento, datos de configuración del navegador (por ejemplo, tipo de navegador, lista de complementos instalados y lista de fuentes instaladas), scripts incrustados (código de programación que se descarga temporalmente en un dispositivo) y ajustes de personalización del sitio web.
+
+Información que recibimos de terceros
+
+Podemos recibir información, incluida la que se especifica más abajo, de fuentes de terceros y combinarla con la información que ya recopilamos directamente del usuario. Gestionaremos esta información de acuerdo con esta Política de privacidad.
+
+Información de juegos, redes sociales y de otro tipo de los terceros o servicios con los que el usuario vincule su Cuenta o que proporcionen información para permitir las funciones de PlayStation Network. Información de otros usuarios, por ejemplos si dichos usuarios nos han proporcionado acceso a sus perfiles y si el usuario es una de sus conexiones, o información sobre el usuario que dichos usuarios pongan a nuestra disposición de otro modo. Información de terceros de acuerdo con la relación que tengamos con estos; por ejemplo, podemos obtener puntuaciones de riesgo de fraude de proveedores de servicios contra el fraude y direcciones IP y detalles de actividades presuntamente ilegales o malintencionadas de cuerpos de seguridad o socios. Información actualizada de la cuenta de la tarjeta que nos proporcione el banco del usuario para ayudar a mantener actualizadas las tarjetas de pago de la Cuenta del usuario. Tras una actualización, seguiremos efectuando el cargo en los métodos de pago correspondientes por las compras que realice el usuario, a menos que nos notifique lo contrario.
+
+Uso de la información
+
+En esta sección se explica cómo utilizamos la información que recopilamos sobre el usuario.
+
+Utilizaremos la información del usuario únicamente por determinados motivos específicos y solo cuando tengamos la base legal para hacerlo. Las bases legales que nos respaldan dependen del tipo de relación que tengamos con el usuario y de cómo interactuemos con él. Los detalles adicionales de los fines para los que procesamos la Información personal del usuario de acuerdo con estas bases legales se establecen en las secciones Información que recopilamos o recibimos, Uso de la información e Intercambio y transferencias de información. Incluyen lo siguiente:
+
+Contrato: para proporcionar nuestros productos y servicios al usuario y cumplir nuestra relación contractual con este. Intereses legítimos: para cumplir nuestros intereses legítimos o los de terceros en la realización y gestión de nuestros negocios y nuestra relación con el usuario, como se describe en esta Política de privacidad. Obligación legal: para cumplir nuestras obligaciones legales de acuerdo con la legislación aplicable (por ejemplo, informes financieros). Consentimiento: si el usuario nos ha dado su consentimiento para procesar su Información personal para un fin específico (por ejemplo, recopilar datos de su dispositivo, publicidad y marketing personalizados).
+
+Podemos combinar la información de cualquiera de las fuentes que se explican en la sección 'Información que recopilamos o recibimos' de esta Política de privacidad. Por ejemplo, podemos procesar junta la información que hemos recopilado del usuario, sus visitas a nuestro sitio web, su historial de juego en el dispositivo, etc., para los fines que se explican en esta Política de privacidad.
+
+Servicios
+
+Podemos utilizar la información del usuario para operar nuestros Servicios. También podemos personalizar los servicios que proporcionamos al usuario en función de la información que hemos recopilado sobre este (por ejemplo, podemos usar su dirección IP para mostrar contenido relevante para su zona). Además, para habilitar las funciones de configuración de accesibilidad (para el usuario o para otros usuarios), podemos recopilar los datos de voz a texto del usuario.
+
+Desarrollo
+
+Utilizamos la información que recopilamos para conocer, corregir y mejorar nuestros Servicios existentes, las experiencias del usuario con ellos y nuestras operaciones empresariales, así como para desarrollar nuevos. Por ejemplo, podemos utilizar la información para desarrollar y optimizar las interfaces de usuario o el rendimiento de los juegos.
+
+Moderación y seguridad
+
+No podemos supervisar PlayStation Network en su totalidad y no nos comprometemos a hacerlo. Sin embargo, nos reservamos el derecho, a nuestra entera discreción, a supervisar (también a través del uso de tecnología que detecta automáticamente imágenes, texto y URL que incumplen nuestros Términos de servicio) y registrar la actividad y la comunicación online del usuario a través de PlayStation Network y a borrar o eliminar cualquier contenido. Podemos usar la información que recopilamos (como se ha descrito anteriormente) para detectar incumplimientos e imponer nuestros Términos de servicio de PlayStation Network, Términos de uso del Software, Acuerdos de licencia del software del sistema, cualesquiera otros términos de servicio que el usuario haya aceptado y cualesquiera reglas o códigos de conducta aplicables al uso de PlayStation Network.
+
+Marketing y publicidad
+
+Podemos dirigir y personalizar nuestras comunicaciones de marketing, recomendaciones de compra y anuncios que mostremos en los sitios web y servicios nuestros y de terceros en función de la información que hemos recopilado sobre el usuario. El usuario puede observar esta personalización en PlayStation Store (ya sea a través de una consola, un sitio web o en un juego), en las comunicaciones de marketing o al visitar los sitios web nuestros y de terceros (como los sitios de redes sociales) que muestran nuestras recomendaciones de compra o anuncios.  El usuario dispone de opciones para controlar nuestro uso de la información recopilada sobre él para personalizar el marketing que le enviamos y puede obtener más información sobre estas en la sección Opciones del usuario de esta Política de privacidad.
+
+Asuntos legales y cumplimiento
+
+Podemos utilizar la información que recopilamos con fines de auditoría, cumplimiento y legales (por ejemplo, para proteger los derechos y la propiedad de Sony, sus socios y clientes).
+
+Seguridad
+
+Con el fin de ayuda a proteger al usuario y a los demás, podemos utilizar la información que recopilamos y recibimos para:
+
+Identificar actividades y transacciones fraudulentas. Evitar abusos de nuestros Servicios e investigar o procesar cualquier posible amenaza contra nuestros Servicios o uso indebido de estos. Proteger la Cuenta del usuario frente al acceso no autorizado (por ejemplo, evitando el acceso si se realiza un intento de inicio de sesión desde una nueva ubicación).
+
+Intercambio y transferencias de información
+
+En esta sección se explica cómo podemos compartir la información que recopilamos con terceros que nos prestan servicios o proporcionan los juegos y las aplicaciones que utiliza el usuario en PlayStation Network. No aceptamos ni aceptaremos dinero a cambio de compartir Información personal. Podemos compartir la información del usuario con los siguientes destinatarios y para los siguientes fines.
+
+Proveedores de servicios
+
+Compartimos información con proveedores de servicios de SIE, que son personas o empresas que prestan servicios que pueden incluir la gestión de Información personal para cualquiera de los fines descritos en esta Política de privacidad. Los proveedores de servicios deben cumplir los requisitos de confidencialidad y seguridad.
+
+Socios
+
+Podemos compartir información con los siguientes socios:
+
+Organizaciones financieras, como los datos de pago para completar la compra, obtener el pago y llevar a cabo comprobaciones de crédito y contra el fraude. Editores de juegos, como el contenido que ha comprado el usuario en PlayStation Store para que puedan ofrecerle dicho contenido en el juego y para garantizar que el derecho del usuario a acceder a ese contenido se refleje en las diferentes plataformas de juego. Otros proveedores de servicios, aplicaciones o sitios web con fines operativos, o con fines adicionales, con el permiso del usuario (por ejemplo, cuando el usuario vincula su Cuenta a la cuenta de los proveedores). Socios de servicios de seguridad y contra el fraude, incluido el Grupo Sony, como corresponda para garantizar la seguridad de nuestros Servicios, la prevención de fraudes o la protección de la Información personal. Socios publicitarios y promocionales, con los que ofrecemos de forma conjunta servicios o funciones, como premios, concursos, promociones o publicidad. Socios de transferencia de empresas, en relación con la negociación y venta de la empresa correspondiente, una parte de la empresa o determinadas acciones o activos, o una fusión, consolidación o restructuración corporativa o cualquier otro cambio corporativo, también durante el transcurso de cualquier proceso de diligencia debida, entre otros.
+
+Otros usuarios
+
+Cuando el usuario crea una Cuenta, determinada información formará parte de su perfil público y estará accesible para todas las cuentas de PlayStation Network, en Internet a través de playstation.com y en algunos sitios web, aplicaciones o servicios de terceros. Esta información incluye:
+
+ID online de PlayStation Network del usuario Declaración 'Acerca de mí', avatar, idioma, país y puntuaciones y estadísticas de juegos Contenido compartido por el usuario
+
+El usuario es responsable de cualquier contenido que comparta en los foros, las comunidades y las funciones de chat y mensajería. Este contenido estará accesible para el resto de usuarios, que pueden compartir esa información. Recomendamos al usuario que analice detenidamente lo que comparte y con quién comparte su información. También podemos indexar y utilizar el contenido que el usuario haya compartido públicamente como parte de las funciones de nuestras plataformas, como Ayuda del juego, perfiles de PlayStation o futuros servicios de PlayStation Network.
+
+Autoridades gubernamentales
+
+Podemos compartir la información del usuario con la policía y otras autoridades gubernamentales si creemos que es razonablemente necesario para cumplir una ley, una normativa o un procedimiento legal, para detectar, proteger y reforzar la seguridad de cualquier persona, su propiedad y sus derechos, por cuestiones de fraude y seguridad, y para informar de actividades delictivas. La mayoría de los casos en los que hemos compartido información con la policía y las autoridades gubernamentales atañen a sus investigaciones sobre dispositivos robados, uso no autorizado de métodos de pago o con fines de moderación y seguridad de PlayStation Network y sus usuarios. En un pequeño número de casos, también hemos proporcionado información en respuesta a investigaciones de delitos más graves o contra el fraude.
+
+Gestión de la información y opciones del usuario
+
+Información de menores
+
+Las cuentas de menores entre 7 y 17 años debe crearlas su progenitor o tutor legal ('Adulto responsable'). Si el usuario va a crear una cuenta para un menor, le recomendamos que tanto él como el menor lean nuestra Información sobre privacidad para jugadores jóvenes, que les ayudará a conocer cómo gestionamos su Información personal y sus derechos sobre esta.
+
+Si el usuario tiene entre 7 y 17 años, puede pedir a su Adulto responsable que le explique aquello que no comprenda. El usuario también puede leer nuestra Información sobre privacidad para jugadores jóvenes para conocer cómo utilizamos su información y sus derechos de privacidad sobre esta.
+
+Recopilaremos, utilizaremos y compartiremos la información recopilada sobre menores de acuerdo con las prácticas descritas en este documento, con las siguientes excepciones.
+
+Información que nos proporciona el usuario
+
+Un Adulto responsable solo necesita proporcionar información limitada sobre el menor a su cargo (una dirección de correo electrónico y la fecha de nacimiento) para crear una Cuenta para este. Es opcional proporcionar el sexo. Un menor podrá añadir su dirección solo con la aprobación del Adulto responsable para crear una cuenta para el menor. El límite de gasto de la Cuenta del menor se establece en la Cuenta asociada del Adulto responsable.
+
+Información que el usuario puede decidir compartir
+
+Un Adulto responsable puede controlar, a través del ajuste 'Comunicación libre' de la Cuenta del menor, la capacidad del menor para utilizar (y compartir Información personal a través de) las funciones de chat de texto, chat de voz, chat de vídeo y otras funciones de mensajería para comunicarse directamente con otros usuarios en juegos, aplicaciones o a través de las funciones del software del sistema. El usuario debe tener en consideración que la Cuenta de un menor sigue permitiendo lo siguiente:
+Enviar y recibir mensajes de texto predeterminados creados por un juego o una aplicación. Crear y ver nombres de personajes, diseños y títulos de clanes de otros usuarios en los juegos. Utilizar servicios de comunicación a través de un navegador de Internet a menos que se deshabiliten. Comunicarse a través de la mensajería del sistema en PS3 y PS Vita.
+ Un Adulto responsable puede controlar la capacidad del menor a su cargo de publicar o ver contenidos generados por los usuarios, lo que incluye fotos, vídeos, dibujos y contenidos importados desde fuentes externas (los cuales pueden contener Información personal) a través del control de contenidos generados por los usuarios. Esto no impedirá la captura en vídeo de las partidas online del usuario de la Cuenta de un menor. Un Adulto responsable puede aceptar nuestra recopilación y uso de la Información personal del menor a su cargo sin consentir que la revelemos a terceros, excepto cuando la revelación sea inherente a los Servicios que proporcionamos.
+
+Cuando un Adulto responsable permite que la Cuenta del menor a su cargo participe en las funciones de juegos, chat y contenidos generados por los usuarios, también permite que SIE comparta la información con los editores de los juegos, las aplicaciones o los servicios que incorporan dichas funciones y la recopilación de la información introducida en dichas funciones mediante la Cuenta del menor (por ejemplo, escribir texto en la función de chat).
+
+Si el usuario detecta que el menor de 18 años a su cargo ha creado una Cuenta, una vez que verifiquemos que es el Adulto responsable del menor, le proporcionaremos con prontitud acceso a la cuenta del menor y control sobre esta.
+
+Transferencias internacionales
+
+Nuestros Servicios se operan en Estados Unidos, Reino Unido, Japón y otros países/áreas/regiones de todo el mundo. El usuario debe tener en cuenta que la información que recopilamos, incluida la Información personal, se transferirá, procesará y almacenará en estos países/áreas/regiones y, como tal, los tribunales, los cuerpos de seguridad y otras autoridades de estos países pueden, en determinadas circunstancias, tener derecho a acceder a la Información personal del usuario. Garantizamos la aplicación de las protecciones adecuadas al transferir la información del usuario fuera de su país mediante el establecimiento de contratos con los destinatarios, las Cláusulas Contractuales Estándar de la Comisión Europea o de otro modo, de forma que la transferencia solo se produzca cuando lo permita la legislación aplicable. Al utilizar nuestros Servicios o proporcionarnos información a través de ellos, el usuario acepta la transferencia, el procesamiento y el almacenamiento de su información en estos países en los que las leyes sobre privacidad pueden no ser tan completas como en el país en el que reside o es ciudadano.
+
+Seguridad y retención
+
+Tratamos de mantener las medidas de seguridad técnicas y organizativas adecuadas que cumplan los estándares del sector para ayudar a proteger la información del usuario contra la revelación, el acceso, el uso indebido, la pérdida o la modificación accidentales o no autorizados. Aunque nos esforzamos por proteger la información del usuario, no podemos asegurar o garantizar la seguridad de dicha información. No existe la seguridad perfecta.
+
+Recomendamos al usuario que utilice los controles de acceso a la cuenta mejorados que ponemos a su disposición, como la verificación en 2 pasos. Si el usuario necesita asistencia para restringir el acceso a sus dispositivos o cuentas, debe visitar www.playstation.com o ponerse en contacto con Ayuda y asistencia de PlayStation.
+
+Recomendamos al usuario que mantenga las contraseñas y los códigos de acceso de sus dispositivos y cuentas a salvo y que no se los comunique a nadie. El usuario debe asegurarse de que el ajuste de inicio de sesión automático en la cuenta está deshabilitado y de que el ajuste para requerir que se introduzca una contraseña antes de completar compras está habilitado, en especial si comparte su dispositivo PlayStation con otras personas. El usuario debe ponerse en contacto con Asistencia de PlayStation inmediatamente si tiene constancia de cualquier uso no autorizado de sus cuentas u otras infracciones de la seguridad.
+
+Podemos retener la información sobre el usuario el tiempo que sea necesario para satisfacer los fines que se describen en esta Política. Además, podemos retener la información del usuario durante un periodo adicional si se permite o si es necesario para, entre otras cosas, cumplir nuestras obligaciones legales, resolver disputas e imponer acuerdos. Cuando así lo exija la legislación aplicable, debemos eliminar la información del usuario cuando esta ya no sea necesaria o se nos solicite hacerlo. Incluso si eliminamos la información del usuario de las bases de datos activas, la información puede permanecer en una copia de seguridad o un soporte de archivo, así como en otros sistemas de información.
+
+Opciones y derechos del usuario
+
+Opciones del usuario
+
+El usuario puede contar con determinadas opciones relativas a cómo se recopila, utiliza, almacena y comparte su información.  El usuario puede acceder a estas opciones a través de los ajustes de su Cuenta o dispositivo.  El usuario debe asegurarse de que su información esté actualizada. Entre otras, dispone de las siguientes opciones:
+
+Contenido y marketing personalizados: Si podemos utilizar la información que hemos recopilado sobre el usuario para personalizar la publicidad y las recomendaciones de compra. Se debe tener en cuenta que siempre personalizaremos ligeramente lo que ve el usuario (por ejemplo, para evitar que se muestren contenidos que ya ha comprado en PlayStation Store) y que algunos dispositivos (por ejemplo, PS3/Vita), aplicaciones y juegos más antiguos pueden seguir mostrando cierta personalización comercial. Comunicaciones personalizadas: Si podemos utilizar la información que hemos recopilado para personalizar los mensajes de correo electrónico y las notificaciones. Recopilación de datos limitados/datos de servicio y recopilación de datos completos/datos avanzados: Si podemos recopilar solo los Datos limitados necesarios para proporcionar nuestros Servicios o Datos completos para posibilitar una experiencia más rica. Mensajes de correo electrónico: Si podemos enviar mensajes de correo electrónico de marketing al usuario. Intercambio de Información personal de redes sociales: Si el usuario comparte otra información, como su nombre real, sus amigos de PlayStation Network o sus actividades. Contenido compartido: Si el usuario desea compartir contenidos como vídeos de partidas con otros usuarios. Recopilación de cookies: El usuario puede gestionar las cookies que no sean estrictamente necesarias para la provisión de nuestros sitios web. Esto también limitará cuándo podemos reconocer las visitas del usuario a nuestros sitios web y dirigir y personalizar la publicidad y las recomendaciones comerciales de compra que se muestran en estos sitios web.
+
+Derechos del usuario
+
+Además de los derechos descritos anteriormente, el usuario también puede acceder a alguna información, modificarla o eliminarla a través de la página de ajustes de su Cuenta.
+
+Derecho de acceso y portabilidad: El usuario tiene derecho a solicitar que le informemos de la Información personal que hemos recopilado, utilizado y compartido sobre él, y a obtener una copia de esta.  Derecho de eliminación: El usuario tiene derecho a solicitar que eliminemos la Información personal que hemos recopilado o retenido sobre él en algunas circunstancias que define la ley.  Para solicitar la eliminación de determinada Información personal del usuario de un blog, foro o tablón de mensajes, debe ponerse en contacto con nosotros como se describe en la sección Contacto más arriba. Tras la solicitud de eliminación por parte del usuario, este debe tener en cuenta que la información que recopilamos sobre él se puede seguir reteniendo por motivos legales, de contabilidad, de continuidad el negocio (copia de seguridad), de lucha contra el fraude y de la comunidad. El usuario puede cerrar su cuenta para acceder a PlayStation Network contactando con Ayuda y asistencia de PlayStation. Puede que la información recopilada de juegos y aplicaciones más antiguos no se integre en el cierre de la cuenta. Tras la solicitud de cierre de la cuenta por parte del usuario, este debe tener en cuenta que la información que recopilamos sobre él se puede seguir reteniendo por motivos legales, de contabilidad, de continuidad el negocio (copia de seguridad), de lucha contra el fraude y de la comunidad. Si el usuario tiene cuentas de otras empresas del Grupo Sony, deberá contactar con estas empresas por separado para cerrarlas. Para obtener más información, el usuario debe visitar https://www.sony.es/mysony o https://account.sonymobile.com/es-ES/#/signup/learnmore. Derecho de rectificación: El usuario tiene derecho a rectificar su información, restringir el procesamiento y rechazar el uso de su Información personal en algunas circunstancias que define la ley. Derecho de oposición: El usuario tiene derecho a oponerse al procesamiento de su Información personal en determinadas circunstancias. Por ejemplo, tiene derecho a oponerse al uso de su Información personal para fines de marketing directo. Derecho de restricción: El usuario tiene derecho restringir el procesamiento de su Información personal en determinadas circunstancias.
+
+En algunos casos, las opciones del usuario de proporcionar, cambiar o eliminar información pueden afectar a nuestra capacidad de proporcionar nuestros Servicios o a su experiencia de usuario. Podemos negarnos a procesar las solicitudes si la legislación aplicable no lo exige. El usuario tiene derecho a no ser discriminado de forma ilegal por haber ejercido estos derechos.
+
+Para realizar una Solicitud de acceso o eliminación, el usuario puede ejercer estos derechos contactando con nosotros a través de la información de la sección Acerca de nosotros de esta Política de privacidad. Después de enviar una solicitud, podemos verificar la identidad del usuario solicitándole los datos de su cuenta, dispositivos, instrumentos de pago y transacciones anteriores. Nos reservamos el derecho a rechazar las solicitudes del usuario si no podemos verificar su identidad.
+
+Para obtener un PDF accesible alternativo a esta Política de privacidad, el usuario debe contactar con nosotros utilizando la información de la sección Contacto de esta Política de privacidad.
+
+Quejas
+
+Si el usuario tiene alguna duda sobre nuestra gestión de su Información personal, debe ponerse en contacto con nosotros en primer lugar para que intentemos resolver su consulta utilizando los detalles de la sección Contacto de esta Política de privacidad.
+
+No obstante, si el usuario siente que no hemos solventado su duda y que no estamos cumpliendo nuestras obligaciones legales, puede notificarlo al organismo regulador de protección de datos local o a la Oficina del Comisionado de Información ('ICO') de Reino Unido. El usuario puede encontrar más información sobre cómo notificar un problema a la ICO en https://ico.org.uk/.
+
+Cambios en esta Política
+
+Podemos revisar esta Política de privacidad en cualquier momento y actualizaremos esta Política con cualquier revisión. Si sigue accediendo a los Servicios o utilizándolos después de la entrada en vigor de estos cambios, el usuario reconoce y acepta que la Información personal se puede gestionar de acuerdo con la Política de privacidad revisada.
+
+ Country / Region: Spain
+Asistencia técnica
+Política de privacidad y de cookies
+Condiciones de uso del website
+PlayStation Studios
+Información legal
+Nosotros
+PlayStation y el medio ambiente
+Términos de servicio de PSN
+Política de cancelación de PS Store
+Avisos de salud
+Clasificaciones por edad
+Términos de uso del Software
+Trabaja para PlayStation
+Mapa del sitio
+Compromiso PlayStation
+Facebook
+Twitter
+YouTube
+Instagram
+
+Website ©2022 Sony Interactive Entertainment Europe Limited. Todo el contenido, títulos de los juegos, nombres registrados y/o conjunto registrado, ilustraciones e imágenes asociadas son marcas registradas y/o material de derecho de autor de sus respectivos propietarios. Se reservan todos los derechos. Más info
+
+We use cookies to personalise your experience and ads on this site & others. For more info or to change settings, click Preferences.
+Decline
+Accept

@@ -1,0 +1,104 @@
+ideaFun
+Privacy Policy
+Subcription License Agreement
+
+
+
+
+We offer one subscripion for user:
+
+
+
+
+No.Pix Subscribe : $4.49/week; $9.99/Month; $69.99/Year; 
+
+Upon completion of your subscription, you agree to both the Terms of Use and Privacy Policy. Your subscription will automatically renew and account will be charged if you do not turn off auto-renew at least 24 hours before your subscription expires. Payment will be charged to iTunes Account upon confirmation of purchase.
+
+Subscriptions may be managed by the user and auto-­renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+
+
+
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+
+COLLECTION OF INFORMATION
+
+
+
+
+The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use. The data we collect can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent deice identifier, iOS ad identifier (IDFA), Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) The equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on), the hard disk, the CPU, and the battery use, etc.
+
+USE OF PERSONAL DATA
+
+
+
+
+Product Improvement. We use data to continually improve our products, including adding new features or capabilities.
+
+SHARING OF PERSONAL DATA
+
+
+
+
+To improve our product and provide you better service, we also share personal data with vendors or agents working on our behalf for the purposes described in this privacy policy. For example, companies we've hired to provide data analytical services may need collect and access to personal data to provide those functions. In such cases, these companies must abide by our data privacy and security requirements.
+
+LGGAL BASIS FOR DATA PROCESSING
+
+
+
+
+We process Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process personal data includes processing that is: necessary for the performance of the contract with you (for example, to provide you with the services you request and to identify and authenticate you so you may use the Sites); necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for our legitimate interests (for example, to manage our relationship with you, to ensure the security of our services, to communicate with you about our products and services); and based on consent by our customers (for example, to place certain cookies and to share your information with third parties for advertising purposes). In some instances, you may be required to provide us with Personal Data for processing as described above, in order for us to be able to provide you all of our services, and for you to use all the features of our Sites.
+
+International Transfers of Personal Data
+
+
+
+
+Our business may require us to transfer your Personal Data to countries outside of the European Economic Area (“EEA”), including to countries such as the People’s Republic of China or Singapore. We take appropriate steps to ensure that recipients of your Personal Data are bound to duties of confidentiality and we implement measures such as standard contractual clauses. A copy of those clauses can be obtained by contacting our Help Center.
+
+Your Rights
+
+
+
+
+Subject to limitations in applicable law, you are entitled to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, erasure and portability of your own Personal Data. Where the use of your information is based on consent, you can withdraw this consent at any time without affecting the lawfulness of processing based on consent before its withdrawal. Requests should be submitted by contacting us through [SunTingqwe@gmail.com]. If you are aware of changes or inaccuracies in your information, you should inform us of such changes so that our records may be updated or corrected. You may lodge a complaint with a supervisory authority if you consider that our processing of your Personal Data infringes applicable law.
+
+THIRD-PARTY DISCLOSURE
+
+
+
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses
+
+GOOGLE
+
+
+
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+We have implemented the following:
+
+Remarketing with Google AdSense
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+Contacting Us
+
+
+
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+SunTingqwe@gmail.com 
+
+Last Edited on 2020-06-01
+
+Google Sites
+Report abuse
+This site uses cookies from Google to deliver its services and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.
+LEARN MOREGOT IT

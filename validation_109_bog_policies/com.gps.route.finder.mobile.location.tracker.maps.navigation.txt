@@ -1,0 +1,225 @@
+Privacy Policy
+Privacy Policy
+
+GPS Master Team and its affiliates ("Company" or "we," "us," or "our") absolutely respects and ensures the privacy of your information on the internet and your own personal privacy. To better help you understand how we collect, use, and protect the information you give to us, please read the following Privacy Policy.
+
+What information we collect and why we collect it? 
+
+For providing our services, we may collect, store and use the following Information related to you:
+
+1. Read phone status and identity
+
+We use this permission to verify the user/phone with IMEI information but we will not store it. This information is using for analysis and provide you better service.
+
+We also use this permission to recognize an incoming / outgoing call and to display call interface or shows the caller name while some one is calling.
+
+
+
+
+2. Take pictures and videos
+
+We use this permission to use your device’s camera to take photos / videos and turn ON/OFF Camera Flash. We do not save or upload your photos/videos.
+
+
+
+
+3. Location 
+
+We use this permission to identify and display your location on map. This information is untraceable. It will help us better understand how you access and use our services, for the purposes of trying to improve our services and to respond to customer desires and preferences, including language and location customization, personalized help and instructions, all data are anonymous.
+
+4. Read your contacts
+
+We do not save or upload your contacts. Permission to access contact information is used to display call log for you and identify who is calling you.
+
+
+
+
+5. Modify or delete the contents of your USB storage
+
+We use this permission to delete app data (image, text, audio etc..) stored on their SD card. We do not delete your personal data without your permission.
+
+
+
+
+6. Read the contents of your USB storage
+
+We use this permission to view app data (image, text, audio etc..) stored on their SD card.
+
+
+
+
+7. Find accounts on the devices
+
+We do not recognize or save your account information for any programs. We only detects whether users have a Google account linked with the device which helps us confirm the state of Google Service and provide users with appropriate application download and update methods.
+
+
+
+
+8. Read Google service configuration
+
+This information is used to acquire advertising ID. We provide users with better advertising service by using such anonymous ID.
+
+
+
+
+9. Change network connectivity
+
+We use this permission to change/check network connectivity.
+
+
+
+
+10. Connect and disconnect from Wi-Fi
+
+We use this permission to connect and disconnect from Wi-Fi.
+
+
+
+
+11. Full network access
+
+This permission is used to access the device’s network for certain functions.
+
+
+
+
+12. View network connections
+
+We use this permission to view network connections.
+
+
+
+
+13. View Wi-Fi connections
+
+We use this permission to view Wi-Fi connections.
+
+
+
+
+14. Draw over other apps
+
+We use this permission to displayed a view as a floating window on other apps which need your permission.
+
+
+
+
+15. Modify system settings
+
+We use this permission to adjust ringtone, vibration and brightness level of the screen.
+
+
+
+
+16. Photos⁄Media⁄Files
+
+If we need to read these data, we will inform you and get your authorization. We do not upload or save your personal data.
+
+
+
+
+17. Error Log
+
+We use this permission to find out the reason that the error occurred or app crashed and improve the quality of the product;
+
+
+
+
+How We Share Your Information 
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+
+We may disclose your Non-personal information:
+
+•  To trusted third parties who assist us in operating our website, conducting our business, cooperation with us or servicing you, so long as those parties agree to keep this information confidential.
+
+• We will access, use or disclose your information with other organizations or entities for reasons that required by any applicable law, regulation, legal process or enforceable governmental request; Detect, prevent, or otherwise fraud, security or technical issues; Protect against harm to the rights, property or safety of GooDev, our users or the public as required or permitted by law. 
+
+
+
+
+Security 
+
+We do not collect personal information and use administrative, physical and electronic measures designed to protect your Non-Personal Information from unauthorized access and use. However, please note that although we take reasonable measures to protect your information, no app, website, Internet transmission, computer system or wireless connection is completely secure.
+
+
+
+
+Protecting Yourself
+
+Please keep your account and password private and do not give any sensitive Personal Information to anyone else. If you are using a shared device, log out and close all relevant windows and apps respectively to protect your personal information.
+
+Age Limits
+
+If you are under the age of 16 years, please do not send any data about yourself to us without the prior consent of the holder of parental responsibility. In the event that you send any data to us, it shall be deemed that you have obtained the consent in accordance with the requirements mentioned above.
+
+Childcare's Privacy 
+
+We are committed to protecting the privacy of children. We do not knowingly collect personal information from children under the age of 13.
+
+
+
+
+Your Data Rights
+
+You have the right to access, modify, correct or delete any personal data which we may have collected. 
+
+If you are in the EEA, you have a right to (subject to a limited number of exceptions): (i) request access to and rectification or erasure of your personal information; (ii) obtain restriction of processing or to object to processing of your personal information; and (iii) ask for a copy of your personal information to be provided in a digital format. You also have the right to lodge a complaint about the processing of your personal information with your local data protection authority in the EEA. To exercise this right please contact our Data Protection Officer by email at: BigSmileJoy@gmail.com.
+
+Customer Services
+
+Our company offers you various benefits including:
+
+•  Support you dealing with any trouble of your smartphone.
+
+• Keep you informed with newsletters about promotion campaign or complimentary program.
+
+• Keep you informed with updates and upgrades from our app.
+
+These programs above will be sent to your email address to assure there is nothing missed.
+
+Third Party Service
+
+1. COLLECTION OF INFORMATION 
+
+The data we collect depends on the context of your interactions with us, the choices you make, including your privacy settings, and the products and features you use. The data we collect can include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, application identifier, application version, application distribution channel, independent deice identifier, iOS ad identifier (IDFA), Android ad master identifier, network card (MAC) address, and international mobile device identification code (IMEI) The equipment model, the terminal manufacturer, the terminal device operating system version, the session start / stop time, the location of the language, the time zone and the network state (WiFi and so on), the hard disk, the CPU, and the battery use, etc.
+
+2. USE OF PERSONAL DATA
+
+Product Improvement. We use data to continually improve our products, including adding new features or capabilities.
+
+3. SHARING OF PERSONAL DATA 
+
+To improve our product and provide you better service, we also share personal data with vendors or agents working on our behalf for the purposes described in this privacy policy. For example, companies we've hired to provide data analytical services may need collect and access to personal data to provide those functions. In such cases, these companies must abide by our data privacy and security requirements.
+
+4. LGGAL BASIS FOR DATA PROCESSING
+
+We process Personal Data for the purposes set out in this Privacy Policy, as described above. Our legal basis to process personal data includes processing that is: necessary for the performance of the contract with you (for example, to provide you with the services you request and to identify and authenticate you so you may use the Sites); necessary to comply with legal requirements (for example, to comply with applicable accounting rules and to make mandatory disclosures to law enforcement); necessary for our legitimate interests (for example, to manage our relationship with you, to ensure the security of our services, to communicate with you about our products and services); and based on consent by our customers (for example, to place certain cookies and to share your information with third parties for advertising purposes). 
+
+5. International Transfers of Personal Data
+
+Our business may require us to transfer your Personal Data to countries outside of the European Economic Area (“EEA”), including to countries such as the People’s Republic of China or Singapore. We take appropriate steps to ensure that recipients of your Personal Data are bound to duties of confidentiality and we implement measures such as standard contractual clauses. A copy of those clauses can be obtained by contacting our Help Center.
+
+6. Your Rights
+
+Subject to limitations in applicable law, you are entitled to object to or request the restriction of processing of your Personal Data, and to request access to, rectification, erasure and portability of your own Personal Data. 
+
+Where the use of your information is based on consent, you can withdraw this consent at any time without affecting the lawfulness of processing based on consent before its withdrawal.
+
+Requests should be submitted by contacting us through [ BigSmileJoy@gmail.com ]. 
+
+If you are aware of changes or inaccuracies in your information, you should inform us of such changes so that our records may be updated or corrected. You may lodge a complaint with a supervisory authority if you consider that our processing of your Personal Data infringes applicable law.
+
+We retain your Personal Data as long as needed to provide services or products to you, or as required or permitted by applicable laws, such as tax and accounting laws.
+
+
+
+
+Changes to our Privacy Policy 
+
+Our Privacy Policy may change from time to time, we will post any privacy policy changes on this page, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. 
+
+Google Sites
+Report abuse
+This site uses cookies from Google to deliver its services and to analyze traffic. Information about your use of this site is shared with Google. By using this site, you agree to its use of cookies.
+LEARN MOREGOT IT

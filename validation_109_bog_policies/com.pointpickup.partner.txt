@@ -1,0 +1,285 @@
+ 
+Log In
+Sign Up Individual
+Sign Up Business
+Sign Up Driver
+About Us
+How It Works
+FAQ
+Helpful Tutorials
+Locations
+Contact Us
+Download App
+Toggle navigation
+Privacy Policy
+
+Effective Date: June 15, 2015
+
+Last Updated Date: June 15, 2015
+
+
+
+
+This Privacy Policy is incorporated by reference into the Point Pickup End User License Agreement (EULA) & Terms of Service. The term “Point Pickup,” “we,” and “us” includes Point Pickup Technologies, Inc. and our affiliates and subsidiaries. The Privacy Policy explains how Point Pickup may:
+
+collect,
+
+use, and
+
+disclose
+
+information we obtain through the “Service.”
+
+The “Service” means any website, mobile application, or Internet service under the control of Point Pickup Technologies, Inc., whether partial or otherwise, in connection with providing an online platform for Point Pickup’s services. Any capitalized terms that are not defined in this Privacy Policy have the meaning set forth in the EULA & Terms of Service.
+
+White-Label Service. We may provide the Service as a white-label service to our partners. In this situation, our privacy practices may be controlled by the contract we have with a partner and such partner’s privacy policy. If you have questions about our partner’s privacy practices, we will refer you to our partner.
+
+
+
+
+“Personal Information” can be used to readily identify, contact, or locate you.
+
+
+
+“Personal Information” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
+
+
+
+
+THE SERVICE COLLECTS YOUR INFORMATION
+
+
+
+We collect Personal Information when you:
+
+register to use the Service;
+
+apply to be a Delivery Provider;
+
+log in with social networking credentials;
+
+work with a Merchant that uses the Service;
+
+use the Service; and
+
+communicate with us.
+
+
+We collect and store geo-location from the devices of Delivery Providers, but not Customers.
+
+
+
+We also collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Service.
+
+
+
+
+Registration and Account Information. You may access the Website without creating an account, but you must register to use the Service as either a Delivery Provider or Customer. All users must provide Personal Information to create an account, such as name, email address, password, and telephone number. To register as a Delivery Provider, you may need to provide other Personal Information, such as your address, birth date, bank account information, and photograph. To register as a Customer, you may need to provide Personal Information, such as your address. You may also provide other optional information.
+
+Background Checks of Delivery Providers. We collect certain Personal Information, such as drivers’ license numbers, a photograph of drivers’ licenses, and social security numbers, so that we can request background check reports about individuals who apply to be Delivery Providers. Our background check service providers will provide us with background check information about such individuals. We will use such report information only for the purposes of assessing whether to permit an individual to act as a Delivery Provider and to comply with applicable law.
+
+Social Connect. When you choose to connect your social media account to your Service profile, we collect Personal Information from that social media website. For example, when you connect your Facebook account, we may collect the Personal Information you have made publicly available in Facebook, such as your name and profile picture. We may also obtain other non-public information from the social network website with your permission.
+
+Using the Service. We collect the information you provide through the Service. For example, when you request a Job as a Customer or agree to pick up and deliver Items as a Delivery Provider, the Service will collect the information involved in such actions, including any Personal Information, such as addresses, telephone numbers, and comments or communications between Users.
+
+About Consumers From Merchants. If a Merchant uses the Service to create a Job, the Merchant may provide Personal Information about Consumers, such as their name, address, and telephone number, to the Service to facilitate the Job.
+
+Referrals. A User may submit Personal Information, such as an email address, about others to us so that the User can recommend the Service to them. We use the information to send a communication to the individual and then delete the information.
+
+Location Information from Delivery Providers’ Mobile Devices. We may collect and store geo-location information from the devices used by Delivery Providers. For example, we may collect and store geo-location during the time periods they have designated they are available for Jobs and as part of their performance of a Job. Location information is collected for the purposes described in this Privacy Policy, which may include suggesting Jobs to the Delivery Provider, providing Job status updates to the Merchant and Consumer, improving the provision of the Service, and for insurance coverage purposes.
+
+Delivery Providers may at any time prohibit the Service from collecting location information by turning this feature off on the mobile device, but the Service likely will not permit the Delivery Providers to perform any Jobs if it does not have access to geo-location information. As a Delivery Provider, you expressly consent to our use of location-based services, and you expressly waive and release us from any and all liability, claims, causes of action or damages arising from your use of the Service, or in any way relating to the use of the geo-location and other location-based services.
+
+Location Information from Customers’ Mobile Devices. We do not collect and store geo-location from the devices used by Customers. However, the Service may use a Customer’s geo-location information to provide services, such as for displaying a Customer’s current location on a map or suggesting or validating addresses that a Customer uses to request a Job. The geo-location information will not be transmitted to our servers, but we may collect and store the address information as part of providing the Service. When a Delivery Provider has arrived at the delivery Destination, we may learn of a Consumer’s GPS coordinates through the Delivery Provider’s mobile device.
+
+Making or Receiving Payments. When you make or receive payments through the Service, you may need to provide financial account information, such as your credit card number or bank account number, to our third-party service providers. We do not collect or store such information, though we may receive summary information about a transaction that does not include credit card or bank account numbers.
+
+Customer Support. We may collect Personal Information through your communications with our customer-support team.
+
+Cookies, Automatic Data Collection, and Related Technologies. The Service collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics. When we associate such information with Personal Information, we will treat the combination as Personal Information.
+
+When you use the Service, we and our third-party partners, such as advertising networks, social widgets, and analytics providers, use “cookies” and other similar technologies to collect information about how the Service is used and about the devices used to access the Service. Our partners also may collect information about your online activities over time and on other websites or apps. When our third-party partners provide such features, they are governed by the privacy policies of the organizations providing them. You may be able to change browser or app settings to block and delete cookies and other technologies when you access the Service. However, if you do that, the Service may not work properly.
+
+By using the Service, you are authorizing us to gather, parse, and retain data related to the provision of the Service.
+
+
+
+
+HOW POINT PICKuP USES YOUR INFORMATION
+
+
+
+
+We use Personal Information to:
+
+facilitate and improve our services;
+
+validate the information you provide; and
+
+communicate with you.
+
+We may use anonymized or aggregate information for any purpose, including for analytics and marketing purposes.
+
+
+
+Internal and Service-Related Usage. We use information, including Personal Information, for internal and service-related purposes and may provide it to third parties to allow us to facilitate the Service. For example, we may use Personal Information for billing, payment, identification and authentication, Job facilitation, and fraud prevention purposes. We may use and retain any data we collect to provide and improve any of our services.
+
+Validate Your Telephone Number. When you submit your telephone number to us, we may confirm the telephone number by sending you a text message. You agree that we may send you this text message for account verification purposes.
+
+Communications. We may send email to the email address you provide to us, push notifications to your mobile device if they are enabled, or text messages with your consent, to verify your account and for informational and operational purposes, such as account management, notifying Delivery Providers of potential Jobs and Customers on the status of Jobs, customer service, or system maintenance.
+
+Marketing. We may use information, including Personal Information, to provide online advertising on the Service and to facilitate transmittal of information we think may be useful or relevant to you.
+
+Aggregate Data. We may anonymize or aggregate data collected through the Service and use it for any purpose.
+
+
+
+
+POINT PICKuP MAY DISCLOSE YOUR INFORMATION
+
+
+
+
+We may share your Personal Information:
+
+with our third-party vendors and service providers;
+
+with other Users;
+
+for marketing purposes;
+
+to comply with legal obligations;
+
+to protect and defend our rights and property; and
+
+with your permission.
+
+We may provide Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes.
+
+
+
+We Use Vendors and Service Providers. We may share any information we receive with vendors and service providers retained in connection with the provision of the Service. For example, we will provide Personal Information to background check service providers to obtain reports about individuals who apply to be Delivery Providers. We will also provide Personal Information to payment processors as part of financial transactions, and may provide geo-location information to third-party map or navigation service providers.
+
+Displaying to Other Users. The information, including Personal Information, you provide to the Service may be provided to other Users of the Service. For example, a Customer may see a Delivery Provider’s name, photograph, geo-location, and the content of any notes or other communications communicated by the Delivery Provider to the Customer after the Delivery Provider chooses to perform a Job. All Users may be able to see a Customer’s rating or review of a Delivery Provider. A Delivery Provider may be able to see Personal Information about a Customer, such as a name, address, and any notes or other communications communicated by the Customer to the Delivery Provider. Delivery Providers are required to keep such information confidential and may not use it or disclose it except for the purpose of performing a Job. We are not responsible for the privacy practices of the other Users who will view and use the information available on the Service.
+
+Social Networking and Other Websites. The Service may allow you to share information, including Personal Information, with social networking websites, such as Facebook. We do not share your Personal Information with them unless you direct the Service to share it. Their use of the information will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites.
+
+Marketing. We may provide Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes. We also may allow access to other data collected by the Service to enable the delivery of online advertising on this website, or otherwise facilitate transmittal of information from us or our partners that we think may be useful or relevant to you.
+
+You may be able to opt out of receiving personalized advertisements from advertisers or advertising networks who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out sections on the websites of each of those organizations. Links to those Services are here:
+
+
+
+
+
+Network Advertising Initiative: http://www.networkadvertising.org/choices/
+
+Digital Advertising Alliance: http://www.aboutads.info/choices/
+
+When you opt out of personalized advertising, you may continue to see online advertising on the Service and our advertisements off the Service.
+
+As Required By Law and Similar Legal Disclosures. We may access, preserve, and disclose collected information, if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect your, our, or others’ rights, property, or safety. We may also disclose information as part of a dispute between Users and Delivery Providers.
+
+Merger, Sale, or Other Asset Transfers. If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of Point Pickup assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. We cannot control how such entities may use or disclose such information.
+
+With Your Permission. We may also disclose your Personal Information with your permission.
+
+INFORMATION SECURITY
+
+We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosures.
+
+By using the Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Service. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Service or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at privacy@pointpickup.com.
+
+
+
+
+CHILDREN’S PRIVACY
+
+
+
+
+We do not knowingly collect information from children under 13. We will take steps to delete it if we learn we have collected it.
+
+
+
+
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at privacy@pointpickup.com. If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child’s account.
+
+
+
+
+INTERNATIONAL USERS
+
+
+
+
+By using the Service, you will transfer data to the United States.
+
+
+
+
+If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Privacy Policy.
+
+
+
+
+UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
+
+
+
+
+If you would like to update or correct any information that you have provided to us through your use of the Service or otherwise, or if you have suggestions for improving this Privacy Policy, please send an email to privacy@pointpickup.com.
+
+
+
+
+CHANGES TO OUR PRIVACY POLICY AND PRACTICES
+
+
+
+
+We may revise this Privacy Policy, so review it periodically.
+
+
+
+
+Posting of Revised Privacy Policy. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective when it is posted. If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
+
+New Uses of Personal Information. From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
+
+California Privacy Rights
+Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information shared, the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year, and descriptions of the likely types of marketing the third parties would send.
+
+To obtain this information from us, please send an email message to privacy@pointpickup.com with “Request for California Privacy Information” on the subject line and in the body of your message. If you are a California resident, we will provide the requested information to you at your e-mail address in response.
+
+Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+
+
+
+
+Contact Information
+
+Point Pickup Technologies, Inc.
+32 Field Point Road
+Greenwich, CT 06831
+
+
+privacy@pointpickup.com
+
+The Company
+About Us
+Get the API
+Press
+Privacy
+Privacy Policy
+EULA
+Get in Touch
+Track your Package
+Create an Account
+Contact Us
+FAQ
+Opportunities
+Sign up as a Business
+Become a Driver
+Jobs
+© 2022 Point Pickup Technologies Inc. All rights reserved

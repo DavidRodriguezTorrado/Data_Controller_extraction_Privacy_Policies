@@ -1,0 +1,179 @@
+Save up to 40% on Screen Time Premium! Hurry, sale ends soon!
+Privacy policy
+
+This Privacy Policy should be read together with the Screen Time user agreement. The capitalized terms as used herein are to be interpreted in accordance with the Screen Time user agreement. This privacy policy covers our use of personally identifiable information collected by us throughout the provision of the services. We are not responsible for the practices of any other third party company and as such this Privacy Policy does not apply to any third party.
+
+ 
+
+Use of information
+
+We will collect certain information when Screen Time is purchased, this will include, but is not limited to the name, age, address, password, and email address of you and any of the users of the device(s) to which you install Screen Time. This information is given by you in order to set up a valid account with us. Due to the nature of the services we are providing, you will be given the option to collect certain information about device usage for which you and the user of any device for which Screen Time is installed including but not limited to messages, website visits, application usage and location.
+
+We will not sell, use, or disclose any data for any purpose with third parties.
+
+Installed app data is uploaded to domains owned by Screentime including screentimelabs.com and https://screentimelabs.appspot.com/
+
+As part of the services provided to you by us, we will automatically receive and record non-personal information on the applicable server logs from your browser (and the browser of any devices for which you installed Screen Time), including IP address, cookie information and the web page requested. This information may be used by us to improve or modify our services.
+
+We use Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using Google’s Ads Settings page.
+
+We also use AddThis third-party advertising cookies to provide Screen Time’s website visitors with the capability to share webpages, blogs, news, photos, videos, and other content with social networks and other destinations.
+
+ 
+
+Screen Time services and the Children’s Online Privacy Protection Act (COPPA)
+
+COPPA regulates the collection of data about children under the age of 13 who are accessing a website or other Internet applications. Although Screen Time is designed to assist parents/guardians with children of all ages, the administration, configuration, and management of the Screen Time is intended for use by adults over the age of 18. We do not require any information regarding minor children in order to provide the Screen Time services. We offer the opportunity to create profiles for each child whose screen time is being managed, including those under the age of 13. To the extent that a user submits Personal Information about minor children, such information is encrypted in transit.
+
+To prevent inadvertent disclosure of Personal Information while using Screen Time Services, assist in effective use of information, and ensure appropriate use of the Screen Time Services, we strongly encourage the parent or guardian of any child under the age of 18 to actively guide any interactions with Screen Time. In the event that a child under the age of 13 chooses to access the Screen Time services, Screen Time Labs believes that its privacy policy and procedures comply with the requirements of COPPA.
+
+ 
+
+Review and deletion of personally identifiable information
+
+You have the ability to review and request amendments to the Personally Identifiable Information with respect to you collected by us or you may request to delete any information we hold in regard to you and the devices for which you installed Screen Time by contacting us. We shall use commercially reasonable efforts to delete such information but may retain information for the purposes of complying with any applicable legal obligation.
+
+ 
+
+Security
+
+We will use commercially reasonable efforts to safeguard your personal information from unauthorized access, through access control procedures and network firewall. You should be aware, however, that there is no data that is transmitted over the internet that can be guaranteed 100% secure in transmission or safe from theft or illegal capture.
+
+ 
+
+Changes to this privacy policy
+
+Changes to this Privacy Policy may be made at any time by Screen Time Labs, without notice to you and in its sole discretion. Please review this policy periodically. Your continued use of any Screen Time Labs Services and websites after any such amendments signifies your acceptance of the changes made therein.
+
+If you do not consent to the collection and use of your personal information as outlined in this policy, Screen Time should not be used or installed on any device controlled by you. Installation of Screen Time or use of any of Screen Time Labs Services shall demonstrate your acceptance of this Privacy Policy.
+
+By using any part of Screen Time service you acknowledge that you have the consent to install Screen Time on all such devices to which your purchase relates and you will make the device user aware that their use of Screen Time on that device shall be in accordance with this Privacy Policy and the Screen Time User Agreement and by using Screen Time, such users are accepting both this Privacy Policy and those terms set forth in the Screen Time User Agreement. If you are a parent or legal guardian and you provide your consent to your children’s use of Screen Time, you consent and agree to the collection, use and disclosure of personal information about you and your children as set out in this privacy policy.
+
+ 
+
+SPECIFIC DISCLOSURES FOR THE
+EUROPEAN ECONOMIC AREA
+(This section is effective on May 25, 2018)
+
+This section applies to data processing activities of data subjects residing in the European Economic Area as well as, regardless of residence, the processing of any Personal Data in the European Economic Area. In the event there is a conflict between this section and other parts of the Privacy Policy, this section shall control with respect to residents of the European Economic Area.
+
+“Personal Data,” for purposes of this section, means any information relating to an identified or identifiable natural person (‘data subject’). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
+
+“Services” means any of our products, services, or deliverables.
+
+“Site” means any website operated and controlled by us.
+
+Pursuant to the European Union General Data Protection Regulation (GDPR), we function in the capacity of a “processor” both for the Services we offer to our Clients as well as for the services Advisors and other persons offer to our Clients through our platform. The scope of applicable data protections and processing for those Services are set forth in contractual agreements covering the relevant data processing.
+
+Controller versus Processor. We may process certain Personal Data in order to maintain and provide the Services to our Clients, such as names, addresses, email addresses, and other contact information for designated Client representatives or personnel (“Client Relationship Data”). In addition, we may send marketing materials or communications to potential or existing Clients (“Marketing Activities”). For purposes of Client Relationship Data and Marketing Activities, we function as a “data processor” under GDPR. Our disclosures with respect to our processing of data as a data processor are set forth in this Privacy Policy.
+
+1. HOW WE COLLECT AND USE PERSONAL DATA
+
+We describe how we collect and use personal data in the above sections of this Privacy Policy.
+
+2. HOW WE DISCLOSE PERSONAL DATA
+
+Our disclosure is limited to circumstances where we are permitted to do so under applicable European and national data protection laws and regulations. We share data with certain types of companies, for purposes of providing Services to Clients and marketing our Services to potential and existing Clients, such as cloud computing companies, cloud communications platform as a service (PaaS), web analytics services, employment-related social networking services, and mailing and emailing services.
+
+3. LEGAL BASIS FOR PROCESSING
+
+We collect and process your Personal Data for a variety of different purposes which are set out in further detail in this section. In some cases, we will ask for your consent so that we may process your Personal Data. However, in certain circumstances, applicable data protection laws allow us to process your Personal Data without needing to obtain your consent.
+
+3.1. PROCESSING PERSONAL DATA WHERE CONSENT NOT REQUIRED
+
+In certain cases, separate consent is not required, including:
+
+For the performance of a contract.
+
+To perform our contractual obligations to you, including our fulfilling orders or requests you have made, contacting you in relation to any issues with your order or use of our Services, or where we need to provide your Personal Data to our service providers related to the provision of the Services.
+
+To comply with legal obligations.
+
+To comply with laws, regulators, court orders, or other legal obligations, or pursuant to legal process.
+
+Legitimate Interests.
+
+To operate our business and provide our Services (other than in performing our contractual obligations to you) for our “legitimate interests” and for the purposes of applicable law, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data. Legitimate interests may include:
+
+To communicate with you regarding the Services, including to provide you
+important notices regarding changes to our operations and to address and
+respond to your requests, inquiries, and complaints.
+For our direct marketing purposes.
+To send you surveys in connection with our Services.
+To assist in the investigation of suspected illegal or wrongful activity, and to
+protect and defend our rights and property, or the rights or safety of third
+parties.
+To develop, provide, and improve our Services.
+To enforce our Terms of Use, License Agreements, or this Privacy Notice, or
+agreements with third parties.
+
+3.2. CONSENT FOR PROCESSING
+
+In cases where we are not already authorized to process the Personal Data under applicable law, we may ask for your consent to process your Personal Data, including:
+
+Marketing
+We may ask for your consent for Awareness Technologies, Inc. or our partners or vendors to contact you by telephone, SMS, post and/or email about other offers, products, promotions, developments or Services which we think may be of interest to you and for other marketing purposes.
+Use of Cookies
+Our Site uses cookies and similar technologies to improve user experience and for analytics. We also use cookies and similar technologies for purposes of including social network sharing capabilities on our main site, analytics, marketing, and session control. A “cookie” is a small text file that a web server stores in browser software. A browser sends cookies to a server when the browser makes a connection to the server (for example, when requesting a web page from the same domain that created the cookie). The purpose of cookies is to remember the browser over time and distinguish one browser instance (or user) from all others. Some cookies and other technologies may serve to track Personal Data previously entered by a web user on our site. Most browsers allow visitors to the website to control cookies, including whether or not to accept them, and how to remove them. Cookies can remember login information, preferences, and similar information.
+
+Cookies, as well as other tracking technologies such as HTML5 local storage, and Local Shared
+
+Objects (such as “Flash” cookies), and similar mechanisms, may record information such as a unique identifier, information visitors to the website enter in a form, IP address, and other categories of data.
+
+We also use web beacons or “pixels,” and in certain circumstances may collect IP address, screen resolution and browser software and operating system types; clickstream patterns; dates and times that our site is accessed, and other categories of data. If visitors to the Site want to block the use and saving of cookies from the Site on to their computers hard drive, he or she should take the necessary steps within your web browser’s settings to block all cookies from the Site and its external serving vendors, or use the cookie control system, if available upon first visit. Please note that if visitors to the website choose to erase or block your cookies, certain parts of our Site may not function correctly. For information on how to disable cookies, refer to your browser’s documentation.
+
+4. INTEREST-BASED ADVERTISING
+
+Interest-based advertising is advertising that is targeted to you based on your web browsing and app usage over time and across websites or apps. You have the option to restrict the use of information for interest-based advertising and to opt-out of receiving interest-based ads. Depending on from where you access our Site, you may also be asked to consent to our use of cookies, including advertising cookies. The opt-outs for interest-based advertising require that strictly necessary cookies are not blocked by the settings in your web browser. We support the Self Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance in the U.S., the Canadian Digital Advertising Alliance in Canada, and the European Digital Advertising Alliance in the EU. If you live in the United States, Canada, or the European Union, you can visitAd Choices (US),Your Ad Choices (Canada), or Your Online Choices (EU) to find a convenient place to opt-out of interest-based advertising with participating entities for each region. These websites also provide detailed information about how interest-based advertising works. Opting out does not mean that you will no longer receive advertising from us, or when you use the Internet. It just means that the data collected from our website will not be used for interest-based advertising and that the advertising you see displayed on websites will not be customized to your interests.
+
+5. WITHDRAWING YOUR CONSENT
+
+You may at any time withdraw the consent you provide for the processing of your Personal Data for the purposes set forth in this Privacy Notice by contacting us at support@awarenesstech.com, provided that we are not required by applicable law or professional standards to retain such information.
+
+If you want to stop receiving future marketing messages and materials, you can do so by clicking the “unsubscribe” link included in our email marketing messages or by contacting us at support@awarenesstech.com.
+
+6. DATA SUBJECT RIGHTS
+
+You have the right in certain circumstances to request confirmation from us as to whether or not we are processing your Personal Data in our capacity as a Controller. Where we are processing your Personal Data as a Controller, you also have the right to request access to, modification of, or deletion of such Personal Data. You also have the right in certain circumstances to receive the Personal Data concerning you that you provided to us, to restrict processing of your Personal Data, or to transmit such data to another controller.
+
+To exercise your rights with respect to your Personal Data, please contact us at
+support@awarenesstech.com.
+
+7. DE-IDENTIFIED OR ANONYMIZED DATA
+
+We may create de-identified or anonymous data from Personal Data by removing data components (such as your name, email address, or linkable tracking ID) that makes the data personally identifiable to you or through obfuscation or through other means. Our use of anonymized data is not subject to this Privacy Notice.
+
+8. DATA RETENTION
+
+We will retain your Personal Data for as long as you remain a Client or an employee of a Client, an Advisor in our Network or maintain an account or agreement or as otherwise necessary. We will also retain your Personal Data as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, comply with applicable industry standards, and in accordance with disaster recovery procedures.
+
+9. RIGHT TO LODGE A COMPLAINT WITH A SUPERVISORY AUTHORITY
+
+You may have a right to lodge a complaint with a supervisory authority.
+
+10. CONTACT US
+
+For questions regarding this Privacy Notice, please contact us at: support@awarenesstech.com.
+
+Simple screen time management and parental monitoring tools that enable parents to have proactive discussions about digital rules and usage.
+
+Language:
+
+English
+
+COMPANY
+About Screen Time Labs
+Mission
+Our Blog
+Privacy policy
+Terms Of Use
+SUPPORT
+Contact Us
+Help Center
+Getting Started
+
+GET SCREEN TIME
+
+  
+
+© 2022 Screen Time Labs Ltd ® All rights reserved

@@ -1,0 +1,580 @@
+Grab your coupon and get the best reading ever!
+TOP UP HERE
+Horoscopes
+Articles
+Need Help?
+Q&A
+Sign In/
+Sign Up
+Privacy policy
+
+The protection of users’ and customers’ personal data is of the utmost importance to us. Our privacy policy complies with the provisions of the EU General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA) and the Brazilian LGPD (Lei Geral de Proteção de Dados). If you are located in the European Economic Area, we will transfer your personal data to third countries (e.g. the USA) in accordance with the standard contractual clauses for the transfer of personal data to third countries (e.g. the USA). This privacy policy explains the type of data stored by us and how the data is used.
+
+For the purpose of the General Data Protection Regulation (the “GDPR”), we are the data controller and our representative in the EU is adviqo GmbH, established in Berlin, Germany with a registered office at Max-Dohrn-Straße 8 – 10, 10589 Berlin, Germany. We use your Personal Data only in accordance with the following principles and in compliance with applicable data protection laws including the GDPR.
+
+Name and contact information for the controller and its representatives, where applicable:
+
+adviqo Services LLC.
+364 E Main St. #1450, Middletown, Delaware 19709, USA
+E-mail: privacy@zodiacpsychics.com
+Website: https://www.zodiacpsychics.com
+
+While we have chosen to name and describe primarily the GDPR, LGPD and CCPA, this does not change our position with respect to other data protection laws that apply in other jurisdictions in which we conduct business.
+
+We reserve the right to update or modify this privacy policy from time to time, and such changes will take effect prospectively. Please visit this website periodically to ensure you are informed of such changes.
+
+Part I – European Union (GDPR)
+
+What types of information do we collect and how do we collect it?
+
+A. Personal data that you provide us with
+
+First names
+Last names
+Username
+Date of birth
+User ID
+E-mail address
+Address data (if you have given us this information)
+Password
+Phone number
+Credit card or PayPal account information
+Apple or Google Play account information
+Login
+Account settings
+Time zone
+History of chats, phone conversations, technical support calls, website or social networking inquiries
+
+Only from consultants:
+
+Country
+Certificates with personal data
+Tax number
+Tax identification number
+
+B. Personal data that we collect through technology
+
+Device ID
+Device type
+Machine ID
+The user’s operating system
+The user’s device type
+The user’s Internet service provider
+Geolocation information
+Computer and connection information
+Browser type and version used
+The user’s IP address
+Domain name
+Date and time stamps
+Social media identifiers
+
+Likewise, this data is stored in the log files of our system.
+
+We can also collect all telephone numbers used to contact us.
+
+Specific purpose of data processing
+Temporary storage of the IP address by the system is necessary to enable the website and app to be delivered to the user. For this to happen, the user’s IP address must be stored for the entire duration of the session.
+
+Storage in log files is done to ensure the functionality of the app. In addition, we use the data to optimise the website and the app and to ensure the security of our information technology systems.
+
+It is in these objectives that our legitimate interests in data processing also lie, according to Article 6 (1) (f) of the GDPR.
+
+Duration of storage
+The data will be erased as soon as it is no longer needed for the purpose for which it was collected. In the case of data collection for the provision of the website, this will be the case when the respective session ends.
+
+If data is stored in log files, this is the case after 30 days at the latest. Storage may, however, be longer. In such cases, users’ IP addresses are erased or disguised to make it impossible to trace the data back to the client computer.
+
+Option to opt out and be removed
+The collection of data in order to provide the website and the app and storage of data in log files is required in order to run the website and the app. The user, therefore, has no option to opt out.
+
+C. Information provided by social networking sites
+
+We give you the option to link your profile with Facebook or Google when you register on our platform. We can receive information from you via this link.
+
+D. Other information we collect through technology
+
+When you use our platform, we may also collect certain information which relates to your activities on our platform, including statistics relating to your page views and traffic to and from our platform. As well as, the number of bytes transferred, hyperlinks clicked, and other actions you perform on our platform.
+
+Like most websites and other digital platforms, we use cookies, pixel tags and similar technologies to collect and store certain information relating to visitors to our platform. This is done to improve our services and to help us remember you and your preferences when you visit our platforms again. See the ‘Cookies’ section for more information.
+
+Purposes for which the personal data is to be processed:
+
+Contact
+Advertising
+Quality assurance
+Statistics
+Contract fulfilment and settlement
+Legal compliance
+
+Legal basis for processing:
+
+Your data is processed on the basis of the following legal framework:
+
+your consent, pursuant to Article 6 (1) (a) of the GDPR;
+to fulfil a contract with you, pursuant to Article 6 (1) (b) of the GDPR;
+to fulfil legal obligations, pursuant to Article 6 (1) (c) of the GDPR; or
+on the basis of our legitimate interests, pursuant to Article 6 (1) (f) of the GDPR.
+
+If the processing of your personal data is based on our legitimate interests within the meaning of Article 6 (1) (f) of the GDPR, those interests may include:
+
+the improvement of our web content;
+protection from misuse;
+the maintenance of our statistics; and
+settlement
+
+Duration for which personal data will be stored
+
+We do not store your personal data for longer than is necessary for the purpose for which the personal data is processed. Please note, however, that we have to store personal data if there is a legal obligation to do so in accordance with Section 257 of the German Commercial Code (Handelsgesetzbuch, HGB) and Section 147 of the German Fiscal Code (Abgabenordnung. AO).
+
+We store your data:
+
+if you have given your consent to processing, until you withdraw your consent;
+if we need the data to execute a contract, for as long as the contractual relationship exists between you and us or if the statutory retention periods are still valid; or
+if we are using the data on the basis of a legitimate interest, for as long as your interest in erasure or anonymisation does not outweigh ours.
+
+Application data for a job as tax consultant shall be erased automatically after six months, provided no contract has been concluded.
+
+Recipients or categories of recipients of your personal data
+
+A. Service providers
+
+When processing your data, we work with the following service providers, which have access to your data:
+
+Web hosting provider
+Advertising networks (for advertisements)
+Provider of web analysis tools
+When processing your personal data we employ service providers to carry out credit enquiries. These service providers have access to your data on the basis of their contractual engagement as processors.
+
+The use of web analysis tools may lead to data being transferred to third countries outside the European Union. If this is done, the transfer will be made only on the basis of contractual provisions laid down by law to ensure the adequate protection of your data.
+
+B. Social networking sites
+
+As mentioned above, our platform allows you to link to social networking sites (‘SNSs’). Our platform also integrates technologies supported by various SNSs, such as Facebook pixel. You acknowledge and agree that you are solely responsible for your use of an SNS and that it is your responsibility to review the terms of use and privacy policies of the third-party provider of such an SNS. We are not responsible or liable for:
+
+the availability or accuracy of an SNS;
+the content, products or services on an SNS or the availability of an SNS; or
+your use of an SNS.
+
+C. Auditors/Consultants
+
+We may also disclose information we have collected about you to our auditors, legal advisers and similar third parties when we use their professional services, subject to standard confidentiality obligations.
+
+D. Law enforcement
+
+We may, in certain circumstances, disclose information about you to the government or to third parties if we are required to do so by law. This applies in the following cases:
+
+to comply with a law, legal decision or regulation;
+as a result of a subpoena, court order or other legal process or a request from law enforcement agencies, other law enforcement agencies or other third parties;
+if, at our own discretion, we believe that the disclosure of personal information is required or appropriate to prevent physical harm or financial loss or to assist in the investigation of potential or actual illegal activity;
+to protect the essential interests of a person;
+to examine legal provisions or to enforce these legal instruments; and
+to protect our assets, services and rights.
+
+Further information on data protection
+
+Registration, contact form and e-mail contact
+
+You can create an account by providing the necessary personal data. In this process, data provided by you during registration will be transmitted to us and stored by us, subject to revocation by you. The user can temporarily or permanently close their account at any time. To do this, the user can simply send a message in text form (e-mail or letter) stating clearly their intention to close the account. We expressly reserve the right to check such enquiries and other customer enquiries for their justification in order to exclude unauthorised use by third parties.
+
+Contact may be made through the e-mail address provided. In this case, the user’s personal data sent by e-mail will be stored. In this regard, no data is shared with third parties. The data is used exclusively for processing the conversation. It is possible to contact us via the contact form and via the provided e-mail address. In this case, the personal data of the user will be stored. In this context, the data will not be passed on to third parties. The data will be used exclusively for processing the conversation.
+
+Specific purpose of data processing
+If contact is made by e-mail, the required legitimate interest in the processing of the data also lies therein.
+
+Duration of storage
+The data will be erased as soon as it is no longer needed for the purpose for which it was collected.
+
+Option to opt out and be removed
+The user may withdraw their consent to the processing of personal data at any time. To do so, please use the above-mentioned contact details for the controller. In this case, all personal data which was collected and stored during the establishment of contact will be erased.
+
+Data transmission to third countries
+
+Data is transferred to third countries outside the European Union. This is done on the basis of legally provided contractual regulations, which should ensure adequate protection of your data, and which you can see upon request.
+
+Requirement or obligation to provide data
+
+As long as this has not been expressly stipulated during the collection of data, the provision of data is not required or obligatory.
+
+How do we safeguard the information we collect about you?
+
+We have implemented and followed technical and organisational measures (including the encryption of certain information) to protect the information collected in connection with the use of our platform from unauthorised access and use.
+
+Please note, however, that we cannot completely exclude these risks, since no technology is completely safe despite our best intentions.
+
+You should take additional steps to protect your personal data online. To learn more about how you can protect yourself, visit the Federal Trade Commission (US) website.
+
+Data subject’s right of access, as well as, rights to rectification, erasure, restriction of processing, objection against processing and the right to data portability:
+
+If your personal data is being processed, then you are considered to be a data subject within the meaning of the GDPR. As a data subject—if certain conditions have been met, to some extent—you have the right:
+
+to request information about the processing of your data;
+to rectify and/or complete your data;
+to have your data erased or suppressed;
+to have the processing of your data restricted;
+to object to the processing of your data;
+to receive your data in a transferable format and to transmit it to a third party;
+to withdraw your consent to the processing of your data with future effect; and
+to lodge a complaint with the competent supervisory authority regarding unauthorised data processing. The competent supervisory authority is the Berlin Commissioner for Data Protection and Freedom of Information.
+
+Reviews
+
+You can use our website and app to rate advisory sessions as part of the ratings feature to provide valuable feedback to advisors and help other clients make the right choice of advisor. This is done by awarding 1 to 5 stars directly after the consultation or via the website by awarding 1 to 5 stars together with a text rating.
+
+The text ratings are visible on the public consultant profile and the HTML site map, including the stars awarded, with the most recent ratings listed first. Users can see the number of stars, the customer's member name (if specified) and the date of the submitted rating.
+
+Use of Cookies
+
+Our website uses cookies. Cookies are text files which are stored in the Internet browser or downloaded from the Internet browser onto the user’s computer system. If a user accesses a website, a cookie can be stored on their operating system. This cookie contains a characteristic string which makes it possible to unequivocally identify the browser when the user visits the website again. We use cookies to make the design of our website more user-friendly. Some elements of our website require that the browser accessing it is identifiable even after moving on to another page.
+
+In the process, the following data is stored and transmitted in the cookies:
+
+Language settings
+Items in a shopping cart/selected consultants
+Login details
+
+We also use cookies on our website that allow users’ surfing behaviour to be analysed.
+
+Amazon Web Services
+We use the ‘S3’ product from Amazon Web Services, Inc. 410 Terry Avenue North, Seattle WA 98109, USA, (‘AWS’) to host and distribute website content. AWS processes our data on our behalf. Hosting takes place exclusively in the AWS data centre in Frankfurt a. M. AWS is also certified under the Privacy Shield and therefore guarantees that personal data is also processed outside the European Economic Area in accordance with European data protection laws
+https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4&status=Active.
+
+Google Ads tracking
+We use the conversion tracking system from Google Ireland Limited (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland), being the latter’s advertising customer (‘Google Ads customer’), for the purposes of marketing performance measurement. For this purpose, a Google Ads pixel is integrated on each of the registration pages of us, and this pixel transmits the registration event to Google without any details of the customer concerned—besides the common technical features for each website visit (e.g. browser, IP address). For the purposes of recognising and assigning users, a cookie will be installed by Google, provided you accessed the website via a Google advert. These cookies expire after 30 days. Each Google Ads user receives a different cookie. Cookies cannot therefore be tracked via the websites of Google Ads users.
+
+For more information about Google’s privacy policy, please visit https://policies.google.com/privacy?hl=en-US. Users can also disable or object to Google adverts as a whole or in part at https://policies.google.com/privacy?hl=en#infosharing(go through the opt-out procedure).
+
+Apple Search Ads
+For tracking and advertising purposes, we use the iAd framework from Apple (Apple Inc., One Apple Park Way, Cupertino, CA 95014, USA) for our iOS app. More information and the privacy policy of Apple Search Ads can be found here: https://searchads.apple.com/privacy
+
+Google Tag Manager
+This website uses Google Tag Manager from Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland. This service allows website tags to be managed via an interface. The Google Tool Manager only implements tags. This means that no cookies are used and no personal data is collected. The Google Tool Manager triggers other tags, which in turn may collect data. However, the Google Tag Manager does not access this data. If disabling is at the domain or cookie level, it will remain in place for all tracking tags, as long as they are implemented using Google Tag Manager.
+
+Appsflyer
+In order to better understand general usage patters for our Product, we use a third-party tool of Appsflyer, 100 1st Street, 25th floor San Francisco, California 94105, United States., called Appsflyer (see https://www.appsflyer.com/privacy-policy). Appsflyer is an analytics software tool, which helps us improve our Service by providing statistical patterns of our product use. This tool does not provide us with any additional personal data about you or your behavior online.
+
+Facebook connect
+With facebook connect you can open a new account on your facebook account or establish a connection to an account. If you create an account via facebook or log in to an existing account via facebook, we get access to your public profile and your email address. Since we use your Facebook data to create an account, the legal basis is the contract for the account in accordance with Art. 6 Para. 1 lit. b GDPR.
+
+Freshdesk
+We use the customer service system Freshdesk (hereinafter referred to as “Freshdesk”), a service of Freshworks Inc. (1250 Bayhill Drive, Suite 315, San Bruno, CA 94066, USA; hereinafter referred to as “Freshworks”), to accept and manage contact requests. When you contact us (via contact form or email), your details will be stored in Freshdesk for processing the contact request.
+
+We have a contract with Freshworks for the use of Freshdesk. By this contract Freshworks assures that they process the data in accordance with the General Data Protection Regulation and guarantee the rights of the person or user concerned.
+
+The corresponding data processing takes place on the basis of GDPR Section 6 (1) S. 1 lit. b and may be necessary for the execution of the contract with you or pre-contractual measures. In addition, data processing is carried out on the basis of our legitimate interests pursuant to GDPR Section 6 (1) S. 1 lit. f. Our legitimate economic interest lies in optimising the management of contact enquiries and improving customer service in order to provide our services.
+
+More information about Freshdesk and data protection at Freshworks can be found here: https://www.freshworks.com/gdpr
+
+Freshchat
+We furthermore use the Freshchat tool (hereinafter referred to as “Freshchat”), which is also a service of Freshworks Inc. (1250 Bayhill Drive, Suite 315, San Bruno, CA 94066, USA; hereinafter referred to as “Freshworks”), to contact us quickly and easily. Through Freshchat you can communicate with us via live chat without providing any personal information of your own. When using live chat, the chat history and your IP address are transmitted to Freshworks and stored on their servers in the USA.
+
+The data processed during the use of Freshchat can be used to create user profiles under a pseudonym. Cookies (see Item 4) can be used to recognise the user for this purpose. The data collected by Freshchat will not be used to personally identify the visitor to our website and will not be merged with personal-related data about the bearer of the pseudonym without the separate consent of the person or user concerned.
+
+We have entered into a contract with Freshworks for the use of Freshchat. By this contract, Freshworks assures that they process the data in accordance with the General Data Protection Regulation and guarantee the protection of the rights of the person or user concerned.
+
+The corresponding data processing takes place on the basis of GDPR Section 6 (1) S. 1 lit. b and may be necessary for the execution of the contract with you or pre-contractual measures. In addition, data processing is carried out on the basis of our legitimate interests pursuant to GDPR Section 6 (1) S. 1 lit. 5. Our legitimate economic interest lies in optimising the management of contact enquiries and improving customer service in order to provide our services.
+
+More information about Freshchat and data protection at Freshworks can be found here: https://www.freshworks.com/gdpr/
+
+Kickbox
+We use the services of Kickbox, Inc., 2556 Elm Street, Dallas, Texas 75226 (“Kickbox”) to validate email addresses and find out whether or not they can be delivered to.
+
+In this context, we also give your data to Kickbox. The email address verification service provider Kickbox will use this data to validate email addresses and find out whether or not they can be delivered to. Kickbox may transfer personal information to companies that help them provide their service to us.
+
+For more information about Kickbox Privacy policy: https://docs.kickbox.com/v2.0/docs/privacy-policy#section-the-organization-collecting-information-at-this-website
+
+Mailchimp (e-mail marketing)
+MailChimp is an offering from The Rocket Science Group, LLC, 512 Means Street, Suite 404, Atlanta, GA 30318 (‘Rocket’). Rocket signed the ‘Safe Harbor Agreement’ on 22/07/2008. This is a data protection agreement between the European Union and United States. The data collected during registration is transmitted to Rocket and stored by them. Data submitted during registration will not be sent to other third parties. After registration, MailChimp will send you an e-mail message confirming your registration. Furthermore, MailChimp offers various options with respect to analysing how the newsletters sent are opened and used, e.g. to how many users an e-mail was sent, whether the e-mails were rejected, and whether users unsubscribed after receiving the e-mail. However, these analyses are only group-related and we do not use them to evaluate individuals. MailChimp also uses the Google Analytics analysis tool from Google, Ireland Ltd and may include it in the newsletter. You can find more details on Google Analytics in the ‘Google Analytics’ section of this privacy policy.
+
+For further information on data protection at MailChimp, visit http://mailchimp.com/legal/privacy/
+
+Mailgun
+This website uses Mailgun’s services to send transactional e-mails. The provider is Mailgun Technologies, Inc., 548 Market St. #43099, San Francisco, CA 94104, USA.
+
+Mailgun is a service that can be used, among other things, to organize and analyze the sending of transactional e-mails. If data is sent in the context of transactional e-mails (e.g. e-mail address), it is stored on Mailgun’s servers in the USA.
+
+Mailgun will retain data sent in transactional e-mails until you request us to delete it, revoke your consent to store it, or the purpose for which it was collected no longer applies (e.g. after your request has been processed).
+
+For details, see the Mailgun privacy policy at: https://www.mailgun.com/privacy-policy and https://www.mailgun.com/gdpr
+
+Maxmind
+We use the services of MaxMind Inc., 14 Spring Street, 3rd Floor, Waltham, MA 02451, USA.
+
+MaxMind's services help us determine the country of origin of your IP address. This information allows us to provide our online content in the relevant language.
+
+Additional information on MaxMind's privacy policy is available here: https://www.maxmind.com/en/privacy-policy
+
+Twilio
+We use Twilio as a platform of communication between service providers and customers. See more about Twilio’s data/privacy policies: https://www.twilio.com/legal/privacy
+
+Crashlytics
+For our smartphone app, we use the Crashlytics tool—part of Twitter’s Fabric platform—to log application crashes. No personal data is transmitted by this tool. Only real-time crash reports are sent with exact information about the code positions involved and device information, which should make it easy to carry out maintenance and improve the resulting stability of the app.
+
+The Crashlytics privacy policy can be viewed here: https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms
+
+Google Firebase
+We use the Firebase tool in our app. Firebase is part of the Google Cloud Platform and offers numerous services for developers. You can find a list of these here: https://firebase.google.com/terms/
+
+This is a real-time database which we use for real-time data exchange and storage in our app to improve and further develop our app. In the process, user data is transmitted to Firebase in an anonymised form. Firebase is a Google subsidiary and is based in San Francisco (CA), USA.
+
+You can find Firebase’s privacy policy at https://www.firebase.com/terms/privacy-policy.html and Google’s privacy policy at https://policies.google.com/privacy.
+
+Use of the ‘Google Analytics’ analysis tool
+We use the Google Analytics service from Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Ireland. This service makes it possible to analyse the use of our web pages. To do so, it uses cookies. For this purpose, the information generated by the cookie, such as your anonymised IP address, is transmitted on our behalf to a Google Ireland Ltd. server in the USA, and is stored and evaluated there. This is because Google Analytics has been given the extension code ‘gat._anonymizeIp();’ on this website. This ensures the anonymised collection of IP addresses. The anonymisation of your IP address is generally done through the truncation of the IP address by Google Ireland Ltd. within the European Union or in other member states of the European Economic Area (EEA). In exceptional cases, your IP address will be transferred to a server of Google Ireland Ltd. in the USA and only anonymised there. Your IP address transmitted through this process is not merged with other Google Ireland Ltd. data. In the context of the Google Analytics advertising function, remarketing and reports are used to provide services based on demographic features and interests. These procedures help align advertising measures more closely with the interests of the respective users, aided by the information about user behaviour. In the context of remarketing, personalised advertising measures can be displayed on other websites based on the user’s surfing behaviour on the apo-rot website. In this process, advertising materials may contain products which the user has looked at before on the apo-rot website. Provided you have agreed that your web and app browser history can be linked to your Google account and that information from your Google account can be used to personalise advertisements. Google will use this data for remarketing purposes across multiple devices. Any products that allow inferences to be made on the state of health of the user are excluded from these procedures by apo-rot. You can object to the collection of your data by Google Analytics at any time. To do so, you have the following options:
+
+Most browsers accept cookies automatically. You can prevent the use of cookies by changing your browser settings; in this case, however, it may not be possible to use all website functions. You have to change the settings separately for each browser you use.
+
+You may also prevent Google Ireland Ltd. from collecting and processing this information by downloading and installing the browser ad-on available at the following link: https://tools.google.com/dlpage/gaoptout?hl=en.
+
+Alternatively, or in browsers on mobile devices, please click on the following link: Disable Google Analytics. An opt-out cookie will be stored on your device for our websites with effect for the browser you are currently using. If you delete your cookies in this browser, you will have to click on this link again.
+
+You can find detailed information about the terms of use and data protection at https://www.google.com/analytics/terms/us.html or at https://policies.google.com/.
+
+Native Google & Apple Store
+If you download our app, the necessary information is transmitted to the respective app store. This particularly includes the user name, e-mail address, time of download and the individual device code. However, we do not have any influence over this data collection, as this is initiated by the respective app store operator. We process the data provided to us for as long as this is required in order to download the app onto your mobile device (e.g. smartphone or tablet). We do not store this data. In this regard, please also pay attention to the app store operator’s data protection information:
+
+for the iOS App Store: Apple Inc., 1 Infinite Loop, Cupertino, CA 95014, USA, available at https://www.apple.com/legal/privacy/en-ww/; and
+or the Google Play Store: Google Ireland Gordon House, Barrow Street, Dublin 4, Ireland, available at https://policies.google.com/privacy.
+
+Payoneer
+We have an agreement with Payoneer Inc so that we can use their suite of services. Payoneer’s payment services include online billing, prepaid debit cards and global payments services.
+
+It is your choice as an advisor whether or not you use Payoneer’s payment services as part of your account. You do not have to use Payoneer’s services.
+
+See more about Payoneers privacy policy: https://www.payoneer.com/legal/privacy-policy
+
+Adyen
+Our payment details are transmitted to our payment service provider in order to complete the payment process. Our payment service provider is Adyen N.V., Simon Carmiggelstraat 6–50, 1011 DJ Amsterdam (“Adyen”).
+
+To prevent and detect instances of fraud, your IP address, e-mail address as well as a device and payment service provider specific ID can be transmitted. All data transfers are encrypted.
+
+Part II – California, USA (CCPA)
+
+This section only applies to you if you are a resident of the State of California in the United States and it only applies to personal information in which we have ‘business’ (as defined in the CCPA) and not to personal information that we collect from you as part of our services to you if you are an employee, owner, director, executor or contractor of a business, partnership, sole proprietorship, non-profit organisation or government agency. It applies to personal information that we collect from California residents on or through our services and by other means (e.g. offline or personally identifiable information).
+
+Overview of the personal information we collect about you
+
+For individuals who reside in California, the California Consumer Privacy Act (CCPA) requires disclosure of the categories of personal information we collect and how we use it, the categories of sources from which we obtain personal information, and the third parties with whom we share it. We are strongly interested in keeping such information simple for our users. The categories, as required by the CCPA, are set out below. Our privacy policy provides examples and additional information on how we collect and use information.
+
+Depending on how you interact with us, we may collect the following categories of data, as listed in the table below.
+
+All personal information we collect about you (as defined below) is from the source categories listed below:
+
+From you, including through your use of our services
+Automatically collected from you
+Our group companies
+Third parties (for example, if you give permission to social networks to share your information with us or if you have made this information publicly available online)
+
+ 
+
+Categories of personal information we collect	Categories of third parties with whom we may share this information
+Identifiers (such as name, address or e-mail address)	- Third parties (such as our service providers)
+- Our group companies
+- Aggregators (such as analysis services)
+Business data (such as transaction data)	- Third parties (such as our service providers)
+- Our group companies
+- Aggregators (such as analysis services)
+Financial data (such as accounting data)	- Third parties (such as our service providers)
+- Our group companies
+Activities on the Internet or other networks or devices (such as browsing history or app usage)	- Third parties (such as our service providers)
+- Our group companies
+- Aggregators (such as analysis services)
+Location data (e.g. obtained by tracing your IP address)	- Third parties (such as our service providers)
+- Our group companies
+- Aggregators (such as analysis services)
+Classifications protected by law (such as gender and marital status)	- Third parties (such as our service providers)
+- Our group companies
+Other data that identifies you or can be reasonably linked to you	- Third parties (such as our service providers)
+- Our group companies
+- Aggregators (such as analysis services)
+
+Categories of business purposes for our use of your information
+
+All categories of personal information we collect about you (as detailed above) are used for the following purposes:
+
+Provision of our services (for example, maintaining or servicing accounts, providing customer service, advertising and marketing, analyses, communication about our services)
+For our operational purposes and the operational purposes of our service providers
+Improving our existing services and developing new services (such as conducting research to develop new products and features)
+Detection, protection against and prosecution of security incidents and fraudulent or illegal activities
+Error detection, error reports and activities to maintain the quality or security of our services
+Reviewing consumer interactions on our website (for example, measuring ad impressions)
+Short-term, temporary use, such as customising content that we or our service providers display through services
+Other uses of which we will inform you
+
+Rights and options in California
+
+Subject to certain limitations, if you are a California resident, you have the right to request the following from us:
+
+Disclosure of the personal information collected by us which concerns you, deletion of all of our information concerning you which we have collected or you have stored. You can also object to the sale of your personal information. As a user who is a California resident, you also have the right to appoint an agent to exercise these rights on your behalf.
+
+This section describes how you can exercise these rights and how we deal with the demands placed on us, in particular, how we verify your identity. If you would like more information about your rights under the applicable law or if you wish to exercise any of these rights, please contact us at privacy@zodiacpsychics.com.
+
+Access to and deletion of your personal information
+
+Right to request access to your personal information
+As a user who is a California resident, you have the right to request that we disclose the categories of personal information we collect, use or sell. You are also entitled to request certain partial information about the personal data we collect which concerns you. However, we may withhold information if disclosure would put you or your personal information at too great a risk (for example, in the case of financial data or passwords).
+
+Right to request the deletion of your personal information
+You are entitled to demand that we delete all personal data that we have collected which concerns you.
+
+We may, however, withhold certain personal information under applicable law, including personal information that is required to fulfil the following purposes: providing our services; protecting our business and system from fraudulent activity; identifying and correcting faults that affect existing functionality; exercising freedom of speech or other rights as required for us or others; fulfilling requests for law enforcement action in accordance with a lawful process; for scientific or historical research; for our own internal purposes reasonably related to your relationship with us; or to comply with legal requirements. We require certain types of data in order to provide you with our services. If you want us to delete such data, you may no longer have access to our services.
+
+Users who are California residents may exercise their privacy rights granted by the State of California by sending their request by e-mail to privacy@zodiacpsychics.com.
+
+Identification
+
+For security reasons, we may also request additional information from you which is required to verify your identity when you apply to exercise your California privacy rights.
+
+If we have reason to believe that the security of your account has been compromised, depending on the nature of the request and the sensitivity of the information requested, we may ask you for additional information in order to verify your identity by matching it against the records we hold.
+
+If you wish to exercise any of the rights listed here and you do not have an account with us, please contact us by e-mail at privacy@adviqo.com. If possible, we then request further data in order to carry out the identity check.
+
+Sale of personal data
+
+The CCPA requires companies that ‘sell’ personal information (as defined in the CCPA) to give California residents the right to refuse consent to such sales. We do not ‘sell’ your personal information as we understand the term and its interpretation.
+
+Non-discrimination rights
+
+Users who are California residents have the right to not be discriminated against when exercising their rights as described in this section. We do not discriminate against users on the basis of them exercising their rights under the CCPA.
+
+Part III – Brazil (LGPD)
+
+For users who are residents of Brazil, the following additional provisions apply:
+
+Legal provisions regarding data processing equivalent to those set out in Part I are contained in Article 7 of the LGPD.
+
+Additional rights
+
+In addition to the rights set out in section 10 of Part I, you have the right to request confirmation that processing exists. Access to your data will be given, at your discretion, either in a simplified and printed form or in electronic form or by means of a clear and complete declaration indicating the origin of the data, the non-existence of the record, the criteria used and the purpose of processing, subject to commercial and industrial confidentiality and within fifteen days of the date of your request. To request confirmation or access to your data, please submit a request to the following e-mail address: privacy@zodiacpsychics.com, or use the contact details provided above and indicate the form in which you wish to receive the requested information.
+
+You also have the right to request the anonymisation of unnecessary or excessive data or data processed in violation of the LGPD, unless we are legally obligated to retain your personal data (see Article 16 of the LGPD). Please submit a request to the following e-mail address: privacy@zodiacpsychics.com
+
+In the case of fully automated processing of personal data, you have the right to request a review by a natural person if the automated decision negatively affects your interests. We will therefore provide clear and sufficient criteria and procedures used for automated decision making, subject to commercial and industrial confidentiality.
+
+Data security
+
+We use technical and administrative measures to protect your personal data against unauthorised access and accidental or unlawful destruction, loss, alteration, communication or distribution and to prevent damage arising from the processing of personal data. Please be aware that despite our efforts, no security measure is perfect or impenetrable. If a security incident does occur, we will inform you in accordance with the applicable law.
+
+Part IV – Other countries
+
+How can you correct, update or make decisions about the information we collect which concerns you?
+
+A. General information
+
+If the personal information we hold about you changes or if you no longer wish to receive our services, you can correct, update or delete the information by e-mailing us at privacy@zodiacpsychics.com or (for some information) you can sign into your profile via the appropriate platform and make changes to your account settings. We will try to respond to your request within 30 days. In some cases we may not be able to remove your personal information. In this case we will try to inform you that we are unable to do so and why. For example, we may be required (by law or otherwise) to retain certain information and to not delete it (or to retain it for a certain period of time, in which case we will not comply with your request for deletion until we have complied with such requirements).
+
+B. Disconnecting an SNS
+
+If at any time you decide that you no longer want your Facebook, Google or other SNS account associated with your platform account, you must disconnect the SNS from the appropriate platform by signing into your profile for such an SNS and changing your preferences. Please review the SNS privacy settings to determine how to customise our permissions and manage interactivity between our platforms and your social media account.
+
+C. Stopping certain communications from us
+
+At various times, we may communicate with you by e-mail regarding your account and transactions, as well as various customer service issues, customer surveys and promotions, including special offers and updates on new products and services. You can stop receiving promotional e-mails from us at any time by simply following the ‘Unsubscribe’ link at the bottom of each promotional e-mail or by signing into your profile on the appropriate platform and changing your account settings.
+
+Part V – SOCIAL MEDIA PRIVACY POLICY
+
+adviqo GmbH maintains various online presences within social networks, to which the following privacy policy applies. This privacy policy summarises and describes all social media used by adviqo GmbH.
+
+Name and address of the controller:
+
+Within the meaning of the EU General Data Protection Regulation (GDPR), the joint controllers are the respective operator of the network as the main controller of that network (see identity in the respective section of the social network), and the below co-controller:
+
+adviqo Services LLC.
+364 E Main St. #1450, Middletown, Delaware 19709, USA
+E-mail: privacy@zodiacpsychics.com
+
+Managing directors with power of representation: Bryan Leppi, Tom Tews
+
+Purpose and legal bases for processing
+
+We maintain online presences within social networks in order to draw attention to our services, products and our company in the respective network and to interact and communicate with users who are active there. This is a legitimate interest under Article 6 (1) (f) of the GDPR.
+
+Processing
+
+Furthermore, we process data from your use of our online presence in social networks that you voluntarily provide there (for example in a comment or in a message to us), as well as, information from the analysis and statistics tool of the respective social network. Personal data that you send us in the context of an enquiry or message will be processed exclusively for the purpose of processing your enquiry/message. We will delete messages from completed transactions from the inbox after one year at the latest. Whether and how long the social networks make backups of these messages is not known to us and can only be answered by the social networks themselves. In accordance with the terms of use of the social networks, which each user agrees to when creating a profile on the respective social network, we can identify subscribers of the online presence in the respective social network and view their profiles and other information shared by them. If you no longer wish to have the described data processing by us in future, please ‘unfollow’ our online presence on the respective social network or do not interact with us or our posts.
+
+Responsibility
+
+As a co-controller for the processing of personal data through the provision of this content on the respective social network, we assure you that we take the greatest possible responsibility in accordance with the declared contents of this privacy policy. However, we would also like to point out that we are not aware of the exact processing that takes place through the individual social networks, neither in its full extent nor in terms of content, and we have no control over this.
+
+User rights
+Insofar as the conditions described in the respective regulations are met, each participant has the following rights in particular, in accordance with Article 7 and Article 13 et seq. of the GDPR:
+
+a right of access;
+a right to rectification;
+a right to erasure and restriction of processing;
+a right to data portability;
+a right to withdraw any consent given;
+a right to object to processing; and
+a right to lodge a complaint with the competent data protection authority.
+
+If you assert data subject rights against us with regard to processing on a social network, we will refer you directly to the social network, as we ultimately do not have the technical options or authorisations to comply with your request.
+
+Social networks and platforms
+
+Processing by the social networks
+
+Social networks generally process users’ personal data for their own purposes, as outlined below:
+
+advertising (analysis, provision of personalised advertising);
+creation of user profiles; and
+market research.
+
+The data a social network collects and how this data is used is described by the respective social network in their privacy policy. There you will also find, among other things, information on the legal basis for processing by the respective social network and how you can exercise your rights as a data subject vis-à-vis the social network. The data collected about you in this context will be processed by the respective social network and may be transferred to countries outside the European Union/European Economic Area. We cannot rule out any potential risks that this may entail for users. Insofar as the operators or their parent companies are certified under the EU-US Privacy Shield and have thus committed themselves to comply with EU data protection requirements, we refer to the following linked information provided by the operators. The operators of social networks use cookies, i.e. small text files that are stored on users’ various end devices, to store and further process this user data. If the user has a profile on a social network and is signed into it, the storage, evaluation and assignment to a user profile is also carried out across devices.
+
+Responsibility of social networks
+
+We have no influence over the use of the data by a social network and any social network is the sole controller for data processing in this regard.
+
+Description of processing and options to opt out for social networks
+
+For a detailed description of the respective processing and the options to opt out, we refer to the following linked privacy policies and information provided by operators.
+
+Facebook and Instagram
+Name and address of the main controller: Facebook Ireland Ltd., 4 Grand Canal Square Grand Canal Harbour, Dublin 2, Ireland - (hereinafter ‘Facebook’)
+
+Processing by Facebook
+The results of these processing operations are made available to the operator of a Facebook page (‘fan page’), Facebook group, Instagram page or other Facebook products in an aggregated and anonymous form of user statistics as ‘Facebook Insights’ or ‘Instagram Insights’.
+
+Information about site insights data (Facebook-Seiten [fan pages], Facebook groups): https://www.facebook.com/help/pages/insights
+Facebook privacy policy: https://www.facebook.com/about/privacy/
+Facebook options to opt out: https://www.facebook.com/settings?tab=ads
+ 
+
+Instagram privacy policy: https://help.instagram.com/519522125107875
+Instagram options to opt out: https://www.instagram.com/accounts/privacy_and_security
+ 
+
+Date: 15.02.2021
+
+Home
+  Privacy policy
+ABOUT ZODIAC PSYCHICS
+About Us
+Your safety & security matters
+Customer Support
+Refund policy
+Site Map
+HOW IT WORKS
+Getting Started
+How to find an advisor
+What to ask
+Your first few minutes
+Refund policy
+Articles
+HOW WE CAN HELP
+FAQ
+Find a Psychic
+Become a Zodiac Psychic
+Contact Us
+ 
+© 2022 ZodiacPsychics.com is operated by adviqo Services LLC.
+* All prices are listed in $ credits. One $ credit is equivalent to $1 USD. Psychics are not employees or representatives of Zodiac Psychics.
+WE ACCEPT
+   
+ 
+ 
+Use of this site is subject to the Terms of Use Privacy Policy Disclaimer
+Cookies & Privacy
+Our website uses cookies. By continuing to browse this website you are agreeing to our privacy policy
+Learn more
+Accept

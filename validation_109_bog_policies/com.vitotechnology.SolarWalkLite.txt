@@ -1,0 +1,133 @@
+Vito Technology
+Apps
+News
+About Us
+Support
+Contacts
+Privacy Policy
+
+Last updated: May 24, 2018
+
+Here at Vito Technology, our number one goal is to provide you with fun and exciting products and content, all while safeguarding your Personal information (in accordance with the definition of this term below). Vito Technology, Inc. and its affiliates (collectively, the “Vito Technology”) has created this privacy statement in order to inform you about our information gathering, processing and dissemination practices relating to our websites, applications, products and related services (collectively, the “Services”). By accessing and/or using our Services you accept this Privacy Policy and signify your understanding, acceptance of and agreement with the terms, conditions and notices contained or referenced herein. If you do not agree with this Privacy Policy, please do not accept or use our Services.
+
+When you access and/or use our Services we may collect some information from you. We want to be clear exactly what sort of information we collect, how we use, process this information, when, if at all, we disclose information about you to others and what rights and choices are available to you with respect to these activities. Our Privacy Policy aims to do all of this and more! So please, read on as this is important!
+
+Vito Technology, Inc. registered at 901 N. Pitt St, Suite 325, Alexandria, VA 22314, USA will be the data controller within the meaning specified in The General Data Protection Regulation (GDPR) (Regulation (EU) 2016/679).
+
+We tried to keep this Privacy Policy as simple and straightforward as possible. However, some technical jargon and terminology is unavoidable. So if you have any questions while you're familiarizing yourself with this Privacy Policy, please do not hesitate to contact our Data Protection Officer by emailing to privacy@vitotechnology.com or sending regular letter at:
+
+Vito Technology, Inc.
+
+Data Protection Officer
+
+901 N. Pitt St, Suite 325,
+
+Alexandria, VA 22314, USA
+
+Also, please check back often because this Privacy Policy may change from time to time. These changes are important because all of the information we collect from you will be handled according to the Privacy Policy in effect when the information is collected. If we make any major changes to the Privacy Policy, we will indicate so on our website. Your continued use of our Services following posting the updated version will be deemed your acceptance and agreement with those changes.
+
+A. COLLECTED INFORMATION
+Information We Collect
+
+As a visitor to our Services, you can engage in many activities without providing any Personal information. In the sense of GDPR “Personal information” means any information that identifies directly or indirectly a particular individual, such as individual’s name, postal address, e-mail, telephone number. In connection with other activities, such as subscribing to periodic newsletters sent by Vito Technology, requesting customer support, utilizing online software applications or purchasing any of our products, Vito Technology may ask you to voluntarily supply us with such Personal information as email address and your name. It is completely optional for you to engage in these activities and/or make any purchases.
+
+Credit Card and other payment information are not retained by us as part of the registration process. This information is processed by our payment and billing providers during the purchase process and never disclosed to us.
+
+As previously mentioned above you are provided an opportunity on our websites and within our products to subscribe to a periodic newsletter. This newsletter is a marketing tool that allows Vito Technology to inform you of new products or services, as well as other news relevant to the company. The subscription service requires you to provide your email address only.
+
+By creating Star Walk® account in our Services, you agree to sending of the newsletters to your email address provided by you in the registration process.
+
+When requesting customer support you will be required to provide us with your email address in order to send you reply and optionally the name.
+
+In addition, we may use the information made publicly available, e.g. through YouTube, vk.com, Facebook, Instagram and Twitter, in order to find out your opinion about our Services, so that we could take them into account while improving such Services.
+
+We may collect, process and share with third parties (as further specified in Section How Your Information Is Shared below) certain non-personal technical information about your computer or mobile device, such as IP number, browser information, OS version, identifiers associated with the Device (as this term is defined below), location, connections, network type and other. Such technical information does not identify a specific person.
+
+We may collect, process and share with third parties (as further specified in Section How Your Information Is Shared below) the aggregated, anonymized information received via our Services that do not identify any single user.
+
+Online Tracking Technologies
+
+When you use the Services, we or third parties authorized by us, such as Facebook, Google that provide content, advertising, or other functionality within the Services, may use cookies, pixel tags, local storage, mobile device identifiers, APIs, SDKs and other technologies (“Technologies”) to automatically collect information through the Services. Such Technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a “Device”), allow us and authorized third parties to record certain pieces of information whenever you visit or interact with the Services, to recognize, identify you across Devices and when you sign into the Services, to serve ads that may be relevant to your interests, to understand the usefulness to you of such ads, to measure advertising effectiveness, to allow more effective targeted advertising, to enhance your experience with Services, to improve the quality of our Services, to tailor recommendations to your interests and make the Services easier to use.
+
+B. USE AND DISCLOSURE OF INFORMATION
+How Your Information Is Used
+
+We may collect and use your Personal information for the following purposes: to provide you with the Services you request, to uniquely identify you as a user in our Services, deliver newsletters, security alerts, administrative messages to you based on your activity and location data, provide technical support, including product updates, to registry you as a participant in any contest, to arrange receipt of the prize to which you may be entitled, carry out other purposes that are disclosed to you and to which you consent.
+
+We may use the geo-location data to surface the appropriate country/language-based version of our Services to you.
+
+We analyze non-personal, technical, statistical information to define how to improve the Services and our operations to make them more interesting for our users in general.
+
+How Your Information Is Shared
+
+We may share your Personal information with our parent, subsidiary and other affiliated companies (each an "Affiliate") and as described below. Our Affiliates will follow privacy practices no less protective for all users than our practices described in this document, to the extent allowed by applicable law. We prohibit the sale or transfer of Personal information to entities outside of the Vito Technology's Affiliates for their use without your approval.
+
+We may disclose the Personal information we collect to our business partners who commit to comply with the applicable laws relating their usage of the information subject to receipt of your advance respective consent. These parties are contractually prohibited from processing Personal information for any purpose other than for performing legitimate contractual obligations or to comply with applicable legal requirements.
+
+We do provide non-personal, technical, statistical information to certain service providers and advertising partners for their use on an aggregated, anonymized basis for the purpose of performing their contractual obligations to us. In particular, this enables our advertisers to develop and deliver targeted advertising in the Services and on the websites of third parties, so that they can try to serve you with advertisements for products and services that are most likely to be of interest to you. Advertisers will also use this information to monitor, improve or modify their operations.
+
+Although we will always strive to safeguard your private information, there may be circumstances where we are forced to disclose this information without your permission. We will only do if we have a good-faith belief that disclosure is reasonably necessary to (1) comply with laws, regulations, or government requests or (2) to investigate or protect against harmful activities to you or other users.
+
+How Your Information Is Transmitted
+
+It is important for you to know that Personal information you submit through our Services may be transferred across national boundaries and may be stored and processed in any of the countries in which we maintain our offices or web hosting servers. As a result, how this information is collected or used is governed the by the laws of those countries.
+
+Third Party Content
+
+Not all content within our Services is owned by us. Our Services may have links to other websites, applications, online stores or advertisements which may be controlled by other companies (for example, links to Apple's App Store, Google Play, third party social networks). These third parties may use cookies and/or web beacons to identify your preferences or to recognize if you have previously had contact them. For example, advertising companies may track your Internet browsing habits so they can tailor their advertising specifically you. Because we do not control these companies or their content, we cannot vouch for their information collection practices. We encourage you to review those third-party privacy statements to understand the way your information may be collected and used by such third parties. If you have any concerns about these companies or their content, please direct them to the administrator or webmaster for the company in question.
+
+C. LEARN MORE ABOUT YOUR RIGHTS
+
+You can always choose whether or not to disclose Personal information and that choice will not prevent you from using the Services. Please note, however, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information.
+
+You control which name and email we associate with your account. If they change, please modify the data in your personal account directly. Please inform us if any of the Personal information we retain about you is inaccurate.
+
+You can control what technical, non-personal information you choose to share with us on the Services. To do so you should review the settings on your Device. For example, you can change your settings in your mobile Device as follows:
+
+To reject the collection of location information on iOS mobile Devices, disable the location services feature on the settings of your Device;
+
+To reject the collection of location information on Android Devices disable Bluetooth and Location.
+
+You can opt out of seeing online interest-based ads from Facebook and other participating companies by visiting https://optout.aboutads.info in the US, https://youradchoices.ca/ in Canada, or https://www.youronlinechoices.eu/ in Europe or through your mobile Device settings.
+
+You can prevent Google’s collection and use of data through Technologies by downloading and installing the browser plug-in available here. Further information can be found here (Google Analytics Terms of Service & Privacy).
+
+You may choose to block or delete such Technologies like cookies by following instructions below applicable to your browser:
+
+Explorer
+
+Firefox
+
+Chrome
+
+Safari
+
+At any time, you may choose to not receive newsletters from us by unsubscribing here.
+
+We reserve the right to send a one-time registration confirmation email, and infrequent Service Alert messages to users to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status. We also reserve the right to contact you if compelled to do so as part of a legal proceeding or if there has been a violation of applicable licensing agreements. Vito Technology is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters that will be important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications are rare.
+
+You have the right to obtain deletion by Vito Technology of Personal information concerning you by deleting your personal account (e.g. Star Walk® account) on the Services. If you request us to erasure your Personal information we will delete all Personal information about you, except for the data that are required for our compliance with the requirements of applicable laws (e.g. tax and accounting requirements) or for our detection, investigation and prevention of cheating in the products, Services and end user license agreement violations. We will retain anonymous information after your account has been closed.
+
+You may access and correct your Personal information and privacy preferences, opt out of receiving emails, newsletters, the sharing or retention of any Personal information, by writing at privacy@vitotechnology.com or Vito Technology, Inc. 901 N. Pitt St, Suite 325, Alexandria, VA 22314, USA
+
+Where processing of your Personal information is based on legitimate interests according to Article 6(1)(f) of the GDPR, you can use your right to object at any time. If you object we will no longer process your Personal information unless there are compelling and prevailing legitimate grounds for the processing or the data is necessary for the establishment, exercise or defense of legal claims. You also have the right to lodge a complaint at a supervisory authority.
+
+D. INFORMATION RELATING TO CHILDREN
+
+Our Services are not directed to children under 13 years of age. While we realize that our Services may be enjoyed by people of all ages, children under 13 should not use our Services without parental supervision. We do realize, however, that despite our efforts, children under the age of 13 may access our Services, and, we may, inadvertently, collect personal information about them. Should this occur, we encourage parents or legal guardians to contact us at privacy@vitotechnology.com. We will make sure to delete and stop collecting the child's information.
+
+E. SECURITY
+
+We strive to protect all of your information that we collect. To do so, we use a variety of security technologies and procedures. Our data networks are protected by industry standard firewall and password protection systems and our security policies are periodically reviewed and enhanced as necessary. Also, only authorized individuals have access to your information. However, because no data transmission over the Internet can be guaranteed to be secure, we cannot guarantee the security of any information you transmit to us and and you use our Services at your own risk.
+
+F. PRIVACY-RELATED INQUIRIES AND COMPLAINTS
+
+We take our users' privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Privacy Policy with regard to your Personal information or you have other related inquiries or concerns, you may write or contact us at privacy@vitotechnology.com or Vito Technology, Inc. 901 N. Pitt St, Suite 325, Alexandria, VA 22314, USA.
+
+In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly.
+
+Privacy Policy
+Terms of Use
+© 2022 Vito Technology, Inc.
+Vito Technology site uses cookies to ensure you get the best user experience. More Info
+Got it!

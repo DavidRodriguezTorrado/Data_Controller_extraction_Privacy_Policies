@@ -1,0 +1,159 @@
+Privacy
+TickTick Privacy Policy
+
+
+
+
+When you use our services, you're trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
+
+
+
+
+By accessing or using the Services, you agree to this Privacy Policy, and our Terms of Service. If you have any questions about this Privacy Policy, you can contact us. 
+
+
+
+
+
+
+
+Information TickTick Collects
+Your activity & apps
+
+At the time you register for TickTick, you voluntarily give us information such as your name and email address. You have the access and can update this information under your personal Account Settings at any time. We also collect aggregated, anonymous user data about the use of the app. 
+
+
+
+
+Your browsers & devices
+
+We collect information about the browsers and devices you use to access TickTick. The user data we collect is used to enhance TickTick and the quality of our service. We only collect personal data required to deliver our services, and we only store it to the extent that it is essential to perform these services.
+
+
+
+
+Your Location Information
+
+We collect information about your location after you open background location access to TickTick. The location data is used to help us offer the Location Reminder feature. Your location can be determined by Sensor data from your device. You can turn your Android device's location on or off using the device’s settings app.
+
+
+
+Why TickTick Collects Data
+
+We use data to build better services. Your information will not be shared with others and will only be used internally for the purposes described below:
+
+
+
+
+Provide our services
+
+We use your information to deliver our services or information you requested, and to process and complete any transactions.
+
+
+
+
+Maintain & improve our services
+
+We also use your information to ensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us. And we use your information to make improvements to our services - for example, to analyze usage and trends with anonymous user data, and to improve the quality of our service and user experience.
+
+
+
+
+Communicate with you
+
+TickTick collects email addresses from those who communicate with us via email, as well as information provided through voluntary activities such as site registration or survey participation. We use the information we collect to interact with you directly. 
+
+
+
+
+Protect TickTick, our users, and the public
+
+We use information to help improve the safety and reliability of our services. This includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm TickTick, our users, or the public.
+
+
+
+
+We use different technologies to process your information for these purposes. We'll ask for your consent before using your information for a purpose that isn't covered in this Privacy Policy. 
+
+
+You're also welcome to contact us to ask for our confirmation whenever you feel concerned about how your personal information is being processed, where and for what purpose.
+
+
+
+Your Privacy Controls
+
+While TickTick owns the TickTick application's code, databases, and all rights, you retain all rights to your data. You have choices regarding the information we collect and how it's used. TickTick will never sell your personal data with a third party, and we will never share data to third parties without your permission. When absolutely necessary, TickTick uses third party services and hosting partners who are GDPR-compliant. In such instances, we take essential security methods to guarantee that we comply with GDPR when sending and receiving data from third parties.
+
+
+
+How can I delete my account?
+
+You can delete your TickTick account with "Avatar - Settings - Account and Security" in TickTick website. If you terminate your Account, any association between your Account and information we store will no longer be accessible through your Account. We will stop providing products and/or services to you and delete your personal information as required by you.
+
+
+
+Cookies
+
+Cookies are required on TickTick's Website. We use them to collect visitors' preferences and thus to better optimize the user experience. Users can disable cookies in their browser settings. But please note that our services rely on cookies to function properly, and you may not be able to access certain features on our Website after disabling them.
+
+
+
+Keeping Your Information Secure
+
+TickTick is built with strong security features that continuously protect your information. SSL protocol secures all data and information transmitted with Service. The insights we gain from maintaining our services help us detect and automatically block security threats from ever reaching you. And if we do detect something risky that we think you should know about, we'll notify you and help guide you through steps to stay better protected.
+
+
+
+
+We work hard to protect you and TickTick from unauthorized access, alteration, disclosure, or destruction of information we hold. You can learn more about our security measures from the Security page. 
+
+
+
+Changes to This Policy
+
+If our Privacy Policy changes at some time in the future, we will not reduce your rights under this Privacy Policy without your explicit consent. We always indicate the date the latest changes were published. If changes are significant, we'll provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
+
+
+
+
+Please check back periodically to keep informed of updates or changes to this Privacy Policy. By continuing to access and to use TickTick, you are agreeing to be bound by the revised policy.
+
+
+
+
+To read more details and frequently asked questions about TickTick’s privacy and terms, please read the Privacy and Security FAQ in our Help Center. 
+
+
+
+
+Date of Last Revision: June 24, 2021
+
+
+
+
+Products
+Get Started
+Download Apps
+Premium
+Education Offer
+Gift Cards
+Support
+Help Center
+FAQ
+Translations
+Resources
+URL Scheme
+Refer Friends & Earn
+Integrations
+Ambassador Program
+About
+About Us
+Blog
+Media
+Legal
+Terms
+Privacy
+License
+Security
+English
+© 2022 TickTick Team

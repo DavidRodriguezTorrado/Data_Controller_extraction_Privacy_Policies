@@ -1,0 +1,211 @@
+Super Clean:Booster, CPU Cooler 
+
+What information do we collect?
+
+ 
+
+Device Information
+
+We collect your device and network connection information for analytical purpose only when you use our App. This information includes your device brand, the model of your device, your network status, etc. The device information that we collect does not contain any user sensitive information, such as device ID or anything that can be used to permanently identify a user or device.
+
+ 
+
+Information collected by Third-Party Analytical Tools
+
+Our app integrates SDKs from several analytical service providers for app optimization purpose. These third-party SDKs may also collect your information such as GAID (Google Advertising ID on Android devices) or IDFA (Identifier for Advertising on iOSdevices), region (defined as the location where a given language is used), location information and IP address. This Policy does not govern our third party analytical tools. You can find their privacy policy on their websites. The partners we select to work with include but are not limited to AppsFlyer (Appsflyer Inc.) and Firebase (analytical platform of Google LLC), etc. The information they provide to us is aggregated analytical data.
+
+ 
+
+  
+
+Information collected by Third-Party SDKs from our Monetization Partners
+
+Some of the third-party monetization SDKs integrated in our app may access your information for the purpose of ad optimization.  Such information includes GAID (Google Advertising ID on Android devices) or IDFA (Identifier for Advertising on iOSdevices), region (defined as the location where a given language is used), location information and IP address. This Policy does not govern our third party monetization partners, as they have their own privacy policies which can be viewed on their websites. We have no access to or control over such third parties. However, we have a routine procedure to scan all third party SDKs to detect if they collect sensitive user information. The partners we select to work with include but are not limited to Google AdMob (monetization platform of Google LLC), Facebook Audience Network (monetization platform of Facebook, Inc.), etc.
+
+ 
+
+ 
+
+Information You Directly and Voluntarily Provide to Us
+
+When you access or use our Services, you may provide the following information to us:
+
+Customer Support Information: If you are a visitor to the Site, or a user of the Apps, we may collect information that you provide to us when you communicate with any of our departments such as customer service or technical services.
+
+Profile Information: When using some of our Services, you may be able to add information to your profile, such as an avatar or profile picture, birthday, nickname or username, or country. You voluntarily provide this information to us.
+
+Your Content: When using some of our Services, you can create, post, upload or share content by providing us with access to your photos, media and files, and your device’s camera and microphone. You voluntarily provide this information to us.
+
+ 
+
+ 
+
+Information Automatically Collected Through the Services
+
+We automatically collect information about you when you use the Services, such as:
+
+Device Information: If you access the Services through a mobile device, we may be able to identify the general location of your mobile device (not precise geolocation data), your mobile device’s brand, model, operating system, resolution, screen size, system version, Bluetooth settings, internet connection, random-access memory (“RAM”), the application you have installed, the applications you have running in the background, mobile device's advertising ID, other unique identifiers and other information related to device setting.
+
+Cookies & Similar Tracking Information: We use cookies and similar tracking technologies to collect information about your interactions with our Services. The information we collect includes, but is not limited to, account activation time, content displayed to you and whether you clicked on it, advertisements displayed to you and whether you clicked on them, URLs you have visited, notifications that have appeared on your mobile device, your Internet Protocol (“IP”) address, your mobile country code, and your user ID.
+
+Content Sharing: When you choose to share content with us, we automatically collect information about your Wi-Fi connection, and call information.
+
+You may be able to limit the amount of information collected from your device (e.g., computer, phone, or tablet) with us by adjusting your device or browser settings. However, by preventing us from collecting information from you, we may not be able to provide some functions on our Services. For more information about our cookies and similar tracking technologies, and how to manage them, please read the Advertising Choices Policy.
+
+ 
+
+ 
+
+Information You Share on Third Party Websites or through Social Media Services
+
+The Services may include links to third-party websites and social media services where you may be able to post comments, stories, reviews or other information. Your use of these third-party websites and social media services may result in the collection or sharing of information about you by these third-party websites and social media services. We encourage you to review the privacy policies and settings on the third-party websites and social media services with which you interact to make sure you understand the information that may be collected, used, and shared by those third-party websites and social media services.
+
+ 
+
+ 
+
+How do we use this information?
+
+ 
+
+ 
+
+To improve our product
+
+As mentioned above, we collect your information for analytical purpose. This analytical data is only for app optimization. Some third-party monetization partners such as Facebook and Google may use the information they collected to optimize advertisement experience. Their use of information is governed by their privacy policy. We don’t have access to any such information they collected.
+
+ 
+
+To provide services
+
+We may use this information to provide service or features in our App. For example, we may access the apps installed on your phone to detect whether there is malware or virus and give you 24/7 real-time protection. 
+
+ 
+
+How is your information stored?
+
+ 
+
+For the information we collect, some is only stored on your device locally and some is stored safely in encrypted format in our servers. We have strict policies to control access and usage of such data. If you would like to have your information deleted, please contact us.
+
+ 
+
+ 
+
+How is your information shared?
+
+ 
+
+What important permissions we request
+
+ 
+
+Here we explain all important permissions that our app requests. These permissions are necessary for our app to perform certain features.
+
+ 
+
+We never share your information with third parties. All the information we collect is only for the purpose of optimizing our product and is safely stored in our server in an encrypted format. The information will not be disclosed to any third parties.
+
+ 
+
+ 
+
+Access information about Wi-Fi networks
+
+This permission allows Super Clean:Booster, CPU Cooler to check the user's current network status and perform the corresponding advertising strategy.
+
+ 
+
+Collect battery statistics
+
+This permission is used to get the battery usage data, in order to provide power consumption ranking in Battery Saver feature.
+
+ 
+
+Clear the caches of all installed applications
+
+This permission is required to clear the caches of all installed applications on users’ device in Junk Clean feature.
+
+ 
+
+Collect component usage statistics
+
+This permission is required to identify the applications that need to be locked for App Lock function and help users to manage apps usage.
+
+ 
+
+Expand or collapse the status bar
+
+This permission is only used to guide users when using notification organizer for the first time.
+
+ 
+
+Find out the space used by any package
+
+This permission is used to find out the space used by any package so as to provide Junk Clean and App Manager function.
+
+ 
+
+View the running apps
+
+This permission is used to view the running apps in order to clean up memory usage..
+
+ 
+
+Kill background processes
+
+We are allowed to stop other apps and boost your phone with this permission.
+
+ 
+
+Broadcast after the system finishes booting
+
+This permission is used to help App Lock run automatically when the phone is restarted.
+
+ 
+
+Create windows shown on top of all other apps
+
+This permission is used to make sure the battery saver function can be used normally and show the process of it and make sure the App Lock function can be used normally.
+
+ 
+
+The vibrator
+
+This permission allows App Lock to provide vibration feedback after wrong password input.
+
+ 
+
+Keep processor from sleeping or screen from dimming
+
+We are allowed to avoid screen dimming from the process of virus scan and junk scan.
+
+ 
+
+Read and write phone storage space
+
+Mounting and unmounting file systems
+
+These permissions are used to detect and delete junk files on users’ phone and allow Super Clean:Booster, CPU Cooler to read and store photographs if users use Photo Vault feature.
+
+ 
+
+Request install packages
+
+This permission is only used in App Manager feature to help users install apps easily.
+
+ 
+
+ 
+
+Contact us
+
+If you have any questions or suggestions about this policy, or you need to do your data management power to manage your privacy data, please feel free to contact us: xymkitty@gmail.com
+
+ 
+
+ 
+
+Update of Privacy Policy
+
+We reserve the right to revise or modify this Policy. For any update of this Policy, we will send you notice on the interface of this Product to remind you of relevant updates and indicate the updated provisions for your ease of reading. Please do completely read and fully understand the updated Privacy Policy. By continuing to use this Product, you will be deemed to have accepted the updated version of this Policy. We will not reduce your rights under this Policy without your explicit consent.

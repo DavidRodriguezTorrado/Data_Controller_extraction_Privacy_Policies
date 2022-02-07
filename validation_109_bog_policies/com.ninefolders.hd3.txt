@@ -1,0 +1,100 @@
+본문으로 이동
+nine folders
+Privacy policy
+
+9Folders, Inc. (“9folders,” “the Company,” “we,” “us,” or “our”) respects the privacy of our users (“customer,” “user,” or “you”) and is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, disclosed and safeguarded by the Company. This Privacy Policy applies to our app (the “Application,” or “App”) and by accessing or using our app or web site, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last modified” date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted. 9Folders Inc. built the Nine (“Nine - Email & Calendar,” “Nine Work for Android Enterprise,” “Nine Work for AirWatch,” “Nine Work for Intune,” “Nine Work for Rubus,” and “Nine Work for MobileIron Appconnect”) app as a Commercial app. This app and the website are provided by 9Folders Inc. and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+
+Not a cloud service
+
+Nine is not cloud-based. It only stores your accounts’ passwords on the actual device. It only connects to the actual mail servers. It only stores your messages on the device. Nine never passes user logins to 9Folders and 9Folders has no access to that information. If you choose to use our app, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+What information do we request to users, and for what purpose?
+
+We may collect information about you in a variety of ways. The information we may collect via the Application depends on the content and materials you use, and includes: - Information you provide to us directly. We may also collect any communications or customer supports between you and the Company and any other information you provide to the Company.
+
+InformationRequestand Use
+
+We use open authorization services such as Google OAuth. The App authenticates your identity and provides you the option to share certain information with us, including your name, email address, and access to your email inbox. We only communicate with Google servers through the Gmail API and its OAuth protocol, and never store any data or messages present in your inbox on our servers or other storage. You can revoke access at any time. When you log into your email accounts through Nine, you are granting the permission to Nine to securely access your information contained in or associated with those accounts. You are also providing your email address by logging into the application. When you correspond with us, we may keep the email address for future reference. For example, if you send us feedback, such communications may be preserved by us. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Nine unless otherwise defined in this Privacy Policy.
+
+Log Data
+
+We want to inform you that whenever you use our app, in a case of an error in the app we collect data and information on your phone called Log Data. This Log Data may include information such as your email addresses, device type, model, operating system version, the configuration of the app when utilizing our app, the time and date of your use of the app, and other statistics.
+
+OAUTH2
+
+Nine can use Gmail or Google Apps (G Suite) accounts with Google’s preferred authentication method, called OAUTH2. When adding a new account, you’ll need to choose “Gmail or G Suite”. If you upgrade an existing Gmail account registered in Nine, you can go to your own accounts (Gmail or G Suite) in Nine’s settings, then tap the Verify to authenticate the account, Nine will redirect you to OAUTH2 screen for Gmail. When using OAUTH2 for Gmail, Nine will not be able to see, store, or transmit your account’s password. Instead, it will use a so-called “access token” to log in. This access token uses complex math (cryptography) and cannot be used to recover the account’s password, even if the token is intercepted by a malicious third party. After you log in to Gmail, Nine may need permissions to allow you to use and manage emails in your account such as Read, Compose, Send, and Delete. If you trust Nine, Nine will help you handle your data properly in the way you expect. You can always see or remove access in your Google Account.
+
+Nine may want permission to do anything you can do in your Gmail, including:
+
+Read your emails
+Compose new emails
+Add new emails meant for a different email address into your inbox your inbox
+Send emails for you
+Delete your email
+Create, change or delete your email labels
+Get notified when certain kinds of emails appear in your Gmail inbox, like a travel confirmation
+
+In addition, Nine may need permission to manage your basic email settings like signature and vacation responder (out of office responder). Among these APIs, Nine will use APIs related to a signature and vacation responder settings. When Nine will use these API, Nine needs permission to manage these features of Gmail.
+
+View and manage primary Reply-To, display name and signature
+View and manage vacation responder settings
+
+If you don’t trust Nine, you can prohibit access in your Gmail account settings. Nine will not save or provide your sensitive data or private information to third-party or sites other than its purpose.
+
+Contacts
+
+Nine has the ability to access your phone’s contact list (emails and names) so as to add email recipients quickly and securely. We will not use your contact information for anything other than providing the Nine email service to you.
+
+Security
+
+Your privacy and security are extremely important to us. Nine complies with industry standard security practices to protect your data. Nine uses SSL (Secure Socket Layer) and other encryption technology such as AES 256 to protect your data where applicable.
+
+Customer Support Data
+
+Nine may contain an email address to receive the customer’s general questions and suggestions. These data may save to the other site’s solution. We will not use your contact information for anything other than providing the customer supports for the Nine emails to you.
+
+Links to Other Sites
+
+Nine may contain links to other sites to get users’ opinions. If you click on a third-party link, you will be directed to that site(www.feedbear.com). Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+Nine does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, you should contact the email service provider or hosting companies so that they will be able to do necessary actions. We abide by the sales policy of the Google Android Market.
+
+Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+
+Sharing and Disclosure of your information
+
+Nine will not sell, share or rent your information to third parties outside of Nine without your consent, except as noted below: We will disclose your information if required for compliance with the law, such as to comply with require a court order, to address a fraud or security issue, subpoenas, regulation or legal request, as well as to protect the safety of any person, or to protect our own rights or property. Nine works with third-party service providers to provide functions and services to us, and the Nine service to you. These providers will receive limited information as is reasonably necessary to advance the goals of Nine. If we are involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be transferred as part of that transaction. In any of these events, you will be notified via email and/or a prominent notice on our website of any changes in ownership or uses of your information, as well as any choices you may have regarding your personal information. In the event that we need to share data and statistics about ourutilizing with third parties, including investors, all information will be aggregated and stripped of any and all personally identifiable information.
+
+How to Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@9folders.com
+
+Company Name: 9Folders Inc.
+
+Address: 801 8F 296, Neungdong-ro, Gwangjin-gu, Seoul, Korea
+
+Support
+FAQ
+Release Notes
+- Android
+- iOS
+Guide
+Solutions
+Nine Work for Android Enterprise
+Nine Work for Airwatch
+Nine Work for MobileIron
+Nine Work for Intune
+Download
+Nine for Android
+Nine for iOS
+Purchase
+Voume License
+Privacy Policy
+Terms & Conditions
+Contacts
+
+Copyright © 2019 9Folders Inc. All Rights Reserved

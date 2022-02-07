@@ -1,0 +1,138 @@
+HOME
+PRIVACY POLICY
+ABOUT
+CONTACT US
+Privacy Policy
+
+Monster Games Productions its subsidiaries and its affiliates ("Company" or "We" or "Us" or "Our") respect the privacy of its users ("User" or "You"). We are committed to protect our User's Information. We believe that you have a right to know our practices regarding what information we collect for Admob or third party Advertisement serving technologies, and Google Analytics for collecting Games statistics we use in our Games, and under what circumstances, if any; how we use it. When you play our Games. We disclose it.
+
+IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT PLAY ANY GAMES OF MONSTER GAMES Productions.
+
+If we change or modify our privacy policy, we will post those changes to this privacy policy page. WE RESERVE THE RIGHT TO CHANGE OR MODIFY THIS PRIVACY POLICY AT ANY TIME, so please review it frequently.
+
+BY PLAYING OUR GAMES, YOU AGREE THE TERMS & CONDITIONS SET FORTH IN THIS PRIVACY POLICY, including to the possible collection and processing of your Personal Information (as defined below).
+
+OFFLINE USE
+
+Monster Games Productions allows the use of some features in its Games offline (without internet connection). Offline play of the Games will preclude the collection of any information pertaining to You and/or Your play of the Games (including, as applicable) by any Third Parties (defined below) and/or Monster Games Productions.
+
+ONLINE USE
+
+Monster Games Productions does not collect any information from its Users. Some information may nonetheless be collected through third party services which are used in Monster Games Productions Games such as advertising networks and stored on such Third Parties' servers.
+
+NON PERSONAL INFORMATION:
+
+Monster Games Productions allows Third parties to collect non personal information or non-identifiable information ("Non-Personal Information"). To put it simply, with respect to such Non Personal Information we have no idea what is the identity of the User from which Third Parties have collected the Non-personal Information.
+
+Non Personal Information collected by Third Parties may include the following technical information:
+
+• Type of operation system (e.g. Android, iOS, etc.)
+
+• Type of browser (e.g. Explorer, Firefox, Chrome, Safari, etc.)
+
+• Screen resolution (e.g. 800×600, 1024×768, etc.)
+
+• Language (e.g. English)
+
+• Device Vendor (e.g. Galaxy, HTC, iPhone, etc.)
+
+• Geo-location – only general location may be collected. No street name or city/town name is collected.
+
+Monster Games Productions allows Third Parties collection of Non Personal Information for strict and limited purposes. Namely, for the limited purpose of analyzing the Service in order to provide You with the Service functionalities and performance.
+
+PERSISTENT USER IDENTIFIER AND NO OTHER PERSONAL INFORMATION:
+
+Third Parties may also collect from Users a persistent User identifier. Monster Games Productions allows for this information to be collected strictly for internal operations of the Service including serving You with contextual advertisement ("contextual advertisement" are ads that are served to you without connection to any behavioral elements).
+
+Monster Games Productions does not allow Third Parties to collect information that may identify an individual (other than the persistent User identifier which is collected for the limited purpose of internal operations of the Service) nor does it allow the collection of any information of private and/or sensitive nature ("Personal Information").
+
+Monster Games Productions does not allow any personal information to be linked to the persistent identifier, even from other services.
+
+AD SERVING TECHNOLOGY
+
+Monster Games Productions's Games may employ proprietary or third party ad serving technologies that may use cookies, tracking pixels or other technologies to collect information as a result of ad serving through our Games as well as to help track results.
+
+Some dynamic in-game advertisement serving technology enable advertising to be temporarily uploaded into your Game, mobile device and replaced while you are online. We or third parties operating the advertisement serving technology may use information such as age and gender as well as information logged from your hardware or device to ensure that appropriate advertising is presented within the Games and to calculate or control the number of unique and repeat views of a given ad, and/or deliver ads that relate to your interests and measure the effectiveness of ad campaigns.
+
+We or third parties may collect data for this purpose including device ID's, information about your software, applications and hardware, browser information (and/or information passed via your browser), hardware, machine or device make and model, advertisement(s) served, in game location,
+
+length of time an advertisement was visible, other Internet and website usage information, web pages and mobile internet sites which have been viewed by you (as well as date and time), domain type, size of the advertisement, advertisement response (if any), and angle of view. The foregoing data may be used and disclosed per this policy and the privacy policy of the company providing the ad serving technology.
+
+These ad serving technologies are integrated into our Games; if you do not want to use this technology, do not play.
+
+Below are provider names of some of the third-party advertising services we use. Please see the links below to learn more about the privacy policy of our third-party service providers.
+
+Admob:https://www.google.com/policies/privacy/
+
+Unity Ads: https://unity3d.com/legal/privacy-policy/
+
+Chartboost: https://answers.chartboost.com/hc/en-us/articles/200780269-Privacy-Policy
+
+Adcolony: https://www.adcolony.com/privacy-policy/
+
+SECURITY
+
+We take a great care in maintaining the security of the Service and your information and in preventing unauthorized access to it through industry standard technologies and internal procedures, including through the use of encryption mechanisms. However, we cannot guarantee that unauthorized access will never occur.
+
+IN APP PURCHASE (IAP)
+
+We provide some features or item to be bought or unlocked as in game or app purchases through the mechanism provided by the app store (Google, Apple etc.). We take it for granted that any IAP made by You or your child is with your full knowledge, understanding and consent. As We do not force or fool the user to make any IAP so the company would not be responsible for any refund or claim whatsoever regarding IAP. This will only applicable if / when "In App Purchase" feature is added in our Games.
+
+ANALYTIC METRICS TOOLS AND OTHER TECHNOLOGIES
+Monster Games Studios also uses Google Analytics and Unity Analytics, a web analytic service offered by Google Inc and Unity Technologies .Google uses Firebase as a analytic metrics tool and Unity Technologies uses Unity Analytics as a analytic metrics tool in our Games to collect information when User plays our Games on mobile devices. Google Firebase Analytics and Unity Analytics uses "Cookies", text files that are stored on your device and that enables the analysis of your usage of the game you are currently playing or games you play. The information about your usage are collected through these cookies, will be transmitted to and stored on Google server based in the US and stored on Unity Technologies servers.
+
+On behalf of Monster Games Studios, Google and Unity Technologies will use this information in order to evaluate your usage of games played or currently playing, to make reports on game activities and/or to provide us with statistics report related to the- games.
+
+https://firebase.google.com/support/privacy/
+
+https://docs.unity3d.com/Manual/UnityAnalytics.html
+
+The General Data Protection Regulation (GDPR) is a European Union law regulating the data privacy of EU citizens. (https://www.eugdpr.org).
+
+For general information about Unity and GDPR, see https://unity3d.com/legal/gdpr.
+
+For Unity’s own privacy policy, see https://unity3d.com/legal/privacy-policy.
+
+INFORMATION SHARING
+
+We may share Information only in the following cases:
+
+•(1) to satisfy any applicable law, regulation, legal process, subpoena or governmental request;
+
+•(2) to enforce this Privacy Policy or the Terms of Use, including investigation of potential violations thereof;
+
+•(3) to detect, prevent, or otherwise address fraud, security or technical issues;
+
+•(4) to respond to claims that any content published on the Service violates any right of a third-party;
+
+•(5) to protect the rights, property, or personal safety of the Company, its Users or the general public;
+
+•(6) when Company is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of the assets of Company;
+
+•(7) pursuant to your approval, in order to supply certain services You have requested from Company;
+
+•(8) to let our partners and affiliates serve You with contextual advertisements only;
+
+QUESTIONS AND FEEDBACK
+
+If You have any questions concerning this Privacy Policy, You are most welcome to send us an email to the following address:
+
+admins@monstergamesproductions.com.au
+
+and we will make an effort to reply within a reasonable time frame.
+
+We Make Games That Rock.
+We make our games as fun as possible.
+Contacts
+E-mail: admin@monstergamesproductions.com.au
+Phone: +61470079776
+
+Address
+4/102 Lakemba Street,
+Lakemba,
+NSW 2195
+Australia
+
+Send a message
+
+©Monster Games Productions PTY LTD 2017. All Rights Reserved.
