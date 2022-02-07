@@ -30,7 +30,7 @@ contains_data_controller column refers to boolean classification output, while a
 - spacy_109_bog_actual_results.csv<br>
 
 This file contains the evaluation results of the spacy tool used for the extraction.<br>
-The expected output from spacy implementation can be found as boolean in spacy_results_bool column. The spacy expected boolean output can be found in spacy_expected column. True of False in both columns are referred to finding the Data Controller in the results array found in spacy_results column.
+The expected output from spacy implementation can be found as boolean in spacy_results_bool column. The spacy expected boolean output can be found in actual_contains_controller column (Any non controller paragraph should not be tested by Spacy). True of False in both columns are referred to finding the Data Controller in the results array found in spacy_results column.
 If there is no expected Data Controller due to missclassification of the Bag of Words classifier, expected result is an empty array and spacy_result_bool is True when the empty array is returned.
 
 - final_validation_109_bog.csv<br>
@@ -50,3 +50,13 @@ F1-score-negative: 0.9975279047119635<br>
 Accuracy: 0.9017436899939995<br>
 Conf_matrix: [103, 25, 8, 6658]
 
+SpaCy results metrics (final_validation_109_bog.csv):<br>
+<br>
+Precision: 1.0<br>
+Recall: 0.9137931034482759<br>
+F1-score: 0.9549549549549551<br>
+NVP: 0.0<br>
+Specificity: 0.0<br>
+F1-score-negative: 0.0<br>
+Accuracy: 0.9137931034482759<br>
+Conf_matrix: [106, 10, 0, 0]
