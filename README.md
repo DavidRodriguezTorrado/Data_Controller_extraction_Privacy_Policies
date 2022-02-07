@@ -37,3 +37,16 @@ If there is no expected Data Controller due to missclassification of the Bag of 
 
 This file contains the pipelined evaluation results of the classification method implemented to check if a paragraph contains or not Data Controller.<br>
 Pipelined metrics where obtained from comparing obtained output (expected_output column) with actual results (actual_contains_controller column, manually annotated).<br>
+
+## Metrics
+Pipelined classification + extraction results metrics (final_validation_109_bog.csv):<br>
+<br>
+Precision: 0.9279279279279279<br>
+Recall: 0.8046875<br>
+F1-score: 0.8619246861924686<br>
+NVP: 0.9962591650456382<br>
+Specificity: 0.9987998799879988<br>
+F1-score-negative: 0.9975279047119635<br>
+Accuracy: 0.9017436899939995<br>
+Conf_matrix: [103, 25, 8, 6658]
+
