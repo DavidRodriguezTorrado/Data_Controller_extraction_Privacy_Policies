@@ -1,6 +1,7 @@
 import subprocess
 import pandas as pd
 import spacy
+import ast
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import f1_score
 from sklearn.metrics import precision_score
@@ -207,4 +208,55 @@ def data_controller_spacy_extraction(df):
         spacy_list.append(entities)
 
     df['spacy_results'] = spacy_list
+    return df
+
+
+def get_probable_controller(df):
+    df["probable_controller"] = pd.NaT
+    df["probable_list_controller"] = pd.NaT
+
+    apk_list = df.apk.unique().tolist()
+    print(apk_list)
+    for apk in apk_list:
+        # Lista con los controladores ordenada de más probable a menos probable.
+        controller_list = []
+
+        for i in range(len(df)):
+            if df['apk'].iloc[i] == apk:
+                token_list = ast.literal_eval(df['token_list'].iloc[i])
+
+                # Primero nos quedamos con los posibles data controllers del copyright
+                if '©' in token_list or 'all rights reserved' in token_list:
+                    current_copyright_controller_list = ast.literal_eval(df['spacy_results'].iloc[i])
+                    for controller in current_copyright_controller_list:
+                        controller_list.append(controller)
+
+        # Ahora volvemos a recorrer el dataframe, pero guardaremos en la lista que contiene el controlador, los
+        # posibles resultados obtenidos en el párrafo
+        for i in range(len(df)):
+            if df['apk'].iloc[i] == apk:
+                token_list = ast.literal_eval(df['token_list'].iloc[i])
+
+                # Ya no guardamos los posibles data controllers del copyright
+                if '©' in token_list or 'all rights reserved' in token_list:
+                    pass
+                # Ahora vamos a guardar el resto de resultados
+
+                else:
+                    current_paragraph_controller_list = ast.literal_eval(df['spacy_results'].iloc[i])
+                    #sorted_list_paragraph_controller_list = sorted(current_paragraph_controller_list, key=len)
+                    for controller in current_paragraph_controller_list:
+                        controller_list.append(controller)
+
+        # Quitamos los duplicados de la lista del controlador
+        controller_list = list(dict.fromkeys(controller_list))
+        for i in range(len(df)):
+            if df['apk'].iloc[i] == apk:
+                print(controller_list)
+                df.at[i, 'probable_list_controller'] = controller_list
+                if len(controller_list) > 0:
+                    df.at[i, 'probable_controller'] = controller_list[0]
+                else:
+                    df.at[i, 'probable_controller'] = ''
+
     return df
