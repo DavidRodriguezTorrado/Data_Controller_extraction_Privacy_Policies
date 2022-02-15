@@ -14,6 +14,25 @@ Example, for pip Package Manager on a MacOS computer:
 `python -m spacy download en_core_web_trf`<br>
 
 
+## Test Top 100 Google Play Store apps [UPDATED]
+After enhacing the controller extraction algorithm, we performed a new test on 100 policies from Google Play Store. Those policies belong to top 100 free apps.
+Original policies text can be found in test_top_100_policies folder.
+Results are divided in:
+- app_info_results.csv which contains the controller found for each app
+- test_top_100_policies.csv which contains all policies divided by paragraph and the extraction performed in each iteration of the algorithm
+- test_top_100_policies_controller.csv which contains the positive paragraph (those annotated as probably containing controller) and the extraction performed in them.
+- mapa_calor_test_top_100.xlsx which contains controller founds by each method (from Google Play, from the certificate emisor of the apk or from the policy)
+
+# Metrics of the Top 100 Google Play apps test
+From the 100 privacy policy links, 96 where actually privacy policies. Just 74 of those where correctly extracted.
+In this test 68 correct controllers where identified by this algorithm out of the 74 valid policies (91.9%)
+Some of the incorrect ones are due to abreviations of the controller, which do not provide enough information for being considered as identified controller.
+Those results can be found in mapa_calor_test_top_100.xlsx file at test_top_100_policies folder.
+
+# Data Controller Extraction Algorithm [OUTDATED]
+
+Note: Following results of the validation and evaluation of the alogithm were performed before enhancing the algorithm to achieve better results by implementing a bruteforce method in the pipeline.
+
 ## Validation
 Validation folder contains 109 privacy policies in txt format used to test the correctness functionality of the NER script (Evaluation). <br>
 Those privacy policies were extracted from Google Play Store.
