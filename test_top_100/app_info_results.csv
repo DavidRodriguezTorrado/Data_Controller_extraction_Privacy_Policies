@@ -1,0 +1,101 @@
+apk;certificado;certificate_owner;propietario_PS;invalid_propietario_PS;policy_url;policy_SLD_domain;actual_controller;controller_policy;bruted_forced_controller
+com.zhiliaoapp.musically;CN=musical.ly, OU=android, O=musical.ly Inc., L=Shanghai, ST=Shanghai, C=86;musical.ly Inc.;TikTok Pte. Ltd.;;https://www.tiktok.com/legal/privacy-policy;tiktok.com;TikTok Technology Limited;Not-found-policy;
+com.squareup.cash;;;Square, Inc.;;https://cash.app/legal/us/en-us/privacy;cash.app;Square, Inc.;Not-found-policy;
+com.instagram.android;CN=Kevin Systrom, O=Instagram Inc, L=San Francisco, ST=California, C=US;Instagram Inc;Instagram;;http://instagram.com/legal/privacy/;instagram.com;Meta Platforms Ireland Limited;Not-found-policy;
+com.peacocktv.peacockandroid;;;Peacock TV LLC;;https://www.peacocktv.com/privacy;peacocktv.com;Peacock TV LLC;Not-found-policy;
+com.intuit.turbotax.mobile;;;Intuit Inc;;http://security.intuit.com/privacy;intuit.com;Intuit Inc.;Intuit Inc.;
+com.whatsapp;CN=Brian Acton, OU=Engineering, O=WhatsApp Inc., L=Santa Clara, ST=California, C=US;WhatsApp Inc.;WhatsApp LLC;;http://www.whatsapp.com/legal/#Privacy;whatsapp.com;WhatsApp LLC;Not-found-policy;WhatsApp
+com.disney.disneyplus;CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US;Google Inc.;Disney;;https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/;thewaltdisneycompany.com;The Walt Disney Company Limited;Disney;
+us.zoom.videomeetings;O=Zoom Video Communications Inc., C=US;Zoom Video Communications Inc.;zoom.us;;http://zoom.us/privacy/;zoom.us;Zoom Video Communications, Inc.;Zoom Video Communications, Inc.;
+com.snapchat.android;CN=Daniel Smith, OU=Captain Captcha, O=Snapchat, L=Los Angeles, ST=California, C=01;Snapchat;Snap Inc;;http://www.snapchat.com/privacy;snapchat.com;Snap Inc.;Snap Inc.;
+com.hbo.hbonow;CN=MLB Advanced Media - HBO NOW, O=MLB Advanced Media, L=New York, ST=NY, C=1;MLB Advanced Media;WarnerMedia Global Digital Services, LLC;;https://www.hbomax.com/privacy;hbomax.com;WarnerMedia Direct, LLC.;Direct, LLC;
+com.google.android.apps.nbu.paisa.user;;;Google LLC;;http://www.google.com/policies/privacy;google.com;Google LLC;Google LLC;
+com.dd.doordash;;;DoorDash;;https://www.doordash.com/privacy/;doordash.com;DoorDash, Inc.;Not-found-policy;
+com.tubitv;;;Tubi TV;;https://tubitv.com/privacy.html;tubitv.com;Tubi, Inc.;Tubi, Inc.;
+com.zzkko;CN=zzkko, OU=zzkko, O=zzkko, L=ShenZhen, ST=GuangDong, C=CN;zzkko;Shein Group Ltd;True;https://www.shein.com/Privacy-Security-Policy-a-282.html;shein.com;Infinite Styles Ecommerce Co., Ltd.;Not-English-policy;Infinite Styles Ecommerce Co., Ltd.
+com.netflix.mediaclient;"CN=PPD Builder, OU=PPD, O=""Netflix, Inc."", L=Los Gatos, ST=California, C=US";Netflix;Netflix, Inc.;;http://www.netflix.com/privacy;netflix.com;Netflix International B.V.;;Netflix
+com.facebook.orca;;;Meta Platforms, Inc.;;https://m.facebook.com/policy.php;facebook.com;Meta Platforms Ireland Limited.;;Facebook Platforms Ireland Limited
+com.gamma.scan;CN=QR & Barcode Scanner;;Gamma Play;;http://gammaplay.com/privacy_policy.php;gammaplay.com;Gamma Play Limited;Gamma Play;
+com.paypal.android.p2pmobile;O=Paypal;Paypal;PayPal Mobile;;https://www.paypal.com/webapps/mpp/ua/privacy-full;paypal.com;PayPal;Not-English-policy;
+com.discord;CN=Jason Citron, O=Hammer and Chisel, L=Burlingame, ST=CA, C=US;Hammer and Chisel;Discord Inc.;;https://discordapp.com/privacy/;discordapp.com;Discord, Inc.;Discord, Inc.;
+com.cleanteam.oneboost;CN=amber, OU=amber, O=amber, L=amber, ST=amber, C=amber;amber;One Dot Moblie Limited;True;https://sites.google.com/view/onefamliy2;google.com;OneFamily;OneFamily;
+com.spotify.music;CN=Spotify, OU=Android, O=Spotify, L=Stockholm, ST=Stockholm, C=SE;Spotify;Spotify AB;;https://www.spotify.com/legal/privacy-policy/;spotify.com;Spotify AB;Spotify AB;
+com.amazon.avod.thirdpartyclient;"CN=Amazon Services LLC, OU=""Java Object Signing O=Amazon Services LLC L=Las Vegas"", ST=""Nevada C=US""";Amazon Services LLC;Amazon Mobile LLC;;http://www.amazon.com/gp/help/customer/display.html?nodeId=468496;amazon.com;Amazon.com, Inc.;;Amazon
+com.roku.remote;;;Roku Inc.;;https://www.roku.com/about/privacy;roku.com;Roku, Inc.;Roku, Inc.;
+org.telegram.messenger;CN=Nikolay Kudashov, OU=VK, O=VK, L=Saint-Petersburg;VK;Telegram FZ-LLC;;https://telegram.org/privacy;telegram.org;Telegram Messenger Inc.;Telegram Messenger Inc.;
+com.picture.magic.imager;CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US;Google Inc.;Zachary Holt;;https://sites.google.com/view/magic-photo-editor-foto-repair;google.com;;Not-contains-controller;
+com.facebook.katana;;;Meta Platforms, Inc.;;https://www.facebook.com/about/privacy/;facebook.com;Meta Platforms Ireland Limited;Meta;
+gov.irs;CN=Jim Young, OU=Enterprise Services, O=Internal Revenue Service, L=Washington, ST=DC, C=US;Internal Revenue Service;Internal Revenue Service;;https://www.irs.gov/privacy-disclosure/irs-privacy-policy;irs.gov;Internal Revenue Service;;the Internal Revenue Service's
+com.mcdonalds.app;;;McDonalds USA, LLC;;https://www.mcdonalds.com/us/en-us/privacy-overview.html;mcdonalds.com;McDonalds;McDonald's;
+com.enflick.android.TextNow;;;TextNow, Inc.;;https://www.textnow.com/privacy;textnow.com;TextNow, Inc.;TextNow;
+com.myklarnamobile;O=Klarna;Klarna;Klarna Bank AB (publ);;https://www.klarna.com/international/privacy-policy/;klarna.com;Klarna Bank AB (publ);Klarna Bank AB;
+com.walmart.android;;;Walmart;;http://corporate.walmart.com/privacy-security/walmart-privacy-policy;walmart.com;Walmart Inc.;Walmart Inc.;
+com.amazon.mShop.android.shopping;"CN=Amazon Services LLC, OU=""Java Object Signing O=Amazon Services LLC L=Las Vegas"", ST=""Nevada C=US""";Amazon Services LLC;Amazon Mobile LLC;;https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496;amazon.com;Amazon.com, Inc.;;Amazon
+com.twitter.android;"CN=Leland Rechis, OU=Mobile, O=""Twitter, Inc."", L=San Francisco, ST=CA, C=US";Twitter;Twitter, Inc.;;http://twitter.com/privacy;twitter.com;Twitter, Inc.;Twitter, Inc.;
+com.fetchrewards.fetchrewards.hop;;;Fetch Rewards;;http://www.fetchrewards.com/privacy.jsp;fetchrewards.com;Fetch Rewards™, Inc;2022 Fetch Rewards;
+com.root.clean.boost.explorer.filemanager;CN=File Master;;SmartVisionMobi;True;https://sites.google.com/view/filemasterprivacypolicy-new;google.com;File Master;File Master;
+com.gnext.x;;;GNEXT INC;True;https://ifunnyx.co/app/privacy;ifunnyx.co;iFunny X;Not-found-policy;
+com.hulu.plus;;;Hulu;;https://www.hulu.com/privacy;hulu.com;Hulu, LLC;Hulu, LLC;
+com.venmo;;;PayPal, Inc.;;https://venmo.com/info/privacy-policy;venmo.com;PayPal, Inc.;Venmo;
+com.ubercab.eats;"CN=MobileCI, OU=""Uber Technologies, Inc."", O=Mobile, L=San Francisco, ST=CA, C=US";Mobile;Uber Technologies, Inc.;;https://www.uber.com/privacy;uber.com;Uber Technologies Inc.;Uber Technologies Inc.;
+com.tool.fast.smart.cleaner;CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US;Google Inc.;annajiao;;https://bit.ly/3CcLmfn;bit.ly;;Not-contains-controller;
+co.mona.android;CN=monaco, OU=monaco, O=monaco, L=hk, ST=hk, C=hk;monaco;Crypto Technology Holdings Limited;;https://crypto.com/en/privacy/global.html;crypto.com;Crypto.com;Crypto.com;
+com.coinbase.android;"CN=""Coinbase, Inc."", OU=Unknown, O=Unknown, L=Unknown, ST=Unknown, C=Unknown";Unknown;Coinbase Android;;https://coinbase.com/legal/privacy;coinbase.com;Coinbase Europe, Limited.;Not-found-policy;
+com.casttotv.screenmirroring.castphonetotv;CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US;Google Inc.;Admire Lite;;https://hdvideoprojpro.blogspot.com/2021/11/privacy-policy.html;hdvideoprojpro.blogspot.com;;Not-contains-controller;
+com.reddit.frontpage;CN=Mobile Apps, O=reddit Inc., L=San Francisco, ST=CA, C=US;reddit Inc.;reddit Inc.;;https://www.reddit.com/help/privacypolicy;reddit.com;reddit Inc.;Reddit Inc.;
+com.creditkarma.mobile;;;Credit Karma, Inc.;True;http://www.creditkarma.com/about/privacy;creditkarma.com;Intuit Inc.;Intuit Inc.;
+com.shopify.arrive;CN=Allan Godding, OU=Shopify, O=Shopify, L=Ottawa, ST=Ontario, C=CA;Shopify;Shopify Inc.;;https://tryarrive.com/privacy-policy;tryarrive.com;Shopify Inc.;;Shopify
+com.lemon.lvoverseas;CN=lemon, O=bytedance;bytedance;Bytedance Pte. Ltd.;;https://lv.faceueditor.com/clause/privacy?language=en;faceueditor.com;Bytedance Pte. Ltd.;CapCut;
+tv.pluto.android;CN=Jon Willis, O=Pluto TV, L=Los Angeles, ST=California, C=US;Pluto TV;Pluto, Inc.;True;https://corporate.pluto.tv/privacy-policy/;pluto.tv;ViacomCBS;ViacomCBS;
+com.bravo.booster;;;Bravo GmbH;;https://docs.google.com/document/d/1eBGFPxXn4zHC-udhuPen-b4r00Z2HTTeOxG3B2SapHU/edit?usp=sharing;google.com;Bravo GmbH;Not-found-policy;
+com.tool.power.sweep.clean;CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US;Google Inc.;Louis  Campbell;;https://bit.ly/2WeVmVU;bit.ly;;Not-contains-controller;
+com.king.candycrushsaga;CN=Cristian Bidea, OU=Mobile, O=king.com, L=Bucharest, ST=Romania, C=RO;king.com;King;;https://king.com/privacyPolicy;king.com;King.com Ltd.;King.com Ltd.;
+com.moonactive.coinmaster;CN=Lior Tal, OU=Moon Active, O=Moon Active, L=Unknown, ST=Unknown, C=IL;Moon Active;Moon Active;;https://moonactive.com/privacy-policy/;moonactive.com;Moon Active Ltd. ;Not-found-policy;
+com.supercell.clashofclans;;;Supercell;;http://www.supercell.net/privacy-policy;supercell.net;Supercell;;Supercell
+com.roblox.client;CN=Matt Critelli, OU=Mobile, O=Roblox Corporation, L=San Mateo, ST=CA, C=01;Roblox Corporation;Roblox Corporation;;http://www.roblox.com/info/Privacy.aspx;roblox.com;Roblox Corporation;Not-found-policy;
+com.miHoYo.GenshinImpact;;;COGNOSPHERE PTE. LTD.;;https://genshin.mihoyo.com/en/company/privacy;mihoyo.com;COGNOSPHERE PTE. LTD.;miHoYo;
+com.topgamesinc.evony;CN=Top Games;;TG Inc.;;http://m.evony.com/PrivacyPolicy.html;evony.com;Top Games, Inc.;Top Games, Inc.;
+com.plarium.raidlegends;CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US;Google Inc.;Plarium Global Ltd;;http://plarium.com/en/privacy-and-cookie-policy/;plarium.com;Plarium Global Ltd;Plarium;
+air.com.buffalo_studios.newflashbingo;;;Playtika Santa Monica;;https://www.playtika.com/privacy-policy;playtika.com;Playtika Holding Corp.;Playtika;
+com.dts.freefireth;CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US;Google Inc.;Garena International I;;https://ff.garena.com/others/policy/en/;garena.com;Garena Online Private Limited;Garena International;
+com.playrix.township;;;Playrix;True;https://www.playrix.com/privacy/index.html;playrix.com;PLR Worldwide Sales Limited;Not-found-policy;
+com.king.candycrushsodasaga;CN=Cristian Bidea, OU=Mobile, O=king.com, L=Bucharest, ST=Romania, C=RO;king.com;King;;https://king.com/privacyPolicy;king.com;King.com Ltd.;King.com Ltd.;
+com.playrix.homescapes;;;Playrix;True;https://www.playrix.com/privacy/index.html;playrix.com;PLR Worldwide Sales Limited;Not-found-policy;
+com.williamsinteractive.jackpotparty;O=Slot Machine Factory;Slot Machine Factory;SciPlay;;https://www.sciplay.com/terms-of-service/#!/privacy;sciplay.com;SciPlay Corporation;SciPlay Corporation;
+com.nianticlabs.pokemongo;"CN=Unknown, OU=""Niantic, Inc."", O=""Niantic, Inc."", L=San Francisco, ST=California, C=CA";Niantic;Niantic, Inc.;;https://nianticlabs.com/privacy/pokemongo/en;nianticlabs.com;Niantic, Inc.;Niantic, Inc.;
+com.lilithgame.roc.gp;C=86, ST=sichuan, L=chengdu, O=legoutech, OU=legoutech, CN=roc;legoutech;LilithGames;;http://www.lilithgames.com/privacy_lilith.html;lilithgames.com;Lilith Games;;Lilith Applications
+com.more.dayzsurvival.gp;CN=DayZSurvival, OU=Innovator, O=im30, L=Beijing, C=100085;im30;Long Tech Network Limited;True;http://im30.net/privacy.html;im30.net;Longchuang Yuedong Company;Longchuang Yuedong Company;
+com.global.ztmslg;CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US;Google Inc.;37GAMES;;https://msupport.37games.com/about/privacy;37games.com;37Games;37Games;
+com.playrix.fishdomdd.gplay;;;Playrix;True;https://www.playrix.com/privacy/index.html;playrix.com;PLR Worldwide Sales Limited;Not-found-policy;
+com.igg.android.lordsmobile;C=TW, ST=Taiwan, L=Taipei, O=IGG, OU=IGEE RD2, CN=Victor Yu;IGG;IGG.COM;;https://policies.igg.com/privacy_policy;igg.com;IGG Games;;Facebook
+com.dreamgames.royalmatch;CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US;Google Inc.;Dream Games, Ltd.;;https://dreamgames.com/en/privacy;dreamgames.com;Dream Games, Ltd.;Dream Games;
+net.peakgames.toonblast;;;Peak;;https://peak.com/privacy;peak.com;Peak;Peak;
+air.com.playtika.slotomania;;;Playtika;;https://www.playtika.com/privacy-policy;playtika.com;Playtika Holding Corp.;Playtika;
+com.playrix.gardenscapes;;;Playrix;True;https://www.playrix.com/privacy/index.html;playrix.com;PLR Worldwide Sales Limited;Not-found-policy;
+com.activision.callofduty.shooter;"CN=Daniel Nichols, OU=TRG Submissions, O=""Activision Publishing, Inc."", L=El Segundo, ST=CA, C=US";Activision Publishing;Activision Publishing, Inc.;;https://www.activision.com/legal/privacy-policy;activision.com;Activision Publishing, Inc.;Not-English-policy;
+com.kingsgroup.sos;CN=KingsGroup, OU=KingsGroup, O=KingsGroup, L=Beijing, ST=Beijing, C=zh-CN;KingsGroup;FunPlus International;True;https://kg-account-cn-cdn.kingsgroup.cn/privacy/en;kingsgroup.cn;KingsGroup Holdings;KingsGroup Holdings;
+com.productmadness.cashmancasino;O=ProductMadness, CN=Product Madness;ProductMadness;Product Madness;;https://www.productmadness.com/private-policy/;productmadness.com;Product Madness (U.K.) Limited;Product Madness (U.K.) Limited;
+slots.pcg.casino.games.free.android;;;SpinX Games Limited;;https://grandegames.com/privacy;grandegames.com;SpinX Games Ltd.;Not-found-policy;
+net.supertreat.solitaire;;;Supertreat - A Playtika Studio;True;https://www.playtika.com/privacy-policy;playtika.com;Playtika Holding Corp.;Playtika;
+com.gramgames.mergedragons;C=TR, ST=Kadikoy, L=Istanbul, O=Gram Games, OU=Gram Games, CN=Gram Games;Gram Games;Gram Games Limited;True;https://www.zynga.com/privacy/policy;zynga.com;Zynga Game Ireland Limited;ZYNGA INC.;
+com.foxnextgames.m3;;;Scopely;;https://scopely.com/privacy/;scopely.com;SCOPELY;Scopely;
+com.scopely.startrek;;;Scopely;;http://scopely.com/privacy/;scopely.com;SCOPELY;Scopely;
+com.diamondlife.slots.vegas.free;;;SpinX Games Limited;;https://spinxgames.com/privacy;spinxgames.com;SpinX Games Ltd.;Not-found-policy;
+com.playstudios.popslots;CN=PopSlots Distribution Key, OU=TechOps, O=PopSlots;PopSlots;PLAYSTUDIOS INC;;https://www.playstudios.com/privacy-policy;playstudios.com;PLAYSTUDIOS, Inc.;PLAYSTUDIOS, Inc.;
+com.gsn.android.tripeaks;CN=Nate Smith, OU=SilverTree Media, O=GSN, L=Palo Alto, ST=CA, C=US;GSN;GSN Games, Inc.;;http://gsngamesnetwork.com/privacy.html;gsngamesnetwork.com;GSN Games, Inc.;GSN Games, Inc.;
+com.topwar.gp;;;Topwar Studio;True;https://www.rivergame.net/en/article.html?footer/privacy_policy;rivergame.net;RIVERGAME.NET;Not-found-policy;
+com.smallgiantgames.empires;CN=Small Giant Games, OU=Small Giant Games, L=Helsinki;;Small Giant Games;True;https://www.zynga.com/privacy/policy;zynga.com;Zynga Game Ireland Limited;;Zynga
+com.ddi;O=DDI Interactive;DDI Interactive;DoubleDown Interactive LLC;;http://www.doubledowninteractive.com/privacy/index.html;doubledowninteractive.com;DoubleDown Interactive, LLC;DoubleDown Website;
+com.bandainamcogames.dbzdokkanww;CN=NAMCO BANDAI Games Inc., OU=NAMCO BANDAI Games Inc., O=NAMCO BANDAI Games Inc., L=Shinagawa-ku, ST=Tokyo, C=jp;NAMCO BANDAI Games Inc.;BANDAI NAMCO Entertainment Inc.;;https://legal.bandainamcoent.co.jp/privacy/;bandainamcoent.co.jp;BANDAI NAMCO Entertainment Inc.;Not-found-policy;
+com.aniplex.fategrandorder.en;;;Aniplex Inc.;;https://www.aniplex.co.jp/eng/privacy_fgo.html;aniplex.co.jp;Aniplex Inc.;Aniplex Inc.;
+com.stove.epic7.google;CN=palmple Inc., OU=palmple Inc., O=palmple Inc., L=Seongnam-si, ST=Gyeonggi-do, C=KR;palmple Inc.;Smilegate Megaport;;https://www.smilegatemegaport.com/terms/index?gameType=EPIC7&termsType=2;smilegatemegaport.com;Smilegate Megaport. ;Smilegate Megaport;
+com.huuuge.casino.slots;CN=Gamelion Studios, OU=Gamelion Studios, O=Gamelion Studios, L=Szczecin, ST=zachodniopomorskie, C=PL;Gamelion Studios;Huuuge Games - Play Together;;http://www.huuugegames.com/privacy-policy/;huuugegames.com;Huuuge Global Limited;Huuuge Games;
+dk.tactile.lilysgarden;;;Tactile Games;;https://tactilegames.com/legal/privacy.html;tactilegames.com;Tactile Games ApS;;Tactile
+com.bgg.jump;C=US, ST=California, L=Palo Alto, O=Bubblegum Games LLC, OU=Engineering, CN=Bubblegum Games;Bubblegum Games LLC;Magic Tavern, Inc.;;https://www.magictavern.com/privacy.html;magictavern.com;Magic Tavern, Inc.;Magic Tavern;
+com.ea.game.starwarscapital_row;O=Electronic Arts;Electronic Arts;ELECTRONIC ARTS;;http://privacy.ea.com/en;ea.com;Electronic Arts Inc.;EA;
+com.productmadness.lightninglink;O=Product Madness;Product Madness;Product Madness;;https://www.productmadness.com/private-policy/;productmadness.com;Product Madness (U.K.) Limited;Product Madness (U.K.) Limited;
+com.playtika.wsop.gp;CN=Jean-Philippe Pinsonneault, OU=Playtika, O=wsop, L=Montreal, ST=QC, C=CA;wsop;Playtika;;https://www.playtika.com/privacy-policy;playtika.com;Playtika Holding Corp.;Playtika;
+com.funplus.kingofavalon;CN=funplus, OU=funplus, O=funplus, L=Beijing, ST=Beijing, C=zh-cn;funplus;Century Games Publishing;;https://www.centurygame.com/privacy-policy;centurygame.com;CenturyGames ;Century Games;
+com.gameloft.android.ANMP.GloftA8HM;O=Gameloft, L=New York, ST=NewYork, C=US;Gameloft;Gameloft SE;;https://www.gameloft.com/es/privacy-notice/;gameloft.com;Gameloft SE;Not-English-policy;
+com.MelsoftGames.FamilyIslandFarm;;;Melsoft Games Ltd;;https://www.moonactive.com/privacy-policy/;moonactive.com;Moon Active Ltd.;2022 Moon Active Ltd.;
+com.bbgame.sgzapk.tw;;;SialiaGames;True;https://account.sialiagames.com.tw/privacy.zh-TW.html;sialiagames.com.tw;Jade Bird Interactive Entertainment Co., Ltd.;Not-found-policy;
