@@ -2,8 +2,8 @@
 Application of Named Entity Recognition (NER) to Privacy Policies in order to extract the Data Controller from a Privacy Policy
 
 ## Usage:
-data_controller_extraction.py file contains the core functionality. Which is based on different available methods depending on the input format of the Privacy Policies. Each method return is always a Pandas Dataframe containing paragraphs with their corresponding output<br>
-An example of usage can be found in test_data_controller_extraction.py
+pipeline_controller_extraction.py file contains the core functionality. Which is based on different available methods depending on the input format of the Privacy Policies. Each method return is always a Pandas Dataframe containing paragraphs with their corresponding output<br>
+An example of usage can be found in test_pipeline_controller.py
 
 To use the trained SpaCy model, a guide depending on your pc properties can be found at: [SpaCy Guide](https://spacy.io/usage)
 
