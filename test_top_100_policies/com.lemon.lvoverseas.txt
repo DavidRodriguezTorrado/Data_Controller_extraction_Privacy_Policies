@@ -1,0 +1,245 @@
+Privacy Policy
+
+Last Updated: January 28, 2022
+
+Welcome to CapCut (the “Platform”). The Platform is provided and controlled by Bytedance Pte. Ltd. (“we” or “us”). We are committed to protecting and respecting your privacy. This Privacy Policy (the “Policy”) sets out the basis on which any information we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will handle it. By accessing or using the Platform, services, applications, products and content (collectively, the “Services”), you acknowledge the practices described in the Policy. For purposes of the Policy, “you” and “your” means you as the user of the Services.
+
+SUMMARY
+
+What information do we collect about you?
+
+We collect and process information about you if you use the Platform and interact with the Services and related content such as our web pages. This includes technical and behavioral information about your use of the Services.
+
+How will we use the information about you?
+
+We use your information to provide the Services to you and to improve, develop and administer it. We use your information to ensure your safety.
+
+Who do we share your information with?
+
+We may share your information with third party service providers who help us to deliver the Platform, or with any member of our group to improve the Platform or for internal business purposes. Where and when required by law, we will share your information with law enforcement agencies or regulators, and with third parties pursuant to a legally binding court order.
+
+How long do we keep hold of your information?
+
+We retain your information for as long as it is necessary to provide you with the Services and fulfil our contractual obligations and rights in relation to the information involved. Where we do not need your information in order to provide the Services to you, we retain it only as long as we have a legitimate business purpose in keeping such data or where we are subject to a legal obligation to retain the data. We will also retain your information if we believe it is or will be necessary for the establishment, exercise or defence of legal claims.
+
+How will we notify you of any changes to the Policy?
+
+We will use commercially reasonable efforts to generally notify all users of any material changes to the Policy through a notice on the Platform. However, you should look at the Policy regularly to check for any changes. We will also update the “Last Updated” date at the top of the Policy, which reflects the effective date of such policy. Your continued access to or use of the Services after the date of the updated Policy constitutes your consent to the updated Policy. If you do not consent to the updated Policy, you must stop accessing or using the Services.
+
+The types of information we collect
+
+Information you choose to provide. When you register or otherwise interact with the Services, you may give us information and content including photographs, videos and audio files that you upload. We may also collect your feedback about the Services if you choose to provide it.
+
+Information we collect automatically. We may collect the following information about you:
+
+Technical information we collect about you. We automatically collect certain information from you when you access or use the Services, including IP address, unique device identifiers, network type and connections, mobile or device model, device manufacturer, mobile phone area, application version number, operating system, information about operations and behaviors performed on the device, CPU and GPU information, device resolution, system language and region, battery information, and information regarding your use of the Platform. We infer your location based on your IP address.
+
+Behavioral information we collect about you. We also collect information regarding your use of the Services, e.g., video editing acts.
+
+If you use the auto caption function, we will collect the transcribed text and the edited text in order to develop and improve this function.
+
+Information we obtain from other sources. We may receive information about you from other sources, including through third-party services or providers. For example, if you access third-party services through the Services or share information about your experience on the Services with others, we may collect information from these third-party services.
+
+Cookies. Cookies are small files which, when placed on your device, enable us to collect certain information, including personal data, from you in order to provide certain features and functionality. We and our service providers and business partners use Cookies to collect data and recognize you and your device(s) on the Platform and elsewhere across your different devices. We do this to measure the traffic and functionality of our website. To learn more about cookies please see our Cookies Policy.
+
+How we use your information
+
+We will use the information in the following ways:
+
+We may use your information to:
+
+provide you with the Services;
+
+notify you about changes to the Services;
+
+provide you with user support;
+
+enforce our terms, conditions and policies; and
+
+communicate with you.
+
+As it is in our legitimate interests to be responsive to you and to ensure the proper functioning of our products and organization, we may use your information to:
+
+improve the Platform and to ensure tools on the Platform are presented in the most effective manner for you and your device;
+
+administer the Platform and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+
+allow you to participate in interactive features of the Platform, when you choose to do so;
+
+keep the Platform safe and secure; and
+
+develop our Platform and conduct product development.
+
+We may also use your information with your consent or at your direction.
+
+How we share your information
+
+We don’t sell any of your information and we impose restrictions on how partners can use the data we provide. We may disclose the categories of personal information discussed above for a business purpose to selected third parties in or outside your country, including with:
+
+our service providers, suppliers and subcontractors who help us run the Platform;
+
+data analytics, crash analytics, and search engine providers that assist us in the improvement and optimization of the Platform.
+
+We may share your information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, or companies that we control, are controlled or under common control, and our service providers and strategic business partners, in each case in or outside your country, for the purposes set out above, as permitted by applicable law, to assist in the improvement and optimization of the Platform, or for our internal business purposes.
+
+We may share your information with law enforcement agencies, public authorities or other organizations if legally required to do so, or if we have a good faith belief that such use is reasonably necessary to:
+
+comply with legal obligation, process or request;
+
+enforce our Terms of Service and other agreements, policies, and standards, including investigation of any potential violation thereof;
+
+detect, prevent or otherwise address security, fraud or technical issues; or
+
+protect the rights, property or safety of us, our users, a third party or the public as required or permitted by law (including exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction).
+
+We may also disclose your information to third parties:
+
+in the event that we sell or buy any business or assets in which case we may disclose your information to the prospective seller or buyer of such business or assets; or
+
+if we sell, buy, merge, are acquired by, or partner with other companies or businesses, or sell some or all of our assets. In such transactions, user information may be among the transferred assets.
+
+In this case, we will ensure that the terms of the Policy are observed and will inform you in advance if the transfer implies any change to these terms.
+
+Finally, we may share information otherwise with your consent or at your direction.
+
+Third-party content
+
+The Services may contain links to content maintained by third parties who we do not control. We are not responsible for the privacy practices of these third parties, and the information practices of these third parties are not covered by the Policy.
+
+Where we store your information
+
+The information that we collect from you may be transferred to, and stored at, a destination inside or outside of your country, for the purposes as described in the Policy. By submitting your information, you agree to this transfer, storing or processing. We will take reasonable steps to secure your information and treat it in accordance with the Policy.
+
+Your choices
+
+We provide tools in settings that allow you to control how you use the Platform. If you have any questions on how to use or want to know about any rights you may have in the country where you live, please contact us at capcut.support@bytedance.com.
+
+The security of your information
+
+We will take reasonable steps to secure your information and treat it in accordance with the Policy. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your information, we cannot guarantee the security of your information transmitted through the Platform. We have put in place technical and organizational measures that we will amend and update from time to time to improve the overall security of our systems.
+
+Data retention
+
+We will delete your information upon request. Otherwise, we will use the following criteria to determine the period for which we will keep your information:
+
+our contractual obligations and rights in relation to the information involved;
+
+legal obligations under applicable laws and regulations to retain data for a certain period of time;
+
+statute of limitations under applicable laws;
+
+our legitimate business purposes; and
+
+disputes or potential disputes.
+
+After you have terminated your use of our Services, we may store your information in an aggregated and anonymized format. Notwithstanding the foregoing, we may also retain any personal information as reasonably necessary to comply with our legal obligations, allow us to resolve and litigate disputes, and to enforce our agreements.
+
+Information relating to children
+
+The Platform is not directed at children under the age of 13. Users under the relevant age are not allowed to use the Platform. If we become aware that personal information has been collected from a person under the relevant age, we will delete the user’s information in accordance with applicable law. If you believe that we may have information about or collected from a child under the relevant age, please contact us at capcut.support@bytedance.com.
+
+Complaints
+
+In the event that you wish to make a complaint about how we process your personal information, please contact us in the first instance at capcut.support@bytedance.com and we will endeavor to deal with your request as soon as possible. This is without prejudice to your right to launch a claim with your information protection authority or follow the dispute process.
+
+Changes
+
+We will use commercially reasonable efforts to generally notify all users of any material changes to the Policy, such as through a notice on our Platform, however, you should look at the Policy regularly to check for such changes. We will also update the “Last Updated” date at the top of the Policy, which reflects the effective date of such policy. Your continued access to or use of the Services after the date of the updated Policy constitutes your consent to the updated Policy. If you do not consent to the updated Policy, you must stop accessing or using the Services.
+
+Contact
+
+Questions, comments and requests regarding the Policy are welcomed and should be addressed to:
+
+CapCut, Bytedance Pte. Ltd.
+
+Email: capcut.support@bytedance.com
+
+Address: 1 Raffles Quay, #26-10, South Tower, Singapore 048583
+
+SUPPLEMENTAL TERMS – JURISDICTION SPECIFIC
+
+In the event of a conflict between the provisions of the Supplemental Terms – Jurisdiction Specific that are relevant to your jurisdiction from which you access or use the Services, and the rest of the Policy, the relevant jurisdiction’s Supplemental Terms – Jurisdiction Specific will supersede and control.
+
+United States
+
+If you are using our Services in the United States, the following additional terms apply:
+
+California Privacy Rights
+
+If you are a California resident, you may request certain information about our disclosure of personal information to third parties for their own direct marketing purposes during the preceding calendar year. This request is free and may be made once a year. Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites. Our products do not support Do Not Track requests at this time.
+
+Pursuant to the California Consumer Privacy Act (“CCPA”), California residents ,subject to verification, may request to see what personal information we have collected about them over the past 12 months, including the categories of personal information that the business has collected about the consumer, the categories of sources for that information, the business or commercial purposes for collecting the information, the categories of third parties with which the information was shared, and the specific pieces of personal information collected about them. If you are a California resident, you may also request that we delete your personal information subject to certain exceptions. Consistent with California law, if you choose to exercise either of these rights, we will not charge you different prices or provide different qualities of services unless those differences are related to your information. Please submit your request via the following method:
+
+capcut.support@bytedance.com
+
+We do not sell personal information to third parties for purposes of the CCPA. We may permit third parties to collect personal information through our Services and share each of the categories of personal information described above with third parties for business purposes. These business purposes are described above and include providing advertising on our products and services and elsewhere based on users’ online activities over time and across different sites, services, and devices (so-called “interest-based advertising”) and website and online service analytics. The information practices of these third parties are not covered by the Policy.
+
+EEA, Switzerland and UK
+
+If you are using the Services in the EEA, Switzerland or the UK (the “European Region”), the following additional terms apply:
+
+International data transfers
+
+If you normally reside in the European Region, the personal data that we collect from you will be further transferred to, and stored at, a destination outside of the European Region (for instance, to our service providers and partners). These transfers are made pursuant to appropriate safeguards, such as standard data protection clauses adopted by the European Commission, If you wish to enquire further about these safeguards, please contact us at capcut.support@bytedance.com.
+
+Your rights
+
+You have the following rights:
+
+• The right to request free of charge (i) confirmation of whether we process your personal data and (ii) access to a copy of the personal data retained;
+
+• The right to request proper rectification or removal of your personal data or restriction of the processing of your personal data;
+
+• Where processing of your personal data is either based on your consent or necessary for the performance of a contract with you and processing is carried out by automated means, the right to receive the personal data concerning you in a structured, commonly used and machine-readable format or to have your personal data transmitted directly to another company, where technically feasible (data portability);
+
+• Where the processing of your personal data is based on your consent, the right to withdraw your consent at any time (withdrawal will not impact the lawfulness of data processing activities that have taken place before such withdrawal);
+
+• The right not to be subject to any automatic individual decisions, including profiling, which produces legal effects on you or similarly significantly affects you unless we have your consent, this is authorised by Union or Member State law or this is necessary for the performance of a contract;
+
+• The right to object to processing if we are processing your personal data on the basis of our legitimate interest unless we can demonstrate compelling legitimate grounds which may override your right. If you object to such processing, we ask you to state the grounds of your objection in order for us to examine the processing of your personal data and to balance our legitimate interest in processing and your objection to this processing;
+
+• The right to object to processing your personal data for direct marketing purposes; and
+
+• The right to lodge complaints before the competent data protection regulator.
+
+Before we can respond to a request to exercise one or more of the rights listed above, you may be required to verify your identity or your account details.
+
+Please send an e-mail to us if you would like to exercise any of your rights capcut.support@bytedance.com.
+
+If you are based in the United Kingdom, our designated GDPR representative is:
+
+Cosmo Technology Private Limited
+
+2 Temple Back East
+
+Temple Quay
+
+Bristol
+
+United Kingdom
+
+BS1 6EG
+
+If you are based in the EEA or Switzerland, our designated GDPR representative is:
+
+Mikros Information Technology Ireland Limited
+
+Mespil Business Centre
+
+Mespil House
+
+Sussex Road
+
+Dublin 4
+
+Ireland
+
+Russia
+
+What are legal grounds for data processing. When we process your personal data, we rely on your consent, performance of a contract, our legitimate interest and obligations to process personal data, when we so required by law.
+
+By signing up and using the Platform, you consent to the processing of personal data in accordance with this Privacy Policy.
+
+Where we store your personal data. Your personal data may be transferred from Russia to Singapore and stored in that location, outside of the country where you live.
+
+Public profiles. We rely on your consent to public distribution of personal data, when your account settings are 'Public Profile'. You can change your profile to private by changing your settings to 'Private Account' in “Manage my account” settings.

@@ -1,0 +1,206 @@
+Game Privacy Policy of Longchuang Yuedong
+(Update Date: July 20th, 2021)
+
+Welcome to games provided by Longchuang Yuedong Company (including Beijing Longchuang Yuedong Network Technology Co., Ltd., registered address: Room 2203, 19/F, 17 Madian East Road, Haidian District, Beijing, and its affiliates including, but not limited to, Long Tech Network Limited, and Game Focus Network Limited, hereinafter collectively referred to as "Longchuang Yuedong" or "We")! Your personal information security is very important to us. Longchuang Yuedong commits itself to providing a safe game environment for every user. We will collect and use your personal information in accordance with the law of the Network Security Law of the People's Republic of China, the Information Security Technology - Personal Information Security Specification (GB/T 35273-2020) and other relevant laws and regulations on data privacy in other relevant jurisdictions to help us provide you with better products and/or services.
+
+The purpose of the Game Privacy Policy of Longchuang Yuedong (hereinafter referred to as "the Policy") is to give you a clear idea of how we collect, use, share, transmit, and protect your information. We will collect, use, share, transmit, and protect your personal information according to your consent and other legal basis on which your personal information is processed.
+
+1.Introduction
+
+The Policy applies to products and/or services offered by Longchuang Yuedong (including, but not limited to, its games "Last Shelter: Survival", "Rise of Empires", "Last Empire: War Z", "Call of Magic", and "Galaxy Wars", hereinafter collectively referred to as "Products and Services"). Please carefully read and fully understand the Policy before using Products and Services provided by us (including, but not limited to, installation, access, registration, or otherwise). Once you use or continue to use Products and Services, it means that you are well-informed and voluntarily and explicitly agree that we process your relevant information in accordance with the Policy.
+
+2.How do we collect and use your personal information
+
+1)Providing you with Products and Services
+
+i.Registration as a user: Information entered to finish creating an account, for example, your username and e-mail address. Web browsing does not require such information. If you do not provide this information, however, you may not be able to use certain features or material receiving services that are available only after registration, such as news emails. If you log in to our services using social network accounts such as Facebook, Google, and Apple Game Center ("Third-Party Platforms"), we will only collect platform tags. We will not collect your information on Third-Party Platforms because of the privacy settings of Third Party Platforms.
+
+ii.Payment settlement: Our games support any purchase within the application and we will collect your purchase or transaction records within the services. However, we will not deal with any payment made for any purchase within the application and access your credit card information. Payment transactions for any purchase within the application are typically done at the application store through your App Store or Google Play account. Any post-purchase processing is controlled by the Apple and Google stores and other payment service providers and is subject to specific service terms of such payment service providers. Please review the privacy policies and service terms of the Apple and Google stores and other payment service providers choosed by you.
+
+iii.Security assurance: We will use part of your personal frequently-used equipment information for authentication, security protection, fraud monitoring, archiving and backup, and other purposes. For example, the unique equipment code is used for security protection and user identification and the personal Internet surfing record is used for security protection, fraud monitoring. When you use our customer services, we may keep information such as your communication/call records and contents or contact details in order to contact you or help you solve a problem, or record a solution to and results of a problem.
+
+iv.Product development and service optimization: To fix game faults, improve functions, manage advertisements, and enhance experience, information collected by us includes device information such as device model, operating system version, and unique device identification code, software information such as IP address and software version number, and service log information such as game fault information.
+
+2)Sensitive personal information and special categories of information
+
+Sensitive personal information refers to personal information that may endanger personal and property security and easily result in damage to personal reputation and physical and mental health or discriminatory treatment once it is disclosed, illegally provided or abused. Special categories of information refer to information specified in Article 9 of the General Data Protection Regulation ("GDPR"), such as information on health, race, religion, political opinion or philosophical belief, and sexual preference or sexual orientation. Longchuang Yuedong does not require users to provide such information and reminds users that they should be careful when sharing their or others' such information in the service.
+
+3)Exceptions to obtaining authorization and consent
+
+In accordance with relevant laws and regulations, we may collect and use some necessary personal information without your authorization and consent under the following conditions:
+
+i.if it is directly related to national security and national defense security;
+
+ii.if it is directly related to public security, public health and major public interests;
+
+iii.if it is directly related to criminal investigation, prosecution, trial, and execution of judgment;
+
+iv.if this information aims to safeguard your or others' personal life, property, and other important legitimate rights and interests, but it is very difficult to obtain your consent;
+
+v.if the personal information involved is open to the public on your own;
+
+vi.if this information is necessary to sign and fulfil a contract according to your requirements;
+
+vii.if your personal information is collected from lawfully and publicly disclosed information such as legal news reports, government information disclosure, and other channels.
+
+viii.if this information is necessary to maintain the safe and stable operation of Products and Services of Longchuang Yuedong such as detecting and handling product or service faults;
+
+ix.other conditions prescribed by laws and regulations.
+
+4)Scope of application of the Policy
+
+The Policy applies to all our Products and Services except certain specific Products and Services. Specific privacy policies apply to these specific Products and Services. Specific privacy policies for certain specific Products and Services describe more concretely how we collect and use your information in such Products and Services. If there is any inconsistency between privacy policies for relevant specific Products and Services and the Policy, privacy policies for these specific Products and Services prevail.
+
+5)Applicable exceptions of the Policy
+
+Our services may include or be linked to social media or other services (including websites) provided by third parties. Example:
+
+i.You share our Products and Services, or you access our Products and Services using a third-party online service. These functions may collect your relevant information (including your log information) and install cookies on your computer to run the above-mentioned functions properly;
+
+ii.We provide you with links by advertisements or other means of our service so that you can access third-party services or websites. Such third-party social media or other services may be operated by third parties. Your use of such third parties' social media services or other services (including any personal information you provide to such third parties) is subject to the third parties' terms of service and privacy policy (rather than the Policy). You need to read their terms carefully. The Policy applies only to the information we collect. It does not apply to any services provided by third parties or the rules governing the use of information provided by third parties. We are not responsible for any third party's use of the information provided by you.
+
+3.How do we use cookies and similar technologies
+
+1)Cookie
+
+Cookies typically contain identifiers, site names, and some numbers and characters. We will store small data files called cookie on your computer or mobile device to ensure the normal operation of the website and help us identify you as our registered user. We will not use cookies for any purpose other than those stated in the Policy. You can set managing or deleting cookies based on your preference through a browser or otherwise.
+
+2)Do Not Track
+
+Many web browsers provide the Do Not Track function that can make a Do Not Track request to websites. If the Do Not Track function is enabled in your browser, all our sites will respect your choice. However, note that this may affect your experience in using Products and Services provided by Longchuang Yuedong.
+
+4.How do we share and transfer your personal information
+
+1)Sharing
+
+You understand and agree that we will provide personal information to third parties by means of sharing and transfer under the condition of ensuring that the data receiver cannot re-identify the personal information subject (de-identification). We may share your personal information with any company, organization, or individual other than LongChuang Yuedong under the following conditions:
+
+i.Sharing with express consent: We will share your personal information with other parties with your express consent.
+
+ii.We may externally share your personal information in accordance with laws and regulations or any mandatory requirements of the competent administrative department.
+
+iii.Sharing with our affiliates: Your personal information may be shared with affiliates of LongChuang Yuedong. We will only share necessary personal information and be bound by the purposes stated in the Policy. If affiliates want to change the processing purpose of personal information, we will ask your authorization and consent again.
+
+iv.Sharing with authorized partners: Some of our services will be provided by authorized partners for only the purposes stated in the Policy. We may share some of your personal information with our partners to provide better customer service and user experience. We will share your personal information for only legitimate, rightful, necessary, specific, and specific purposes and only share personal information required to provide services. Our partners have no right to use shared personal information for any other purpose.
+
+Currently, our authorized partners include the following two types:
+
+a)Authorized partners of advertising and analysis service type. Unless we get your permission, we will not share your personal identity information (information that is enough to identify you, such as a name or email address, through which we can contact you or identify you) with partners who provide advertising and analysis services.
+
+b)Suppliers, service providers and other partners. We will send information to suppliers, service providers and other partners who support our business, such as communication service providers who push notifications on our behalf. These supports include the provision of technical infrastructure services, the analysis of the use method of our services, the measurement of the effectiveness of advertisements and services, the provision of customer services and payment convenience, and other supports for Products and Services of Longchuang Yuedong.
+
+2)Transfer
+
+We will not transfer users' personal information to any company, organization or person except as required by laws and regulations of the People's Republic of China and relevant jurisdictions. We will continue to protect users' personal information in accordance with standards required by laws and regulations or require new administrators to continue to do so in accordance with the Policy.
+
+5.Your rights
+
+In accordance with relevant laws, regulations, and standards of China and the prevailing practice in other countries and regions, we guarantee that you can exercise the following rights on your personal information:
+
+1)Access your personal information
+
+You have the right to access your personal information except for exceptions prescribed by laws and regulations.
+
+2)Control your personal information
+
+You can query and manage personal information about you under your account. The Longchuang Yuedong account name (including the IM30 account number and the account number in each game) is your important network identification and cannot be changed after registration for the sake of security and identification.
+
+3)Delete or correct your personal information
+
+We will collect and use your information only to achieve the functions of our products or services, as stated in the Policy. If you find that we collect and use your personal information in violation of laws, administrative regulations, or agreements between the parties, you may ask us to delete it. If you find that your personal information that we collect and store is incorrect, you can also ask us to correct it. Please contact us through the contact details stated in the Policy.
+
+4)Cancel your personal account
+
+You can cancel your previously registered account at any time. After the account is canceled, we will cease to provide you with products or services and, upon your request, delete your personal information, unless otherwise stipulated by laws and regulations.
+
+5)Respond to your above-mentioned request
+
+To ensure security, you may need to provide a written request or otherwise prove your identity. We may ask you to verify your identity and then process your request. We will reply within a reasonable time limit. If you are not satisfied, you can contact the Longchuang Yuedong customer service or legal@im30.net. We do not charge any fee in principle for your reasonable request, but we will charge a certain cost for repeated requests that exceed a reasonable limit. We may refuse requests that are repeated for no reason, need excessive technical means (for example, needing to develop new systems or fundamentally changing the existing practices), pose a risk to others’ legitimate rights and interests, or are highly impractical (for example, involving information that is stored on backup tapes).
+
+We will not be able to respond to your request under the following conditions, as required by laws and regulations:
+
+i.if it is directly related to national security and national defense security;
+
+ii.if it is directly related to public security, public health and major public interests;
+
+iii.if it is directly related to criminal investigation, prosecution, trial, and execution of judgment;
+
+iv.if there is sufficient evidence to show that you have subjective malicious intent or abuse rights;
+
+v.if responding to your request will result in serious damage to the legitimate rights and interests of you or any other person or organization;
+
+vi.if business secrets are involved;
+
+vii.other cases where we have reasonable grounds to refuse.
+
+6.How do we handle minors' personal information
+
+Our products, websites, and services are mainly adult-oriented. Longchuang Yuedong follows national policies. Minors are not allowed to create their own user accounts without the consent of their parents or guardians. In cases where minors' personal information is collected with the consent of their parents or guardians, we will use or publicly disclose this information only with the permission of the law, the express consent of their parents or guardians or the protection on minors.
+
+7.How is your personal information transmitted around the world
+
+Personal information that we collect and generate in the People's Republic of China will be stored in the territory of the People's Republic of China. We will not transfer or transmit users' personal information around the world.
+
+8.How do we protect your personal information
+
+1)We take reasonable and feasible measures to protect your personal information
+
+Our legal team is also responsible for handling matters relating to data protection. We have also set up specific processes and security procedures for specific user data collection and processing to ensure that data storage and usage can meet our expectations and legal and regulatory requirements. In addition, we regularly conduct risk assessments of security strategies and data protection measures to ensure that our products are not threatened by risks such as data breaches or privacy violations.
+
+2)Other security measures that we take to protect
+
+i.We manage and standardize the storage and use of information by establishing a data classification and grading system, a data security management standard, and a data security development standard.
+
+ii.We perform comprehensive security control over data through an information contact confidentiality agreement and a monitoring and auditing mechanism.
+
+iii.We only allow the information to be accessed by Longchuang Yuedong employees who need to know about this information, and require that all those who may have access to your information should fulfil the corresponding confidentiality obligations. Failure to fulfil these obligations may lead to legal liability or suspension of the cooperative relationship with Longchuang Yuedong.
+
+iv.We will take all reasonable and feasible measures to ensure that no unrelated personal information is collected. We will retain your personal information only for a reasonable period of time unless it is necessary to extend the retention period or unless otherwise permitted by law.
+
+v.The Internet is not an absolutely secure environment and e-mail, instant messaging, and other communication means with Longchuang Yuedong users are not encrypted, so we strongly recommend you not to send personal information by such means. Please use a complex password to help us ensure that your account is secure.
+
+vi.The Internet environment is not 100% secure and we will do our best to ensure or guarantee the security of any information that you send to us. If our physical, technical, or administrative safeguards are damaged, resulting in unauthorized access to, publicly disclosure, tampering, or destroy of information and thus damage to your legitimate rights and interests, we will be held legally accountable accordingly.
+
+vii.Following the unfortunate incident of personal information security, we will take the necessary measures to stop the security incident from escalating and inform you in the form of push notifications, announcements, etc.
+
+9.Special sections for specific jurisdictions
+
+1)EU. If you are located in the EU, the General Data Protection Regulation (EU regulation No. (EU) 2016/679) applies to the collection and use of your data by Longchuang Yuedong.
+
+Longchuang Yuedong is a multinational group incorporated outside the EU. Our servers and main place of business are located in mainland China. Using our service and providing information to us means that you confirm and understand that your information will be transmitted, stored, and processed on a computer located in China in the manner described in the Policy. Do not use this service if you object to the transmission or use of personal information in the manner described in the Policy.
+
+2)Japan. If you are located in Japan, the Personal Information Protection Act of Japan applies to the collection and use of your data by Longchuang Yuedong.
+
+Longchuang Yuedong is a multinational group incorporated outside Japan. Our servers and main place of business are located in mainland China. Using our service and providing information to us means that you confirm and understand that your information will be transmitted, stored, and processed on a computer located in China in the manner described in the Policy. Do not use this service if you object to the transmission or use of personal information in the manner described in the Policy.
+
+3)South Korea. We will remove as soon as possible any information that is no longer needed under the purposes stated in the Policy and retain your data in the games in accordance with the retention period requirements specified in the relevant Korean laws.
+
+The Policy specifies that membership is only applicable to users aged 14 and over and that children under the age of 14 cannot use our services. If it is necessary to collect personal information of children under the age of 14, Longchuang Yuedong will abide by the relevant laws and regulations.
+
+4)The United States.
+
+i.Minimum age: The minimum age of users is 13 years in the United States. Therefore, unless otherwise permitted by law, we do not intend to collect any personal information of children under the age of 13 in the United States without parental consent. If we know that children under the age of 13 provide us with personal information, we will delete them in accordance with applicable laws.
+
+ii.Do Not Track: Some web browsers can send "Do Not Track" signals to websites and other online services that communicate with the browsers, as described in the above-mentioned section "3. How do we use cookies and similar technologies". Currently, no standard specifies how to respond when websites and online services receive these signals. Currently, we do not take any action to respond to these signals. If response standards are established, we may review the Policy to respond to these signals.
+
+iii.User privacy rights in the state of California (hereinafter referred to as "California"):
+
+If you are located in California, Longchuang Yuedong will not share your personal information with third parties for the purpose of direct marketing of third parties pursuant to the Shine the Light Law of California
+
+In addition to describing our common practices on data processing as completely as possible above, we supplement other practices on information collection and sharing under this item pursuant to the California Consumer Privacy Act (hereinafter referred to as "CCPA") to comply with the CCPA's requirements for information disclosure to California residents:
+
+a)In the past 12 months, Longchuang Yuedong collected, used, and shared personal information of the types described in the section "How do we collect and use your personal information" of the Policy. For example, such information may include your identifier such as IP address and mobile device identifier, depending on services you use.
+
+b)We do not share information by selling personal information pursuant to the state laws.
+
+c)Pursuant to the California laws, we give you the rights stated in Item 6 above, i.e. rights to access, control, correct, and delete personal information. We do not charge different prices from you or provide services in different quality unless such a difference is related to your information or permitted by law. Please send your request to the mailbox at legal@im30.net. Upon receipt of your request, we may require you to provide sufficient information to confirm your identity and thus verify the request, including requesting you to verify information about your use of services.
+
+10.Possible changes to the Policy
+
+We will not diminish your rights under this privacy policy without your express consent. We will publish any changes to the Policy on this page.
+
+For major changes, we will also provide more obvious notices. If you do not agree to the changed content, you may choose to stop using our services. If you continue to use our services, it means that you agree to be bound by the amended Policy.
+
+11.Contact us
+
+If you have any questions, comments, or suggestions on the Policy, contact us at legal@im30.net.

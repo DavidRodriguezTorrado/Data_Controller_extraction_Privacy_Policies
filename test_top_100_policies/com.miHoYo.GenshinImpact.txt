@@ -1,0 +1,299 @@
+HOME
+NEWS
+CHARACTERS
+
+EXPLORE
+
+ABOUT GAME
+TEYVAT
+ITINERARY
+MANGA
+
+More
+
+HoYoLAB
+TOP-UP
+REDEEM CODE
+Log In
+HOME > Privacy Policy
+
+Effective Date: January 5, 2022
+
+COGNOSPHERE PTE. LTD. ("COGNOSPHERE", "we", "our", or "us") greatly recognizes and values the privacy of people ("you" or "User") who visit our websites, use or access our games, whether played on mobile devices, PCs, our websites or other approved platforms ("COGNOSPHERE Game(s)"), and/or otherwise use or access any of our provided services, including but not limited to customer support, marketing and advertising, and community services (collectively the "COGNOSPHERE Services" or "our services").
+
+The minimum age to create a user account ("Account") is 13. Insofar as certain countries or platforms apply a higher age of consent for the collection of personal data, COGNOSPHERE requires parental or guardian consent before an Account is created and personal data associated with it is collected.
+
+This Privacy Policy applies to any and all of the COGNOSPHERE Services and describes why and how we collect, store, and use your personal data, and the choices and rights you have about the personal data you provide or we collect in connection with the COGNOSPHERE Services. By accessing our websites or otherwise using the COGNOSPHERE Services, you acknowledge that you have read, understood and accepted the following terms. In the case you do not agree to any of the terms, some basic functions in the COGNOSPHERE Game(s) may not be able to run normally, which may prevent you from using them.
+
+In the event of a merger, acquisition, reorganization, bankruptcy or other similar event, we will make an announcement in advance, disclose the details of the event and information about the successor, and with the express consent of you and/or your parent and/or guardian (if applicable) again, your personal data may transfer to the successor. COGNOSPHERE may periodically modify, adjust or revise the terms of this Privacy Policy. We will announce to you the updated terms and obtain your consent (and/or the consent of your parent/guardian, if applicable) again. You acknowledge and agree to check the updated terms regularly. If major clause changes are involved, we will make an announcement in advance.
+
+ 
+
+1. What Data We Collect and Process
+
+Personal data means data that may be used to identify an individual, such as email address, contact address, postal code, position data, title, occupation, personal interests, and other data that you choose to submit.
+
+(1) Data We Collect (either directly or through a third-party)
+
+i. Account Registration Information: account information, namely, username, email address, and password. We use this information to provide game login services, to store your game data and gameplay progress, to analyze and manage our services for system administration, and to provide great services in accordance with Article 2(2) and 2(9) in "Why We Collect and Process Your Personal Data" ("Article 2") of this Privacy Policy on the legal basis of performing our contract with you to provide our services ("Service Provision").
+
+ii. Date of Birth. We only receive this information if you voluntarily provide it when using our services in accordance with Article 2(4) on the legal basis that it is collected with your consent ("with consent"), and we use this information to verify your age if you are a user in certain regions. Since we cannot verify the authenticity of your age, your self-reported age will be deemed as the basis for judgment.
+
+iii. Telephone Number or Email Address. We only receive such information if you voluntarily provide it to us for linking your Account with your telephone number and/or email address, logging in to our services, receiving updates of our services and receiving verification codes by email or SMS for password changing or other purposes in accordance with Article 2(1) and 2(8) with consent.
+
+iv. User Generated Content: nickname, signature, and chat data (solely in the form of text). We use this information to deliver your messages to other users for social interaction in-game and facilitate your communication with them in accordance with Article 2(7) and 2(9) on the legal basis of Service Provision.
+
+v. User Service Information. Any information that you provide in communications with our support team when you seek our technical and/or customer service support and/or exercise any of your legal rights as the data subject; in case of receiving your request for support, we use such information to provide relevant support as you request and further improve our services in accordance with Article 2(10) on the legal basis of Service Provision; in case of receiving your request for data access as the data subject, we use such information to verify the requestor’s identity to ensure that he/she is the person legally entitled to make the data access request in accordance with Article 2(9) on the legal basis that it is necessary to perform our legitimate obligations as the data controller ("Obligation Performance").
+
+vi. Survey Information. The content of your survey responses. If you agree to participate in such surveys, we use this information to improve our services in accordance with Article 2(8) with consent.
+
+vii. Sweepstakes Participation Information: name, email address, telephone number, mailing address, UID, nickname, and country/region. If you agree to participate in such sweepstakes and win any prizes, we use your UID, address and other information as necessary to provide digital prizes and/or deliver physical prizes, as well as announce your UID and/or nickname in a partially-redacted format in accordance with Article 2(4) with consent. For users who have not won any prizes, we will not announce or display the above information in any form.
+
+viii. Internet Protocol (IP) Address. We use this information to allow you to connect to our servers in accordance with Article 2(1).
+
+ix. Connected Social Media Account Information (Third-Party). Your social media account information (if you choose to log in to our services via your social media account(s) with the corresponding network(s)); in the case of Facebook, this refers to the username of your Facebook account; we use such information to create your account for using our services in accordance with your request, and to ensure that you may share in-game photos on the corresponding network(s) in accordance with Article 2(9) on the legal basis of Service Provision.
+
+x. Advertising Information. Advertising ID and select device information, we store the Advertising ID for that advertisement and the other device information with your profile to track the success of our advertising and marketing programs in accordance with Article 2(6) and 2(10) on the legal basis that it is in our legitimate interests to monitor the success of our advertising and marketing programs. 
+
+In order to better provide you with a complete gaming experience, we may merge and update our collected personal data with data from third-party contractors in order to update your data, perform market analysis, and/or otherwise improve our services.
+
+When you use or interact with third-party services that may be available on our services, such as third-party social media widgets, share buttons, and/or login mechanisms, this Privacy Policy does not and will not extend to such features, which shall be subject to the respective third-party privacy policies.
+
+Unless obtaining your express and additional consent in advance and for specific circumstances, we will not collect personally identifiable information (PII) or sensitive personal information (SPI), such as real name, address, and/or fax number. You acknowledge and agree that if you elect to submit any personal data, such personal data would be subject to this Privacy Policy and you agree with all the terms therein. Please note that any personal data submitted in business transactions will not be subject to this Privacy Policy, including but not limited to job applications, participation in events, and contract signings.
+
+(2) Data We Collect Only for System Functions
+
+i. Generated Open ID. We generate and use this information to store your game data (including level and progress) with your profile, and to allow you to connect to our servers in accordance with Article 2(1) on the legal basis of Service Provision.
+
+ii. IP Address. We use this information to allow you to connect to our servers in accordance with Article 2(1) on the legal basis of Service Provision.
+
+iii. Game Data. We use this information to provide you with feedback and information about your gameplay and progress in accordance with Article 2(4) and 2(9) on the legal basis that it is necessary to perform the Terms of Service.
+
+iv. Device Related Information. Device ID, device information (device name, device type, MAC address, IMEI, CPU, graphics card model, OS version and language, time zone, screen DPI, device resolution), registration time and login time; we use such information to improve our services including the functionality of our services in accordance with Article 2(9) and 2(10) on the legal basis that it is our legitimate interest to ensure service security, manage registrations and improve our services.
+
+v. Bugs, Errors, and Other Data About Crashes and Diagnosis Thereof (if the occasional system crash occurs in our services). Device information (name, model, memory size, and graphics card model) and in-game information (game version, user's UID, stacktrace); we use such information to conduct identity verification for security purposes, to identify and address bugs, and to evaluate and improve the functionality of our services in accordance with Article 2(3) and 2(4) on the legal basis that it is in our legitimate interest to ensure the security of our services, and to improve our services.
+
+vi. Security-Related Information. For the Android version: application information (APK name, version, startup time, process name), user account, device information (model, OS version, brand, CPU structure, root status, the unique identifier of ROM, screen resolution, system startup time, whether an emulator is being operated, the installed APK information, MAC address, network type, names of the running applications, list of file names in the cache directory of SD card application, and Wi-Fi name); for the PC version: application information, memory, executable module, system driver module, new thread, new load module, proxy, network, CPU, disk, and graphics card, account information, and device name, specific file types for specific directory, names of process windows, and name signature of suspicious process module; for the iOS version: application information (module and signature), root status of device; in accordance with Article 2(9) on the legal basis that it is our legitimate interest to ensure the security of our services.
+
+You know and understand that since there are multiple versions of the game, the above information is collected for the purpose of adapting, developing and updating for devices of different versions.
+
+vii. Malicious Content Information. Nickname, signature, chat data (solely in the form of text); in order to ensure a harmonious and healthy online environment in the game, we collect the above information to avoid some words that may offend or distress others (which breaches the Terms of Service, e.g. pornographic content) via your signature, nickname, or chat data within our services in accordance with Article 2(9) on the legal basis that it is in our legitimate interest to ensure the security of our services and a harmonious online environment within our services.
+
+ 
+
+2. Why We Collect and Process Your Personal Data
+
+In order to provide services, perform the Terms of Service and/or any other agreements between you and COGNOSPHERE, and/or perform the legal liabilities under the applicable laws, we collect and process your personal data to:
+
+(1) allow you to access or restrict your access to our services;
+
+(2) analyze and manage our services for system administration, user service, security, fraud-detection, checking the authenticity of an account owner, archival and/or backup purposes;
+
+(3) correct bugs or errors, improve our services and respond to customer desires and preferences, including language and location customization, personalized support and instructions, and other responses;
+
+(4) develop new services or products that user(s) request and improve the user experience;
+
+(5) verify and confirm payment;
+
+(6) deliver advertising that may be relevant to your interests (you can choose to turn this feature on or off in the device settings as stated hereunder);
+
+(7) communicate with other users and take action against violations;
+
+(8) personalize your experience, keep you up to date with the latest product announcements, provide software verification, upgrades and administration, notify of special events, offer to participate in our surveys or activities, and provide other information pertaining to our services;
+
+(9) protect the integrity, safety, and security of our services or users, comply with legal obligations, and enforce compliance with the Terms of Service or other restrictions placed on your use of our services; and/or
+
+(10) track your process across our websites and applications to verify that you are not a bot and to optimize our services.
+
+For the purposes set forth above, our affiliates may be commissioned to process your information, provided that such affiliates comply with the terms and conditions hereunder. Affiliates in this Privacy Policy shall mean an entity that directly or indirectly controls, is controlled by or is under common control with COGNOSPHERE PTE. LTD. hereto.
+
+In all of the above cases and purposes, you acknowledge and confirm that we may analyze, profile, segment, merge and/or update all collected data (regardless of an aggregated or individualized manner) for the purposes of improving service quality and providing a better experience.
+
+In specific cases, we may collect other personal data apart from the categories stated herein based on your consent. When this occurs, we will, upon requiring your additional consent, provide more information about any change to the way or purpose of our collection or processing which might be different from or not clarified in the details in this Privacy Policy.
+
+Under any circumstance where our collection or processing of your personal data is based on your consent, you may withdraw such consent at any time with no impact on the validity and lawfulness of collection or processing based on the consent made before its withdrawal.
+
+ 
+
+3. Advertisements and Your Choices
+
+For the purpose of providing personalized advertisements, you acknowledge and agree that based on your consent we may collect and process the data to:
+
+(1) deliver, target and improve our advertising; and/or
+
+(2) improve advertising and other marketing and promotional activities.
+
+We may also use the data you provide to send you, or have our authorized contractors to deliver advertisements, market research or surveys. If you do not wish to receive any marketing or advertising information from us or our contractors, please do not provide your personal information.
+
+Pertaining to the marketing or promotional communications, you may opt-out of receiving such communications in accordance with the instructions therein, such as SMS, email, online communication channels, or other contact methods provided by us. For example, you may opt-out of the out-of-game push notifications on mobile applications by checking the settings and turning off the "allow notifications" (iOS/Android).
+
+Without your consent, we ensure that we will not use your data for marketing purposes, and after granting permission, you may also withdraw such consent at any time while without impact on the validity and lawfulness of data usage prior to such withdrawal. For the avoidance of doubt, if we know that you are a registered user under the age of 13 (or 14/16, if applicable), we will not target you with advertising.
+
+ 
+
+4. Cookies or Similar Technologies
+
+In order to measure the effectiveness of our services, we may use cookies, which are small text files for added functionality or for tracking site usage. We may use cookies and/or authorize a third-party’s tracking-utility, from time to time, (a) to log your IP address in determining the path that users take on our sites and identifying repeated users of our sites, (b) to collect the websites or sources that linked or referred you to our services, and/or (c) to collect technical data about the devices and software you use to access our services, the operating system of your devices, and other similar technical data. Notwithstanding the foregoing, we do not link your IP address to your personal data. If you do not wish to accept cookies or want to be notified of when they are placed, you may set your web browser to do so, if your browser permits.
+
+We use the cookies, web beacons and similar technologies to personalize your experiences on our services and for various other purposes, including:
+
+(1) remembering you: cookies, web beacons and similar technologies help us identify you as a registered user and keep the preferences or data that you have previously provided;
+
+(2) analyzing how you use our services: cookies, web beacons and similar technologies help us understand what visitors (including users) are doing on our services, or what pages or sections are most popular;
+
+(3) deliver advertising: cookies, web beacons and similar technologies help us provide you with advertising that we believe is relevant to you or of interest to you, on the basis of the data you provide; and/or
+
+(4) other related functions or purposes mentioned in Article 2 herein.
+
+We or our authorized contractors may use cookies and similar technologies to provide and personalize services, prevent fraud and fulfil other purposes mentioned above. Please note you can disable cookies in your browser settings, while some parts of our services may then not function properly.
+
+ 
+
+5. Who May Access Your Personal Data
+
+In addition to COGNOSPHERE and/or its affiliates, other parties may also access your personal data in the following situations. You acknowledge that you have foreseen and agreed to the occurrence of such disclosure when you provide your personal data.
+
+(1) Other In-Game Users of Our Services
+
+Other users may, for example, in a group challenge, access your in-game activities in the process of such group challenge. Other users may also see your displayed data and read the messages you have posted on or through our services. You acknowledge and agree that our services may also include message boards, communities, forums, and/or other chat areas, where users may exchange ideas or communicate with other users, and that any data you post to any communication area is publicly viewable. We strongly recommend that all users avoid posting personal or sensitive data at any time on or through our services.
+
+(2) Competent Authorities
+
+We may provide a certain portion of your personal data to judicial or administrative authorities as so requested. Besides, we may disclose certain portion of your personal data within a strictly limited scope of recipients when we reasonably think it is necessary to protect us, our users or a portion of the public.
+
+In addition to be required by applicable laws, we reserve the right to disclose your personal data in the cases if we, in our good faith, believe that disclosing such data is necessary to identify, contact, or bring legal action against you, if (a) you are violating any other agreement(s) between you and us, such as the Terms of Service, this Privacy Policy or otherwise damage us; (b) you are infringing third-parties’ rights and interests (including but not limited to intellectual property rights); and/or (c) we believe that it is necessary to prevent fraud or other illegal activities.
+
+(3) Third-Party Contractors
+
+COGNOSPHERE works with a number of (if any) third parties on or through our services to help us provide services and functionalities to you. We do not sell your personal data and only share data that is non-personally identifiable on its own, aggregated, or public with third-parties under the following necessary circumstances, and such third-parties thereof are prevented from processing (including but not limited to accessing, storing, using, or disclosing) your personal data except for achieving the purpose of their cooperation with us:
+
+i. Social networking portals who provide login and/or content-sharing service to and in our services;
+
+ii. Logistics service providers who provide shipping services such as delivering physical prizes to users;
+
+iii. Information communication service providers who provide SMS-messaging services;
+
+iv. Payment service providers who provide payment services, such as assisting our services to run on, facilitating users’ payment, and maintaining a record of the users’ transaction history;
+
+v. Advertising service contractors who provide marketing and advertising activities, including conducting the programs, tracking the success, and analyzing the effect thereof;
+
+vi. Information technology service provider who provide technology support for account management; and
+
+vii. Other contractors if any for the purpose of providing our services to you.
+
+Besides, such contractors may use cookies, web beacons, and/or other tracking technologies to collect or receive data about you and might claim the data controller rights over your personal data. For example, users purchasing and/or subscribing products or services will be required to provide additional data to third-party payment contractors, such as a valid credit card number and expiration date. Such third-party payment contractors may collect, process and retain your data to process payments and resolve subsequent payment disputes and inquiries. We may also receive, process and store the provided information from you and/or such third-party payment contractors to confirm payment, record purchase history and/or protect our legitimate interest when resolving subsequent payment disputes and inquiries. Notwithstanding the foregoing, if you make any payments in using our services, any of your payment details are fully handled by the relevant payment service provider. We do not, however, receive and/or process any of your actual payment details such as card number or security code. We only keep the data concerning transaction date, currency, cost, and product(s) purchased.
+
+Each third-party has its own privacy policy and security measures for processing data and information, so when specific third-parties are involved in collecting data and information, please participate in their privacy policies. Since those contractors may access, collect, or process your data as the data controller and operate under their own privacy policies, please refer directly to their privacy policies on their official websites and learn more about their data processing practices.
+
+ 
+
+6. Data Retention
+
+We will keep your data only for as long as your account is active or only for as needed to provide you the game services unless deleted in accordance with your request or as otherwise required by law. The locations of servers for the game services include:
+
+(1) the United States, in which the CCPA (short for "the California Consumer Privacy Act of 2018") and the COPPA (short for "Children’s Online Privacy Protection Act") shall govern our services conducted as stipulated in this Privacy Policy;
+
+(2) Japan; and
+
+(3) the European Union, in which the GDPR (namely "the General Data Protection Regulation" shall govern our services conducted as stipulated in this Privacy Policy.
+
+You acknowledge and agree that your data will be processed on our servers which may not be located in your country of residence and can be accessed by our support, engineering and/or our affiliates around the world. No matter where our servers are located, we will make great efforts to take the appropriate safeguards to guarantee your rights in conformity with this Privacy Policy and any applicable laws.
+
+In the case you request to remove or delete your personal data, we will retain your data as long as necessary for our legitimate business interests, such as to comply with our legal obligations, resolve disputes, and/or enforce the agreements between you and us. Please note that the removal or deletion of any of your data may result in the termination of some of our applicable services.
+
+We will only store your information as long as necessary to fulfil the purposes for which the information is collected and processed or where the applicable law provides for longer storage and retention period. Upon the expiration of such period, your personal data will be deleted, blocked or anonymized, as provided by applicable law.
+
+ 
+
+7. Your Rights
+
+If you request in writing, we will provide you a copy of your personal data in an electronic format after passing our verification process. You also have the right to correct or modify your data, have your data deleted, object how we use or share your data, restrict how we use or share your data, and make any other request as provided herein or regulated in the applicable regulations from authorities (including but not limited to the GDPR and the CCPA) through sending an email to the email address of our DPO (Data Protection Officer) as agreed in Article 10. Upon receiving your request via email, we will promptly conduct a verification process including but not limited to instructing you to provide information to confirm that you are the user from whom we have collected information, subject to the specific instructions of our DPO. Regarding the submission of your request, you may also choose to log into our support page at the official website of Genshin Impact.
+
+(1) Right to Know About Personal Information Collected, Disclosed, or Sold
+
+You have the right to access your personal data that we hold about you, i.e. the right to require free of charge, (i) information whether your personal data is collected, used, disclosed, or sold, (ii) categories of your personal data which has been collected, (iii) categories of sources from which your personal data is collected, (iv) business or commercial purpose for collecting or selling your personal data (if any), (v) disclosure of sale of your personal data (if any): i.e. the categories of your personal data which has been disclosed or sold (if any) to third-parties, the categories of third parties to whom your personal data was disclosed or sold (if any), statement regarding whether we have actual knowledge that we sell your personal data if you are under 16 years of age; and you have the right to require us to provide a duplicate of your personal data undergoing processing, subject to submitting a verifiable request in the form of email to our DPO’s email address as agreed in Article 10. You can also exercise the right to access your personal data through the privacy dashboard. According to our reasonable and unilateral judgement, if your verifiable request affects or will affect the rights or freedom of other users or is manifestly unfounded or excessive, we reserve the right to charge a reasonable fee (taking into account the administrative costs arising therefrom) or refuse to act on the request.
+
+(2) Right to Rectify
+
+If we process your personal data, we shall endeavor to ensure by implementing suitable measures that your personal data is accurate and up-to-date for the purposes for which it was collected. If your personal data is inaccurate or incomplete, you have the right to obtain rectification of your inaccurate personal data without undue delay according to Article 16 of the GDPR and you can modify the information you provided via the privacy dashboard.
+
+(3) Right to Request Deletion of Personal Information
+
+You have the right to obtain deletion of your personal data, if the reason as stated in Article 2 of this Privacy Policy does not exist anymore, or if there is another legal ground for its deletion, subject to submitting a verifiable request in the form of sending an email to our DPO’s email address as agreed in Article 10.
+
+You acknowledge and agree that as a result of deleting your Account, you will lose access to game related services, including the Account, subscriptions and game-related information linked to such Account and lose the possibility to access other services through the Account.
+
+(4) Right to Object
+
+When our processing of your personal data is based on legitimate interests according to Article 6(1)(f) of the GDPR and/or Article 2 of this Privacy Policy or any other applicable laws in your country of residence, you have the right to object to our processing. If you object, we will no longer process your personal data unless there are compelling and prevailing legitimate grounds of processing as described in Article 21 of the GDPR or any other applicable laws in your country of residence; in particular, if the data is necessary for the establishment, exercise or defense of legal claims. You also have the right to lodge a complaint at a supervisory authority.
+
+(5) Right to Restrict Processing
+
+You have the right to restrict the processing of your personal data under the conditions set out in Article 18 of the GDPR or any other applicable laws in your country of residence.
+
+(6) Right to Personal Data Portability
+
+You have the right to receive your personal data in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller under the conditions set out in Article 20 of the GDPR or any other applicable laws in your country of residence.
+
+(7) Right to Opt-Out of the Sale of Personal Information (if any)
+
+You have the right to opt-out of the sale of your personal data (if any) and require us to make a statement regarding whether or not we sell your personal data and provide an opt-out mechanism or link to it except as otherwise stipulated in the CCPA.
+
+(8) Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
+
+You have the right not to receive discriminatory treatment by us for the privacy rights conferred by the CCPA, namely that we shall not offer a financial incentive or a price or service difference due to your exercise of any of your rights under the CCPA unless such difference is reasonably related to the value of your personal data. Notwithstanding the foregoing, we have the right to deny your request to know, request to delete, or request to opt-out for reasons permitted by the CCPA or those regulations thereof, and such denial shall not be considered discriminatory.
+
+(9) Right to Authorize an Agent to Make a Request on Your Behalf
+
+You have the right to authorize an agent on your behalf to make a request to know, delete, or opt-out under the CCPA. When you use an authorized agent to submit any request provided above, we may require you to provide signed permission to authorize your agent to do so for the purpose of verifying your own identity, and the official permission by your agent to submit this request. In the case of failure to provide any of the requested materials, to protect the user’s information and data security, we are entitled to denying such request.
+
+Notwithstanding the foregoing, if the applicable laws in your country of residence provide otherwise, the corresponding laws shall govern.
+
+ 
+
+8. Securing Your Data
+
+Pertaining to your use of our services, we have endeavored to take reasonable measures to prevent unauthorized access to or improper use of your personal data, such as organizational controls, technical protection and other protection measures.
+
+Unfortunately, the transmission of information via the internet is not completely secure. While we strive to protect your personal data, we also remind you to be aware of hacking, cyber-attacks, and other risks on the Internet.
+
+Therefore, we strongly urge you to take every possible precaution to protect your personal data when using our services, including but not limited to changing your passwords from time to time, not reflecting your real name or other personal data in registration, using a combination of letters and numbers when creating passwords, using a secure browser and/or taking other possible security measures. Please note that for security reasons, we store passwords in encrypted form.
+
+Please be aware that advertisers or websites with links to and/or from our websites may collect personal data about you and this Privacy Policy does not apply to, and cannot control the activities of, those other advertisers or websites. We highly recommend that you read the privacy policy of such third-party websites which you may be directed to before providing any personal data.
+
+ 
+
+9. Age Limits and Children Protection
+
+You represent that you are an adult or older in your country of residence (or at other age in your jurisdiction where you are classified as a majority) when using our services. If you are a minor child or under the legal age of majority ("Minor" or "Child"), please do not send any personal data about yourself to us, including your name, address, telephone number, or email address.
+
+Notwithstanding the foregoing, we recognize that we have a special obligation to protect children in regards to the collection and processing of personal data, and we do not and will not knowingly collect personal data from children without consent from their parents or guardians. We strongly urge parents and guardians to instruct their children never to disclose or give out their personal data when using our services without the prior permission of their parent/guardian. If we learn that we have collected personal data about a child, we will delete that data as quickly as possible. Also, if you believe that we might have any data from or about a child, please contact us at our DPO’s email.
+
+ 
+
+10. Contact and Complaints
+
+For the purpose of establishing the personal data protection in a better and more efficient way, we, as the Data Controller, designate a Data Protection Officer (in short, "DPO") who is responsible for the oversight and implementation of the personal data protection strategy and ensures our processing of personal data in compliance with necessary legal requirements stipulated in the applicable laws. If you have any questions about this Privacy Policy or have any requests for resolving issues with your personal data while using our services, please contact us as soon as possible by emailing our DPO at genshin_cm@mihoyo.com.
+
+ 
+
+COGNOSPHERE PTE.LTD.
+
+Last Updated: January 5, 2022
+
+Privacy Policy
+Terms of Service
+About Us
+Contact Us
+Copyright © 2020 miHoYo All Rights Reserved
+"PlayStation Family Mark," "PS5 logo" and "PS4 logo" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+
+Epic, Epic Games, Epic Games Store, the Epic Games Store logo, and Epic Online Services are trademarks and/or registered trademarks of Epic Games. All other trademarks are the property of their respective owners.
+
+  
+
+  
+
+This website uses cookies to enhance your browsing experience.Learn more
+
+OK

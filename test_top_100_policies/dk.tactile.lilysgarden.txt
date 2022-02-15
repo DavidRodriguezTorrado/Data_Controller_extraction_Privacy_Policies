@@ -1,0 +1,416 @@
+PRIVACY POLICY
+
+1.                  GENERAL
+1.1               About this document
+
+This document contains the privacy policy (“Privacy Policy”) of the data controller for the processing of your personal data, Tactile Games ApS (“Tactile”), Danish registration number 32319882, Vestergade 33, 2., 1456 Copenhagen K.
+
+In this Privacy Policy, we explain how information about you is collected, used and disclosed by us, when you use our website, our mobile games and our other online products and services (collectively referred to as the "Services") or when you interact with our Services in other ways.
+
+1.2               Amendments
+
+We reserve the right to change this Privacy Policy from time to time. When we change the Privacy Policy, we change the date at the top of the document, and we may also provide you with a notice such as adding a statement to our website's homepage or sending you a push notification or email. If you want to stay informed about our Privacy Policy, we encourage you to read the Privacy Policy from time to time.
+
+1.3               Children
+
+Our Services are not targeted at children. The table below sets out the minimum age per country you must be to use our Services. If you are under the relevant age, you may not use our Services.
+
+ 
+
+COUNTRY
+
+	
+
+MINIMUM AGE
+
+
+
+
+Austria
+
+	
+
+14
+
+
+
+
+Belgium
+
+	
+
+13
+
+
+
+
+Bulgaria
+
+	
+
+13
+
+
+
+
+Croatia
+
+	
+
+13
+
+
+
+
+Republic of Cyprus
+
+	
+
+13
+
+
+
+
+Denmark
+
+	
+
+13
+
+
+
+
+Estonia
+
+	
+
+13
+
+
+
+
+Finland
+
+	
+
+15
+
+
+
+
+France
+
+	
+
+16
+
+
+
+
+Germany
+
+	
+
+16
+
+
+
+
+Greece
+
+	
+
+13
+
+
+
+
+Hungary
+
+	
+
+16
+
+
+
+
+Ireland
+
+	
+
+13
+
+
+
+
+Italy
+
+	
+
+13
+
+
+
+
+Latvia
+
+	
+
+13
+
+
+
+
+Lithuania 
+
+	
+
+16
+
+
+
+
+Luxembourg
+
+	
+
+16
+
+
+
+
+Malta
+
+	
+
+13
+
+
+
+
+Netherlands
+
+	
+
+16
+
+
+
+
+Poland
+
+	
+
+13
+
+
+
+
+Portugal
+
+	
+
+13
+
+
+
+
+Romania
+
+	
+
+13
+
+
+
+
+Slovakia
+
+	
+
+16
+
+
+
+
+Slovenia
+
+	
+
+13
+
+
+
+
+Spain
+
+	
+
+13
+
+
+
+
+Sweden
+
+	
+
+13
+
+
+
+
+United Kingdom
+
+	
+
+13
+
+
+
+
+Rest of world (excluding Korea)
+
+	
+
+13
+
+ 
+
+Consequently, we do not knowingly collect personal data from children under 13 years of age. If we learn that we inadvertently received personal data from children under 13 years of age, we will take reasonable measures to delete such personal data.
+
+2.                  INFORMATION WE COLLECT
+
+When you install, access or use our Services we collect information about you that you choose to provide to us or that we automatically collect, including information you have sent us via email, information about your device and information about how you use and interact with our Services. For further details about the types of information we collect, please read below:
+
+Information you provide yourself
+
+When you register and create an account with Tactile, participate in a contest and promotion, or you communicate with us via third party social media sites, you request customer support, you send us an email or otherwise interact with us, we collect information about you that may include your name, your social networking screen names or IDs, your email address and any other information that you choose to provide.
+
+Information we collect automatically through our Services
+
+We automatically collect information about you when you access or use our Services, including:
+
+ 
+
+Device related information: Information about the device you use when you access our Services. This includes information about your device's hardware and software, Media Access Control address ("MAC address") and other so-called unique device identifiers, device tokens, as well as information on your mobile network and your time zone.
+
+ 
+
+Logs: Your use of our Services is logged, including the type of browser you use, what time you accessed our Services, the pages you viewed, the page you visited before navigating to our Services and your IP address.
+
+ 
+
+Usage: The applications that you use, your game progress, game scores, game achievements and interactions with other players in the games.
+
+Information we collect from third parties
+
+We may obtain information from third parties and combine that information with information we collect ourselves through our Services. If you access our Services using a third-party platform or site, for example, a social network site or gaming services, we may receive information about you from that third party. This includes your screen name, your profile information and your friend lists. The information is collected in accordance with the procedures determined by such third party. When you download or update one of our applications from an app store, we may also receive information.
+
+3.                  PURPOSE WE COLLECT AND USE THE INFORMATION FOR
+
+The information we collect is used for various purposes, including to provide you with our Services and customer support, to communicate with you and respond to your questions and your requests, to enable communication between players, to maintain and to improve the functioning and safety of our Services, to determine potential problems and to observe certain trends with our Services, to fix technical problems and detect malicious actions, to test new features of our Services, to keep statistics of how our Services are used, to send technical notifications, to provide updates, to provide security alerts, to optimize your experience when using our Services, to provide you with personalized content and features, where relevant, to deliver contest entries and rewards, to invoice our customers, to comply with any law that is applicable to us, to prevent crime and fraud, to contact you and to identify you as contracting party.
+
+4.                  LEGAL BASIS FOR PROCESSING THE PERSONAL DATA
+
+We process your personal data lawfully pursuant to the EU General Data Protection Regulation. We use one or more of the following legal bases to justify the collecting and further processing of your personal data:
+
+·       It is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract: this is the legal basis in cases when, for example, the data are collected in order for us to deliver you the Services you have requested.
+
+·       It is necessary for the purposes of the legitimate interests pursued by us or by our trusted partners: this is the legal basis in cases where, for example, the personal data are used for marketing and advertising purposes, for statistics and analytics, fixing technical problems, optimizing and developing our Services, etc.
+
+·       It is necessary for compliance with a legal obligation to which we are subject: this is the legal basis in cases where, for example, the personal data are necessary so that we can comply with legal obligations, such as keeping accounting and tax records, etc.
+
+5.                  LOCATION, TRANSFER OF PERSONAL DATA TO THIRD COUNTRIES OUTSIDE OF EU/EEA AND SECURITY OF THE PERSONAL DATA
+
+We store the collected personal data on servers that are under our control and we apply reasonable and appropriate organizational and technical security measures to keep the personal data safe, including to protect it from loss, theft, misuse and unauthorized disclosure, or alteration.
+
+ 
+
+We make sure that the data processors who process personal data on our behalf also take the necessary security measures to keep your data safe.
+
+ 
+
+In certain cases, your personal data may be transferred to a country outside of EU/EEA. In these cases, we will ensure that such transfers will be carried out in accordance with the applicable data protection legislation. This entails that any party outside of EU/EEA that will receive your personal data must ensure an adequate level of protection, for example, by adhering to the EU-U.S. Privacy Shield in relation to transfers to the United States, or by entering into the EU standard contractual clauses with us.
+
+6.                  STORAGE PERIOD OF THE PERSONAL DATA
+
+We will store the personal data as long as necessary for the purposes the data have been collected for. We will also store and use the personal data as long as we are required by any law that is applicable to us. Please be aware that the above also applies in situations where you decide to delete your account with Tactile, or we delete your account in accordance with our User Terms.
+
+6.1               General sharing and disclosure of personal data
+
+Your personal data will not be shared and disclosed, unless it is permitted or required by the applicable law. We may generally share information about you with our trusted partners and other service providers who need access to such information to carry out work on our behalf, including vendors and consultants. Wie may also share information about you with other players, including requests to join multi-player games, and on leaderboards.
+
+6.2               Merger, etc.
+
+In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company we may share information about you to the extent permitted by applicable law.
+
+6.3               Government requests, etc.
+
+If a government or other public authority requests personal data about you and we believe disclosure is in accordance with or required by applicable law, we may share the information about you with such authorities. To the extent it is necessary and deemed relevant, and if private persons or entities request personal data about you and we believe we are required or permitted by applicable law to disclose such personal data about you, we may share personal about you with such private persons or entities.
+
+6.4               Advertising and Analytics Services
+
+We allow some third parties to serve advertisements and some third parties to provide analytics services in connection with our Services. These entities may use cookies, web beacons and other technologies to collect information about your use of our Services. This information may be used by Tactile and others to track and analyze data, assess the popularity of certain content, deliver advertisements and deliver content targeted to you and your interests.
+
+ 
+
+You can always activate and deactivate the receiving of the push notifications by changing the notification settings on your device.
+
+ 
+
+You can also always opt-out of us collecting information about you with the purpose of providing tailored advertising by adjusting the global advertisement settings on your device. You can do so by limiting the ad tracking, resetting your device’s ad identifier and clearing your tracked data. Please be aware that the settings might differ based on the device you use but, on most devices, you may find these settings in “ads” or “privacy”. You should be aware that if you do such opting-out, some of our Services may become entirely or partially unavailable for you. Please also note that in case you opt out of us collecting the information with the purpose of providing tailored advertisement, you may still be exposed to advertisements, but such advertisements will not be personalized and targeted directly at you.
+
+ 
+
+You have the right to object to processing of your data for marketing and advertising purposes at any time by contacting us using the contact information below.
+
+6.5               API
+
+Our Services may also have third party application program interfaces (also called APIs) integrated that allow third parties to collect and process information about you, including your geo-location information. This allows the third party and/or us to provide you with tailored advertisements and promotions. You can control the collection of your geo-location information at all times. We don’t allow third parties to access this information without you opting-in. You may disable location-based services at any time by adjusting the settings of your tablet or mobile device.
+
+6.6               Social Sharing Features
+
+Many of our Services offer social sharing features and other tools integrated in the Services. One example is the Facebook "Share" button that allows you share actions you take on our Services with other media, and vice versa. When using such features information about you is shared with your friends or with the public, depending on your Facebook settings or the settings on the other social media that provides the social sharing feature. You can obtain more information about this by reading the privacy policies of the social media that provide these features. For Facebook, you find your privacy settings here https://www.facebook.com/settings?tab=privacy and the data policy here https://www.facebook.com/full_data_use_policy.
+
+7.                  YOUR RIGHTS
+7.1               Your data protection rights and the content thereof
+
+As a data subject you have certain data protection rights when we process your personal data. You may exercise your right at any time by contacting us.
+
+ 
+
+Your rights, as a data subjects, are the following:
+
+ 
+
+Right of access: You have the right to receive confirmation from us whether any personal data related to you is processed and, if this is the case, you have the right to access the personal data and receive information of how the personal data are being processed.
+
+ 
+
+Right of rectification: You have the right to obtain from us without undue delay the rectification of inaccurate personal data concerning you. Taking into account the purposes of the processing, you have the right to have incomplete personal data completed, including by means of providing a supplementary statement.
+
+ 
+
+Right to be forgotten: In certain circumstances you may request the erasure of your personal data. If you want any information about you which we store to be erased, please contact us using the contact information below.
+
+ 
+
+Right of restriction of processing of the personal data: In certain circumstances, such as if you contest the accuracy of your personal data or have objected to our legitimate purpose for processing your personal data, you may have the right to request that we restrict the processing of your personal data.
+
+ 
+
+Right to data portability: In certain circumstances, you may have the right to request to receive a complete and machine-readable copy of your personal data that we hold and transfer it to another data controller.
+
+ 
+
+Right to object to processing of personal data: In certain circumstances, such as if you have doubts about our legitimate interest in processing of your personal data, you have the right to object to such processing.
+
+ 
+
+Right to complain: You have the right to file a complaint regarding our processing of your personal data with the relevant supervisory authority. In Denmark the supervisory authority is the Danish Data Protection Agency. The Danish Data Protection Agency's contact information is accessible on their website: www.datatilsynet.dk.
+
+8.                  CONTACT US
+8.1               Our contact information
+
+You are always welcome to contact us if you have any questions about this Privacy Policy, including for exercising your rights as a data subject. You can contact us on support@tactile.dk.

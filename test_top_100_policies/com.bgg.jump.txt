@@ -1,0 +1,248 @@
+Privacy Policy
+
+Last Updated: January 25, 2022
+
+Magic Tavern, Inc. develops and publishes social games for the web and mobile devices. This Privacy Policy (this “Policy”) describes the ways Magic Tavern, Inc. (“Studio,” “us”, “our” or “we”) collects, stores, uses, discloses or otherwise processes personal information of our users (“users” or “you”) in connection with our products or services, including our product offerings such as our website available at https://www.magictavern.com/ and Studio game(s) provided on a mobile platform or any other Studio product or service that posts or links to this Policy (each a “Service,” collectively, the “Services”). Additionally, and depending on your jurisdiction, this Policy describes your rights and choices concerning your information.
+
+This Privacy Policy covers the following topics:
+
+Personal information we collect and how we collect it
+How we use your information
+Sharing of your information
+Online advertising
+Data protection
+Data retention
+Children’s privacy
+Third-party websites and services
+Transfer of personal data outside your country
+Specific Provisions for EEA, UK and Swiss individuals
+Specific Provisions for California consumers
+Changes to this Policy
+Contact us
+
+If you have questions regarding this Policy or our collection and use of personal information, please contact us as described in the Section “Contact Us”.
+
+1. PERSONAL INFORMATION WE COLLECT AND HOW WE COLLECT IT
+
+When you interact with us, we are collecting personal information about you. Sometimes we collect personal information automatically when you interact with our services and sometimes we collect the personal information directly from you. At times, we may collect personal information about you from other sources and third parties.
+
+A. Information We Collect From You Directly
+
+Registration Information
+
+We may offer you the option to complete a user profile that is visible to other Studio users (“Account”). If you create an Account, you may provide us your name, a username, e-mail address, a password and other information that helps us confirm that it is you accessing your Account. We may do this through in-game dialog boxes, which you may choose to skip. If you sign into the Services with Facebook Connect we will collect information that is visible via your Facebook account such as: (1) your first and last name, (2) Facebook ID, (3) Profile Picture/URL, and (4) list of Facebook friends. Your Account may be used to publicly identify you as part of social features of the Services, which may include user-to-user interaction, chat or messaging functionality, public leaderboards, head-to-head competition, and other similar features. The Studio username will be public and will be shown to other users, but will only permit access to information that is considered public or that you have designated as public in your user profile settings.
+
+Address Book Information
+
+We may also offer you the ability to import your contacts or manually enter e-mail addresses so that you can locate your contacts on Studio and invite your contacts to join you in the Services. This information is typically collected through the use of third-party mobile device software development kits. With your consent, we will store those contacts for purposes of helping you and your contacts make connections through our Services.
+
+Technical and Usage Information
+
+When you access our Services, we may use cookies and similar technologies to collect (i) certain technical information about your mobile device or computer system, including IP Address, mobile device ID (IDFA, Google Advertising ID or other identifiers), and the version of your operating system; and (ii) usage statistics about your interactions with the Services, including the links, objects, products and benefits you view, click or otherwise interact with (also known as “Clickstream Data”). Our emails may also contain tracking pixels that identify if and when you have opened an email that we have sent you, how many times you have read it and whether you have clicked on any links in that email. In certain Services we will create and assign to your device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as username, character name, or e-mail address. We may also collect your general geographic location based on your IP address. We may occasionally send you push notifications through our Service to send you game updates, high scores and other service-related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
+
+Payment Information
+
+When you order any good or service through the Services, including any virtual currency or virtual good, we collect some purchase information which is comprised of transaction history, including what you have purchased, the price, and the date. Your in-app purchase transactions are processed by third-party payment processors, such as Apple (for purchases on iOS devices), Google (for purchases on Android devices), or Amazon (for purchases on Kindle devices). The third-party payment processors will collect your name, phone number, e-mail address, mailing address, billing address, and complete credit card information that enables them to receive your payment. Our payment processing service provider may also retain this information to enable you to purchase additional items through our Services without having to re-enter it each time. Please note third party payment processors do not share your financial information, like credit card numbers, with us. Note the payment processors’ use of your personal information is governed by their privacy policies, and purchases from third parties may also be subject to additional policies.
+
+Information Collected by Customer Support
+
+When you ask for assistance from our Customer Support team, we will collect and store the contact information you provide (generally your name and e-mail address), information about your game-play or activity on the Services, and your username or ID number. We will also store the correspondence and any information contained within.
+
+Marketing Emails
+
+If you sign up to receive news or alerts from us, we may collect your email and applicable interests and communication preferences. If you wish to stop receiving email messages from us, you may use the unsubscribe link included in our emails.
+
+Surveys and Promotions
+
+If you fill out any forms relating to Studio surveys, competitions (contests/sweepstakes), or other promotional events, we collect your contact information (such as your name, email, and phone number, postal code), and any other information requested on the form, at sign up, or a part of your competition entry, including photos/videos (each, as applicable). On occasion, we may also collect your shipping and billing information, such as if you are a competition winner or purchase our products or services. If you are part of our event or promotion partner, we may also collect your personal information including your name, company email, and company address.
+
+B. Information We Collect From Other Sources
+
+We may collect or receive information from the following other sources (i) other Service users who choose to upload their email contacts; (ii) third party information providers such as digital advertising companies; and (iii) social networking sites. We may combine this information with the information we collect from an individual directly.
+
+2. HOW WE USE YOUR INFORMATION
+
+We use information collected through our Service for purposes described in this Policy or disclosed to you in connection with our Service. For example, we may use your information to:
+
+- Create your Service accounts and allow access to our Services;
+- Identify and suggest connections with other Studio users;
+- Operate and improve our Services;
+- Understand you and your preferences to enhance your experience and enjoyment using our Services;
+- Respond to your comments and questions and provide customer service;
+- Provide and deliver products and services you request;
+- Deliver and target advertising and marketing and promotional information to you;
+- Send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
+- Communicate with you about promotions, contests, rewards, upcoming events, and other news about products and services offered by us and our selected partners;
+- Conduct and administer contests promoted by us;
+- Prevent fraud or potentially illegal activities, and enforce our Terms of Use;
+- Enable you to communicate with other users;
+- Link or combine it with other information we get from third parties to help understand your preferences and provide you with better services.
+- Comply with legal obligations; and
+- Fulfill any other purpose for which you provide personal information.
+
+3. SHARING OF YOUR INFORMATION
+
+We may share information we collect or derive with third parties for the following purposes:
+
+- With service providers that perform services on our behalf or enhance our Services, including hosting services, payment processing, customer service and to assist us in our marketing efforts;
+- Advertisers, ad exchanges and other ad technology companies that require the data to select and serve our relevant advertisements to you and others, and assist us in our marketing efforts;
+- With our affiliates;
+- For analytics and research purposes, including Google Analytics. These service providers may use cookies to collect information about your online activities across this and other sites over time for non-advertising purposes. To learn more about how Google analytics collects and processes data and the choices Google may offer to control these activities, you may visit http://www.google.com/intl/en/policies/privacy/partners/;
+- We may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties;
+- When we have a good faith belief that we have to disclose the information in response to lawful requests by public authorities, including law enforcement or legal process purposes;
+- To satisfy any applicable laws or regulations;
+- When we believe in our sole discretion that our Services are being used in committing a crime, including to report such criminal activity or to share information with other companies and organizations for the purposes of fraud protection, credit risk reduction, and other security precautions;
+- To protect our or a third party’s legal rights, investigate fraud, or to defend against a legal claim;
+- As part of a business transfer such as a merger, acquisition, sale of all or a portion of our assets or at bankruptcy; and
+- We may disclose personal information about an individual to certain other third parties or publicly with their consent or direction.
+
+4. ONLINE ADVERTISING
+
+Interest-Based Advertising
+
+To the extent we display advertising in our Services, with your consent as may be required by applicable law, we may share or we may allow online advertising networks, social media companies, and other third-party services to collect information about your use of our Service over time so that they may play or display ads on our Services, on other devices you may use, and on other websites, apps, or services. Typically, though not always, the information we share is provided through cookies or similar tracking technologies, which recognize the device you are using. We and our third-party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics, and market research. Such information includes the following:
+
+- Device make, model and operating system;
+- Device properties related to screen size & orientation, audio volume and battery;
+- Carrier;
+- Operating system;
+- Name and properties of mobile application through which a consumer interacts with the Services;
+- Country, time zone and locale settings (country and preferred language);
+- Network connection type and speed;
+- IP Address;
+- Internet browser user-agent used to access the Services; and
+- Advertising ID (IDFA on iOS devices and GAID on Android devices).
+
+A list of these advertising partners and their privacy policies is available at https://www.magictavern.com/advertising-partners.html. The privacy policies of our partners may include additional terms and disclosures regarding their data collection and use practices. We encourage you to review those privacy policies to learn more about their data collection and use practices.
+
+Social Media Widgets
+
+Our Service may include social media features, such as the Facebook button, Google, Instagram, Twitter, or other widgets. These social media companies may recognize you and collect information about your visit to our Services, and they may set a cookie or employ other tracking technologies. These companies have interest-based advertising programs that allow us to direct advertisements to users who have shown interest in our Services while those users are on the social media platform or to groups of other users who share similar traits, such as likely commercial interests and demographics. Your interactions with those features are governed by the privacy policies of those companies.
+
+Cross-Device Linking
+
+We, or our third-party partners, may link your various devices so that content you see on one device can result in relevant advertising on another device. We do this by collecting information about each device you use when you are logged in to our Service. We may also work with third-party partners who employ tracking technologies or the application of statistical modeling tools to determine if two or more devices are linked to a single user or household. We may share a common account identifier (such as an email address or user ID) with third-party advertising partners to help recognize you across devices. We, and our partners, can use this cross-device linkage to serve interest-based advertising and other personalized content to you across your devices, to perform analytics, and to measure the performance of our advertising campaigns.
+
+Google Analytics and Advertising
+
+We utilize certain forms of display advertising and other advanced features through Google Analytics, including, but not limited to, Remarketing with Google Analytics, the DoubleClick Campaign Manager Integration, Google Ads, and Google Analytics Demographics and Interest Reporting. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to the Service and to tailor our advertisements and content to you. You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at https://google.com/ads/preferences.
+
+Online Advertising Opt-Out
+
+You may visit www.aboutads.info/choices or www.youronlinechoices.eu (for individuals in the EU) to learn more about interest-based advertising and how to opt-out of this form of advertising on your web browser by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program. If you wish to opt-out of interest based advertising in mobile apps on your device by companies that participate in the DAA’s AppChoices app, you may download that app onto your device and exercise your choice. AppChoices is available at the links below:
+
+DAA AppChoices iOS
+DAA AppChoices Android
+DAA AppChoices Amazon
+
+You may also limit data collection by third parties by using your mobile device settings. Please note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. Additionally, please note that if you use a different browser or erase cookies from your browser, or use a different mobile device, you may need to renew your opt-out choices. We are not responsible for the effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs. In addition, third parties may still use cookies to collect information about your use of our online services, including for analytics and fraud prevention as well as any other purpose permitted under the DAA’s Principles.
+
+5. DATA PROTECTION
+
+We implement appropriate technical and organizational measures to protect your personal information against accidental or unlawful destruction, loss, change or damage. All personal information we collect will be stored by our cloud hosting provider on secure servers. However, no security system is impenetrable, and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+
+6. DATA RETENTION
+
+We store data on servers in the U.S. or any other country in which the Studio or its affiliates, subsidiaries, agents or contractors maintain facilities. We retain your personal data for as long as needed to provide you Services, unless we are required by law to delete or if we accept your request to delete the information. We will also retain and use your personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+7. CHILDREN’S PRIVACY
+
+We do not knowingly collect or solicit personal data from anyone under the age of 16 or knowingly allow such persons to use our Services. If you are under 16, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 16 may provide any personal data. In the event that we learn that we have collected personal data from a child under age 16, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 16, please contact us.
+
+8. THIRD-PARTY WEBSITES AND SERVICES
+
+The Services may contain integrations or links to third party websites or services, including those of our business partners. By interacting with these third parties, you are providing information directly to the third party and not the Studio. Please note that the Studio is not responsible for the privacy practices of these third parties or any entity that it does not own or control. We encourage you to review the privacy policies and online terms of those third parties to learn more about how they handle your personal information.
+
+9. TRANSFER OF PERSONAL DATA OUTSIDE YOUR COUNTRY
+
+We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Economic Area, United Kingdom or Switzerland, your personal information may be processed outside of those regions, including in the United States. In the event of such a transfer, we ensure that: (i) the personal information is transferred to countries recognized as offering an equivalent level of protection; or (ii) the transfer is made pursuant to appropriate safeguards, such as standard contractual clauses adopted by the European Commission.
+
+10. SPECIFIC PROVISIONS FOR EEA, UK AND SWISS INDIVIDUALS
+
+These additional provisions apply to individuals who are located in European Economic Area (“EEA”), United Kingdom (“UK”) and Switzerland.
+
+Magic Tavern, Inc., having its contact address at 1100 Page Mill Road, Palo Alto, CA 94304, is the “data controller” responsible for the processing of personal data in connection with our Services. This means that we determine and are responsible for how your personal information is used.
+
+Your Rights With Respect to Your Personal Information
+
+In accordance with applicable privacy law, you have the following rights in respect of your personal information that we hold:
+
+- Accessing and Correcting Your Personal Information. At any time, you may request to access the personal data that we hold about you. We may need to ask you to provide certain information to make sure you are who you claim to be. If you find the information on your account is not accurate, complete or updated, then please provide us with the necessary information to correct it.
+
+- Erasing or Restricting Access to Your Information. You may request to delete or restrict access to your personal data. We may postpone or deny your request if your personal data is in current use for providing Services or for other legitimate purposes, in which case we will let you know if we are unable to do so and why.
+
+- Transferring Your Personal Data (Otherwise Known as Your Right to Data Portability). You have the right to receive your personal data that you have provided us in a structured, commonly used and machine readable format and the right to transmit that data to another party of your choice, where technically feasible. However, this right shall not apply where it would adversely affect the rights and freedoms of others.
+
+- Right to Object to Processing. You have the right to object to our processing of your personal data, under certain conditions.
+
+- Withdrawing Your Consent. Contact us if you would like to withdraw your consent to the processing of your personal data. Exercising this right will not affect the lawfulness of processing based on consent before withdrawal.
+
+Right to Make a Complaint. In the event that you wish to make a complaint about how we process your personal data, please contact us in the first instance at privacy@magictavern.com and we will endeavor to deal with your request. This is without prejudice to your right to launch a claim with an EU data protection supervisory. If you are based in the European Union, information about how to contact your local data protection authority is available at https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en. If you are based in the UK or Switzerland, your local data protection authorities are the UK Information Commissioner's Office (https://ico.org.uk/global/contact-us/) and the Swiss Federal Data Protection and Information Commissioner (https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact/address.html).
+
+If you wish to exercise any of your rights detailed above, please contact us at privacy@magictavern.com or write to us at the address set forth in the “Contact Us” section. If you make a request, we have one month to respond to you.
+
+Lawful Basis for Processing
+
+On certain occasions, we process your personal data when it is necessary for the performance of a contract to which you are a party, such as to provide the Services to you. We may also process your personal data to respond to your inquiries concerning our products and services.
+
+On other occasions, we process your personal data where required by law. We may also process your personal data if necessary to protect your interests or the interests of a third party.
+
+Additionally, we process your personal data when necessary to do so for fraud prevention, improving our network and services, and marketing our services to advertisers and publishers; where these interests are not overridden by your data protection rights.
+
+If the processing of personal data is necessary and there is no other lawful basis for such processing, we will generally ensure that consent has been obtained from you. You have the right to withdraw your consent to processing of personal data at any time.
+
+For questions about data processing, please contact us at privacy@magictavern.com. Visit the “Contact Us” section below for contact information.
+
+Marketing and Advertising
+
+From time to time we may contact you with information about our services, including sending you marketing messages and asking for your feedback on our services. Most marketing messages we send will be by email or push notifications. For some marketing messages, we may use personal information we collect about you to help us determine the most relevant marketing information to share with you.
+
+Where we rely on consent to send you marketing communications, we will only send you such messages if you have given us your consent to do so. You can withdraw your consent at a later date by clicking on the “unsubscribe” link at the bottom of our marketing emails or by updating your preferences in the settings page of the App or Service.
+
+11. SPECIFIC PROVISIONS FOR CALIFORNIA CONSUMERS
+
+These additional provisions for California consumers apply only to individuals who reside in California. The California Consumer Privacy Act of 2018 (“CCPA”) provides additional rights to know, delete and opt out, and requires “businesses” collecting or disclosing personal information to provide notice and a means to exercise those rights.
+
+Categories of personal information collected in the preceding 12 months:
+
+- See Personal Information We Collect and How We Collect It above
+
+Business purpose for collection
+
+- See How We Use Your Information above
+
+Third parties with whom we may share your information
+
+- See Sharing of Your Information above
+
+Right to Access, Know or Delete Your Information
+
+For any of the personal information described above, you can request to access and/or know what personal information we collected, disclosed, used or shared with third parties, and request that we delete your personal information at any time. You also have the right not to be discriminated against for exercising any of your CCPA rights.
+
+Right to Opt Out of Sale
+
+CCPA gives you a right to direct a business to stop selling your personal information.
+
+As is common practice among companies that operate online, we allow certain third-party advertising networks and other third-party businesses to collect and disclose your personal information directly from your browser or device through cookies or tracking technologies when you visit or interact with our websites, use our apps or otherwise engage with us. These third parties use your personal information for purposes of analyzing and optimizing our Service and advertisements on our websites, on other websites or mobile apps, or on other devices you may use, or to personalize content and perform other advertising-related services such as reporting, attribution, analytics and market research. To learn more about how third parties collect information automatically on our Site and the choices you may have in relation to those activities, please see our Online advertising section, above.
+
+How to exercise your rights
+
+To exercise your right to access, right to know, right to delete or right to opt out of sale, please submit a request by emailing privacy@magictavern.com with the subject line “California Rights Request” and specifying which right(s) you would like to exercise. We will need to verify your identity before processing your request. In order to verify your identity, we will generally require the matching of sufficient information you provide us to the information we maintain about you in our systems. In certain circumstances, we may decline a request to exercise the rights described above, particularly where we are unable to verify your identity or locate your information in our systems. If we are unable to comply with all or a portion of your request, we will explain the reasons for declining to comply with the request.
+
+In certain circumstances, you are permitted to use an authorized agent to submit requests on your behalf where (i) you provide sufficient evidence to show that the requestor is an authorized agent with written permission to act on your behalf and (ii) you successfully verify your own identity with us.
+
+We aim to respond to a consumer request for access or deletion within 45 days of receiving that request. If we require more time, we will inform you of the reason and extension period in writing.
+
+12. CHANGES TO THIS POLICY
+
+We may update this Policy to reflect changes to our data and information privacy practices. If we make any material changes we will notify you by means of a notice on the Services prior to the change becoming effective. We encourage you to periodically review this Policy for the latest information on our privacy practices. Please note that if we need to adapt the Policy to legal requirements, the new Privacy Policy will become effective immediately or as required.
+
+13. CONTACT US
+
+Our Data Protection Officer
+
+You may contact us at privacy@magictavern.com or at the address below for further information.
+
+1100 Page Mill Road, Palo Alto, CA 94304.
+
+Copyright © 2022 Magic Tavern. All Rights Reserved.

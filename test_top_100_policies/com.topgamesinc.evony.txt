@@ -1,0 +1,192 @@
+Top Games Privacy Policy
+
+Last updated October 27, 2020.
+This is the privacy policy (“Privacy Policy”) that governs how Top Games, Inc. and our affiliated companies ("Top Games", "we", "our" or "us"), use Personal Data (defined below) that we collect, receive and store about you in connection with your use of our website: http://www.topgamesinc.com and any other website or application that we operate, or our partners operate on our behalf, (each, together with its sub-domains, content and services, a "Site").
+Our Site may contain links to third-party websites and services that are not owned or controlled by Top Games. We are not responsible for the privacy practices or the content of third party websites, services and advertisements, and you visit them at your own risk.
+1. Introduction.
+We are committed to respecting privacy and recognize the need for appropriate protection and management of any Personal Data that is shared with us as part of using our Site. As used in this Privacy Policy, "Personal Data" means any information that may be used, either alone or in combination with other information, to personally identify an individual.
+2. Changes to this Privacy Policy.
+We reserve the right, at our discretion, to change the terms of this Privacy Policy at any time. You can see when this Privacy Policy was last updated by reviewing the “Last Updated” legend on the top of this page. We may provide you with notice of material changes to the Privacy Policy as appropriate under the circumstances. UNLESS OTHERWISE INDICATED, ANY CHANGES TO THIS PRIVACY POLICY WILL APPLY IMMEDIATELY UPON POSTING TO THE SITE.
+3. Personal Data Collected.
+3.1. Personal Data You Provide To Us On Our Site.
+a) Types of Personal Data. We and our service providers collect the Personal Data set forth below in order to provide the Site to you, or because we are legally required to do so. If you do not provide the Personal Data we request, we may not be able to provide you with the Site. The Personal Data we and our service providers collect includes but is not limited to:
+Email address;
+Payment information;
+Phone number;
+Communications you send to us.
+b) When Personal Data is Collected. You may be required to provide us with certain information that may constitute Personal Data in the following ways:
+Contact Information.
+In various areas of the Site, we provide you the opportunity to submit a form with basic contact information, such as your email and payment information. With your permission, Top Games uses such information to inform you of new products, technical information and services, and upcoming events that may be of interest. If you no longer wish to receive these emails, the opt-out process is described in Section 7.2 of this Privacy Policy.
+In addition, if you choose, you may participate in a Top Games e-mail list server by subscribing within the Site or by contacting Top Games staff directly. You may unsubscribe from these e-mail list servers by following the unsubscribe instructions found within the list email.
+Member Login Information.
+We process your username and password to enable you to securely log into the Site, and we process information regarding your role with Top Games to appropriately control access to restricted content. We process this Personal Data only as necessary to provide you services on the Site under our Terms of Use and to further our legitimate interests in protecting the Site and content.
+Payment Information.
+When you purchase services or products from us, third-party service providers acting on our behalf process payment information, including payment card details and billing addresses, to help us fulfill your orders. Any Personal Data collected by such third party will be subject to the third party’s privacy policy, rather than this Privacy Policy.
+Information Collected through Various Forms.
+We and our service providers may collect Personal Data in a variety of ways, including: (i) through use of the Site, e.g., when you sign up for a gaming service, forum community, or make a purchase; or (ii) from other sources, such as public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected) and from other third parties.
+Personal Data You Disclose Relating to Others.
+If you disclose any Personal Data relating to other people to us or to our service providers in connection with the Site, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
+3.2. Personal Data You Provide To Third Parties On Our Site.
+Please note that we use certain third party service providers on our Site to enhance your experience or deliver certain services. These providers may collect Personal Data about you in performing their services and/or functions on our Site.
+3.3. Information Collected Automatically
+Certain information on our Site is collected automatically by means of various software tools. We have a legitimate interest in using such information to assist in log-in, systems administration purposes, information security and abuse prevention, to track user trends, and to analyze the effectiveness of our Site. Alone or in combination with other information, such automatically collected information may constitute Personal Data. Some of our service providers (described in Section 5, below) may use cookies or other methods to gather information regarding your use of our Site. Such third parties may use these cookies or other tracking methods for their own purposes by relating information about your use of our Site with any Personal Data about you that they may have. The use of such information by a third party depends on the privacy policy of that third party.
+a) Log Files On Our Site. The information inside the log files includes internet protocol (“IP”) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser may send to us.
+b) Cookies. We use cookies to make interactions with our Site easy and meaningful. When you visit our Site, our servers may send a cookie to your computer. We may use cookies that are session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. Please note that if you disable your web browser’s ability to accept cookies, you will be able to navigate our Site, but you may not be able to successfully use all of the features of our Site.
+The following sets out how we may use different categories of cookies and your options for managing cookies’settings:
+
+
+
+Type of Cookies	
+
+Description
+
+	
+
+Managing Settings
+
+
+
+
+Required cookies
+
+	
+
+Required cookies enable you to navigate our Site and use its features, such as accessing secure areas of our Site and using our services.
+If you have chosen to identify yourself to us, we use cookies containing encrypted information to allow us to uniquely identify you. Each time you log into our Site, a cookie containing an encrypted, unique identifier that is tied to your account is placed on your browser. These cookies allow us to uniquely identify you when you are logged into our Site and to process your online transactions and requests.
+
+	
+
+Because required cookies are essential to operate our Site, there is no option to opt out of these cookies.
+
+
+
+
+Performance cookies
+
+	
+
+These cookies collect information about how you use our Site, including which pages you go to most often and if they receive error messages from certain pages. We only use information from these cookies in an aggregated and anonymous manner. It is only used to improve how our Site functions and performs.
+From time-to-time, we may engage third parties to track and analyze usage and volume statistical information from individuals who visit our Site. We may also utilize Flash cookies for these purposes.
+
+	
+
+To learn how to opt out of performance cookies using your browser settings click here.
+To learn how to manage privacy and storage settings for Flash cookies click here.
+
+
+
+
+Functionality cookies
+
+	
+
+Functionality cookies allow our Site to remember information you have entered or choices you make (such as your username, language, or your region) and provide enhanced, more personal features. These cookies also enable you to optimize your use of our Site after logging in. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize.
+We may use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our Site to personalize your visit.
+
+	
+
+To learn how to opt out of functionality cookies using your browser settings click here.
+To learn how to manage privacy and storage settings for Flash cookies click here.
+
+
+
+
+Targeting or Advertising cookies
+
+	
+
+From time-to-time, we may engage third parties to track and analyze usage and volume statistical information from individuals who visit our Site. We sometimes use cookies delivered by third parties to track the performance of our advertisements. For example, these cookies remember which browsers have visited our Site. By way of example, as you browse our Site, advertising cookies may be placed on your computer so that we can understand what you are interested in. Our advertising partners then enable us to present you with retargeted advertising on other sites based on your previous interaction with our Site.
+We also contract with third-party advertising networks and similar partners that collect IP addresses and other information from web beacons (see below) on our Site, from emails, and on third-party sites. Ad networks follow your online activities over time by collecting Site Navigational Information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may see these advertisements on other websites. This process also helps us manage and track the effectiveness of our marketing efforts.
+Third parties, with whom we partner to provide certain features on our Site or to display advertising based upon your web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.
+
+	
+
+To learn more about these and other advertising networks and their opt out instructions, click here.
+To learn how to manage privacy and storage settings for Flash cookies click here.
+
+c) Other Tracking Technologies.
+When you visit our Site, we may collect your IP address for tracking purposes. For example, we may use IP addresses to monitor the regions from which you navigate our Sites.
+We may also use web beacons alone or in conjunction with cookies to compile information about your usage of our Site and interaction with emails from us. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular site tied to the web beacon. For example, we may place web beacons in marketing emails that notify us when you click on a link in the email that directs you to our Site. We may use web beacons to operate and improve our Site and email communications.
+d) Analytics Software Tools.
+We use Google Analytics on our Site to help us analyze the traffic on our Site. For more information on Google Analytics’ processing of Personal Data, please see http://www.google.com/policies/privacy/partners/. By using a browser plugin http://www.google.com/ads/preferences/plugin/ provided by Google, you can opt out of Google Analytics.
+4. The Purposes For Which We Use Personal Data.
+If you submit or we collect Personal Data through our Site, then such Personal Data may be used in the following ways: (i) to provide, analyze, administer, and improve our Site and services, (ii) to contact you in connection with our Site and certain services, notifications, events, programs or offerings that you may have registered for, (iii) to send you updates and promotional materials that you have registered for, (iv) to identify and authenticate your access to the parts of our Site and services that you are authorized to access; (v) for recruiting and human resources administration purposes, and (vi) to protect our rights and/or our property and to ensure the technical functionality and security of our Site.
+5. How We Disclose Personal Data.
+We do not sell, lease, rent or otherwise disclose the Personal Data collected from our Site to third parties unless otherwise stated below or with your consent.
+5.1. Our Third Party Providers.
+We transfer Personal Data to our third party service providers as necessary to perform tasks on our behalf and to assist us in providing our Site, as more fully described in Section 3.2. We use commercially reasonable efforts to only engage or interact with third party service providers and partners that post a privacy policy governing their processing of Personal Data. Notwithstanding the foregoing, we will comply with applicable laws regarding Personal Data transfers as well as any transfer restriction that is specified in an agreement between Top Games and a customer.
+5.2. Social Media Services.
+Third-party social networks that provide interactive plug-ins or social networking features (for example, to allow you to "Like" a page on our Site) on the Site, may use cookies or other methods (for example, web beacons) to gather information regarding your use of our websites and apps. The use of such information by a third party depends on the privacy policy available on that social network’s website, which we encourage you to carefully review. Such third parties may use these cookies or other tracking methods for their own purposes by relating information about your use of our site with any of your Personal Data that they may have.
+5.3. Advertising.
+We engage advertising services to assist us in advertising our brand and Site. From time to time, those services target advertisements on third-party websites based on cookies or other information indicating previous interaction with our Site.
+5.4. Business Partners
+From time to time, we may partner with other companies to jointly offer products or services. For example, we partner with various game development and design studios to deliver you gaming services. If you purchase or specifically express interest in a jointly-offered product or service from us, we may share Personal Data collected in connection with your purchase or expression of interest with our joint promotion partner(s). We do not control our business partners’ use of Personal Data we collect, and their use of the information will be in accordance with their own privacy policies.
+5.5. In the Event of Merger, Sale, or Change of Control.
+We may transfer or assign this Privacy Policy and any Personal Data to a third party entity that acquires or is merged with us as part of a merger, acquisition, sale, or other change of control.
+5.6. Other Disclosures.
+We may disclose Personal Data about you if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to: (i) comply with any applicable law, regulation, legal process or governmental request; (ii) enforce our terms of use, including investigations of potential violations thereof; (iii) detect, prevent, or otherwise address fraud or security issues; or (iv) protect against harm to the rights, property or safety of Top Games, our users, or the public.
+6. Retention of Personal Data.
+We reserve the right to retain any Personal Data as long as the Personal Data are needed to: (i) fulfill the purposes that are described in Section 4 (The Purposes For Which We Use Personal Data), and (ii) comply with applicable law.
+7. Your Rights.
+7.1 Personal Data.
+If you have an account on our Site, we provide access to—and the ability to edit or delete—certain categories of Personal Data through the account.
+If you would like to access, amend, erase, export (i.e., data portability), or object to or restrict the processing of Personal Data collected via our Site, you may submit a request to legal@Top Games.com or write to us at:
+Top Games, Inc.
+Attn: Legal - Privacy
+585 Glenwood Avenue, Suite 3, Menlo Park, CA 94025They may also e-mail us at legal@topgamesinc.com.
+
+Depending on where you live, you may have a right to lodge a complaint with a supervisory authority or other regulatory agency if you believe that we have violated any of the rights concerning Personal Data about you. We encourage you to first reach out to us at legal@Top Games.com so we have an opportunity to address your concerns directly before you do so.
+If you are a resident of California, please see Section 12 for additional information concerning your rights under California law.
+
+7.2. Opting-Out of Promotional Emails.
+You may choose not to receive future promotional or advertising emails from us by selecting an unsubscribe link at the bottom of each email that you receive from us, or by responding to the emails directly and requesting removal if such a link is not available. Additionally, you may send a request specifying your communications preferences to legal@Top Games.com. Customers cannot opt out of receiving transactional emails related to their account with us or our services. Please note that even if you opt out of receiving the foregoing emails, we may still send you a response to any "Contact Us" request as well as administrative, maintenance and operational emails (for example, in connection with a password reset request).
+8. Personal Data Transferred Internationally.
+
+If you use the Site from outside the United States, please be aware that personal information may be collected, stored, and processed in the United States. If we transfer personal information internationally, we take steps to provide adequate safeguards, such as entering into standard contractual clauses with our service providers.  Please be aware that the data protection laws of the United States might not be as comprehensive as those in your country. 
+
+9. Data Security.
+The security of Personal Data is important to us. We follow generally accepted industry standards to protect the Personal Data submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect Personal Data, we cannot guarantee its absolute security.
+10. Children's Privacy.
+10.1. Children Under 13.
+Children under the age of 13 should not use our websites or games at any time. In the event that we confirm that we have inadvertently gathered personal information from children under the age of 13, we will take reasonable measures to promptly remove such information from our records. We do not knowingly collect or store any Personal Data from children under 13. If parents believe that we have unintentionally collected their children’s’ Personal Data, they may request the deletion of the information by contacting us at:
+Top Games, Inc.
+Attn: Legal - Privacy
+585 Glenwood Avenue, Suite 3, Menlo Park, CA 94025They may also e-mail us at legal@topgamesinc.com.
+10.2. Note to Parents.
+We recognize a special obligation to protect Personal Data about young children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers, without permission, when on-line. Teenagers under the age of 17 and over the age of 12 should encourage their parents to review this Privacy Policy and to contact us if they would like to evoke our opt-out policy or to raise any concerns.
+11. How We Respond to Do Not Track Signals.
+Top Games does not track Site users over time and across third party websites to provide targeted advertising. Accordingly, we do not currently respond or take any action with respect to web browser "do not track" signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of Personal Data about an individual consumer's online activities over time and across third-party web sites or online services.
+12. Your California Privacy Rights.
+This section applies to our collection and use of “Personal Information”, as defined under California law, if you are a resident of California.
+
+ Categories of Personal Information Collected, Used, and Disclosed
+
+“Personal Information” is information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household. In accordance with California law, we collected the following categories of Personal Information within the preceding 12 months:
+
+Identifiers such as your name, alias, email address, mailing address, IP address, and online identifiers;
+Certain categories of Personal Information described in subdivision (e) of California Civil Code Section 1798.80;
+Internet or other electronic network activity information, including information on your usage of our Website (“Usage Information”);
+Information used to create a profile about a consumer reflecting the consumer’s preferences or behavior; and
+Commercial information, including records of products or services purchased or other purchasing histories.
+
+We disclose each of these categories of Personal Information to our service providers to the extent necessary for them to facilitate our business purposes (including any purpose specified in Section 4, above). 
+Additionally, within the past 12 months, some of our online advertisers may have used and disclosed Usage Information collected automatically from the Service. This may be a “sale” as broadly defined under the CCPA.  Therefore, we provide you the right to opt out of this “sale” of Personal Information as described, below.
+
+Your California Privacy Rights
+
+If you are a resident of the California, you have the following rights:
+
+Right to Know. You may have the right to request information on the categories of personal information that we collected in the previous twelve (12) months, the categories of sources from which the Personal Information was collected, the specific pieces of Personal Information we have collected about you, and the business purposes for which such personal information is collected and shared. You also have the right to request information on the categories of Personal Information which were disclosed for business purposes, and the categories of third parties in the twelve (12) months preceding your request for your personal information.
+Right to Delete.  You may have a right to request us to delete Personal Information that we collected from you.
+Right to Opt-Out. You have a right to opt-out of certain disclosures of Personal Information to third parties, if such disclosures constitute a “sale” under California law.  As noted above, in the past twelve (12) months we enabled advertisers to collect certain information from the Site, which the advertisers may use to improve their interest-based advertising networks.  Regardless of whether this is a “sale,” you may opt-out of interest-based advertising as described in Section 3.3, above.
+
+If you would like to exercise your rights listed above, please contact (or have your authorized agent contact) us using the contact information listed below.  When doing so, please tell us which right you are exercising and provide us with contact information to direct our response. 
+We must verify your identity before fulfilling your requests.  If we cannot initially verify your identity, we may request additional information to complete the verification process. Any Personal Information you disclose to us for purposes of verifying your identity will solely be used for the purpose of verification. 
+You have a right not to receive discriminatory treatment by any business when you exercise your California privacy rights.
+
+Additionally, if you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of Personal Data about you by Top Games to third parties for the third parties’ direct marketing purposes.
+To make such a request under this Section, please send an email to legal@topgamesinc.com or write to us:
+Top Games, Inc.
+Attn: Legal - Privacy
+585 Glenwood Avenue, Suite 3, Menlo Park, CA 9402513. Contacting Us.
+Any comments, concerns, complaints, or questions regarding our Privacy Policy may be addressed to legal@topgamesinc.com.

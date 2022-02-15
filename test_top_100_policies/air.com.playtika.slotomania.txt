@@ -1,0 +1,2075 @@
+Get to know us
+Games
+Life at Playtika
+Careers
+In the press
+Knowledge
+   
+   
+ 
+Privacy Notice
+EN
+ES
+DE
+JA
+RU
+FR
+PTBR
+IT
+PL
+ZH-TW
+TU
+
+PRIVACY NOTICE
+
+This Privacy Notice will be effective from August 19th, 2021.
+
+To access our previous policy,  click here . 
+
+Introduction
+
+This Playtika Privacy Notice (the “Privacy Notice” or “Notice”) is provided to help you understand our practices regarding how we collect, use, share, and protect personal data. In this Privacy Notice, “Playtika” refers to Playtika Holding Corp. and its subsidiaries. We may also refer to Playtika as "we" or "us".
+
+This Privacy Notice applies whenever you play the games that link to this Notice, or otherwise access any of our other products and social games for the web, mobile, or any other applicable platforms and/or devices (the “Service”). This Privacy Notice does not apply to games offered by Wooga GmbH and Seriously Digital Ltd (both are companies subsidiaries of Playtika Holding Corp.); the privacy policies for those games are available on the respective games and the company websites. 
+
+By using the Service, you agree to the collection, disclosure, storage and use of personal data as described in this Privacy Notice. If you do not want Playtika to collect, store, use or share the personal data you provide in the ways described in this Privacy Notice, you should not play Playtika’s games or use our Service. 
+
+1. Personal Data We Collect
+
+Playtika collects personal data to fulfil one or more of its functions and activities, as described in this Privacy Notice.
+
+A.     Personal Data That You Share with Us 
+
+When you use our Service (whether through a social network or through Playtika directly), you may give us information directly (like when you’re setting up your account or when you contact Customer Support) such as:
+
+your age or birthday;
+your first and last names;
+your e-mail address;
+a password;
+other information that helps us make sure it’s you accessing your account, information necessary for us to provide the support you request, or information you provide to help us improve our Service (such as answers to  an online survey or a feedback form).
+
+When you use our Service, you can choose to create a player profile that other Playtika players can see. In your profile, you can include information like:
+
+a profile photo;
+game username(s);
+your gender;
+biographic details (like your age or age range);
+approximate location information;
+links to your profiles on various social networks;
+details about the games you play.
+
+You can also provide us personal data directly in a number of other ways, including:
+
+in response to surveys or other research we conduct;
+to participate in contests and sweepstakes; 
+via social media;
+by participating in group communications or chats;
+at conferences, conventions, and other events. 
+
+B.     Personal Data That We Get from Others
+
+We may collect or receive information about you from other sources like third-party applications, such as an app store, third party login service, and social networks on which you play our games. We use this information along with information you provide us directly in a number of ways as described in this Privacy Notice, for example, to help you and your friends connect or to serve you advertising more tailored to your interests.
+
+If you play Playtika’s games or access any of our Service on connected third-party applications or connect our Service to any third-party applications, including social networks like Facebook, Playtika may receive certain information about you from the provider of the third-party application. The information we receive depends on the Playtika game you’re playing, the third-party application, your privacy settings and, if applicable, your friends’ privacy settings on that third-party application.
+
+For example, Playtika may collect and store some or all of the following information shared by the third-party application:
+
+your first and last name;
+your profile picture or its URL;
+your user ID number (like your Facebook ID number), which may be linked to other information like your name and profile photo, and your friends’ identifiers;
+the user ID number and other information of your friends, like their names and profile photos;
+the login e-mail you provided to the third-party application;
+your physical location and that of the devices you use to access our Service;
+your gender;
+your birthday and/or age range;
+information about your activities on or through the third-party application;
+other information you have shared on the third-party application;
+any other information that you or the provider of the third-party application share with Playtika.
+If you access our Service from a third-party application or connect our Service to a third-party application, you should also read that third-party application’s Terms of Service and Privacy Notice.
+
+If you are unclear about what information a third-party application is sharing with us, please go to the third-party application to find out more about their privacy practices.
+
+C.     Cookies and Automated Information Collection
+
+Like many websites, Playtika, our service providers and other parties may send cookies to your device when you access or view the Service. A cookie is a small data file that is transferred to your device for record-keeping purposes.  Information contained in a cookie may be linked to personal data. We use cookies for purposes such as improving the quality of Playtika’s Service, tailoring recommendations to interests, and making the Service easier to use.
+
+Third party advertisers on the Service may also use, place, or read cookies or other technologies as described below on your device, and those practices are subject to their own policies. For more information on how you can opt-out of or disable cookies, please see the Your Rights section below.
+
+We and our service providers may also employ other technologies including (i) web beacons, which allow us to know if a certain page was visited or whether an e-mail was opened; (ii) tracking pixels, which allow us or our advertising partners to advertise more efficiently and effectively by excluding our current players from certain promotional messages, identifying the source of a new installation or delivering ads to you on other websites; and (iii) local shared objects, also known as flash cookies, which help us to reduce fraud, remember your in-game preferences, and speed up load times.
+
+We, our service providers, and other parties may collect the following information via cookies and other technologies:
+
+the type of device you are using;
+your device’s operating system and version;
+your mobile device’s identifiers, like your MAC Address, Identifier for Advertising (IDFA), and/or International Mobile Equipment Identity (IMEI);
+your browser type;
+your browser language;
+referring and exit pages and URLs;
+platform type;
+the number of clicks on a page or feature;
+domain names;
+landing pages;
+pages viewed and the order of those pages;
+the amount of time spent on particular pages;
+game state and the date and time of activity on our websites or games.
+
+In some cases, we will connect this information with your social network ID or Playtika user ID.
+
+On our Service, we may use Google Analytics or other vendors to collect information about your behavior and demographics. For more information about Google Analytics, please visit www.google.com/policies/privacy/partners . You can opt out of Google’s collection and processing of data by going to https://tools.google.com/dlpage/gaoptout .
+
+D.     Information You Generate Using Our Communications Features
+
+You may be able to take part in certain activities on our Service that let you communicate or share information with Playtika and other players. These include:
+
+participating in player forums and message boards;
+posting public comments to other players’ profiles or gameboards;
+sending private messages or invitations to other players, either directly on our websites or to their e-mail accounts;
+chatting with other players;
+posting photos or drawings.
+
+You may choose to disclose information about yourself in the course of contributing player-generated content to the Service, including in its chat rooms, blogs, message boards, player “profiles” for public view or in similar forums through mobile services and/or through third-party sites or services, posting public comments to other players' profiles or gameboards, sending private messages or invitations to other players, either directly on our Service or to their e-mail accounts and posting photos. You should consider any information that you disclose in any of these forums as “public”, and you should have no expectation of privacy or confidentiality.
+
+Additionally, you should be aware that any personal data you submit, including videos and images, can be accessed, read, watched, collected, or otherwise used by other players of these forums, and could be used to send you unsolicited messages. Playtika is not responsible for the personal data you choose to make public in any of these forums.
+
+We may use any information you share for any purpose as described in this Privacy Notice.
+
+Note that you should consider any information you post or otherwise share with other players through a Service or a third-party site or service as “public” and you should have no expectation that it be kept private.  Please also see Playtika’s Terms of Service for further information and guidelines about posting content through our Service.
+
+To enable some of the social features, you may be able to import your address book contacts or to manually enter them so that you can locate your contacts using the Service and invite them to join you in our games or other aspects of our Service. You are responsible for getting your contacts’ permission before you give their contact details to us. We may also get information about you from other Playtika players importing or entering their contacts.
+
+E.     Payment Information
+
+Playtika may obtain the billing and payment information that you provide when your purchase is processed by someone else (like Facebook, Apple or Google) such as when you purchase something in a game you play on a social network or that you downloaded on your mobile device. Our Terms of Service  explain our policies and terms relevant to our charges, billing practices, third-party credits and virtual currencies.
+
+If you purchase virtual currency or virtual items in a Playtika game, our third-party payment processor will collect the billing and financial information it needs to process your charges. This may include your postal address, e-mail address and financial information.
+
+Playtika does not collect or store credit card numbers. However, Playtika’s payment processors may share information with us related to your purchases. We may use this information for purposes as described in this Privacy Notice.
+
+If you would like to learn more about how we secure your information, please see Security of Your Information section below.
+
+ 2.  How We Use Personal Data
+
+Playtika uses personal data for a variety of business purposes as described in this Privacy Notice, including to fulfill our contractual obligations, complete transactions you request, comply with law, and for other legitimate business purposes, such as to:
+
+create your game accounts and allow you to play our games;
+operate, improve, and optimize our Service and our players’ experiences, including by measuring interest in and engagement with our Service;
+process payment card and/or other financial information to facilitate your in-game purchases;
+identify and suggest connections with other Playtika players and personalize our Service to you;
+enable players to communicate with each other;
+provide technical support and respond to player inquiries;
+authenticate and/or verify individual identities;
+protect the safety and well-being of our players;
+protect Playtika's rights and property in connection with our Service;
+address technical issues and maintain and/or enhance network and information security;
+conduct audits, ensure internal quality control, and take safety precautions;
+prevent and/or prosecute fraud or potentially illegal activities and to enforce our Terms of Service;
+manage and deliver contextual and behavioral advertising;
+notify players of in-game updates, new products, content or promotional offers;
+administer rewards, surveys, sweepstakes, contests, or other promotional activities or events sponsored or managed by us or our business partners;
+comply with our legal obligations, resolve any disputes we may have with you or other players, collect any money owed us, and to enforce our agreements;
+conduct research, including by using personal data to create de-identified and/or aggregated data. De-identified and aggregated data are not personal data and we may use and share such data for any legally permissible purposes.
+
+Your interactions with our Service may be tracked across platforms and/or devices.
+
+In addition to the above, if you have provided your e-mail address to Playtika, we may use it to communicate with you and other players in a number of ways, including to respond to customer support inquiries; keep you and others informed of your in-game activity, comments from friends, and in-game status and promotions; and tell you about gift and neighbor requests. Some messages, like invitations for friends to join you in a game, may include your name and profile photo. We may also send promotional messages ("Promotional Communications") directly or in partnership with other parties.  For more information on how you can opt-out of Promotional Communications, please see the Your Rights section below. 
+
+We may use technologies considered automated decision-making or profiling, but we will not do so in a way that has a legally significant impact on you, unless we have your consent or we are otherwise legally permitted to do so. 
+
+We may also use personal data for any other purposes communicated to you at the point of collection, or otherwise with your consent. 
+
+3. How We Share Personal Data
+
+We may share personal data about you between and among Playtika Holding Corp. and its subsidiaries.
+
+Additionally, we may disclose or publish aggregated and analytical information (information about you and other players collectively that is not intended to specifically identify you, for example, players between the ages of 25 and 30 who live Chicago) and other non-personal data about our players for industry analysis, demographic profiling, marketing, analytics, advertising, and other business purposes.
+
+In addition, we may share your information (which may include personal data) with third parties (in other words, parties other than Playtika) or allow third parties to collect this information from our Service as described in this Privacy Notice.
+
+A.    Service Providers
+
+Playtika uses its subsidiaries and other unaffiliated companies (“Service Providers”) to support the Service, like processing payments, analyzing data, optimizing game play and enhancing player experience, e-mail delivery, hosting services, managing and delivering contextual and tailored advertisements. 
+
+B.     Friends and Other Playtika Players
+
+In most Playtika games, if you play or register through a social network (for example, Facebook Connect), your social network friends may see your name, profile photo, and descriptions of your game activity. If you use our Service in response to an invitation from another player, that player may see certain information about you and your in-game activities, including when you join and the level(s) you reach within the game. Correspondingly, in many Playtika games, other players, regardless of whether they are your social network friends or not, will be able to see descriptions of your game activity (including the identification of any Playtika games you have played), communicate with you within our Service, and view your game profile, which may include your name or a “game name” and your profile photo. Other players may also be able to send you game requests or even friend requests through the related social network’s or Playtika’s communication channels.
+
+C.     Third-Party Advertising Including Tailored Advertising and Analytics
+
+We may have advertising on our Service so we can continue to offer our Service for free.
+
+When advertisers or ad networks place ads in our Service, they may collect or we may share the following types of information from within our Service:
+
+performance data (like the number of clicks on an advertisement);
+aggregated and/or de-identified information about you and other players that is not intended to specifically identify you (like players between the ages of 21 and 25 who live in San Francisco);
+certain technical information (for example, IP addresses, non-persistent device identifiers such as IDFAs, and device identifiers);
+your social network ID;
+other contextual data about your game play (for example, your level and session length).
+
+The information collected may be used to:
+
+measure how effective ads are;
+offer you targeted advertising in order to personalize your experience by showing you advertisements for products and services that are more likely to appeal to you (a practice known as behavioral advertising)
+undertake web analytics (like Google Analytics which is used to analyze traffic and other player activity to improve your experience).
+
+Advertisers or ad networks may collect this information through the use of tracking technologies like browser cookies and web beacons, and they may use a single tracking technology or multiple tracking technologies at the same time.
+
+Please note, after clicking on a third-party advertisement, you may no longer be on a site hosted by Playtika or the social network through which you are playing Playtika’s games.
+
+D.     Sale or Merger
+
+In the event that Playtika undertakes efforts to engage in a business transition ( like a merger, acquisition by another company, or sale of all or part its assets (like selling a game), we may disclose or transfer relevant information we have, including personal data, to the successor organization in the transition. We will make reasonable efforts as described in this Privacy Notice to let you and other players know of the business transition before transferring personal data.
+
+ E.     Legal Compliance
+
+ We may share personal data in the following circumstances: 
+
+when we have a good faith belief that we have to disclose the information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, or legal process (for example, a court order, search warrant or subpoena);
+to satisfy any laws or regulations;
+where we believe in our sole discretion that the Service is being used in committing a crime, including to report such criminal activity or to share information with other companies and organizations for the purposes of fraud protection, credit risk reduction, and other security precautions;
+when we have a good faith belief that there is an emergency that poses a threat to the health and/or safety of you, us, another person or the public generally;
+to protect the rights or property of Playtika and other applicable third parties, including to enforce our Terms of Service
+
+4.  Your Rights
+
+Depending upon the applicable law where you live, you may have the right to make requests with respect to personal data that Playtika processes about you, for examples:
+
+for information; 
+for access;
+for correction (or rectification) of personal data that you think is incorrect;
+for erasure (or deletion);
+for an electronic copy (or portability);
+to object to certain processing, including to opt out of targeted advertising.  
+
+Playtika allows all players to submit the requests via the Playtika Privacy Portal  or through the Privacy category in the support page within the game you play.
+
+A.     Manage Information We Get from Third Parties
+
+To manage the information Playtika receives about you from a third-party platform where you play our games, like Facebook, Apple, Amazon etc. you will need to follow the instructions for each such third-party application for updating your information and changing your privacy settings. 
+
+B.     Turning off Geolocation
+
+You can stop making geolocation available to us through your device's settings for the relevant application or the “settings” page for the relevant game. If you have previously allowed us to access your geolocation data, we may continue to use that information as described in this Privacy Notice.
+
+C.     Opting Out of Promotional Emails from Playtika
+
+If you want to stop receiving Promotional Communications from Playtika, you can click on the "unsubscribe" link in any promotional email from Playtika. If you want to stop receiving texts or SMS messages from you, you can reply “STOP” to any promotional message. Please note that it may take us some time for your opt-out to become effective. 
+
+Additionally, in most of our games, you may find an option under “your account” or “Settings” to request that we stop sending you Promotional Communications.
+
+D.     Opting Out of Facebook messages
+
+If you want to stop receiving messages through our game pages on Facebook, you may click on the “settings” icon on the top of such message, and by clicking  ”manage messages” you may turn off all messages from such game.
+
+E.     Opting Out of Push Notifications
+
+When you install our apps on your mobile device, you can choose to receive push notifications, which are messages an app sends you on your device even when the app is not on. You can turn off notifications by visiting your mobile device’s “settings” page.
+
+F.     Opting Out of Third-Party Tailored Advertising
+
+In some games that serve third-party ads we provide you a toggle button enabling you to disable third-party tailored ads.
+
+For more information about tailored advertising and your choices to prevent third parties from delivering tailored web and mobile web advertising you can visit www.aboutads.info . To opt out, for businesses that participate in the Digital Advertising Alliance, you can exercise that option at www.networkadvertising.org/choices  and www.aboutads.info/choices . 
+
+If you live in the EU, you can get information and exercise your choices at www.youronlinechoices.com . 
+
+These opt-out tools are provided by third parties, not Playtika. Playtika does not control, operate, or endorse these tools or the choices that advertisers and others provide through these tools. They are listed here only as a convenience for players.
+
+In addition, if you do not want to receive third-party tailored in-application advertisements, you may opt-out by adjusting the ad tracking settings on your device. You can also reset the “Advertising Identifier” (like an IDFA) from your device’s settings page, which will prevent continued use of existing behavioral data tied to the previous “Advertising Identifier.” Further, depending on the platform provider (such as Apple or Google), you may be able to download apps, such as the Digital Advertising Alliance’s “AppChoices” app, that offer to provide you with control regarding the collection and use of cross-app data for tailored advertising. Like the opt-out tools mentioned above for web, these mobile opt-out tools are provided by third parties, not Playtika. Playtika does not control, operate or endorse these tools or the choices that advertisers and others provide through these tools.
+
+Please note that you may still receive advertisements from third parties within Playtika’s games even if you opt out of tailored advertising but they will not be based on your activity across unrelated web sites or apps.
+
+G.     Opting Out of Cookie Tracking
+
+You can set your web browser to warn you about attempts to place cookies on your device or limit the type of cookies you allow. Flash cookies operate differently than browser cookies and cookie management tools available in a web browser may not remove flash cookies. To learn more about and manage flash cookies you can visit the Adobe website  and make changes at the Global Privacy Settings Panel .
+
+If you disable cookies, you may lose some of the features and functionality of our Service because Playtika cookies are necessary for providing the Service.
+
+H.     Do Not Track
+
+Note that Playtika does not currently respond to Do Not Track signals, whether that signal is received on a computer or on a mobile device.
+
+ 5.  Children’s Privacy
+
+For Slotomania, House of Fun, Caesars Casino, Vegas Downtown Slots, World Series of Poker, Poker Heat, and/or Bingo Blitz, you may not use the Service if you are under 21 years of age, in which case you must not create an account, access, use or download such games and/or submit any personal data through the Service and/or to Playtika. For all other Playtika Service, you may not use the Service if you are under 18 years of age, in which case you must not create an account, access, use or download such games and/or submit any personal data through the Service or to Playtika. Playtika is committed to complying with laws protecting children. If you believe that your child has submitted personal data to Playtika without your consent, please contact us at [email protected] . Playtika will take reasonable steps to delete such information as soon as possible.
+
+6. International Transfers, Retention, Security, Links, Updates, and How to Contact Us
+
+ A.    International Transfers 
+
+When you use our Service, your personal data may be sent, accessed, used, and/or stored outside of the country or region where you live including, for example, to the United States and Israel. We may transfer personal data to our subsidiaries, vendors, business partners, and others as described in this Privacy Notice, and by using the Service you consent to such transfer.
+
+Please note that laws vary from jurisdiction to jurisdiction, so the privacy laws applicable to the places where personal data is transferred to or stored, used, or processed in, may be different from the privacy laws in place where you live. When we transfer personal data outside of the location where it was collected, we put into place appropriate safeguards (including, for example, contracts) or otherwise ensure that such transfers meet applicable local legal requirements. 
+
+B.     Retention   
+
+We will retain personal data for as long as you use the Service and as necessary to fulfill the purposes for which it was collected, or as necessary to comply with our business requirements and applicable laws; to comply with any legal, accounting or reporting obligations; to resolve disputes; to protect our assets; to efficiently run our business; and to enforce our agreements.
+
+C.     Security 
+
+We take reasonable steps designed to protect personal data; however, no system or network can be guaranteed to be 100% secure and therefore we cannot guarantee the security of data. To the fullest extent permitted by law, we do not accept liability for unauthorized disclosure. 
+
+D.    Links to Other Sites/Apps
+
+Playtika Service may include links to other websites and/or applications that are owned and/or operated by others. Any information you provide on such websites and/or apps are subject to the privacy policy on such website or app and Playtika is not responsible for the content, privacy policy, terms of use, or security practices of such site and/or app. You should review the terms and privacy policy of any site or app that you access.
+
+E.     Updates
+
+Playtika reserves the right to amend the Privacy Notice from time to time, and Playtika encourages you to consult the Privacy Notice regularly for changes. 
+
+If we make material changes to our Privacy Notice, we will tell you and other players by placing a notice on Playtika.com or its equivalent in-game, or by sending you a notice to the e-mail address we have on file for you prior to the change becoming effective. We may supplement this process by placing notices on game blogs, social network pages, and/or forums and on other Playtika websites. You should periodically check www.Playtika.com  and this privacy page for updates.
+
+F.  How to Contact Us
+
+If you have any questions, comments or concerns about our Privacy Notice or any other privacy issue please contact Playtika’s DPO at [email protected]  or Chief Privacy Officer, 8 Hachoshlim St., Herzliya Pituach 4672408 Israel.
+
+If you want to exercise your rights you can submit a ticket via the applicable support channel of the game or through the Playtika Privacy Portal .
+
+For players in the EU, we have appointed Homerun Ciero S.R.L. (Romania) as our EU representative. You can address any questions or concerns you have either as described above or to our EU representative at Homerun Ciero S.R.L. TN Offices 3 on the 1st floor, 165 Splaiul Unirii, Bucharest, Romania.
+
+Additionally, if you have any questions or concerns that you think we have not adequately addressed, you may have the right to bring your question or concern to the privacy authority in the location where you live.  
+
+7. Supplemental California Consumer Privacy Act (CCPA) Notice ("CCPA Notice”) 
+
+Playtika uses and shares information as described in this Privacy Notice. The information below supplements the Privacy Notice and is intended for California consumers only. 
+
+Collection and Use of Personal Information
+
+"Personal Information" in this CCPA Notice, as in the CCPA, refers to any information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a certain consumer or household.
+
+The following chart lists the categories of Personal Information we collect about players, the source of collection, and the business purposes for collection, all in accordance with the categories of Personal Information and business purposes enumerated in the California Consumer Privacy Act of 2018 (CCPA). These are also the categories of Personal Information we collected in the past 12 months and their business purposes. 
+
+A more detailed description of the particular pieces of information we collect and their purposes is provided in this Privacy Notice.
+
+Category of Personal Information
+
+	
+
+Categories of Sources
+
+	
+
+Commercial or Business Purpose
+
+
+
+
+Identifiers, such as picture, account name, device ID, email address, IP address, etc.
+
+	
+Players
+Players’ Devices
+Data Services
+Service Providers
+	
+Customer support
+Internal analytics and reporting
+Internal research
+Operate our business and games
+Game mechanics or functionality
+Facilitate players' social interactions
+Debugging existing intended functionality
+Product development/improvement
+Maintaining and enhancing service
+Auditing Player interaction & transactions
+Advertising and marketing 
+Detecting/Protecting against security events
+Player acquisition
+
+
+
+California Customer Records (Cal. Civ. Code § 1798.80(e)) such as telephone number and payment information
+
+	
+Players
+Data Services
+Service Providers
+Social Network Services
+	
+Customer support
+Internal analytics and reporting
+Internal research
+Operate our business and games
+Game mechanics or functionality
+Facilitate players' social interactions
+Debugging existing intended functionality
+Product development/improvement
+Maintaining and enhancing service
+Auditing Player interaction & transactions
+Advertising and marketing 
+Detecting/Protecting against security events
+Player acquisition
+
+
+
+Protected Classification Characteristics, such as age and gender
+
+	
+Players
+Service Providers
+Social Network Services
+	
+Customer support
+Internal analytics and reporting
+Internal research
+Operate our business and games
+Game mechanics or functionality
+Facilitate players’ social interactions
+Debugging existing intended functionality
+Product development/improvement
+Maintaining and enhancing service
+Auditing Player interaction & transactions
+Advertising and marketing
+Detecting/Protecting against security events
+Player acquisition
+
+
+
+Commercial Information, such as products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
+
+	
+Players
+Data Services
+Service Providers
+Social Network Services
+	
+Customer support
+Internal analytics and reporting
+Internal research
+Operate our business and games
+Game mechanics or functionality
+Facilitate players’ social interactions
+Debugging existing intended functionality
+Product development/improvement
+Maintaining and enhancing service
+Auditing Player interaction & transactions
+Advertising and marketing
+Detecting/Protecting against security events
+Player acquisition
+
+
+
+Internet/electronic Network Information, such as website or application or advertisement browsing history
+
+	
+Players
+Players’ Devices
+Data Services
+Service Providers
+Analytic Services
+	
+Customer support
+Internal analytics and reporting
+Internal research
+Operate our business and games
+Game mechanics or functionality
+Facilitate players' social interactions
+Debugging existing intended functionality
+Product development/improvement
+Maintaining and enhancing service
+Auditing Player interaction & transactions
+Advertising and marketing 
+Detecting/Protecting against security events
+Player acquisition
+
+
+
+Location Data, device shared location, and Wi-Fi connection location
+
+	
+Players
+Players’ Devices
+Data Services
+Service Providers
+	
+Customer support
+Internal analytics and reporting
+Internal research
+Operate our business and games
+Game mechanics or functionality
+Facilitate players' social interactions
+Debugging existing intended functionality
+Product development/improvement
+Maintaining and enhancing service
+Auditing Player interaction & transactions
+Advertising and marketing 
+Detecting/Protecting against security events Player acquisition
+
+
+
+Inferences such as derivation of information, data, assumptions, or conclusions from any of the above categories of personal information
+
+	
+Players
+Players’ Devices
+Data Services
+Service Providers
+Social Network Services
+Analytic Services
+	
+Customer support
+Internal analytics and reporting
+Internal research
+Operate our business and games
+Game mechanics or functionality
+Facilitate players' social interactions
+Debugging existing intended functionality
+Product development / improvement
+Maintaining and enhancing service
+Auditing Player interaction & transactions
+Advertising and marketing 
+Detecting/Protecting against security events Player acquisition
+
+
+
+Playtika permits, under cerein legal and technical limitations, certain third-party advertising partners to collect information about our players through our games and our website for purposes of serving ads that are more relevant, for ad campaign measurement and analytics, and for ad fraud detection and reporting. To the extent this practice is interpreted to constitute a "sale" under the CCPA, please see our Online Advertising section below for more information.
+
+To Whom We Disclose Personal Information
+
+As described in this Privacy Notice, we share personal information within the Playtika group of companies and with a variety of recipients for business purposes.
+
+In addition to the categories of recipients identified in the How We Share Personal Data section of this Privacy Notice, we disclose personal information to, or allow access to personal information by, the following categories of recipients:
+
+Cloud Storage Providers
+Payment and Auditing Processors
+Security Safety Vendors and Service Providers
+Customer Service Vendors
+Advertising and Marketing Partners
+
+Online Advertising
+
+The following describes the categories of personal information we sell for a business purposes, in accordance with the categories of Personal Information enumerated in the California Consumer Privacy Act of 2018 (CCPA). These are also the categories of information we sold in the past 12 months.
+
+When we serve you personalized video ads, we sell your resettable identifiers provided by your mobile device’s operating system with ad networks, social media companies and other third-party businesses in the ad ecosystem. The typical resettable advertising IDs are GAID (Android) and IDFA (Apple) and they are considered personal information under the CCPA. These third parties use your personal information to:
+
+serve relevant ads on our site, on other websites or mobile apps, or on other devices a Player may use;
+to personalize content; and
+to perform other advertising-related services such as reporting, attribution, analytics and market research.
+
+In addition, in some instances, these third parties may use the information for their own purposes and in accordance with their own privacy policies and terms of use, which may include providing this information to additional third parties, including other advertising networks. Playtika provides opportunities, where appropriate, for players to opt-out of the use and sharing of personal data about them for this purpose.
+
+You may reset these identifiers from within your mobile device or limit ad tracking for your mobile device as mentioned above. Alternatively, if you would like to opt out of personalized advertising in our games, please visit the Playtika Privacy Portal  or you may also do so in the Advanced Settings of our games by changing the personalized/ tailored ads toggle to “off”. If you opt-out, you’ll still see ads, but they’ll most likely be less relevant.
+
+Additional California Rights 
+
+As a California resident, you may be able to exercise certain rights with respect to personal data we have about you. 
+
+Right to know. You have the right to know the following, which we will provide to you after we receive a verified request from you:
+
+The categories of personal information we have collected about you;
+The categories of sources from which the personal information is collected;
+Our business or commercial purpose for collecting personal information;
+The categories of third parties with whom we share personal information, if any; and
+The specific pieces of personal information we have collected about you.
+
+Right to deletion. Subject to certain exceptions set out below, on receipt of a verified request from you, we will:
+
+•          Delete your personal information from our records; and
+
+•          Direct any service providers to delete your personal information from their records.
+
+Please note that we may not delete your personal information if it is necessary to:
+
+•          Complete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;
+
+•          Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;
+
+•          Debug to identify and repair errors that impair existing intended functionality;
+
+•          Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;
+
+•          Comply with the California Electronic Communications Privacy Act;
+
+•          Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;
+
+•          Enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;
+
+•          Comply with an existing legal obligation; or
+
+•          Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+
+ 
+
+To exercise these rights, you can submit a request to exercise your rights in the Playtika Privacy Portal  or through the Privacy category in the Support page within the game you play. You have the right to not be discriminated against for exercising any of your rights. Please understand that, if the exercise of your rights limits our ability to process personal data (such as a deletion request), we may no longer be able to provide you with the Service.
+
+“Shine the Light”
+
+As a California resident, you may have the right to know how personal data about you is disclosed to third parties for their direct marketing purposes. To request this information, send an email to [email protected] with the subject line “California Shine the Light”. 
+
+As provided by law, we may need to verify your identity before processing your request. Although we try to limit the personal data collected in connection with a request, certain requests may require us to obtain additional personal data from you. In certain circumstances, we may decline a request to exercise rights, particularly where we are unable to verify your identity.
+
+Minors
+
+As described in our Privacy Notice, we do not knowingly collect or sell personal data about children.
+
+Authorized Agents
+
+You may be allowed to use an authorized agent to submit requests on your behalf, if you provide sufficient information to show that the requestor is an authorized agent with written permission to act on your behalf and you verify your identity with us.
+
+Service Difference
+
+In each of the following instances, which we occasionally offer on some, but not all games, we may grant you virtual currency or other virtual items within the game:
+
+Service Difference
+
+	
+
+Categories of Personal Information Collected
+
+	
+
+How to Opt-In to the Service Difference, if and when offered
+
+
+
+
+In-game videos
+
+	
+
+Identifiers, Internet or other electronic network activity information, commercial information, location data, inferences drawn 
+
+	
+
+Watch in-game videos that may be presented to you
+
+
+
+
+In-game tailored ads
+
+	
+
+Identifiers, Internet or other electronic network activity information, commercial information, location data, inferences drawn 
+
+	
+
+Consent to be served with ads that are tailored to your personal information and to sharing your personal information with ad networks, social media companies and other third-party businesses in the ad ecosystem
+
+
+
+
+In-game surveys
+
+	
+
+Identifiers, protected classification characteristics, commercial information, Internet or other electronic network activity information, location data, inferences drawn 
+
+	
+
+Complete a survey that may be presented to you about you and your game experience
+
+
+
+
+Reviews about the game
+
+	
+
+Identifiers, location data, inferences drawn
+
+	
+
+Follow the instructions that may be presented to you to submit a review about the game, or rate the game, in an application store such as Google Play
+
+
+
+
+Facebook connect
+
+	
+
+Identifiers, Internet or other electronic network activity information, commercial information, location data, inferences drawn 
+
+	
+
+When offered to you, connect to our games through your Facebook account
+
+
+
+
+In-game friend invitations
+
+	
+
+Internet or other electronic network activity information, commercial information, location data, inferences drawn
+
+	
+
+Invite your friends to download and play the game by sending an invitation from within the game, if prompted to do so
+
+
+
+
+Connect to our game
+
+	
+
+ Identifiers, Internet or other electronic network activity information, commercial information, location data, inferences drawn
+
+	
+
+Connect to play the game at the frequency indicated to you
+
+
+
+
+Join our Facebook bot
+
+	
+
+Identifiers, Internet or other electronic network activity information
+
+	
+
+Connect with us through our Facebook bot
+
+
+
+
+Mailing list
+
+	
+
+Identifiers
+
+	
+
+Subscribe to our mailing list when promoted
+
+ 
+
+You have a right to withdraw from the service difference at any time. To do so, please submit a request through the Playtika Privacy Portal  or via the Privacy option available in the Support section in the game settings.
+
+NOTIFICACIÓN DE PRIVACIDAD
+
+La presente Notificación de Privacidad entrará en vigor a partir del 19 del agosto de 2021.
+
+Para acceder a nuestra política anterior,  haga clic aquí. 
+
+Introducción
+
+La presente Notificación de Privacidad de Playtika (en adelante denominada "Notificación de Privacidad" o simplemente "Notificación") se proporciona con el fin de ayudar a comprender las prácticas de Playtika en lo que respecta a la forma en que Playtika recopila, utiliza, comparte y protege los datos personales. En la presente Notificación de Privacidad, las referencias a "Playtika" se refieren a Playtika Holding Corp. y a las filiales de esta última. También se puede hacer referencia a Playika por medio de menciones hechas a "nosotros" o "nos".
+
+La presente Notificación de Privacidad se aplica siempre que se jueguen los juegos que tengan un enlace con el presente "Notificación", o que de otra manera se acceda a cualquiera de los otros productos y juegos sociales de Playtika destinados a la web, a los teléfonos móviles, o a cualquier otra plataforma y/o dispositivo aplicable (en adelante denominado el "Servicio"). La presente Notificación de Privacidad no se aplica a los juegos ofrecidos por Wooga GmbH y Seriously Digital Ltd (ambas empresas son subsidiarias de Playtika Holding Corp.); las políticas de privacidad de dichos juegos están disponibles en las respectivas plataformas de dichos juegos y en los sitios web de dichas empresas. 
+
+Al utilizar el Servicio, usted acepta el tramiteo de recopilación, divulgación, almacenamiento y uso de datos personales según lo establecido en la presente Notificación de Privacidad. Si no desea que Playtika recopile, almacene, utilice o comparta los datos personales que usted proporcione de la manera establecida en la presente Notificación de Privacidad, entonces deberá abstenerse de jugar los juegos de Playtika o utilizar el Servicio de Playtika. 
+
+1. Datos personales que recogemos de usted
+
+Playtika recopila datos personales, con el fin de cumplir una o más de las funciones y actividades de Playtika, según lo establecido en la presente Notificación de Privacidad.
+
+A.     Datos personales que usted comparte con nosotros 
+
+Cuando utilice nuestro Servicio (ya sea que utilice el Servicio a través de una red social o a través de Playtika directamente), puede darnos información directamente (por ejemplo, cuando configure su cuenta o cuando se comunique con el Departamento de Asistencia al Cliente), se nos puede dar la siguiente información:
+
+su edad o fecha de cumpleaños;
+su nombre y apellidos;
+su dirección de correo electrónico;
+una contraseña;
+otra información que nos ayude a asegurarnos de que es usted quien accede a su propia cuenta, y que es información necesaria para que podamos proporcionarle el soporte que nos solicita, o información que usted nos proporciona, para ayudarnos a mejorar nuestro Servicio (por ejemplo, usted proporciona las respuestas a una encuesta en línea o un formulario de comentarios).
+
+ 
+
+Cuando utiliza nuestro Servicio, puede optar por crear un perfil de jugador que otros jugadores de Playtika puedan visualizar. En su perfil, puede incluir información, como por ejemplo:
+
+una foto de perfil;
+nombre(s) de usuario(s) del juego;
+su género;
+detalles biográficos (como su edad o rango de edad);
+información de ubicación aproximada;
+enlaces a sus perfiles que tiene de si mismo en varias redes sociales;
+detalles sobre los juegos a los que juega.
+
+ 
+
+También puede proporcionarnos datos personales directamente de varias otras maneras, entre las que se incluyen las siguientes:
+
+en respuesta a encuestas u otras investigaciones que llevemos a cabo;
+para participar en concursos y sorteos; 
+a través de los medios sociales;
+participando en comunicaciones de grupo o en sesiones de chat;
+en conferencias, convenciones y otros eventos. 
+
+ 
+
+B.     Datos personales que obtenemos de terceros
+
+Podemos recopilar o recibir información sobre usted de otras fuentes como aplicaciones de terceros, como por ejemplo, una tienda de aplicaciones, un servicio de inicio de sesión de terceros y las redes sociales en las que juega a nuestros juegos. Utilizamos esta información junto con la que usted nos proporciona directamente de varias maneras según lo establecido en la presente Notificación de Privacidad, por ejemplo, para ayudarle a usted y a sus amigos a conectarse o para presentarle publicidad que se adapte más a sus propios intereses.
+
+Si usted juega los juegos de Playtika o accede a cualquiera de los Servicios de Playtika a través de aplicaciones conectadas de terceros o se conecta a los Servicios de Playtika, a través de cualquier aplicación de terceros, incluyendo las redes sociales, como Facebook, la Playtika puede recibir cierta información sobre usted del proveedor del servicio de aplicación de terceros. La información que recibimos depende del juego de Playtika al que estés jugando, de la aplicación de terceros que estés usando, de su configuración de privacidad y, si es aplicable, de la configuración de privacidad de sus amigos en dicha aplicación de terceros.
+
+Por ejemplo, Playtika puede recopilar y almacenar parte o toda la siguiente información compartida por la aplicación de terceros:
+
+su nombre y apellido;
+su foto de perfil o su URL;
+su número de identificación de usuario (por ejemplo, su número de identificación de Facebook), que puede estar conectado a otra información, por ejemplo, su nombre y la foto de su perfil, y los identificadores de sus amigos;
+el número de identificación de usuario y otra información de sus amigos, como sus nombres y fotos de perfil;
+el correo electrónico de inicio de sesión que proporcionó al servicio de aplicaciones de terceros;
+su ubicación física y la ubicación física de los dispositivos que utiliza para acceder a nuestros Servicios;
+su género;
+su cumpleaños y/o rango de edad;
+información sobre sus actividades en o a través de la aplicación de terceros;
+otra información que haya compartido en la aplicación de terceros;
+cualquier otra información que usted o el proveedor de la aplicación de terceros comparta con Playtika.
+Si usted accede a nuestro Servicio desde una aplicación de terceros o si conecta nuestro Servicio a una aplicación de terceros, también debe leer los Términos de Servicio y la presente Notificación de Privacidad de esa aplicación de terceros.
+
+Si no tiene claro qué información comparte con nosotros una aplicación de terceros, vaya a la aplicación de terceros para obtener más información sobre sus prácticas de privacidad.
+
+C.     Cookies y recopilación de información automatizada
+
+Al igual que muchos sitios web, Playtika, nuestros proveedores de servicios y otras partes pueden enviar cookies a su dispositivo cuando usted accede o ve el Servicio. Una cookie es un pequeño archivo de datos que se transfiere a su dispositivo con fines de registro.  La información contenida en una cookie puede estar vinculada a datos personales. Utilizamos las cookies con fines tales como mejorar la calidad del Servicio de Playtika, adaptar las recomendaciones a los intereses y hacer el Servicio más fácil de usar.
+
+Los anunciantes de terceros en el Servicio también pueden utilizar, colocar o leer cookies u otras tecnologías como se describe a continuación en su dispositivo, y esas prácticas están sujetas a sus propias políticas. Para obtener más información sobre cómo puede optar por no utilizar o deshabilitar las cookies, visualice la sección que en adelante se denomina "Sus Derechos" a continuación.
+
+Nosotros y nuestros proveedores de servicios también podemos emplear otras tecnologías, entre las que se incluyen (i) balizas web, que nos permiten saber si se ha visitado una página determinada o si se ha abierto un correo electrónico; (ii) píxeles de seguimiento, que nos permiten a nosotros o a nuestros socios publicitarios anunciarnos de forma más eficiente y eficaz excluyendo a nuestros jugadores actuales de determinados mensajes promocionales, identificando la fuente de una nueva instalación o entregándole anuncios en otros sitios web; y (iii) objetos compartidos locales, también conocidos como cookies flash, que nos ayudan a reducir el fraude, recordar sus preferencias dentro del juego y acelerar los tiempos de carga.
+
+Nosotros, nuestros proveedores de servicios y otras partes pueden recopilar la siguiente información a través de cookies y otras tecnologías:
+
+el tipo de dispositivo que está utilizando;
+el sistema operativo y la versión de su dispositivo;
+los identificadores de su dispositivo móvil, como su dirección MAC, el Identificador para la Publicidad (IDFA) y/o la Identidad Internacional de Equipo Móvil (IMEI);
+su tipo de navegador;
+el idioma de su navegador;
+páginas de referencia y salida y URLs;
+tipo de plataforma;
+el número de clics en una página o característica;
+nombres de dominio;
+páginas de destino;
+páginas vistas y el orden de esas páginas;
+la cantidad de tiempo que se pasa en determinadas páginas;
+estado del juego y la fecha y hora de la actividad en nuestros sitios web o juegos.
+
+ 
+
+En algunos casos, conectaremos esta información con su ID de red social o ID de usuario de Playtika.
+
+En nuestro Servicio, podemos utilizar Google Analytics u otros proveedores para recopilar información sobre su comportamiento y datos demográficos. Para obtener más información acerca de Google Analytics, visite www.google.com/policies/privacy/partners. Puede optar por no participar en la recopilación y el procesamiento de datos de Google en https://tools.google.com/dlpage/gaoptout.
+
+D.     Información que se genera usando nuestras funciones de comunicación
+
+Es posible que pueda participar en ciertas actividades de nuestro Servicio que le permitan comunicarse o compartir información con Playtika y otros jugadores. Estas actividades incluyen:
+
+participar en los foros de jugadores y en los tableros de mensajes;
+publicar comentarios públicos en los perfiles o tableros de juego de otros jugadores;
+enviar mensajes privados o invitaciones a otros jugadores, ya sea directamente en nuestros sitios web o a sus cuentas de correo electrónico;
+chatear con otros jugadores;
+publicar fotos o dibujos.
+
+ 
+
+Puede elegir revelar información sobre usted, durante el acto de contribuir con contenido generado por el jugador al Servicio, incluyendo en sus salas de chat, blogs, tableros de mensajes, “perfiles” de jugadores para su visualización pública o en foros similares a través de servicios móviles y/o a través de sitios o servicios de terceros, publicando comentarios públicos en los perfiles o tableros de juego de otros jugadores, enviando mensajes privados o invitaciones a otros jugadores, ya sea directamente en nuestro Servicio o en sus cuentas de correo electrónico y publicando fotos. Usted debe considerar como "pública" cualquier información que revele en cualquiera de estos foros, y no debe mantener ninguna expectativa en cuanto a privacidad o confidencialidad.
+
+Además, debe estar al tanto de que cualquier dato personal que usted mismo envíe, incluyendo videos e imágenes, puede ser accedido, leído, visto, recopilado o utilizado de otra manera por otros jugadores de los foros mencionados, y podría ser utilizado, con el fin de enviarle mensajes no solicitados. Playtika no se hace responsable de los datos personales que usted decida exponer como información pública, en cualquiera de los mencionados foros.
+
+Playtika podrá utilizar cualquier información que usted mismo comparta para cualquier propósito, según lo establecido en la presente Notificación de Privacidad.
+
+Debe ser consciente de que debe considerar que cualquier información que publique o comparta con otros jugadores a través de un Servicio o un sitio o servicio de terceros es de dominio “público” y no debe esperar que dicha información se mantenga en privado.  Consulte también los Términos de Servicio de Playtika para obtener más información y directrices sobre la publicación de contenido a través de nuestro Servicio.
+
+Para habilitar algunas de las características sociales, es posible que pueda importar los contactos de su libreta de direcciones o introducirlos manualmente para poder localizar a sus contactos mediante el Servicio e invitarlos a que se unan a usted en nuestros juegos o en otros aspectos de nuestro Servicio. Por la presente, se considera que es responsable de obtener el permiso de sus contactos antes de proporcionarnos con los datos de contacto de dicho contact. También podemos obtener información sobre usted de otros jugadores de Playtika que importen o ingresen sus contactos.
+
+E.     Información de pago
+
+Playtika puede obtener la información de facturación y pago que usted proporciona cuando su compra es procesada por otra persona (como por ejemplo, Facebook, Apple o Google), así como cuando compra algo en un juego al que juega en una red social o que ha descargado en su dispositivo móvil. Nuestro Condiciones del servicio prestado explica nuestras políticas y términos relevantes para nuestros cargos, prácticas de facturación, créditos de terceros y monedas virtuales.
+
+En el caso de que se realice una compra de una moneda virtual o de artículos virtuales dentro de un juego de Playtika, nuestro procesador de pagos de terceros recopilará la información financiera y de facturación que el procesador necesita para tramitar sus facturas. Esto puede incluir su dirección postal, dirección de correo electrónico e información financiera.
+
+Playtika no recopila ni almacena números de tarjetas de crédito. Sin embargo, los procesadores de pagos de Playtika pueden compartir con nosotros información relacionada con sus compras. Podremos utilizar esta información para los propósitos descritos en la presente Notificación de Privacidad.
+
+Si desea obtener más información acerca de cómo protegemos su información, consulte la sección  Seguridad de su Información a continuación.
+
+ 2.  Cómo utilizamos los datos personales
+
+Playtika utiliza los datos personales para una variedad de propósitos de negocios como se describe en esta Notificación de Privacidad, incluyendo el cumplimiento de nuestras obligaciones contractuales, completar las transacciones que usted solicite, cumplir con la ley, y para otros propósitos de negocios legítimos, como por ejemplo:
+
+generar sus cuentas de juego y permitirle jugar a nuestros juegos;
+operar, mejorar y optimizar nuestro Servicio y las experiencias de nuestros jugadores, incluyendo la medición del interés y la interacción con nuestro Servicio;
+tramitar la información financiera referente la tarjeta de pago y/u otra información financiera para facilitar sus compras en el juego;
+identificar y sugerir conexiones con otros jugadores de Playtika y personalizar nuestro Servicio para usted;
+permitir que los jugadores se comuniquen entre sí;
+proporcionar soporte técnico y responder a las preguntas de los jugadores;
+autenticar y/o verificar las identidades individuales;
+proteger la seguridad y el bienestar de nuestros jugadores;
+proteger los derechos y la propiedad de Playtika en relación con nuestro Servicio;
+abordar cuestiones técnicas y mantener y/o mejorar la seguridad de la red y la información;
+realizar auditorías, asegurar el control de calidad interno y tomar precauciones de seguridad;
+prevenir y/o perseguir el fraude o las actividades potencialmente ilegales y hacer cumplir nuestros Términos de Servicio;
+administrar y entregar publicidad contextual y de comportamiento;
+notificar a los jugadores de actualizaciones en el juego, nuevos productos, contenido u ofertas promocionales;
+administrar recompensas, encuestas, sorteos, concursos u otras actividades o eventos promocionales patrocinados o gestionados por nosotros o por nuestros socios comerciales;
+cumplir con nuestras obligaciones legales, resolver cualquier disputa que podamos tener con usted u otros jugadores, cobrar cualquier dinero que se nos deba y hacer cumplir nuestros acuerdos;
+realizar investigaciones, incluyendo el uso de datos personales para crear datos no identificados y/o agregados. Los datos des-identificados y agregados no son datos personales y podemos usar y compartir dichos datos para cualquier propósito legalmente permisible.
+
+ 
+
+Sus interacciones con nuestro Servicio pueden ser rastreadas a través de plataformas y/o dispositivos.
+
+ 
+
+Además de lo anterior mencionado, si ha proporcionado su dirección de correo electrónico a Playtika, podemos usarla para comunicarnos con usted y con otros jugadores de varias maneras, incluyendo responder a las preguntas del servicio de atención al cliente; mantenerlo a usted y a otros informados de su actividad en el juego, comentarios de amigos, y estado y promociones en el juego; y decirle acerca de solicitudes de regalos y solicitudes de vecinos. Algunos mensajes, como las invitaciones a amigos para que se unan a usted en un juego, pueden incluir su nombre y la foto de su perfil. También podemos enviar mensajes promocionales (en lo sucesivo, "Comunicaciones Promocionales") directamente o en asociación con otras partes.  Para obtener más información sobre cómo puede optar por no recibir Comunicaciones promocionales, consulte la sección Sus Derechos a continuación. 
+
+Podemos utilizar tecnologías consideradas como la toma de decisiones o elaboración de perfiles automatizadas, pero no lo haremos de manera que tenga un impacto legalmente significativo para usted, a menos que tengamos su consentimiento o que se nos permita legalmente hacerlo de otra manera. 
+
+También podemos utilizar los datos personales para cualquier otro propósito que se le comunique en el momento de la recopilación, o de otra manera con su consentimiento. 
+
+3. Cómo compartimos los datos personales
+
+Podemos compartir datos personales sobre usted entre Playtika Holding Corp. y las subsidiarias de la misma.
+
+Además, podemos divulgar o publicar información agregada y analítica (información acerca de usted y otros jugadores colectivamente que no tiene la intención de identificarlo específicamente, por ejemplo, jugadores entre 25 y 30 años que viven en Chicago) y otros datos no personales acerca de nuestros jugadores para análisis de la industria, perfiles demográficos, mercadeo, análisis, publicidad y otros propósitos de negocios.
+
+Además, podemos compartir su información (la cual puede incluir datos personales) con terceros (en otras palabras, otras partes que no sean Playtika) o permitir que terceros recopilen esta información de nuestro Servicio como se describe en la presente Notificación de Privacidad.
+
+A.     Proveedores de servicios
+
+Playtika utiliza sus subsidiarias y otras compañías no afiliadas (en lo sucesivo, "Proveedores de Servicios") para apoyar el Servicio, como el procesamiento de pagos, el análisis de datos, la optimización del juego y la mejora de la experiencia del jugador, la entrega de correo electrónico, los servicios de alojamiento, la gestión y la entrega de anuncios contextuales y adaptados. 
+
+B.     Amigos y otros jugadores de Playtika
+
+En la mayoría de los juegos de Playtika, si juega o se registra a través de una red social (por ejemplo, Facebook Connect), sus amigos de la red social pueden ver su nombre, la foto de su perfil y las descripciones de su actividad de juego. Si utilizas nuestro Servicio en respuesta a una invitación de otro jugador, ese jugador puede ver cierta información sobre usted y sus actividades en el juego, incluyendo cuándo se une y los niveles que alcanza dentro del juego. En consecuencia, en muchos juegos de Playtika, otros jugadores, sin importar si son sus amigos de la red social o no, podrán ver descripciones de su actividad de juego (incluyendo la identificación de cualquier juego de Playtika al que haya jugado), comunicarse con usted dentro de nuestro Servicio y ver su perfil de juego, el cual puede incluir su nombre o un "nombre de juego" y su foto de perfil. Otros jugadores también podrán enviarle solicitudes de juego o incluso solicitudes de amigos a través de las redes sociales relacionadas o de los canales de comunicación de Playtika.
+
+C.     Publicidad de terceros, incluyendo publicidad y análisis a medida
+
+Podemos tener publicidad en nuestro Servicio para poder seguir ofreciendo nuestro Servicio de forma gratuita.
+
+Cuando los anunciantes o las redes publicitarias colocan anuncios en nuestro Servicio, pueden recopilar o podemos compartir los siguientes tipos de información desde nuestro Servicio:
+
+datos de rendimiento (como el número de clics en un anuncio);
+información agregada y/o desidentificada sobre usted y otros jugadores que no tiene como objetivo identificarlo específicamente (como, por ejemplo, los jugadores de entre 21 y 25 años que viven en San Francisco);
+cierta información técnica (por ejemplo, direcciones IP, identificadores de dispositivos no persistentes como los IDFAs, e identificadores de dispositivos);
+tu identificación de red social;
+otros datos contextuales sobre su juego (por ejemplo, su nivel y duración de la sesión).
+
+ 
+
+La información recogida puede ser utilizada para
+medir la eficacia de los anuncios;
+ofrecerle publicidad dirigida para personalizar su experiencia mostrándole anuncios de productos y servicios que tienen más probabilidades de atraerle (siendo una práctica conocida como publicidad conductual)
+realizar análisis web (como, por ejemplo, Google Analytics que se utiliza para analizar el tráfico y la actividad de otros jugadores para mejorar su experiencia).
+
+ 
+
+Los anunciantes o las redes publicitarias pueden recopilar esta información mediante el uso de tecnologías de rastreo como las cookies de los navegadores y las balizas web, y pueden utilizar una única tecnología de rastreo o varias tecnologías de rastreo al mismo tiempo.
+
+Ten en cuenta que, después de hacer clic en un anuncio de terceros, es posible que ya no estés en un sitio alojado por Playtika o en la red social a través de la cual estás jugando los juegos de Playtika.
+
+D.     Venta o fusión
+
+En el caso de que Playtika emprenda esfuerzos para participar en una transición emprescodec_proregular (como, por ejemplo, una fusión, adquisición por otra compañía o venta de todos o parte de sus activos (como, por ejemplo, la venta de un juego), podemos revelar o transferir la información relevante que tenemos, incluyendo datos personales, a la organización sucesora en la transición. Haremos esfuerzos razonables, tal como se describe en esta Notificación de Privacidad, para informarle a usted y a otros jugadores sobre la transición emprescodec_proregular antes de transferir los datos personales.
+
+ E.     Cumplimiento legal
+
+ Podemos compartir datos personales en las siguientes circunstancias: 
+
+cuando creamos de buena fe que tenemos que revelar la información en respuesta a solicitudes legítimas de las autoridades públicas, incluso para cumplir los requisitos de seguridad nacional o de aplicación de la ley, o en el marco de un proceso legal (por ejemplo, una orden judicial, una orden de registro o una citación);
+para cumplir con cualquier ley o reglamento;
+cuando creamos, a nuestra entera discreción, que el Servicio se está utilizando para cometer un delito, incluso para denunciar dicha actividad delictiva o para compartir información con otras empresas y organizaciones con el fin de protegerse contra el fraude, reducir el riesgo de crédito y tomar otras precauciones de seguridad;
+cuando creamos de buena fe que existe una emergencia que supone una amenaza para la salud y/o la seguridad de usted, nosotros, otra persona o el público en general;
+para proteger los derechos o la propiedad de Playtika y otras terceras partes aplicables, incluyendo la aplicación de nuestros Condiciones del servicio prestado.
+
+ 
+
+4.  Sus derechos
+
+Dependiendo de la legislación aplicable en su lugar de residencia, puede tener derecho a realizar solicitudes con respecto a los datos personales que Playtika procesa en relación con usted, por ejemplo:
+
+para obtener información; 
+para el acceso;
+para la corrección (o rectificación) de los datos personales que creas que son incorrectos;
+para el borrado (o eliminación);
+para una copia electrónica (o portabilidad);
+para objetar a cierta tramitación, incluso para optar por la exclusión de la publicidad dirigida.   
+
+Playtika permite a todos los jugadores enviar las solicitudes a través de la   Portal de Privacidad de Playtika  o a través de la categoría de Privacidad en la página de soporte dentro del juego al que juega.
+
+A.     Gestionar la información que recibimos de terceros
+
+Para gestionar la información que Playtika recibe sobre usted desde una plataforma de terceros en la que juega a nuestros juegos, como Facebook, Apple, Amazon, etc. tendrá que seguir las instrucciones de cada una de esas aplicaciones de terceros para actualizar su información y cambiar su configuración de privacidad. 
+
+B.     Desactivar la geolocalización
+
+Puede dejar de poner a nuestra disposición la geolocalización a través de los ajustes de su dispositivo para la aplicación correspondiente o la página de "ajustes" del juego correspondiente. Si previamente nos ha permitido acceder a sus datos de geolocalización, podremos seguir utilizando esa información según lo establecido en la presente Notificación de Privacidad.
+
+C.     Optar por no recibir correos electrónicos promocionales de Playtika
+
+Si quiere dejar de recibir comunicaciones promocionales de Playtika, puede hacer clic en el enlace "cancelar la suscripción" en cualquier correo electrónico promocional de Playtika. Si quiere dejar de recibir mensajes de texto o SMS de Usted, puede responder "PARAR" a cualquier mensaje promocional. Por favor, ten en cuenta que puede llevarnos algún tiempo para que su cancelación entre en vigor. 
+
+Además, en la mayoría de nuestros juegos, puede encontrar una opción en "su cuenta" o "Configuración" para solicitar que dejemos de enviarle Comunicaciones Promocionales.
+
+D.     Optar por no recibir mensajes de Facebook
+
+Si desea dejar de recibir mensajes a través de nuestras páginas de juego en Facebook, puede hacer clic en el icono de "configuración" en la parte superior de dicho mensaje, y haciendo clic en "administrar mensajes" puede desactivar todos los mensajes de dicho juego.
+
+E.     Cómo desactivar las notificaciones push
+
+Cuando instala nuestras aplicaciones en su dispositivo móvil, puede elegir recibir notificaciones push, que son mensajes que una aplicación le envía en su dispositivo incluso cuando la aplicación no está activada. Puede desactivar las notificaciones visitando la página de "configuración" de su dispositivo móvil.
+
+F.     Cómo optar por no recibir publicidad personalizada de terceros
+
+En algunos juegos que sirven anuncios de terceros, le proporcionamos un botón que le permite desactivar los anuncios personalizados de terceros.
+
+Para obtener más información sobre la publicidad personalizada y sus opciones para evitar que terceros ofrezcan publicidad web y móvil personalizada, puede visitar www.aboutads.info. Para optar por no hacerlo, en el caso de las empresas que participan en la Alianza de Publicidad Digital, puede ejercer esa opción en www.networkadvertising.org/choices y www.aboutads.info/choices. 
+
+Si usted vive en la UE, puede obtener información y ejercer sus opciones en www.youronlinechoices.com. 
+
+Estas herramientas de exclusión voluntaria son proporcionadas por terceros, no por Playtika. Playtika no controla, opera o respalda estas herramientas o las opciones que los anunciantes y otros proveen a través de estas herramientas. Están enumeradas aquí sólo para facilitar la tarea de los jugadores.
+
+Además, si no desea recibir anuncios de terceros adaptados a la aplicación, puede optar por no participar ajustando la configuración de seguimiento de anuncios en su dispositivo. También puede restablecer el "Identificador de la publicidad" (como un IDFA) desde la página de ajustes de su dispositivo, lo que evitará el uso continuado de los datos de comportamiento existentes vinculados al "Identificador de la publicidad" anterior. Además, dependiendo del proveedor de la plataforma en cuestión (como, por ejemplo, Apple o Google), es posible que pueda descargar aplicaciones, como la aplicación "AppChoices" de la Alianza de Publicidad Digital, que le ofrecen el control de la recopilación y el uso de datos cruzados para la publicidad personalizada. Al igual que las herramientas de exclusión mencionadas anteriormente para la web, estas herramientas de exclusión para móviles son proporcionadas por terceros, no por Playtika. Playtika no controla, opera o respalda estas herramientas ni las opciones que los anunciantes y otros proporcionan a través de estas herramientas.
+
+Ten en cuenta que puede seguir recibiendo anuncios de terceros dentro de los juegos de Playtika, incluso si opta por no recibir publicidad personalizada, pero no se basarán en su actividad en sitios web o aplicaciones no relacionados.
+
+G. Optar por el seguimiento de cookies
+
+Puede configurar su navegador para que le advierta de los intentos de colocar cookies en su dispositivo o limitar el tipo de cookies que permite. Las cookies de Flash funcionan de forma diferente a las cookies del navegador y las herramientas de gestión de cookies disponibles en un navegador web pueden no eliminar las cookies de Flash. Para obtener más información sobre las cookies flash y su administración, puede visitar el Adobe  y llevar a cabo los cambios en  Panel de configuración de privacidad universalel sitio web de
+
+Si desactiva las cookies, puede perder algunas de las características y funcionalidad de nuestro Servicio, ya que las cookies de Playtika son necesarias para proporcionar el Servicio.
+
+H.     No rastrear
+
+Tenga en cuenta que Playtika no responde actualmente a las señales de No Rastrear, ya sea que esa señal se reciba en una computadora o en un dispositivo móvil.
+
+ 5.  Privacidad de Menores
+
+En el caso de Slotomania, House of Fun, Caesars Casino, Vegas Downtown Slots, World Series of Poker, Poker Heat y/o Bingo Blitz, no podrá utilizar el Servicio si es menor de 21 años, en cuyo caso no deberá generar una cuenta, acceder, utilizar o descargar dichos juegos y/o enviar ningún dato personal a través del Servicio y/o a Playtika. Para el resto del Servicio de Playtika, usted no puede utilizar el Servicio si es menor de 18 años de edad, en cuyo caso no debe crear una cuenta, acceder, utilizar o descargar dichos juegos y/o enviar cualquier dato personal a través del Servicio o a Playtika. Playtika se compromete a cumplir con las leyes que protegen a los menores. Si cree que su hijo ha enviado datos personales a Playtika sin su consentimiento, póngase en contacto con nosotros en [email protected]. Playtika tomará las medidas razonables para eliminar dicha información lo antes posible.
+
+6. Transferencias Internacionales, Retención, Seguridad, Enlaces, Actualizaciones y Cómo Contactarnos
+
+ A.    Transferencias internacionales 
+
+Cuando utiliza nuestro Servicio, sus datos personales pueden ser enviados, accedidos, utilizados y/o almacenados fuera del país o región donde vive, incluyendo, por ejemplo, a los Estados Unidos e Israel. Puede darse el caso de que transfiramos datos personales a nuestras subsidiarias, proveedores, socios comerciales y otros según lo establecido en la presente Notificación de Privacidad, y al utilizar el Servicio usted da su consentimiento a dicha transferencia.
+
+Tenga en cuenta que las leyes varían de una jurisdicción a otra, por lo que las leyes de privacidad aplicables a los lugares donde se transfieren, almacenan, utilizan o procesan los datos personales pueden ser diferentes de las leyes de privacidad del lugar donde usted vive. Cuando transferimos datos personales fuera del lugar en el que se recogieron, ponemos en marcha las salvaguardias adecuadas (incluyendo, por ejemplo, contratos) o nos aseguramos de que dichas transferencias cumplan los requisitos legales locales aplicables. 
+
+B.     Retención   
+
+Conservaremos los datos personales durante todo el tiempo que utilice el Servicio y según sea necesario para cumplir con los fines para los que se recopilaron, o según sea necesario para cumplir con nuestros requisitos comerciales y las leyes aplicables; para cumplir con cualquier obligación legal, contable o de información; para resolver disputas; para proteger nuestros activos; para gestionar eficazmente nuestro negocio; y para hacer cumplir nuestros acuerdos.
+
+C.     Seguridad 
+
+Tomamos medidas razonables que están conceptualizadas para proteger los datos personales; sin embargo, no se puede garantizar que ningún sistema o red sea 100% seguro y por lo tanto no podemos garantizar la seguridad de los datos. En la medida en que la ley lo permita, no aceptamos responsabilidad por la divulgación no autorizada.
+
+
+  
+
+D.    Enlaces a otros sitios o aplicaciones
+
+El Servicio Playtika puede incluir enlaces a otros sitios web y/o aplicaciones que son propiedad y/o están operados por otros. Toda la información que proporcione en dichos sitios web y/o aplicaciones estará sujeta a la política de privacidad de dichos sitios web o aplicaciones y Playtika no se responsabilizará del contenido, la política de privacidad, las condiciones de uso o las prácticas de seguridad de dichos sitios y/o aplicaciones. Debería revisar los términos y la política de privacidad de cualquier sitio o aplicación a la que acceda.
+
+E.     Actualizaciones
+
+Playtika se reserva el derecho de modificar la Notificación de Privacidad de vez en cuando, y Playtika le anima a que consulte la presente Notificación de Privacidad con regularidad para conocer los cambios. 
+
+Si realizamos cambios sustanciales en nuestra Notificación de Privacidad, se lo comunicaremos a usted y a otros jugadores mediante la publicación de una notificación en Playtika.com o su equivalente en el juego, o mediante el envío de una notificación a la dirección de correo electrónico que tenemos archivada para usted antes de que el cambio entre en vigor. Podemos complementar este tramite colocando notificaciones en blogs de juegos, páginas de redes sociales y/o foros y en otros sitios web de Playtika. Debe revisar www.Playtika.com y la presente Página de Privacidad periódicamente para ver si hay actualizaciones.
+
+F.  Cómo contactarnos
+
+Si tiene alguna pregunta, comentario o preocupación sobre nuestra Nota de Privacidad o cualquier otro asunto de privacidad, por favor contacte al DPO de Playtika en [email protected] o al Jefe de Privacidad, 8 Hachoshlim St., Herzliya Pituach 4672408 Israel.
+
+Si desea ejercer sus derechos puede presentar un ticket a través del canal de soporte aplicable del juego o a través del Portal de Privacidad de Playtika .
+
+Para los jugadores de la UE, hemos nombrado a la empresa, Homerun Ciero S.R.L. (Rumania) como nuestro representante en la UE. Puede dirigir cualquier pregunta o preocupación que tenga, ya sea como se describe arriba o a nuestro representante de la UE en Homerun Ciero S.R.L. Oficinas TN 3 en el primer piso, 165 Splaiul Unirii, Bucarest, Rumania.
+
+Además, si tiene alguna pregunta o inquietud que cree que no hemos tratado adecuadamente, puede tener derecho a presentar su pregunta o inquietud a la autoridad de privacidad del lugar donde vive.  
+
+7. Notificación suplementario de la Ley de Privacidad del Consumidor de California (CCPA) ("Notificación CCPA") 
+
+Playtika utiliza y comparte información según lo establecido en la presente Notificación de Privacidad. La información a continuación complementa la present Notificación de Privacidad y está destinada únicamente a los consumidores del Estado de California. 
+
+Recopilación y uso de Información Personal
+
+El término "Información Personal" en la presente Notificación de la CCPA, al igual que en la CCPA, se refiere a cualquier información que identifique, se relacione, describa, sea razonablemente capaz de ser asociada con, o pueda ser razonablemente relacionada, directa o indirectamente, con un determinado consumidor u hogar.
+
+El siguiente cuadro enumera las categorías de información personal que recopilamos sobre los jugadores, la fuente de la recopilación y los propósitos comerciales para la recopilación, todo ello de acuerdo con las categorías de información personal y los propósitos comerciales enumerados en la Ley de Privacidad del Consumidor del Estado de California del año 2018 (CCPA). Estas son también las categorías de información personal que hemos recogido en los últimos 12 meses y sus propósitos comerciales. 
+
+Una descripción más detallada de las piezas particulares de información que recogemos y sus propósitos se proporciona en la presente Notificación de Privacidad.
+
+Categoría de Información Personal
+
+	
+
+Categorías de fuentes
+
+	
+
+Propósito comercial o de negocios
+
+
+
+
+Identificadores, como la foto, el nombre de la cuenta, la identificación del dispositivo, la dirección de correo electrónico, la dirección IP, etc.
+
+	
+Jugadores
+Dispositivos de los jugadores
+Servicios de datos
+Proveedores de servicios
+	
+Soporte al cliente
+Análisis e informes internos
+Investigación interna
+Operar nuestros negocios y juegos
+Mecánica o funcionalidad del juego
+Facilitar las interacciones sociales de los jugadores
+Depuración de la funcionalidad prevista existente
+Desarrollo/mejora de productos
+Mantener y mejorar el servicio
+ 
+Auditoría Interacción & transacciones de los jugadores
+Publicidad y marketing 
+Detección/protección de eventos contra la seguridad
+Adquisición de jugadores
+
+
+
+Registros de Clientes de California (Código Civil del Estado de California § 1798.80(e)) como el número de teléfono e información de pago
+
+	
+Jugadores
+Servicios de datos
+Proveedores de servicios
+Servicios de redes sociales
+	
+Soporte al cliente
+Análisis e informes internos
+Investigación interna
+Operar nuestros negocios y juegos
+Mecánica o funcionalidad del juego
+Facilitar las interacciones sociales de los jugadores
+Depuración de la funcionalidad prevista existente
+Desarrollo/mejora de productos
+Mantener y mejorar el servicio
+Auditoría Interacción & transacciones de los jugadores
+Publicidad y marketing 
+Detección/protección de eventos contra la seguridad
+Adquisición de jugadores
+
+
+
+Características de la clasificación protegida, como la edad y el sexo
+
+	
+Jugadores
+Proveedores de servicios
+Servicios de redes sociales
+	
+Soporte al cliente
+Análisis e informes internos
+Investigación interna
+Operar nuestros negocios y juegos
+Mecánica o funcionalidad del juego
+Facilitar las interacciones sociales de los jugadores
+Depuración de la funcionalidad prevista existente
+Desarrollo/mejora de productos
+Mantener y mejorar el servicio
+Auditoría Interacción & transacciones de los jugadores
+Publicidad y marketing
+Detección/protección de eventos contra la seguridad
+Adquisición de jugadores
+
+
+
+Información comercial, como los productos o servicios adquiridos, obtenidos o considerados, u otros antecedentes o tendencias de compra o consumo
+
+	
+Jugadores
+Servicios de datos
+Proveedores de servicios
+Servicios de redes sociales
+	
+
+Soporte al cliente
+
+Análisis e informes internos
+
+Investigación interna
+
+Operar nuestros negocios y juegos
+
+Mecánica o funcionalidad del juego
+
+Facilitar las interacciones sociales de los jugadores
+
+Depuración de la funcionalidad prevista existente
+
+Desarrollo/mejora de productos
+
+Mantener y mejorar el servicio
+
+Auditoría Interacción & transacciones de los jugadores
+
+Publicidad y marketing 
+
+Detección/protección de eventos contra la seguridad 
+
+Adquisición de jugadores
+
+
+
+
+Información de la red electrónica/Internet, como el historial de navegación de un sitio web o una aplicación o un anuncio publicitario
+
+	
+Jugadores
+Dispositivos de los jugadores
+Servicios de datos
+Proveedores de servicios
+Servicios analíticos
+	
+Soporte al cliente
+Análisis e informes internos
+Investigación interna
+Operar nuestros negocios y juegos
+Mecánica o funcionalidad del juego
+Facilitar las interacciones sociales de los jugadores
+Depuración de la funcionalidad prevista existente
+Desarrollo/mejora de productos
+Mantener y mejorar el servicio
+Auditoría Interacción & transacciones de los jugadores
+Publicidad y marketing 
+Detección/protección de eventos contra la seguridad
+Adquisición de jugadores
+
+
+
+Datos de ubicación, ubicación compartida del dispositivo y ubicación de la conexión Wi-Fi
+
+	
+Jugadores
+Dispositivos de los jugadores
+Servicios de datos
+Proveedores de servicios
+	
+Soporte al cliente
+Análisis e informes internos
+Investigación interna
+Operar nuestros negocios y juegos
+Mecánica o funcionalidad del juego
+Facilitar las interacciones sociales de los jugadores
+Depuración de la funcionalidad prevista existente
+Desarrollo/mejora de productos
+Mantener y mejorar el servicio
+Auditoría Interacción & transacciones de los jugadores
+Publicidad y marketing 
+Detección/protección de eventos contra la seguridad Adquisición de jugadores
+
+
+
+Inferencias, como, por ejemplo, la derivación de información, datos, suposiciones o conclusiones de cualquiera de las categorías mencionadas anteriormente relativas a la información personal
+
+	
+Jugadores
+Dispositivos de los jugadores
+Servicios de datos
+Proveedores de servicios
+Servicios de redes sociales
+Servicios analíticos
+	
+Soporte al cliente
+Análisis e informes internos
+Investigación interna
+Operar nuestros negocios y juegos
+Mecánica o funcionalidad del juego
+Facilitar las interacciones sociales de los jugadores
+Depuración de la funcionalidad prevista existente
+Desarrollo/mejora de productos
+Mantener y mejorar el servicio
+Auditoría Interacción & transacciones de los jugadores
+Publicidad y marketing 
+Detección/protección de eventos contra la seguridad Adquisición de jugadores
+
+ 
+
+Playtika permite, de acuerdo con ciertas limitaciones legales y técnicas, y a ciertos socios publicitarios de terceros, recopilar información sobre nuestros jugadores a través de nuestros juegos y nuestro sitio web con el fin de presentar anuncios que sean más relevantes, para la medición y análisis de campañas publicitarias, y para la detección y reporte de fraudes publicitarios. En la medida en que se interprete que esta práctica constituye una "venta" según la ley CCPA, consulte nuestra sección de Publicidad En Línea a continuación para obtener más información.
+
+
+
+
+A quién revelamos la información personal
+
+De acuerdo con lo establecido en la presente Notificación de Privacidad, compartimos información personal dentro del grupo de compañías de Playtika y con una variedad de destinatarios con fines comerciales.
+
+Además de las categorías de destinatarios identificados en la sección Cómo compartimos datos personales de la presente Notificación de Privacidad, revelamos información personal a los destinatarios, o permitimos el acceso a la información personal por parte de los destinatarios, en función de las siguientes categorías de destinatarios:
+
+Proveedores de almacenamiento en la nube
+Procesadores de pago y auditoría
+Vendedores de seguridad y proveedores de servicios
+Vendedores de servicio al cliente
+Socios de Publicidad y Marketing
+
+Publicidad en línea
+
+A continuación se enumera las categorías de información personal que vendemos con fines comerciales, de acuerdo con las categorías de información personal enumeradas en la Ley de Privacidad del Consumidor de California de 2018 (CCPA). Estas son también las categorías de información que hemos vendido en los últimos 12 meses.
+
+Cuando le presentamos anuncios de vídeo personalizados, vendemos sus identificadores restablecidos proporcionados por el sistema operativo de su dispositivo móvil a redes publicitarias, empresas de medios sociales y otros negocios de terceros en el ecosistema publicitario. Los identificadores publicitarios reseteables típicos son GAID (Android) e IDFA (Apple) y se consideran información personal según la CCPA. Estos terceros utilizan su información personal para:
+
+presentar anuncios relevantes en nuestro sitio, en otros sitios web o aplicaciones móviles, o en otros dispositivos que un jugador pueda utilizar;
+para personalizar el contenido; y
+para realizar otros servicios relacionados con la publicidad, como la presentación de informes, la atribución, el análisis y la investigación de mercado.
+
+Además, en algunos casos, esos terceros pueden utilizar la información para sus propios fines y de conformidad con sus propias políticas de privacidad y condiciones de uso, que pueden incluir el suministro de esa información a otros terceros, incluidas otras redes de publicidad. Playtika ofrece oportunidades, cuando sea apropiado, para que los jugadores opten por no utilizar ni compartir sus datos personales para este propósito.
+
+Usted puede restablecer estos identificadores desde su dispositivo móvil o limitar el rastreo de anuncios para su dispositivo móvil como se mencionó anteriormente. Alternativamente, si desea optar por no recibir publicidad personalizada en nuestros juegos, visite el  Portal de Privacidad de Playtika  o también puede hacerlo en la Configuración Avanzada de nuestros juegos cambiando la opción de anuncios personalizados/adaptados a "desactivar". Si se desactiva, seguirá viendo los anuncios, pero lo más probable es que sean menos relevantes.
+
+
+
+
+Derechos adicionales del Estado de California 
+
+Como residente del Estado de California, puede ejercer ciertos derechos con respecto a los datos personales que tenemos sobre usted. 
+
+Derecho a saber. Tiene derecho a saber lo siguiente, que le proporcionaremos después de recibir una solicitud verificada de usted:
+
+Las categorías de información personal que hemos recopilado sobre usted;
+Las categorías de fuentes de las que se recoge la información personal;
+Nuestro propósito comercial o de negocios para la recolección de información personal;
+Las categorías de terceros con los que compartimos la información personal, si los hubiera; y
+Los detalles específicos de información personal que hemos recogido sobre usted.
+
+ 
+
+Derecho a la eliminación. Sujeto a ciertas excepciones establecidas a continuación, al recibir una solicitud verificada de usted, haremos lo siguiente:
+
+•          Borraremos su información personal de nuestros registros; y
+
+•          Indicaremos a los proveedores de servicios que eliminen su información personal de sus registros.
+
+Tenga en cuenta que no podemos eliminar su información personal si es necesario:
+
+•          Completaremos la transacción para la cual se recopiló la información personal, cumplir con los términos de una garantía escrita o retiro de producto realizado de acuerdo con la ley federal, proporcionar un bien o servicio solicitado por usted, o razonablemente anticipado dentro del contexto de nuestra relación comercial en curso con usted, o de otra manera cumplir con un contrato entre usted y nosotros;
+
+•          detectaremos incidentes de la seguridad, para protegerse contra actividades maliciosas, engañosas, fraudulentas o ilegales; o procesar a los responsables de dicha actividad;
+
+•          Depuraremos para identificar y reparar errores que perjudiquen la funcionalidad prevista existente;
+
+•          Ejerceremos la libertad de expresión, para asegurar el derecho de otro consumidor a ejercer su derecho a la libertad de expresión, o ejercer otro derecho previsto por la ley;
+
+•          Cumpliremos con la Ley de Privacidad de las Comunicaciones Electrónicas del Estado de California;
+
+•          Participaremos en investigaciones científicas, históricas o estadísticas públicas o revisadas por pares en interés público que se adhieran a todas las demás leyes de ética y privacidad aplicables, cuando sea probable que nuestra eliminación de la información haga imposible o perjudique gravemente la realización de dichas investigaciones, siempre que hayamos obtenido su consentimiento informado;
+
+•          Permitiremos únicamente usos internos que estén razonablemente alineados con sus expectativas basadas en su relación con nosotros;
+
+•          Cumpliremos con una obligación legal existente; o
+
+•          De lo contrario, utilizaremos su información personal, internamente, de una manera legal que sea compatible con el contexto en el que usted proporcionó la información.
+
+ 
+
+TPara ejercer estos derechos, puede enviar una solicitud para ejercer sus derechos en el  Portal de Privacidad de Playtika  o a través de la categoría de Privacidad en la página de Soporte dentro del juego al que juega. Tiene derecho a no ser discriminado por ejercer cualquiera de sus derechos. Por favor, comprenda que si el ejercicio de sus derechos limita nuestra capacidad de tramitar datos personales (como una solicitud de eliminación), es posible que ya no podamos ofrecerle el Servicio.
+
+“Shine the Light”
+
+Como residente del Estado de California, puede tener derecho a saber cómo se revelan los datos personales sobre usted a terceros para sus fines de comercialización directa. Para solicitar esta información, envíe un correo electrónico a [email protected] con el asunto "California Shine the Light". 
+
+Según lo dispuesto por la ley, es posible que necesitemos verificar su identidad antes de tramitar su solicitud. Aunque intentamos limitar los datos personales recogidos en relación con una solicitud, algunas solicitudes pueden requerir que obtengamos datos personales adicionales de usted. En determinadas circunstancias, podemos rechazar una solicitud de ejercicio de derechos, en particular cuando no podemos verificar su identidad.
+
+Menores
+
+Tal como se enumera en nuestra Notificación de Privacidad, no recogemos ni vendemos a sabiendas datos personales sobre niños..
+
+Agentes autorizados
+
+Se le podrá permitir utilizar un agente autorizado para presentar solicitudes en su nombre, si proporciona información suficiente para demostrar que el solicitante es un agente autorizado con permiso escrito para actuar en su nombre y verifica su identidad con nosotros.
+
+Servicio Diferenciado
+
+En cada uno de los siguientes casos, que ocasionalmente ofrecemos en algunos, pero no en todos los juegos, podemos concederle dinero virtual u otros artículos virtuales dentro del juego:
+
+Servicio Diferenciado
+
+	
+
+Categorías de información personal recopilada
+
+	
+
+Cómo optar por el Servicio Diferenciado, si se ofrece y cuando se ofrece
+
+
+
+
+Videos del juego
+
+	
+
+Identificadores, información sobre la actividad de Internet u otra red electrónica, información comercial, datos de localización, inferencias extraídas 
+
+	
+
+Vea los videos del juego que se le pueden presentar
+
+
+
+
+Anuncios en el juego hechos a medida
+
+	
+
+Identificadores, información sobre la actividad de Internet u otra red electrónica, información comercial, datos de localización, inferencias extraídas 
+
+	
+
+Consentimiento para que se le sirvan anuncios adaptados a su información personal y para compartir su información personal con redes de publicidad, compañías de medios sociales y otros negocios de terceros en el ecosistema de la publicidad
+
+
+
+
+Encuestas dentro del juego
+
+	
+
+Identificadores, características de clasificación protegidas, información comercial, información sobre la actividad de Internet u otras redes electrónicas, datos de localización, inferencias extraídas 
+
+	
+
+Completa una encuesta que se le presentará sobre usted y su experiencia en el juego.
+
+
+
+
+Reseñas sobre el juego
+
+	
+
+Identificadores, datos de localización, inferencias extraídas
+
+	
+
+Siga las instrucciones que se le presenten para enviar una reseña sobre el juego, o calificar el juego, en una tienda de aplicaciones como Google Play
+
+
+
+
+Conectar con Facebook
+
+	
+
+Identificadores, información sobre la actividad de Internet u otra red electrónica, información comercial, datos de localización, inferencias extraídas 
+
+	
+
+Cuando se le ofrezca, conéctese a nuestros juegos a través de su cuenta de Facebook
+
+
+
+
+Invitaciones de amigos en el juego
+
+	
+
+Información sobre la actividad de Internet u otras redes electrónicas, información comercial, datos de localización, inferencias extraídas
+
+	
+
+Invita a sus amigos a descargar y jugar al juego enviando una invitación desde el juego, si así se lo piden.
+
+
+
+
+Conéctese a nuestro juego
+
+	
+
+ Identificadores, información sobre la actividad de Internet u otra red electrónica, información comercial, datos de localización, inferencias extraídas
+
+	
+
+Conéctese para jugar el juego en la frecuencia que se le indique
+
+
+
+
+Únese a nuestro bot de Facebook
+
+	
+
+Identificadores, Internet u otra información sobre la actividad de la red electrónica
+
+	
+
+Conéctase con nosotros a través de nuestro bot de Facebook
+
+
+
+
+Lista de correos electrónicos
+
+	
+
+Identificadores
+
+	
+
+Suscríbase a nuestra lista de correo electrónicos cuando sea promovido
+
+ 
+
+Tiene el derecho a retirarse del Servicio Diferenciado en cualquier momento. Para ello, por favor envíar una solicitud a través del  Portal de Privacidad de Playtika  o a través de la opción de Privacidad disponible en la sección de Soporte de la configuración del juego.
+
+DATENSCHUTZHINWEIS
+
+
+
+
+Dieser Datenschutzhinweis tritt am 19 August, 2021 in Kraft.
+
+Um zu unserer vorherigen Richtlinie zu gelangen, hier klicken. 
+
+
+
+
+Einleitung
+
+Dieser Datenschutzhinweis von Playtika (der „Datenschutzhinweis“ oder „Hinweis“) wird Ihnen zur Verfügung gestellt, um Ihnen dabei behilflich zu sein, unsere Praktiken hinsichtlich der Erfassung, Verwendung, Weitergabe und des Schutzes persönlicher Daten zu verstehen.. In diesem Datenschutzhinweis bezieht sich „Playtika“ auf Playtika Holding Corp. und ihre Tochterunternehmen. Wir können Playtika auch als „wir“ oder „uns“ bezeichnen.
+
+Dieser Datenschutzhinweis gilt immer dann, wenn Sie die Spiele spielen, die auf diesen Hinweis verlinken, oder anderweitig auf unsere anderen Produkte und sozialen Spiele für das Web, Mobilgeräte oder andere anwendbare Plattformen und/oder Geräte zugreifen (die „Dienstleistung“). Dieser Datenschutzhinweis gilt nicht für Spiele, die von der Wooga GmbH und Seriously Digital Ltd (beides Tochterunternehmen von Playtika Holding Corp.) angeboten werden; die Datenschutzrichtlinien für diese Spiele befinden sich auf der jeweiligen Spiele- und Unternehmenswebsite. 
+
+Durch die Nutzung der Dienstleistung erklären Sie sich mit der Sammlung, Weitergabe, Speicherung und Nutzung von personenbezogenen Daten gemäß diesem Datenschutzhinweis einverstanden. Wenn Sie nicht möchten, dass Playtika die personenbezogenen Daten, die Sie zur Verfügung stellen, auf die in diesem Datenschutzhinweis beschriebenen Weise sammelt, speichert, verwendet oder weitergibt, dürfen Sie keine Spiele von Playtika spielen oder unsere Dienstleistung nutzen. 
+
+1. Personenbezogene Daten, die wir sammeln
+
+Playtika sammelt personenbezogene Daten, um eine oder mehrere seiner Funktionen und Aktivitäten zu erfüllen, die in diesem Datenschutzhinweis beschrieben werden.
+
+A.     Personenbezogene Daten, die Sie mit uns teilen 
+
+Wenn Sie unsere Dienstleistung nutzen (sei es über ein soziales Netzwerk oder direkt über Playtika), können Sie uns Informationen direkt mitteilen (z.B. bei der Einrichtung Ihres Kontos oder wenn Sie unseren Kundendienst kontaktieren) wie z. B.
+
+Ihr Alter oder Ihren Geburtstag;
+Ihren Vor- und Nachnamen;
+Ihre E-Mail-Adresse;
+ein Passwort;
+andere Informationen, die uns helfen, sicherzustellen, dass Sie es sind, der auf das eigene Konto zugreift, Informationen, die wir benötigen, um den von Ihnen angeforderten Support zu leisten, oder Informationen, die Sie uns zur Verfügung stellen, um unsere Dienstleistung zu verbessern (z. B. Antworten auf eine Online-Umfrage oder ein Feedback-Formular).
+
+ 
+
+Wenn Sie unsere Dienstleistung nutzen, können Sie sich für die Erstellung eines Spielerprofils entscheiden, das andere Playtika-Spieler sehen können. In Ihr Profil können Sie Informationen einfügen, wie z. B.:
+
+ein Profilfoto;
+Spiel-Benutzername(n);
+Ihr Geschlecht;
+biografische Details (wie z.B. Ihr Alter oder Ihre Altersgruppe);
+Informationen zum ungefähren Standort
+Links zu Ihren Profilen in verschiedenen sozialen Netzwerken;
+Details zu den Spielen, die Sie spielen.
+
+ 
+
+Sie können auch personenbezogene Daten direkt auf zahlreichen anderen Wegen bereitstellen, einschließlich:
+
+als Reaktion auf Umfragen oder andere Nachforschungen, die wir vornehmen;
+zur Teilnahme an Wettbewerben und Lotterien; 
+über Social Media
+durch Teilnahme in Gruppenkommunikationen oder Chats;
+bei Konferenzen, Conventions und anderen Events. 
+
+ 
+
+B.     Personenbezogene Daten, die wir von anderen erhalten
+
+Wir können Informationen über Sie über andere Quellen sammeln oder erhalten, wie z. B. Anwendungen Dritter, wie z. B. ein App-Store, ein Login-Service Dritter, und soziale Netzwerke, auf denen Sie Spiele spielen. Wir verwenden diese Informationen zusammen mit Informationen, die Sie uns direkt auf mehreren Arten zur Verfügung stellen, wie in diesem Datenschutzhinweis beschrieben, z. B. um Ihnen und Ihren Freunden zu helfen, eine Verbindung herzustellen oder um Ihnen eine besser auf Ihre Interessen zugeschnittene Werbung zu ermöglichen.
+
+Wenn Sie die Spiele von Playtika spielen oder auf unsere Dienstleistung über verbundene Anwendungen von Drittanbietern zugreifen oder unsere Dienstleistung mit Anwendungen von Drittanbietern, einschließlich sozialer Netzwerke wie Facebook, verbinden, kann Playtika bestimmte Informationen über Sie vom Anbieter der Anwendung von Drittanbietern erhalten. Die Informationen, die wir erhalten, hängen vom Playtika-Spiel, das Sie spielen, der Drittanwendung, Ihren Datenschutzeinstellungen und gegebenenfalls den Datenschutzeinstellungen Ihrer Freunde in dieser Drittanwendung ab.
+
+Playtika kann beispielsweise einige oder alle der folgenden Informationen sammeln und speichern, die von der Drittanbieteranwendung geteilt werden:
+
+Ihren Vor- und Nachnamen;
+Ihr Profilbild oder dessen URL;
+Ihre Benutzer-ID-Nummer (wie Ihre Facebook-ID-Nummer), die mit anderen Informationen wie Ihrem Namen und Profilbild sowie den Identifikatoren Ihrer Freunde verknüpft sein kann;
+die Benutzer-ID-Nummer und andere Informationen Ihrer Freunde, wie z. B. deren Namen und Profilfotos;
+die Anmelde-E-Mail-Adresse, die Sie dieser Drittanbieteranwendung angegeben haben;
+Ihren physischen Standort und den der Geräte, die Sie für den Zugriff auf unsere Dienstleistung verwenden;
+Ihr Geschlecht;
+Ihren Geburtstag und/oder Ihre Altersgruppe;
+Informationen über Ihre Aktivitäten auf oder über die Drittanbieteranwendung;
+Andere Informationen, die Sie auf dieser Drittanbieteranwendung geteilt haben;
+alle anderen Informationen, die Sie oder der Anbieter der Drittanbieteranwendung an Playtika weitergeben.
+Wenn Sie über eine Drittanwendung auf unsere Dienstleistung zugreifen oder unsere Dienstleistung mit einer Drittanwendung verbinden, sollten Sie auch die Allgemeinen Geschäftsbedingungen und den Datenschutzhinweis dieser Drittanwendung lesen.
+
+Wenn Sie sich nicht sicher sind, welche Informationen eine Drittanbieteranwendung an uns weitergibt, besuchen Sie bitte die Drittanbieteranwendung, um mehr über deren Datenschutzpraktiken zu erfahren.
+
+C.     Cookies und automatisierte Sammlung von Informationen
+
+Wie viele Websites können Playtika, unsere Dienstleistungsanbieter und andere Parteien Cookies an Ihr Gerät versenden, wenn Sie auf die Dienstleistung zugreifen oder aufrufen. Ein Cookie ist eine kleine Datendatei, die zu Aufzeichnungszwecken auf Ihr Gerät übertragen wird.  Informationen, die in einem Cookie enthalten sind, können mit personenbezogenen Daten verknüpft werden. Wir verwenden Cookies für Zwecke, um beispielsweise die Qualität des Playtika-Service zu verbessern, Empfehlungen an die Interessen anzupassen und den Service einfacher zu gestalten.
+
+Drittanbieter auf der Dienstleistung können auch Cookies oder andere Technologien verwenden, platzieren oder lesen, wie unten auf Ihrem Gerät beschrieben, und diese Praktiken unterliegen ihren eigenen Richtlinien. Für weitere Informationen darüber, wie Sie Cookies ablehnen oder deaktivieren können, siehe bitte nachfolgend den Abschnitt „Ihre Rechte“.
+
+Wir und unsere Dienstanbieter können auch andere Technologien einsetzen, einschließlich (i) Web Beacons, die es uns ermöglichen zu wissen, ob eine bestimmte Seite besucht wurde oder ob eine E-Mail geöffnet wurde; (ii) Tracking-Pixel, die es uns oder unseren Werbepartnern ermöglichen, effizienter und effektiver zu werben, indem wir unsere derzeitigen Spieler von bestimmten Werbebotschaften ausschließen, die Quelle einer neuen Installation identifizieren oder Ihnen Werbung auf anderen Websites liefern; und (iii) lokale gemeinsame Objekte, auch bekannt als Flash-Cookies, die uns helfen, Betrug zu reduzieren, Ihre Präferenzen im Spiel zu speichern und die Ladezeiten zu verkürzen.
+
+Wir, unsere Dienstleistungsanbieter und andere Parteien sammeln die folgenden Informationen über Cookies und andere Technologien:
+
+den Typ des Geräts, das Sie verwenden;
+das Betriebssystem und die Version Ihres Geräts
+die Identifikatoren Ihres Mobilgeräts, wie Ihre MAC-Adresse, Identifikator für Werbung (IDFA) und/oder International Mobile Equipment Identity (IMEI);
+Ihr Browsertyp;
+Ihre Browsersprache;
+Weiterleitungs- und Ausstiegsseiten und URLs;
+Plattform-Typ;
+die Anzahl der Klicks auf eine Seite oder ein Feature;
+Domainnamen;
+Einstiegsseiten;
+besuchte Seiten und die Reihenfolge dieser Seiten;
+die Zeit, die auf bestimmten Seiten verbracht wird;
+Spielstatus und Datum und Uhrzeit der Aktivität auf unseren Websites oder in unseren Spielen.
+
+ 
+
+In einigen Fällen werden wir diese Informationen mit der ID Ihres sozialen Netzwerks oder Ihrer Playtika-Benutzer-ID verknüpfen.
+
+Bei unserer Dienstleistung können wir Google Analytics oder andere Händler nutzen, um Informationen über Ihr Verhalten und Ihre Demographien zu sammeln. Für weitere Informationen über Google Analytics, besuchen Sie bitte www.google.com/policies/privacy/partners. Sie können sich gegen die Sammlung und Verarbeitung von Daten durch Google aussprechen, über https://tools.google.com/dlpage/gaoptout.
+
+D.     Informationen, die Sie mit Hilfe unserer Kommunikationsfunktionen generieren
+
+Eventuell sind Sie in der Lage, an bestimmten Aktivitäten auf Ihrer Dienstleistung teilzunehmen, die es Ihnen ermöglichen, mit Playtika und anderen Spielern zu kommunizieren oder Informationen auszutauschen. Dazu zählen:
+
+Teilnahme an Spielerforen und Messageboards;
+Veröffentlichung von öffentlicen Kommentaren in die Profile oder Gameboards anderer Spieler;
+Versenden von privaten Nachrichten oder Einladungen an andere Spieler, entweder direkt auf unseren Websites oder an deren E-Mail-Konten;
+Chats mit anderen Spielern;
+Veröffentlichung von Fotos oder Zeichnungen.
+
+ 
+
+Sie können wählen, ob Sie Informationen über sich selbst preisgeben möchten, wenn Sie nutzergenerierte Inhalte auf Dienstleistungen oder einschließlich in deren Chatrooms, Blogs, Messageboards, Spielerprofile nzur öffentlichen Ansicht oder in ähnlichen Foren über mobile Dienste und/oder über Websites oder Dienste Dritter bereitstellen, öffentliche Kommentare zu den Profilen oder Gameboards anderer Spieler veröffentlichen, private Nachrichten oder Einladungen an andere Spieler senden, entweder direkt auf unseren Websites oder an ihre E-Mail-Konten und Fotos veröffentlichen. Sie sollten berücksichtigen, dass alle Informationen, die Sie in einem dieser Foren offenlegen „öffentlich“ sind und Sie sollten keine Geheimhaltung oder Vertraulichkeit erwarten.
+
+Darüber hinaus sollten Sie sich darüber im Klaren sein, dass alle von Ihnen übermittelten persönlichen Daten, einschließlich Videos und Bilder, von anderen Spielern dieser Foren eingesehen, gelesen, angesehen, gesammelt oder anderweitig verwendet werden können und dazu verwendet werden könnten, Ihnen unaufgefordert Nachrichten zu senden. Playtika ist nicht verantwortlich für die personenbezogenen Daten, die Sie in einem dieser Foren veröffentlichen.
+
+Wir können jede Informationen, die Sie teilen, für jeden Zweck wie in diesem Datenschutzhinweis beschrieben, nutzen.
+
+Beachten Sie, dass Sie alle Informationen, die Sie veröffentlichen oder anderweitig mit anderen Spielern über eine Dienstleistung oder eine Website oder eine Dienstleistung eines Dritten teilen, als „öffentlich“ betrachten sollten und dass Sie nicht erwarten dürfen, dass sie privat gehalten werden.  Bitte lesen Sie auch die Allgemeinen Geschäftsbedingungen von Playtika für weitere Informationen und Richtlinien zur Veröffentlichung von Inhalten über unsere Dienstleistung.
+
+Um einige der sozialen Funktionen zu aktivieren, sind Sie eventuell in der Lage, Ihre Adressbuchkontakte zu importieren oder manuell einzugeben, damit Sie Ihre Kontakte über die Dienstleistung finden und sie einladen können, an unseren Spielen oder anderen Aspekten unserer Dienstleistung teilzunehmen. Sie sind dafür verantwortlich, die Erlaubnis Ihrer Kontakte einzuholen, bevor Sie ihre Kontaktdaten an uns weitergeben. Wir können auch Informationen über Sie von anderen Playtika-Spielern erhalten, die ihre Kontakte importieren oder eingeben.
+
+E.     Zahlungsinformationen
+
+Playtika kann die Rechnungs- und Zahlungsinformationen erhalten, die Sie angeben, wenn Ihr Kauf von jemand anderem (wie Facebook, Apple oder Google) bearbeitet wird, z.B. wenn Sie etwas in einem Spiel kaufen, das Sie in einem sozialen Netzwerk spielen oder das Sie auf Ihr Mobilgerät heruntergeladen haben. Unsere Allgemeine Geschäftsbedingungen erläutern unsere Richtlinien und Bedingungen, die für unsere Gebühren, Abrechnungspraktiken, Kredite von Drittanbietern und virtuelle Währungen relevant sind.
+
+Wenn Sie virtuelle Währung oder virtuelle Gegenstände in einem Playtika-Spiel kaufen, sammelt unser externer Zahlungsdienstleister die Rechnungs- und Finanzinformationen, die er zur Bearbeitung Ihrer Gebühren benötigt. Dies kann Ihre Postanschrift, E-Mail-Adresse und Finanzinformationen beinhalten.
+
+Playtika erfasst und speichert keine Kreditkartennummern. Die Zahlungsprozessoren von Playtika können jedoch Informationen mit uns in Bezug auf Ihre Einkäufe teilen. Wir können diese Informationen für jeden Zweck, wie in diesem Datenschutzhinweis beschrieben, nutzen.
+
+Wenn Sie mehr darüber erfahren möchten, wie wir Ihre Daten schützen, lesen Sie bitte den Abschnitt Sicherheit Ihrer Daten weiter unten.
+
+ 2.  Wie wir die personenbezogenen Daten nutzen
+
+Playtika nutzt personenbezogene Daten für eine Vielzahl von Geschäftszwecken, wie in diesem Datenschutzhinweis beschrieben, einschließlich der Erfüllung unserer vertraglichen Verpflichtungen, des Abschlusses von Transaktionen, die Sie anfordern, der Einhaltung der Gesetze und für weitere berechtigte Geschäftszwecke, wie z. B.:
+
+Erstellung Ihrer Spielaccounts, um Ihnen zu ermöglichen, unsere Spiele zu spielen;
+Betrieb, Verbesserung und Optimierung unserer Dienstleistung und der Erfahrungen unserer Spieler, u.a. durch Messung des Interesses an und des Engagements für unsere Dienstleistung;
+Verarbeitung von Zahlungskarten- und/oder anderen Finanzinformationen, um Ihre Einkäufe im Spiel zu erleichtern
+Identifizierung und Vorschlag von Verbindungen mit anderen Playtika-Benutzern und Personalisierung unserer Dienstleistungen für Sie 
+Ermöglichung, dass Spieler , miteinander kommunizieren;
+Bereitstellung von technischem Support und Antwort auf Benutzeranfragen;
+Authentifizierung und/oder Verifizierung von individuellen Identitäten;
+Schutz der Sicherheit und des Wohlbefindens unserer Benutzer;
+Schutz der Rechte und des Eigentums von Playtika im Zusammenhang mit unseren Dienstleistungen;
+Bearbeitung technischer Fragen und Aufrechterhaltung und/oder Verbesserung der Netz- und Informationssicherheit;
+Durchführung von Audits, Gewährleistung der internen Qualitätskontrolle und Ergreifen von Sicherheitsvorkehrungen;
+Verhinderung und/oder Verfolgung von potenziell illegalen Aktivitäten und Umsetzung unserer Allgemeinen Geschäftsbedingungen;
+Verwaltung und Lieferung von kontextbezogener und verhaltensbasierter Werbung;
+Benachrichtigung von Spielern über In-Game-Updates, neue Produkte, Inhalte oder Werbeangebote;
+Verwaltung von Belohnungen, Umfragen, Gewinnspielen, Wettbewerben oder andere Werbeaktivitäten oder Veranstaltungen, die von uns oder unseren Geschäftspartnern gesponsert oder verwaltet werden;
+Einhaltung unserer rechtlichen Verpflichtungen, Beilegung von Streitigkeiten, die wir mit Ihnen oder anderen Spielern haben, Eintreibung aller uns geschuldeten Gelder und Durchsetzung unserer Vereinbarungen;
+Durchführung von Forschungsarbeiten, einschließlich der Verwendung personenbezogener Daten zur Erstellung de-identifizierter und/oder aggregierter Daten. Nicht identifizierte und aggregierte Daten sind keine personenbezogenen Daten, und wir können diese Daten für alle rechtlich zulässigen Zwecke verwenden und weitergeben.
+
+ 
+
+Ihre Interaktionen mit unserer Dienstleistung können plattform- und/oder geräteübergreifend verfolgt werden.
+
+ 
+
+Zusätzlich zu den obigen Ausführungen können wir, wenn Sie Playtika Ihre E-Mail-Adresse zur Verfügung gestellt haben, diese auf verschiedene Art und Weise mit Ihnen und anderen Spielern kommunizieren, einschließlich der Beantwortung von Kundensupport-Anfragen, um Sie und andere über Ihre Aktivitäten im Spiel, Kommentare von Freunden, den Status im Spiel und Werbeaktionen auf dem Laufenden zu halten und um Sie über Geschenk- und Nachbarschaftsanfragen zu informieren. Einige Nachrichten, wie z. B. Einladungen für Freunde, Sie in einem Spiel zu begleiten, können Ihren Namen und Ihr Profilbild enthalten. Wir können auch direkt oder in Partnerschaft mit anderen Parteien Werbebotschaften („Werbemitteilungen“) versenden.  Für weitere Informationen darüber, wie Sie Werbemitteilungen ablehnen können, siehe bitte nachfolgend den Abschnitt „Ihre Rechte“. 
+
+Wir können Technologien verwenden, die als automatisierte Entscheidungsfindung oder Profilerstellung angesehen werden, allerdings werden wir dies nicht auf eine Weise tun, die eine rechtlich bedeutsame Auswirkung auf Sie hat, es sei denn, wir haben Ihre Zustimmung oder wir sind anderweitig gesetzlich dazu berechtigt. 
+
+Wir können personenbezogene Daten auch für alle anderen Zwecke verwenden, die Ihnen zum Zeitpunkt der Erfassung oder anderweitig mit Ihrer Zustimmung mitgeteilt werden. 
+
+3. Wie wir personenbezogene Daten teilen
+
+Wir können personenbezogene Daten über Sie zwischen und unter Paytika Holding Corp. und seinen Tochterunternehmen teilen.
+
+Darüber hinaus sind wir berechtigt, aggregierte und analytische Daten (Informationen über Sie und andere Spieler insgesamt, die nicht dazu bestimmt sind, Sie spezifisch zu identifizieren, z. B. Spieler zwischen 25 und 30 Jahren, die in Chicago leben) und andere nicht-persönliche Daten über unsere Spieler für Branchenanalysen, demografisches Profiling, Marketing, Analysen, Werbung und andere Geschäftszwecke offenzulegen oder zu veröffentlichen.
+
+Darüber hinaus können wir Ihre Daten (einschließlich personenbezogener Daten) an Dritte (d. h. an andere Parteien als Playtika) weitergeben oder Dritten gestatten, diese Daten unter den folgenden Umständen aus unserer Dienstleistung in diesem Datenschutzhinweis zu sammeln:
+
+A.     Dienstleistungsanbieter
+
+Playtika nutzt seine Tochterunternehmen und andere nicht angegliederte Unternehmen („Dienstleistungsanbieter“), um die Dienstleistung zu unterstützen, wie z. B. die Verarbeitung von Zahlungen, die Analyse von Daten, die Optimierung des Spielverlaufs und die Verbesserung des Spielerlebnisses, die Zustellung von E-Mails, Hosting-Services, die Verwaltung und Zustellung kontextbezogener und maßgeschneiderter Werbung. 
+
+B.     Freunde und andere Playtika-Spieler
+
+Wenn Sie spielen oder sich über ein soziales Netzwerk registrieren (z. B. Facebook Connect), sehen Ihre Freunde bei den meisten Playtika-Spielen im sozialen Netzwerk Ihren Namen, Ihr Profilbild und Beschreibungen Ihrer Spielaktivität. Wenn Sie unsere Dienstleistung als Antwort auf eine Einladung eines anderen Spielers nutzen, kann dieser Spieler bestimmte Informationen über Sie und Ihre Aktivitäten im Spiel einsehen, einschließlich des Zeitpunkts Ihres Beitritts und der Ebene(n), die Sie im Spiel erreichen. Dementsprechend können andere Spieler in vielen Playtika-Spielen, unabhängig davon, ob sie Ihre Freunde im sozialen Netzwerk sind oder nicht, Beschreibungen Ihrer Spielaktivität einsehen (einschließlich der Angabe von Playtika-Spielen, die Sie gespielt haben), mit Ihnen innerhalb unserer Dienstleistung kommunizieren und Ihr Spielprofil ansehen, das Ihren Namen oder einen „Spielnamen“ und Ihr Profilfoto enthalten kann. Andere Spieler können Ihnen möglicherweise auch Spielanfragen oder sogar Freundschaftsanfragen über die Kommunikationskanäle des jeweiligen sozialen Netzwerks oder von Playtika senden.
+
+C.     Drittanbieter-Werbung einschließlich personalisierter Werbung und Analytik
+
+Wir können Werbung auf unserer Dienstleistung schalten, damit wir weiterhin unsere Dienstleistung kostenlos anbieten können.
+
+Wenn Werbetreibende oder Werbenetzwerke Anzeigen in unserer Dienstleistung schalten, können sie diese sammeln oder wir können die folgenden Arten von Informationen aus unserer Dienstleistung weitergeben:
+
+Leistungsdaten (wie die Anzahl der Klicks auf eine Anzeige);
+aggregierte und/oder de-identifizierte Informationen über Sie und andere Spieler, die nicht dazu bestimmt sind, Sie spezifisch zu identifizieren (wie Spieler zwischen 21 und 25 Jahren, die in San Francisco leben);
+bestimmte technische Informationen (z. B. IP-Adressen, nicht persistente Gerätekennungen wie IDFAs und Gerätekennungen);
+die ID Ihres sozialen Netzwerks;
+andere kontextbezogene Daten über Ihr Spiel (z.B. Ihr Level und Ihre Sitzungsdauer).
+
+ 
+
+Die gesammelten Informationen können verwendet werden, um:
+zu messen, wie effektiv Anzeigen sind;
+ihnen gezielte Werbung anzubieten, um Ihre Erfahrung zu personalisieren, indem wir Ihnen Werbung für Produkte und Dienstleistungen anzeigen, die Sie eher ansprechen (eine Praxis, die als Verhaltenswerbung bekannt ist)
+Webanalysen durchzuführen (wie Google Analytics, das zur Analyse des Datenverkehrs und anderer Spieleraktivitäten verwendet wird, um Ihre Nutzung zu verbessern).
+
+ 
+
+Werbetreibende oder Werbenetzwerke können diese Informationen durch den Einsatz von Tracking-Technologien wie Browser-Cookies und Web Beacons sammeln, und sie können eine einzige Tracking-Technologie oder mehrere Tracking-Technologien gleichzeitig verwenden.
+
+Bitte beachten Sie, dass Sie sich nach dem Anklicken einer Werbung eines Drittanbieters möglicherweise nicht mehr auf einer von Playtika gehosteten Website oder dem sozialen Netzwerk befinden, über das Sie die Spiele von Playtika spielen.
+
+D.     Verkauf oder Fusion
+
+Für den Fall, dass Playtika Anstrengungen unternimmt, sich an einer Geschäftsumwandlung zu beteiligen (z. B. Fusion, Übernahme durch ein anderes Unternehmen oder Verkauf aller oder eines Teils seiner Vermögenswerte (z. B. Verkauf eines Spiels), können wir relevante Informationen, die wir haben, einschließlich persönlicher Daten, an die Nachfolgeorganisation in der Übergangsphase weitergeben oder übertragen. Wir werden angemessene Anstrengungen unternehmen, wie in diesem Datenschutzhinweis beschrieben, um Sie und andere Spieler vor der Übertragung personenbezogener Daten über den Geschäftsübergang zu informieren.
+
+ E.     Einhaltung der Gesetze
+
+ Unter den folgenden Umständen können wir personenbezogene Daten weitergeben: 
+
+wenn wir in gutem Glauben davon ausgehen, dass wir die Informationen als Reaktion auf rechtmäßige Anfragen von Behörden offenlegen müssen, einschließlich der Erfüllung nationaler Sicherheits- oder Strafverfolgungsanforderungen oder rechtlicher Verfahren (z.B. Gerichtsbeschluss, Durchsuchungsbefehl oder Vorladung);
+um Gesetzen und Richtlinien zu genügen;
+wenn wir nach eigenem Ermessen davon ausgehen, dass der Dienst zur Begehung einer Straftat verwendet wird, einschließlich der Meldung solcher krimineller Aktivitäten oder der Weitergabe von Informationen an andere Unternehmen und Organisationen zum Zwecke des Betrugsschutzes, der Kreditrisikominderung und anderer Sicherheitsvorkehrungen;
+wenn wir in gutem Glauben davon ausgehen, dass ein Notfall vorliegt, der eine Gefahr für die Gesundheit und/oder Sicherheit von Ihnen, einer anderen Person oder der Öffentlichkeit im Allgemeinen darstellt;
+um die Rechte oder das Eigentum von Playtika und anderen anwendbaren Dritten zu schützen, einschließlich der Durchsetzung unserer Nutzungsbedingungen Allgemeine Geschäftsbedingungen.
+
+ 
+
+4.  Ihre Rechte
+
+Je nach geltendem Recht an Ihrem Wohnort haben Sie eventuell das Recht, Anfragen in Bezug auf personenbezogene Daten zu stellen, die Playtika beispielsweise über Sie verarbeitet:
+
+für Informationen; 
+für Zugriff;
+zur Korrektur (oder Berichtigung) der personenbezogenen Daten, von denen Sie meinen, dass sie unkorrekt sind;
+zur Entfernung (oder Löschung);
+für eine elektronische Kopie (oder Portabilität);
+für einen Einspruch gegen bestimmte Verarbeitungen einzulegen, einschließlich der Möglichkeit, gezielte Werbung abzulehnen.  
+
+Playtika gestattet es Spielern, die Anfragen über   Playtika-Datenschutzportal  oder über die Datenschutzkategorie auf der Support-Seite innerhalb des Spiels, das Sie spielen, einzureichen.
+
+A.     Verwaltung von Informationen, die wir von Dritten erhalten
+
+Um die Informationen zu verwalten, die Playtika über Sie von einer Drittanbieterplattform erhält, auf der Sie unsere Spiele wie Facebook, Apple, Amazon usw. spielen, müssen Sie den Anweisungen für jede dieser Drittanbieteranwendungen folgen, um Ihre Informationen zu aktualisieren und Ihre Datenschutzeinstellungen zu ändern. 
+
+B.     Abschaltung der Geolokalisierung
+
+Sie können die Bereitstellung der Geolokalisierung für uns über die Einstellungen Ihres Geräts für die entsprechende Anwendung oder die Seite „Einstellungen“ für das entsprechende Spiel beenden. Wenn Sie uns zuvor den Zugriff auf Ihre Geolokalisierungsdaten gestattet haben, können wir diese Informationen weiterhin wie in diesem Datenschutzhinweis beschrieben verwenden.
+
+C.     Abmeldung von Werbe-E-Mails von Playtika
+
+Wenn Sie keine Werbemitteilungen von Playtika mehr erhalten möchten, können Sie in jeder Werbe-E-Mail von Playtika auf den Link „Abmelden“ klicken. Wenn Sie den Empfang von Texten oder SMS-Nachrichten von Ihnen einstellen möchten, können Sie auf jede Werbenachricht mit „STOP“ antworten. Bitte beachten Sie, dass wir etwas Zeit benötigen, bis Ihre Abmeldung wirksam wird. 
+
+Außerdem können Sie in den meisten unserer Spiele unter „Ihr Konto“ oder „Einstellungen“ eine Option finden, um uns aufzufordern, Ihnen keine Werbemitteilungen mehr zu senden.
+
+D.     Abmeldung von Facebook-Nachrichten
+
+Wenn Sie keine Nachrichten mehr über unsere Spielseiten auf Facebook erhalten möchten, können Sie auf das Symbol „Einstellungen“ oben in der jeweiligen Nachricht klicken, und indem Sie auf „Nachrichten verwalten“ klicken, können Sie alle Nachrichten aus diesem Spiel deaktivieren.
+
+E.     Abmeldung von Push-Benachrichtigungen
+
+Wenn Sie unsere Apps auf Ihrem mobilen Gerät installieren, können Sie wählen, ob Sie Push-Benachrichtigungen erhalten möchten, d.h. Nachrichten, die eine App Ihnen auf Ihrem Gerät sendet, auch wenn die App nicht eingeschaltet ist. Sie können Benachrichtigungen deaktivieren, indem Sie die Seite „Einstellungen“ Ihres Mobilgeräts aufrufen.
+
+F.     Abmeldung von personalisierter Werbung Dritter
+
+In einigen Spielen, in denen Drittanbieteranzeigen geschaltet werden, bieten wir Ihnen eine Umschalttaste, mit der Sie maßgeschneiderte Anzeigen von Drittanbietern deaktivieren können.
+
+Für weitere Informationen über maßgeschneiderte Werbung und Ihre Entscheidungen interessiert sind, um Dritte daran zu hindern, maßgeschneiderte Web- und mobile Webwerbung zu liefern, können Sie besuchen www.aboutads.info. Für Unternehmen, die an der Digital Advertising Alliance teilnehmen, können Sie diese Option ausführen unter www.networkadvertising.org/choices und www.aboutads.info/choices. 
+
+Wenn Sie in der EU leben, können Sie Informationen erhalten und Ihre Auswahl ausführen über www.youronlinechoices.com. 
+
+Diese Opt-out-Tools werden von Dritten bereitgestellt, nicht von Playtika. Playtika kontrolliert, betreibt oder unterstützt diese Tools oder die Entscheidungen, die Werbetreibende und andere durch diese Tools treffen, nicht. Sie sind hier nur aus Gründen der Spielerfreundlichkeit aufgeführt.
+
+Zusätzlich können Sie, wenn Sie keine auf Ihre Anwendung zugeschnittene Werbung von Drittanbietern erhalten möchten, diese durch Anpassung der Anzeigenverfolgungseinstellungen auf Ihrem Gerät deaktivieren. Sie können den „Werbe-Identifikator“ (wie ein IDFA) auch von der Einstellungsseite Ihres Geräts aus zurücksetzen, was die weitere Verwendung bestehender Verhaltensdaten, die mit dem vorherigen „Werbe-Identifikator“ verknüpft sind, verhindert Darüber hinaus können Sie je nach Plattformanbieter (z.B. Apple oder Google) Apps wie die App „AppChoices“ der Digital Advertising Alliance herunterladen, die Ihnen die Kontrolle über die Erhebung und Verwendung applikationsübergreifender Daten für benutzerdefinierte Werbung ermöglichen. Wie die oben genannten Opt-out-Tools für das Web werden auch diese mobilen Opt-out-Tools von Dritten bereitgestellt, nicht von Playtika. Playtika kontrolliert, betreibt oder unterstützt diese Tools oder die Entscheidungen, die Werbetreibende und andere durch diese Tools treffen, nicht.
+
+Bitte beachten Sie, dass Sie innerhalb der Spiele von Playtika weiterhin Werbung von Dritten erhalten können, auch wenn Sie sich gegen maßgeschneiderte Werbung entscheiden, aber diese nicht auf Ihren Aktivitäten auf unabhängigen Websites oder Apps basieren wird.
+
+G.     Abmeldung von der Cookie-Verfolgung
+
+Sie können Ihren Webbrowser so einstellen, dass er Sie über Versuche, Cookies auf Ihrem Gerät zu platzieren, informiert oder die Art der von Ihnen zugelassenen Cookies einschränkt. Flash-Cookies funktionieren anders als Browser-Cookies und Cookie-Verwaltungstools, die in einem Webbrowser verfügbar sind, können Flash-Cookies nicht entfernen. Um mehr über Flash-Cookies zu erfahren und Flash-Cookies zu verwalten, können Sie  Adobe-Website besuchen und Veränderungen vornehmen auf Panel für globale Datenschutzeinstellungen.
+
+Wenn Sie Cookies deaktivieren, können Sie einige der Funktionen und Funktionen unserer Dienstleistung verlieren, da Playtika-Cookies notwendig sind, um die Dienstleistung bereitzustellen.
+
+H.     Nicht verfolgen
+
+Beachten Sie, dass Playtika derzeit nicht auf Nicht verfolgen-Signale reagiert, unabhängig davon, ob dieses Signal auf einem Computer oder auf einem mobilen Gerät empfangen wird.
+
+ 5.  Datenschutz von Kindern
+
+Für Slotomania, House of Fun, Caesars Casino, Vegas Downtown Slots, World Series of Poker, Poker Heat und/oder Bingo Blitz dürfen Sie die Dienstleistung nicht nutzen, wenn Sie jünger als 21 Jahre alt sind. In diesem Fall dürfen Sie kein Konto erstellen, auf solche Spiele zugreifen, sie nutzen oder herunterladen und/oder persönliche Daten über die Dienstleistung und/oder an Playtika übermitteln. Für alle anderen Playtika-Dienste dürfen Sie den Dienst nicht nutzen, wenn Sie unter 18 Jahre alt sind, In diesem Fall dürfen Sie kein Konto erstellen, auf solche Spiele zugreifen, sie nutzen oder herunterladen und/oder persönliche Daten über die Dienstleistung und/oder an Playtika übermitteln. Playtika setzt sich für die Einhaltung von Gesetzen zum Schutz von Kindern ein Wenn Sie glauben, dass Ihr Kind ohne Ihre Zustimmung personenbezogene Daten an Playtika gesendet hat, kontaktieren Sie uns bitte unter [email protected]. Playtika wird angemessene Schritte unternehmen, um diese Informationen so bald wie möglich zu löschen.
+
+6. Internationale Übertragungen, Aufbewahrung, Sicherheit, Links, Updates und Kontakt
+
+ A.    Internationale Übertragungen 
+
+Wenn Sie unsere Dienstleistung nutzen, können Ihre persönlichen Daten außerhalb des Landes oder der Region, in dem/der Sie leben, gesendet, abgerufen, verwendet und/oder gespeichert werden, einschließlich z. B. in die Vereinigten Staaten und Israel. Wir können personenbezogene Daten an unsere Tochterunternehmen, Händler, Geschäftspartner und andere Personen übertragen, wie in diesen Datenschutzhinweisen beschrieben, und durch die Nutzung der Dienstleistung stimmen Sie einer solchen Übertragung zu.
+
+Bitte beachten Sie, dass die Gesetze von Land zu Land unterschiedlich sind, so dass die Datenschutzgesetze, die für die Orte gelten, an die personenbezogene Daten übertragen oder gespeichert, verwendet oder verarbeitet werden, von den an Ihrem Wohnort geltenden Datenschutzgesetzen abweichen können, die für den Ort gelten, an dem Sie wohnhaft sind. Wenn wir personenbezogene Daten außerhalb des Ortes, an dem sie gesammelt wurden, übertragen, ergreifen wir geeignete Schutzmaßnahmen (einschließlich z. B. Verträge) oder stellen anderweitig sicher, dass solche Übertragungen den geltenden lokalen rechtlichen Anforderungen entsprechen. 
+
+B.     Aufbewahrung   
+
+Wir bewahren personenbezogene Daten so lange auf, wie Sie die Dienstleistung nutzen und wie es zur Erfüllung der Zwecke, für die sie gesammelt wurden, erforderlich ist, oder zur Erfüllung unserer Geschäftsanforderungen und geltenden Gesetze, zur Erfüllung gesetzlicher, buchhalterischer oder berichtspflichtiger Verpflichtungen, zur Beilegung von Streitigkeiten, zum Schutz unseres Vermögens, zur effizienten Führung unserer Geschäfte und zur Durchsetzung unserer Vereinbarungen erforderlich ist.
+
+C.     Sicherheit 
+
+Wir ergreifen begründete Schritte, um persönliche Daten zu schützen; jedoch kann kein System oder Netzwerk garantiert werden, dass es 100 % sicher ist, und deshalb können wir die Sicherheit der Daten nicht garantieren. Wir übernehmen, soweit dies gesetzlich zulässig ist, keine Haftung für unbefugte Offenlegung. 
+
+D.    Links zu anderen Sites/Apps
+
+Der Playtika-Dienst kann Links zu anderen Websites und/oder Anwendungen enthalten, die anderen gehören und/oder von anderen betrieben werden. Alle Informationen, die Sie auf solchen Websites und/oder Apps zur Verfügung stellen, unterliegen den Datenschutzbestimmungen dieser Websites oder Apps, und Playtika übernimmt keine Verantwortung für den Inhalt, die Datenschutzbestimmungen, die Nutzungsbedingungen oder die Sicherheitspraktiken dieser Websites und/oder Apps. Sie sollten die Bedingungen und Datenschutzrichtlinien jeder Website oder Anwendung, auf die Sie zugreifen, überprüfen.
+
+E.     Updates
+
+Playtika behält sich das Recht vor, den Datenschutzhinweis von Zeit zu Zeit ändern, und Playtika empfiehlt Ihnen, den Datenschutzhinweis regelmäßig auf Änderungen zu überprüfen. 
+
+Wenn wir wesentliche Änderungen an unserem Datenschutzhinweis vorzunehmen, werden wir Sie und andere Spieler darüber informieren, indem wir eine Mitteilung auf Playtika.com oder entsprechend in einem Spiel veröffentlichen oder Ihnen eine Mitteilung an die E-Mail-Adresse senden, die wir für Sie gespeichert haben, bevor die Änderung in Kraft tritt. Wir können diesen Prozess ergänzen, indem wir Hinweise auf Spielblogs, sozialen Netzwerkseiten und/oder Foren und auf anderen Playtika-Websites veröffentlichen. Sie sollten regelmäßig  www.Playtika.com prüfen und diese Datenschutzseite auf Updates prüfen.
+
+F.  Wie Sie uns kontaktieren
+
+Wenn Sie Fragen, Kommentare oder Bedenken zu unserem Datenschutzhinweis oder einem anderen Datenschutzproblem haben, wenden Sie sich bitte an den DPO von Playtika unter [email protected] oder den Chief Privacy Officer (Leitender Datenschutzbeauftragter9, 8 Hachoshlim St., Herzliya Pituach 4672408 Israel.
+
+Wenn Sie Ihre Rechte wahrnehmen möchten, können Sie ein Ticket über den entsprechenden Supportkanal des Spiels oder über die  Playtika-Datenschutzportal .
+
+Für Spieler in der EU haben wir Homerun Ciero S.R.L. (Rumänien) als unseren EU-Vertreter ernannt. Bei Fragen oder Bedenken können Sie sich entweder wie oben beschrieben oder an unseren EU-Vertreter bei Homerun Ciero S.R.L. wenden. TN-Büros 3 im 1. Stock, 165 Splaiul Unirii, Bukarest, Rumänien.
+
+Zusätzlich haben Sie bei Fragen oder Bedenken, die wir Ihrer Meinung nach nicht angemessen behandelt haben, das Recht, Ihre Frage oder Ihr Anliegen an die Datenschutzbehörde an Ihrem Wohnort zu richten.  
+
+7. Supplemental California Consumer Privacy Act (CCPA)-Hinweis („CCPA-Hinweis) 
+
+Playtika verwendet und teilt Informationen wie in diesem Datenschutzhinweis beschrieben. Die Informationen unten ergänzen den Datenschutzhinweis und sind nur für kalifornische Verbraucher bestimmt. 
+
+Erfassung und Nutzung von personenbezogenen Informationen
+
+„Personenbezogene Informationen“ bezieht sich in diesem CCPA-Hinweis, wie auch im CCPA, auf alle Informationen, die einen bestimmten Verbraucher oder Haushalt identifizieren, sich auf ihn beziehen, ihn beschreiben, vernünftigerweise mit ihm in Verbindung gebracht werden können oder vernünftigerweise direkt oder indirekt mit ihm in Verbindung gebracht werden könnten.
+
+Die folgende Tabelle listet die Kategorien der persönlichen Daten auf, die wir über Spieler erfassen, die Quelle der Erfassung und die Geschäftszwecke für die Erfassung, alles in Übereinstimmung mit den Kategorien der persönlichen Daten und Geschäftszwecke, die im California Consumer Privacy Act von 2018 (CCPA) aufgeführt sind. Dies sind auch die Kategorien personenbezogener Daten, die wir in den letzten 12 Monaten erfasst haben, und ihre Geschäftszwecke. 
+
+Eine detailliertere Beschreibung der einzelnen Informationen, die wir erfassen, und ihrer Zwecke finden Sie in diesem Datenschutzhinweis.
+
+Kategorie der personenbezogenen Informationen
+
+	
+
+Kategorien der Quellen
+
+	
+
+Kommerzieller oder geschäftlicher Zweck
+
+
+
+
+Identifikatoren, wie z. B. Bild, Kontoname, Geräte-ID, E-Mail-Adresse, IP-Adresse, usw.
+
+	
+Spieler
+Spielergeräte
+Datendienste
+Dienstleistungsanbieter
+	
+Kundenbetreuung
+Interne Analytik und Berichterstattung
+Interne Nachforschung
+Betrieb unserer Geschäfte und Spiele
+Spielmechanik oder Funktionalität
+Erleichterung der sozialen Interaktionen der Spieler
+Debuggen bestehender beabsichtigter Funktionalität
+Produktentwicklung/-verbesserung
+Aufrechterhaltung und Verbesserung der Dienstleistung.
+ 
+Prüfung der Spieler-Interaktion & Transaktionen
+Werbung und Vermarktung. 
+Erkennung/Schutz vor Sicherheitsereignissen
+Spieleranwerbung
+
+
+
+California Customer Records (Cal. Civ. Code § 1798.80(e)) wie z.B. Telefonnummer und Zahlungsinformationen
+
+	
+Spieler
+Datendienste
+Dienstleistungsanbieter
+Soziale Netzwerkdienste
+	
+Kundenbetreuung
+Interne Analytik und Berichterstattung
+Interne Nachforschung
+Betrieb unserer Geschäfte und Spiele
+Spielmechanik oder Funktionalität
+Erleichterung der sozialen Interaktionen der Spieler
+Debuggen bestehender beabsichtigter Funktionalität
+Produktentwicklung/-verbesserung
+Aufrechterhaltung und Verbesserung der Dienstleistung.
+Prüfung der Spieler-Interaktion & Transaktionen
+Werbung und Vermarktung. 
+Erkennung/Schutz vor Sicherheitsereignissen
+Spieleranwerbung
+
+
+
+Geschützte Klassifizierungsmerkmale, wie z. B. Alter und Geschlecht
+
+	
+Spieler
+Dienstleistungsanbieter
+Soziale Netzwerkdienste
+	
+Kundenbetreuung
+Interne Analytik und Berichterstattung
+Interne Nachforschung
+Betrieb unserer Geschäfte und Spiele
+Spielmechanik oder Funktionalität
+Erleichterung der sozialen Interaktionen der Spieler
+Debuggen bestehender beabsichtigter Funktionalität
+Produktentwicklung/-verbesserung
+Aufrechterhaltung und Verbesserung der Dienstleistung.
+Prüfung der Spieler-Interaktion & Transaktionen
+Werbung und Vermarktung.
+Erkennung/Schutz vor Sicherheitsereignissen
+Spieleranwerbung
+
+
+
+Kommerzielle Informationen, wie z.B. gekaufte, bezogene oder erwogene Produkte oder Dienstleistungen oder andere Kauf- oder Verbrauchsgeschichten oder -tendenzen
+
+	
+Spieler
+Datendienste
+Dienstleistungsanbieter
+Soziale Netzwerkdienste
+	
+
+Kundenbetreuung
+
+Interne Analytik und Berichterstattung
+
+Interne Nachforschung
+
+Betrieb unserer Geschäfte und Spiele
+
+Spielmechanik oder Funktionalität
+
+Erleichterung der sozialen Interaktionen der Spieler
+
+Debuggen bestehender beabsichtigter Funktionalität
+
+Produktentwicklung/-verbesserung
+
+Aufrechterhaltung und Verbesserung der Dienstleistung.
+
+Prüfung der Spieler-Interaktion & Transaktionen
+
+Werbung und Vermarktung. 
+
+Erkennung/Schutz vor Sicherheitsereignissen 
+
+Spieleranwerbung
+
+
+
+
+Informationen zum Internet/elektronischen Netzwerk, wie z.B. Website oder Anwendung oder Anzeigen-Browsingverlauf
+
+	
+Spieler
+Spielergeräte
+Datendienste
+Dienstleistungsanbieter
+Analysedienste
+	
+Kundenbetreuung
+Interne Analytik und Berichterstattung
+Interne Nachforschung
+Betrieb unserer Geschäfte und Spiele
+Spielmechanik oder Funktionalität
+Erleichterung der sozialen Interaktionen der Spieler
+Debuggen bestehender beabsichtigter Funktionalität
+Produktentwicklung/-verbesserung
+Aufrechterhaltung und Verbesserung der Dienstleistung.
+Prüfung der Spieler-Interaktion & Transaktionen
+Werbung und Vermarktung. 
+Erkennung/Schutz vor Sicherheitsereignissen
+Spieleranwerbung
+
+
+
+Standortdaten, vom Gerät geteilter Standort und Wi-Fi-Verbindungsstandort
+
+	
+Spieler
+Spielergeräte
+Datendienste
+Dienstleistungsanbieter
+	
+Kundenbetreuung
+Interne Analytik und Berichterstattung
+Interne Nachforschung
+Betrieb unserer Geschäfte und Spiele
+Spielmechanik oder Funktionalität
+Erleichterung der sozialen Interaktionen der Spieler
+Debuggen bestehender beabsichtigter Funktionalität
+Produktentwicklung/-verbesserung
+Aufrechterhaltung und Verbesserung der Dienstleistung.
+Prüfung der Spieler-Interaktion & Transaktionen
+Werbung und Vermarktung. 
+Erkennung/Schutz vor Sicherheitsereignissen Spieleranwerbung
+
+
+
+Schlussfolgerungen wie die Ableitung von Informationen, Daten, Annahmen oder Schlussfolgerungen aus einer der oben genannten Kategorien personenbezogener Daten
+
+	
+Spieler
+Spielergeräte
+Datendienste
+Dienstleistungsanbieter
+Soziale Netzwerkdienste
+Analysedienste
+	
+Kundenbetreuung
+Interne Analytik und Berichterstattung
+Interne Nachforschung
+Betrieb unserer Geschäfte und Spiele
+Spielmechanik oder Funktionalität
+Erleichterung der sozialen Interaktionen der Spieler
+Debuggen bestehender beabsichtigter Funktionalität
+Produktentwicklung/-verbesserung
+Aufrechterhaltung und Verbesserung der Dienstleistung.
+Prüfung der Spieler-Interaktion & Transaktionen
+Werbung und Vermarktung. 
+Erkennung/Schutz vor Sicherheitsereignissen Spieleranwerbung
+
+ 
+
+Playtika erlaubt, unter Berücksichtigung rechtlicher und technischer Einschränkungen, bestimmten dritten Werbepartnern, Informationen über unsere Spieler durch unsere Spiele und unsere Website zu erfassen, um Anzeigen zu schalten, die relevanter sind, um Anzeigenkampagnen zu bemessen und zu analysieren und um Anzeigenbetrug aufzudecken und zu melden. Insofern diese Praxis als „Verkauf“ im Sinne des CCPA ausgelegt wird, finden Sie weitere Informationen im Abschnitt Online-Werbung weiter unten.
+
+An wen wir personenbezogene Informationen offenlegen
+
+Wie in diesem Datenschutzhinweis beschrieben, geben wir personenbezogene Daten innerhalb der Playtika-Unternehmensgruppe und an eine Vielzahl von Empfängern zu Geschäftszwecken aus.
+
+Zusätzlich zu den Empfängerkategorien, die im Abschnitt Wie wir personenbezogene Daten weitergeben in diesem Datenschutzhinweis angegeben sind, geben wir personenbezogene Daten an die folgenden Empfängerkategorien weiter oder ermöglichen ihnen den Zugriff auf personenbezogene Daten:
+
+Cloud-Speicher-Anbieter
+Zahlungs- und Rechnungsprüfungsverarbeiter
+Anbieter von Sicherheitsdiensten und Dienstleistungen
+Kundendienstanbieter
+Werbe- und Marketingpartner
+
+Online-Werbung
+
+Nachfolgend werden die Kategorien persönlicher Daten beschrieben, die wir für Geschäftszwecke verkaufen, gemäß den Kategorien personenbezogener Daten, die im California Consumer Privacy Act von 2018 (CCPA) aufgeführt sind. Dies sind auch die Kategorien personenbezogener Daten, die wir in den letzten 12 Monaten verkauft haben.
+
+Wenn wir Ihnen personalisierte Video-Anzeigen zustellen, verkaufen wir Ihre vom Betriebssystem Ihres Mobilgeräts bereitgestellten, rücksetzbaren Identifikatoren an Werbenetzwerke, Social-Media-Unternehmen und andere Drittanbieter im Anzeigen-Ökosystem. Die typischen zurücksetzbaren Werbe-IDs sind GAID (Android) und IDFA (Apple), und sind nach dem CCPA als personenbezogene Daten anzusehen. Diese Dritten verwenden Ihre personenbezogenen Daten, zwecks:
+
+Zustellung relevanter Anzeigen auf unserer Website, auf anderen Websites oder mobilen Anwendungen oder auf anderen Geräten, die ein Spieler möglicherweise verwendet;
+Personalisierung von Inhalten; und
+Durchführung anderer werbebezogener Dienstleistungen wie Berichterstattung, Attribution, Analytik und Marktforschung.
+
+Zudem können diese Drittparteien die Informationen in einigen Fällen für ihre eigenen Zwecke und gemäß ihren eigenen Datenschutzrichtlinien und Nutzungsbedingungen verwenden, wozu auch die Weitergabe dieser Informationen an weitere Dritte, einschließlich anderer Werbenetzwerke, gehören kann. Playtika bietet den Spielern gegebenenfalls die Möglichkeit, sich gegen die Verwendung und den Austausch von persönlichen Daten über sie zu diesem Zweck auszusprechen.
+
+Wie oben erwähnt, können Sie diese Identifikatoren von Ihrem Mobilgerät aus zurücksetzen oder die Anzeigenverfolgung für Ihr Mobilgerät einschränken. Besuchen Sie alternativ, wenn Sie auf personalisierte Werbung in unseren Spielen verzichten möchten, das  Playtika-Datenschutzportal  oder Sie können dies auch

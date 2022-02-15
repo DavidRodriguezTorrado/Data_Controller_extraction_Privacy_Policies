@@ -1,0 +1,269 @@
+PRIVACY POLICY
+
+Product Madness Privacy Policy (Updated 12th August 2021)
+
+PLEASE READ THIS PRIVACY POLICY AND THE PRODUCT MADNESS TERMS OF SERVICE (HTTPS://WWW.PRODUCTMADNESS.COM/TERMS-OF-SERVICE/) PRIOR TO USING, ACCESSING OR DOWNLOADING ANY PRODUCT MADNESS WEBSITE, APPLICATION OR SOFTWARE.
+
+Product Madness (U.K.) Limited develops and publishes social games for the web and mobile devices. “PM,” or “we” or “our” or “us” refers to Product Madness (U.K.) Limited, and any of its affiliates, subsidiaries and/or its parent company (collectively, “PM” or “Product Madness”).
+
+This Privacy Policy applies to each PM website, PM application and PM software that links to this Privacy Policy (collectively, the “Service”). This includes, for example, websites or platforms we maintain, applications we have created that may be available through social networking or other mobile platforms, and software or games that we allow you to download.
+
+If you visit one of PM’s websites, for instance by playing one of our games, and you entrust us with information on you or we collect information on you in the process, Product Madness (U.K.) Limited is the controller for that information.
+
+In accordance with the General Data Protection Regulation, Product Madness (U.K.) Limited has appointed Plarium Europe S.a.r.l to be its representative in the European Union for data protection purposes. You will find contact details of our data protection representative further down in this Policy under the section “Additional Questions – Contact Us”.
+
+This Privacy Policy explains the information we collect, and how we collect, use and, in certain circumstances, share your information in connection with the Service we provide you. Please read this Privacy Policy carefully before using the Service, and if you have any questions, feel free to contact us at any time (Click Link) or by emailing privacy@productmadness.com at any time.
+
+Quick Links
+
+1. Information We Collect and How We Use It
+
+            A. Information you Provide
+
+            B.  Automatically Collected Information
+
+2.  Use of Information
+
+             A.  Retention of Your Information
+
+3.  Access to Your Personal Information and Your Choices
+
+             A.  Data Protection Rights
+
+             B.  California Residents: Your California Privacy Rights
+
+             C.  Direct Marketing
+
+             D.  Cookies and Tracking
+
+4.  Automated Decision-Making
+
+5.  Sharing Your Information
+
+             A.  International Transfers
+
+6.  Children’s Privacy
+
+7.  California Consumer Privacy Act and Additional Legal Disclosures
+
+             A.  Do Not Sell My Personal Information
+
+8.  Security
+
+9.  Links to other sites
+
+10.  Additional Questions – Contact Us
+
+ 
+
+We may collect the following categories of personal information in the ways described below:
+
+   1.  Information We Collect and How We Use It
+
+We automatically collect some information when you access the Service and collect other information when you voluntarily submit it to us (including where you choose to share information with us through third party partners, such as Facebook). If you elect not to provide certain information, you may be precluded from participating in some of the Services.
+
+             A.  Information you Provide
+
+There is no cost to access the Services. However, we may collect information from you when you access the Service including, for example:
+
+registration information (identifiers such as your name, email or postal address, telephone number, device ID, user name and password);
+contact information, if you contact us with an inquiry, provide feedback, or sign up for updates from us (email or postal address, telephone number);
+purchase transaction information and other commercial information if you make a purchase (we use a third party service provider for these transactions so while we receive information about the transaction we do not receive your billing or payment information);
+demographic information, such as your gender and age;
+social network website user information if you access the Service through a social network (your social network website user identification number or other third party user identification number which may be linked to information that is publicly available, information that is visible on your social network page if you have allowed this through the privacy settings on your social network account);
+loyalty program information if you enroll in our loyalty program (identifiers such as name, email or postal address, telephone number, information about your use of the Service and any purchases you have made or rewards you have received);
+information you provide in response to contests, surveys or other marketing outreach (identifiers such as name, email or postal address, telephone number, eligibility information for contests which may include age, images or photographs, hobbies or interests, occupation);
+information that you may post on the Services through in-game play, comments, reviews or other posts (you control the information that you provide in this way and may include actions you perform with other players; all such information can be viewed by the general public so please take that into consideration when you post); and
+inferences based on the information described above and other information described in this Privacy Policy.
+
+Sometimes we collect information about you from other sources, for example, when someone provides your email address to us to invite you to join the Service.
+
+To the extent you provide information about friends and family members, you agree to provide such individuals with this Privacy Policy and to obtain their consent to provide the information.
+
+We may also aggregate information from these categories for the purposes described below and to otherwise improve the Services.
+
+             B.  Automatically Collected Information.
+
+We may automatically collect information from you when you access the Services. This information is collected by PM, third party service providers such as Facebook or by placing certain data files on your computer or mobile device. These data files may be cookies, other local storage technologies, or other technologies (collectively, “Cookies”).
+
+PM collects information about your use of the Service, including, without limitation, internet or other electronic network activity information about your access of the PM website or playing PM Games via the PM Apps and/or your interaction with PM via other third party websites or applications, such as internet protocol addresses, browser type, browser language, referring / exit pages and URLs, other browser history, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, payment events, and related date and time information (“Activity Information”). This information allows us to improve the Services as well as to communicate with you about customer support and to advise you of other products or services that may be of interest to you.
+
+When you download or access PM offerings via a mobile device, we and our service providers may receive information about your geolocation (based on your IP address) and your mobile device, including various identifiers associated with your device (such as an advertising identifier and other identifiers that directly or indirectly identify your device), hardware type, the version of your operating system and your in-game activity. , We may also collect, depending on the capabilities of your mobile device, information about the wifi routers closest to you, IDs of cell towers closest to you and the strength of your wifi or cell signal. While we use this information to return an estimated location, geolocation data may not be accurate. We and our service providers may use this information to provide you with personalized advertising and other content, including advertising and content based on your location.
+
+When you download or access a PM Offering, we may ask permission to track your activity. If you ask the app not to track, we will not collect the advertising identifier associated with your device nor will we use information collected to deliver targeted advertising to you. We may still collect and/or use other information about your device to, among other things, analyze and measure marketing performance. If you initially consent to tracking, you may later disable that permission in your device settings or may withdraw your consent for specific apps.
+
+Sometimes, we utilize the services of a third party to help us understand this information better. Please see below for more information on Cookies and Tracking.
+
+     2.  Use of Information
+
+We may use the information we collect for our general commercial or business purposes such as to improve and grow our business and to offer you our own, our affiliates’ or third party products or services that we think you may find of interest. The purposes for which we collect, store, use and disclose information in particular include:
+
+providing you with the Service, including allowing you to register and correctly identifying you, as well as providing you with the core game experience, pursuant to our Terms of Service;
+at your request, responding to inquiries, resolving service problems, handling complaints, correcting errors in the Service and communicating with you about the Service;
+with your consent, share your information with third party marketplaces and service providers in order to provide you with targeted advertising and checking whether our advertising is effective;
+with your consent, contacting and, if necessary, reminding you that you have been invited by one of our players to join PM;
+based on our legitimate business interest, providing you with, or communicating with you about, PM-specific advertising, products, events, and promotional information in connection with the Service (including contests and other PM promotions), administering satisfaction or other surveys, notifying you of new product releases, service notifications, soliciting your feedback and input, and for other marketing or business purposes;
+based on our legitimate business interest, contacting you about your transactions, offering personalized services (other than advertising) and supporting or learning about your needs as a customer;
+based on our legitimate interest, detecting and preventing fraud or misuse of the Service;
+based on our legitimate interest, for business research and development of new products or services (such as researching or designing new or improved versions of PM games);
+in order to comply with our legal obligations, establish and defend any legal claims, and in some cases, including where identified above, our basis for processing will be because you have consented to our use of your information; and
+for purposes unrelated to those described in this Privacy Policy by first notifying you and, where required, offering you a choice as to whether or not we may use your personal information in this different manner.
+
+             A.  Retention of Your Information
+
+We may retain copies of your information for so long as reasonably necessary for the purposes set out above, in accordance with applicable laws or delete it earlier (either in whole or in part) if we determine, in our sole discretion, that the same constitutes a violation of PM’s Terms of Service, this Privacy Policy, or for any or no reason. For more detailed information on how long we retain your information, please contact us as instructed in “Additional Questions – Contact Us” section below.
+
+     3.  Access to Your Personal Information and Your Rights and Choices
+
+              A.  Data Protection Rights
+
+In accordance with applicable law, you may be entitled to request restriction of processing of your information, and to request access to, correction, erasure, and portability of your information. If we collect or process information based on your consent, you have the right to withdraw your consent at all times. If you are aware of changes or inaccuracies in your information, you should inform us of such changes using the details in the “Additional Questions – Contact Us” section below, so that your information may be updated or corrected.
+
+We will not discriminate against you for exercising your rights and choices except where permitted by law. For example, some of the functionality and features on the Service may change or no longer be available to you if you have requested that we delete your information.
+
+Once we receive your request, we may verify it through your account or by requesting information sufficient to confirm your identity. If you would like to use an agent authorized in accordance with applicable law to exercise your rights, we may request evidence that you have provided such agent with power of attorney or that the agent otherwise has valid written authority to exercise rights on your behalf.
+
+You can terminate your account at any time which will remove your profile and other personal information from view. We will use reasonable efforts promptly to amend or delete your records as requested. PM, however, may (but is not obligated to) keep information about you following termination of your account. Your information will generally be permanently deleted or anonymized one month after your request to terminate the account. In some cases we may be legally required to maintain certain records of your personal information, in which case we may not be permitted to delete your information. If you wish to terminate your account, exercise any of your rights, or if you have any other questions or concerns about your personal information please contact us (Click Link) or by emailing privacy@productmadness.com
+
+If you are unhappy about how we handle your personal information or how we dealt with your request, you have the right to lodge a complaint with the data protection authority in your Member State of residence.
+
+           B.  California Residents: Your California Privacy Rights
+
+California residents who have an established business relationship with PM may choose to opt out of PM’s disclosure of personal information about them to third parties for direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval you can immediately update your Privacy Settings via the game or you can submit an email to us via this form.
+
+PM will never sell any information that identifies you personally, like your name, email address, or phone number.   We do work with advertising partners who use Cookies and device identifiers as described in this Policy to show ads that are targeted to your interests.  Some of these disclosures may be considered sales under California law.  Please see the relevant sections of this Policy for information about how your information is shared with third parties and the choices that may be available to you, including instructions on how to opt out of these disclosures. As described above, PM allows third parties to access information about your use of the Services through Cookies. Some of these companies are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from participating companies. To learn more, please click here or here.
+
+           C.  Direct Marketing
+
+We will obtain your prior consent before sending you marketing communications where required by law. You can choose not to receive emails from us by “unsubscribing” using the instructions in any email you receive from us. This will not stop us from sending emails about your account or your transactions with us.
+
+You may also opt-out of receiving marketing materials from us by updating your privacy settings via the privacy section in the game you are playing by contacting us via this email form. To immediately update your privacy settings go to the privacy section in the game you are playing or you can also contact us via this email form.
+
+When you install our apps on a mobile device, you can choose to receive push notifications, which are messages an app sends you on your mobile device, even when the app is not active. You can turn off notifications by visiting your mobile device’s “settings” page for external applications.
+
+If you have registered to receive SMS messages, you can opt out of receiving SMS messages (text messages for example) by texting back STOP to the number we send the text from for that particular SMS Message program. In some cases a preferences page may also be available. When we receive an opt-out message from you for SMS messages, we may send a message confirming our receipt of your opt-out.
+
+If you have been invited to join PM you are provided with the option not to receive further invitations from PM. If you choose to opt-out at any time after granting approval you can update your privacy settings immediately within each game or by submitting an email via this form.
+
+           D.  Cookies and Tracking
+The Service uses Cookies. A cookie is a small text file recorded on your hard drive that identifies you as a unique user and contains certain information about your particular login session and/or your use of the Service. There are other local storage and similar technologies that allow us to collect similar information.
+
+We use Cookies to collect information about your usage of our Services which we use for the following purposes:
+
+to allow the Services to function properly;
+to understand any difficulties (e.g., glitches) visitors may have with our websites and improve the quality of our Services and make the Services easier to use for our users;
+to help us remember you and your preferences when you revisit the Services;
+to make recommendations relating to PM’s Services (g., what other PM games may interest you); and
+to serve ads on our websites.
+
+These Cookies may persist until they expire or you delete them. These Cookies can either be “session cookies”, which are erased when you close your browser window, or “persistent cookies”, which are erased after a specific period of time. Further general information about Cookies and how they work is available at www.allaboutcookies.org.
+
+We allow selected third parties to place Cookies through our services to provide us with better insights into the use of our services or user demographics or to provide relevant advertising to you. These third parties may collect information about visitors’ online activities over time and across different websites and devices when he or she uses our services.
+
+We use third-party advertising companies and/or ad networks to serve ads on the Services. These third-party advertising companies or networks may also serve ads on other websites based on your visits to or use of the Services or other websites. Our Services and the third-party advertising technology may use information derived from, among other sources, your Activity Information, PM’s Cookies on your hard drive, your visits to our website, or the PM Games you use to target advertising.
+
+In addition, advertisers and/or ad networks may use other third-party advertising technology (including single and multiple tracking technologies) to target advertising on the Services and other websites. In the course of advertisements being served to you, a unique third-party cookie or other Cookies may be placed on your device. Similarly, third-party advertising companies may provide us with pixel tags (also called “clear gifs” or “beacons”) to help manage and optimize our online advertising. Beacons enable us to recognize a browser’s cookie when a browser visits the website on which the beacon is located, and to learn which banner ads bring users to a given website. These third-party Cookies and other technologies are governed by the privacy policy respective to each third-party advertising company or network.
+
+Third parties that may capture information through Cookies in connection with providing advertising and functionality on the Services may participate in industry programs designed to provide consumers choices about whether to receive targeted advertising, including programs which are operated by the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”). For more information and options available to you, including instructions for opting out of third party ad networks operated by NAI or DAA members, please visit their websites (www.networkadvertising.org/optout_nonppii.asp (NAI) and www.aboutads.info/choices (DAA)). Please note that NAI or DAA opt-out may not take effect or no longer be effective if your browser settings are set to reject Cookies at the time you visit the opt-out page, deletion of Cookies, use a different computer or web browser. To learn about how Google processes your information and what choices you may have, visit their site here.
+
+You can choose to delete or block Cookies by setting your browser to either reject all Cookies or to allow Cookies only from selected websites. You may need to take additional steps to refuse or disable other types of technologies, such as Adobe Flash cookies. If you block Cookies, performance of the Services may be impaired and certain features may not function at all.
+
+If you have previously allowed us to access your geolocation data, you can stop making geolocation information available to us by visiting your mobile device’s “settings” for the application.
+
+We do not currently use technology that recognizes a “do-not-track” signal from your web browser.
+
+Below we briefly identify the cookies we use:
+
+Provider	Cookie	Cookie Type	Purpose	Duration of Cookie	Category
+CloudFlare	_cfduid	HTTP	Identifies trusted web traffic.	7 days	Website Functionality Cookie
+
+ 
+
+
+productmadness.com	_utma	HTTP	Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.	2 years	Analytic Cookie
+productmadness.com	_utmb	HTTP	Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.	1 day	Analytic Cookie
+productmadness.com	_utmt	HTTP	Used to throttle the speed of requests to the server.	1 day	Analytic Cookie
+productmadness.com	utmz	HTTP	Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.	6 months	Analytic Cookie
+productmadness.com	PHPSESSID	Session	A native PHP cookie that allows websites to store data on the state of the serialization. It is used to establish a user session and to communicate status data through a temporary cookie, commonly called session cookies.	Until you close the browser.	Technical Cookie
+
+ 
+
+    4.  Automated Decision-Making
+
+The Company uses automated decision-making technologies to support our data processing activities. Our automated decision-making capabilities include logic that provides special offers relevant to your usage. By using this logic, it helps us improve customer experience.
+
+   5.  Sharing Your Information
+
+We may reveal or share the categories of information listed above to unaffiliated third parties:
+
+if you request or authorize it;
+if the information is provided to help complete a transaction for you;
+if the information is provided to comply with the law, applicable regulations, governmental and quasi-governmental requests, court orders or subpoenas, to enforce our Terms of Use or other agreements, or to protect our or our affiliates’ rights, property or safety or the rights, property or safety of our users or others (e.g., to a consumer reporting agency for fraud protection etc.);
+if the disclosure is done as part of a purchase, transfer or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, customer information may be one of the transferred assets);
+if the information is provided to our agents, outside vendors or service providers to perform functions on our behalf (e.g., analyzing data, providing marketing assistance, providing customer service, processing orders, etc.); or
+as otherwise described in this Privacy Policy.
+
+Your personal information may be processed by staff operating inside or outside the United States of America, by persons who work for us or for one of our suppliers or related companies. Such staff and suppliers may be engaged in, among other things, the fulfilment of your order and the processing of your payment.
+
+We may share your information with third parties (including affiliates) for their direct marketing purposes but will only do with your consent. You will receive a separate notice and consent form to exercise your choice. If you have provided consent, you can at all times withdraw that consent by immediately updating your privacy settings from within the game or you can submit an email via this form.
+
+We may release your information, when legally required to do so or to verify or enforce compliance with the policies governing our Services and applicable laws. We may also disclose such user information whenever we believe disclosure is necessary to protect the rights, property or safety of PM or any of our respective affiliates.
+
+We may disclose your aggregate, deidentified, or otherwise non-personal information, such as usage statistics of our Services, to our affiliates and third parties.
+
+Be advised that if you send messages or post material containing personal information, that information may be collected and used by others.
+
+We will put in place contractual protections to keep your information secure as required by applicable data protection laws.
+
+         A.  International Transfers
+
+The information that we collect from you may be transferred to and stored in the United States of America, European Economic Area, the UK, Brazil or transferred to, accessed from and/or stored at, a destination outside the United States of America, European Economic Area, the UK, Brazil including the United Kingdom, Australia, India, Belarus, Ukraine, Philippines and Israel. These countries of destination may not have the same comprehensive data protection laws than the country of your residence. In these instances, we implement measures, as required by applicable law, such as standard contractual clauses or data processing agreements, to ensure that any transferred personal information remains protected and secure. A copy of these clauses can be obtained by contacting us by submitting an email via this form.
+
+   6.  Children’s Privacy
+
+The Services are designed and intended for users who are 18 and older only. Children and teens are not permitted to use the services and PM does not knowingly collect or solicit personal information from anyone under the age of 18 or knowingly allow such persons to register for use of the Service. If you are under 18, please do not attempt to register for, or otherwise use, the Service or send any information about yourself to PM, including your name, address, telephone number, or email address. In the event that PM learns that PM has inadvertently collected personal information from a child under age 18, PM will delete that information as quickly as possible.
+
+If you are a parent or guardian who has discovered that your child has submitted his or her personal information to PM, PM will make commercially reasonable efforts to delete the information from its database, at your request. To request the deletion of your child’s information, please submit an email via this form and ensure you include the name and password that your child submitted.
+
+   7.  California Consumer Privacy Act and Additional Legal Disclosures
+
+As described above, Product Madness shares information for the business purposes that are described and allows third parties to access information about your use of the Services through cookies and other tracking technologies. While we provide you the choices described in the cookie section above, we do not treat these relationships as “sales” of personal information under the California Consumer Privacy Act (“CCPA”). To learn about how Google processes your information and what choices you may have, visit their site here.
+
+Our Services and the third-party advertising technology may use information derived from, among other sources, your Activity Information, PM’s Cookies on your hard drive, your visits to our website, or the PM Games you use to target advertising.
+
+           A.  Do Not Sell My Personal Information
+
+As described above, PM will never sell any information that identifies you personally, like your name, email address, or phone number.   We do work with advertising partners who use Cookies and device identifiers as described in this Policy to show ads that are targeted to your interests.  Some of these disclosures may be considered sales under California law.  You may opt out of these disclosures by following the instructions available here.  Please note that if you use a different browser or device to access a PM website or mobile or online application, you will need to renew this choice and will need to opt out separately on each website and device.
+
+     8.  Security
+
+PM uses reasonable technical, administrative and physical measures to protect information contained in our system against misuse, loss or alteration.
+
+Please do not share your log-in information with others.
+
+Email and instant messaging are not recognized as secure communications, so we request that you not send private information to us by email or instant messaging services. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to our Services; any transmission is at your own risk. PM cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. If you have any questions about the security of the PM Services, please contact us via this email form.
+
+     9.  Links to other sites
+We may permit others to link to this our Services or to post a link to their site on our Services. We do not endorse these sites and are not responsible for other sites or their privacy practices. Please read their privacy policies before submitting information.
+
+10.  Additional Questions – Contact Us
+
+Feel free to contact us at any time by submitting an email to privacy@productmadness.com if you have further questions about PM or this Privacy Policy. You may also use the Contact Us feature within each game.
+
+Our Data Protection Officer under the General Data Protection Regulation can be contacted at 25 Riverside Way, Uxbridge, Middlesex, UB8 2YF, UK.
+
+ABOUT
+OUR STORY
+CULTURE
+OUR GAMES
+CONTACT
+RESPONSIBLE PLAY
+CUSTOMER SUPPORT
+JOIN US NOW
+Product Madness | Copyright All Rights Reserved © 2015 | Privacy Policy | Terms of Service | Smart Social Gamers | California Do Not Sell
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Ok Read More
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities...
+Necessary
+Always Enabled
+Non-Necessary
