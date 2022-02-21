@@ -38,7 +38,7 @@ With traffic module of CLIIP platform it has been found where (domain) user pers
 Both were used in order to recover the privacy policy published in that domain.
 Afterwards, Controller extraction algorithm was used to get the Data Controller, usually the owner of the web.
 
-Those results were stored in a heatmap in excel format named domain-policies-results.xlsx also a manual evaluation was made to find validate those results. Green ones are correct results and red ones incorrect.
+Those results were stored in a heatmap in excel format named domain-policies-results.xlsx also a manual evaluation was made to validate those results. Green ones are correct results and red ones incorrect.
 
 ### Results:
 For Privacy Policies URLs found with scrapping method:
