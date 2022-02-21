@@ -23,7 +23,7 @@ Results are divided in:
 - test_top_100_policies_controller.csv which contains the positive paragraph (those annotated as probably containing controller) and the extraction performed in them.
 - mapa_calor_test_top_100.xlsx which contains controller founds by each method (from Google Play, from the certificate emisor of the apk or from the policy)
 
-# Metrics of the Top 100 Google Play apps test
+## Metrics of the Top 100 Google Play apps test
 From the 100 privacy policy links, 96 where actually privacy policies. Just 74 of those where correctly extracted.
 In this test 68 correct controllers where identified by this algorithm out of the 74 valid policies (91.9%)
 Some of the incorrect ones are due to abreviations of the controller, which do not provide enough information for being considered as identified controller.
