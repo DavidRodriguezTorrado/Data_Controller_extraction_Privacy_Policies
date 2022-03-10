@@ -1,0 +1,194 @@
+Download now
+
+If you don't live in the European Economic Area, please read this Privacy Statement .
+
+Privacy Statement
+
+Last updated: October 13, 2021
+
+Introduction
+
+This is the privacy statement of Opera Norway AS (“Opera”), an Opera group company. The statement applies to all Opera software applications, websites and services.
+
+As a general rule, users of our software applications and services are anonymous to us, and we have no feasible ways to identify you. However certain categories of data may be collected while using our applications and services, and some of this information may be considered “personal data” by the law. When we collect personal data, we generally act as a “data controller” as defined in applicable law. The exact categories of data we collect, why we collect it, and your opt-out choices depend on the application or service you use, as is more fully described below.
+
+When we post changes to this privacy statement, we will include the date when the statement was last updated. If we significantly change this statement, we will notify you about the upcoming change via our website or using in-app notifications. We encourage you to review this statement periodically.
+
+User-submitted Data
+
+Certain pieces of information we will only process when you submit it to us.
+
+When creating an Opera account we may ask for a preferred username and an email address. The email address will be used to identify you as a user and for password recovery. Alternatively you can use your Facebook, Google+, Twitter, or VK account to sign in into an Opera account and access our services with the same profile. In this case we may collect your name and email address from these social networks. You can delete or modify the submitted data using your profile page. We retain your data for seven days after you’ve decided to discontinue your Opera account in case you change your mind. Your Opera account with a verified email address will be deleted automatically if you don’t sign in for 2 years. Accounts with unverified email addresses will be deleted after 6 months of inactivity.
+
+Note also that Opera allows you to sync your browser data, such as Speed Dial entries and bookmarks, between devices that have another Opera browser installed on them. Profile sync relies on your Opera account and follows the same privacy approach.
+
+If you decide to provide feedback to Opera or participate in a promotional campaign, contest, or survey, organized by Opera or our partners on behalf of Opera, we may ask for information such as your name, age, phone number, email or postal address.
+
+If you agree to receive marketing information from Opera via email, SMS, or push notifications, we may use third-party technology providers to deliver such messages to you. You can opt-out from marketing communication at any time in your user profile settings or directly from a marketing email you receive.
+
+If you submit your phone number or email address on an application download page, we may send you a download link via SMS or email for your convenience.
+
+If you represent one of Opera’s customers or suppliers and have submitted data about your organization’s directors or officers in the course of a due diligence request from Opera, this information will be retained for three years.
+
+We will use this data only to provide the services you have requested and will not retain your data any longer than necessary to fulfill that specific purpose. If you’re not comfortable with us using submitted data for a limited purpose, then don’t provide it to us.
+
+Anonymous Usage Statistics
+
+When you install an Opera application, a random installation ID is generated. We may collect this identifier, as well as your device ID and hardware specification, operating system and environment configuration, and feature usage data.
+
+We use this information for certain legitimate business purposes, namely:
+
+To understand better how people interact with our applications and services;
+To enhance, modify, customize or otherwise improve our applications and services;
+To determine the effectiveness of promotional campaigns and advertising;
+To detect, debug and fix crashes in our applications and services;
+To prevent security breaches and abuse.
+
+In short, this information helps us to improve our products and services. We have no practical way to use this information to identify you personally. We may store this usage data for up to three years. If you would like to learn about your opt-out choices, please refer to our help pages.
+
+News
+
+To provide you with more relevant news content in certain countries and languages, we collect some information about the articles you read in the application’s native news feed, and your general location. This information is linked to a randomly generated News ID and may be stored on our servers for up to three months.
+
+Personalized Ads
+
+Based on advertising IDs and your general location, some of our mobile applications may serve targeted ads. These ads are provided by our monetization partners. You can always adjust your personalized ad choices in the application’s “Settings” menu or through your operating system’s settings.
+
+We collect this data pursuant to our legitimate business interests. As noted in our End User License Agreements and Terms of Service, our applications are ad-supported. Collecting this information helps us offset the costs of our business and helps provide a more personalized experience for the user.
+
+Crash Reports and Logs
+
+If an Opera application crashes, we collect a log that includes some information about your browser’s version, your operating system, platform and some memory data related to the crash. We collect this data with the sole purpose of improving our products and services. Crash logs are kept for 6 months.
+
+If you visit our websites, we may collect your IP address to help diagnose problems with our servers and to administer our websites. We use IP addresses solely for this purpose and may keep website access logs up to six months.
+
+Feature-specific Data Points
+
+Browser Assistant. Your copy of Opera for computers may include a component that displays desktop notifications promoting the browser’s features. It checks if any notifications are pending on a scheduled basis and may anonymously report occurrences of certain system events (namely low battery, low hard disk space, new Wi-Fi network connected, another browser installed). This information is not collected by us and no personal information is sent.
+
+Browser Extensions. When you install extensions from the Opera Addons website, please note that these extensions are often developed by third parties and are subject to their own privacy terms. Please carefully review the terms before installing extensions.
+
+Browser VPN. When you use our built-in VPN service, we do not log any information related to your browsing activity and originating network address.
+
+Data Compression. Extreme-savings mode (in Opera Mini) renders web pages on our servers before sending a compressed version of the content to the application on your device. High-savings mode (Opera Turbo) does not render content, but our servers look through your requests to see if any elements on the page can be compressed before sending them to your device. If you use Opera Mini or Turbo data compression features, we log a randomly generated ID, advertising ID (on mobile devices), your IP address and URLs of your requests that are sent through our servers, but not the content. We may also log a phone number and IMEI, if they were provided by your mobile operator. We use this data to debug and improve our services, and we may store it in our server logs for up to 45 days. Then we anonymize and aggregate this data and may allow our business partners access to it.
+
+Default Search Engines. When visiting some search engine websites, the website may query if it is set as the default search engine in the application’s settings, and suggest to set itself as the default search engine.
+
+Dify Cashback. Dify Cashback is an incentive program where you can earn rewards when purchasing goods or services from participating online merchants. When you enable the Cashback service in the browser and visit supported websites, we’ll collect a merchant’s URL, list of your purchased items, transaction amount, and IP address. This data is required for the Cashback service to function, and we may also use it to provide more relevant partner deals, detect fraud and misuse of the service. To enable payouts, your Opera Auth account will be linked with the payment service provider, which will share your customer ID with Opera. Your data will be stored for up to 5 years due to regulatory requirements, and the account itself can be deleted by yourself or automatically after 2 years of inactivity.
+
+Gamebox. Gamebox is an online service and a website including a community for gamers where you may be able to play, download, or purchase games. If you choose to use Gamebox, you will be prompted to create a Gamebox account, and to supply certain data, including your email address, preferred username, first and last name, gender, date of birth, country and city of your residence. We use this data to profile your gaming interests, and to offer recommended games based on your interests. If you’d like to delete your Gamebox account or exercise your personal data rights, please contact us at ogamebox@opera.com.
+
+GXC. GXC is an online service and a website including a community for gamers where you may be able to play, compete, and create games. To play games no account is required, however to participate in e.g. challenges or to create games you need to create an Opera account. After signing up for the first time you will be prompted to provide your date of birth and an optional avatar. We use the date of birth to ensure you are eligible to use the service. If you’d like to delete your account or exercise your personal data rights, you have the option from the Opera account page to perform this action.
+
+Hype. Depending on where you live, you may be able to access the Hype messaging service. If you choose to use Hype, you will be prompted to give us your phone number, which is required to operate the service. You will also be asked if you agree to give us access to your contacts, in order to connect with other Hype users (but you do not need to give us your contacts in order to use the service). We will retain your phone number and contacts for as long as you use Hype. Additionally, you also have the option to upload profile information at your discretion, including a user name, avatar, and your friends. If you delete your account, or go inactive for a while, we will retain this data for a short period of time in case you decide to reactivate.
+
+Loomi by Opera. Depending on where you live, you may be able to access the Loomi Service to stream or download movies and other content from within the browser or via the Loomi.tv website. If you use the Loomi Service, Opera will collect the following data:
+
+Opera Auth account data. Using Loomi requires creating an Opera Auth account. We use your Auth account data to provide and administer the Loomi Service, for example to determine your default language, to list titles you have watched and payments you have made, and to inform you about changes to the Service. We retain this data for as long as your Auth account is active (as described above).
+
+Content-related data. We collect data, such as the titles you have viewed, titles you have rented, and where you have left off in a movie, in order to manage your account and so that you can resume viewing at a later time. We also collect additional data, such as your IP address and a unique, randomly-assigned internal identification number, in order to comply with certain legal and/or contractual obligations, such as ensuring that you are located in a territory covered by the applicable content license, and detecting abusive or illegal use of the Loomi Service. Information about titles and views is associated with your Opera Auth account and will be retained for as long as your account is active. IP address and internal identifiers are deleted as soon as you close the applicable tab or navigate to a different tab.
+
+Usage statistics. We collect information, such as user agent, operating system, IP address and content identifiers, for the purposes of debugging and improving the Loomi Service. This data is retained for up to 45 days.
+
+Third Parties. If you use Loomi, we may share data with suppliers or other third parties for different purposes. If you choose to make a rental purchase via Loomi, data will be collected by our third-party payment service providers, such as PayU. We also use suppliers such as EZDRM to manage content license compliance, and Neutrino to detect improper VPN usage.
+
+Malicious-site Check. We use a fraud prevention framework and check the URLs you visit against lists of known, malicious websites to protect you online. We don’t store or share this data.
+
+My Flow. If you use the “My Flow” function in Opera for computers or the Opera Touch browser, a random ID is generated by the Flow server and assigned to each client device. These IDs are used solely to enable pairing functionality between desktop and mobile applications and persist only while your devices are connected to My Flow. Your data is protected with end-to-end encryption and we retain it only as long as you continue to use the feature. You can disconnect your devices from My Flow, and delete your data through the application’s Settings menu.
+
+Social Login. Some of our applications use Firebase Authentication by Google to provide a quick and simple authentication service for your user account. To enable this service, you agree to share your email, phone number, user-agent string and IP address of your device with Google and Opera. All the information is needed to provide and improve the service. Please refer to their websites to learn more about Google and Firebase privacy policy.
+
+Use of Cookies
+
+We use cookies on our websites for session management and retaining your settings or preferences. We may also use third-party cookies to collect visitor statistics and measure our marketing campaigns. If you would like to reject third-party cookies, please configure your browser’s settings accordingly. Please refer to our Cookie Policy for more information.
+
+Children’s Privacy
+
+There are no guarantees that children cannot enter our websites or use our applications without parental consent or notification. Therefore, and as provided in our End User License Agreements, we require children to include their parents in the download process, and we encourage parents to read this privacy statement before allowing their children to use our applications and services.
+
+International Data Transfers
+
+When we do collect personal data, such personal data may be transferred to partners in countries outside of the European Economic Area with a different level of data protection than that provided for under European law. Whenever we do so, we require that our partners agree to the European Union’s model contracts for the transfer of personal data to third countries (also known as the “standard contractual clauses”) to ensure adequate protection of your personal data.
+
+Third Parties
+
+Our applications and services include third-party technology or code, some of which may use your data in different ways. When such third-party technologies use previously collected data, they typically act as data processors for us. When they collect data on their own, they typically act as independent data controllers. For convenience, we have included links to their privacy policies below. Data controllers are marked with an asterisk.
+
+Opera for computers and all our mobile applications use: Google Geolocation API*.
+
+Opera for Android: AppsFlyer, Facebook SDK*, Firebase Cloud Messaging, Google AdMob*, Infura, MyTarget*, Outbrain*.
+
+Opera for iOS: AppsFlyer, Firebase Cloud Messaging, Firebase Crashlytics.
+
+Opera Mini for Android: AppsFlyer, Facebook SDK*, Firebase Cloud Messaging, Google AdMob*, Outbrain*, Yandex AppMetrica, Yandex Mobile Ads SDK*.
+
+Opera Mini for iOS: AppsFlyer, Facebook SDK*, Google AdMob*.
+
+Opera GX for Android: Facebook SDK*, Firebase Cloud Messaging, Google AdMob*, Infura, MyTarget*, Outbrain*.
+
+Opera GX for iOS: Firebase Cloud Messaging, Firebase Crashlytics.
+
+Opera Touch: AppsFlyer, Firebase Cloud Messaging, Firebase Crashlytics.
+
+Opera News: AppsFlyer, Facebook SDK*, Firebase Cloud Messaging, Google AdMob*, Outbrain*.
+
+Payment service providers: Paypal*, PayU*.
+
+Technology providers: Sendinblue.
+
+Please note that this list of third-party entities applies only to the currently supported versions of our applications and services.
+
+Your Rights
+
+You have the right to make a request to access or delete any of your personal data that we might possess. You can make a request via this online request form or by contacting our Data Protection Officer at the address below. You may be required to provide additional information to authenticate your request. You also have the right to lodge a complaint with Datatilsynet, the Norwegian Data Protection Authority, which can be contacted through their webpage.
+
+Contacts
+
+We are very open about privacy and recognize your trust as a great value. If you have any questions about this statement or any privacy issues in our applications or services, feel free to contact our Data Protection Officer via this online request form or by post:
+
+Opera Norway AS
+P.O. Box 4214, Nydalen
+0401, Oslo
+Norway
+
+Privacy
+Services
+Help
+Legal
+Company
+
+Innovate and inspire, uncover the unexpected, support open standards.
+
+Follow Opera
+
+© 1995-2022 Opera Norway
+
+All rights reserved
+
+Language:
+
+English
+العربيّة
+Deutsch
+Español
+Español Latinoamérica
+Français
+Bahasa Indonesia
+Italiano
+日本語
+한국어
+Norsk
+Polski
+Português
+Português Brasileiro
+Русский
+Türkçe
+Українська
+Tiếng Việt
+简体中文
+
+Cookies
+
+We use cookies to improve your experience on our website. By clicking Accept cookies, you agree to the use of cookies for marketing and analytics purposes. Further information can be found in our Privacy Statement and Cookies Policy.
+
+Accept cookies Manage cookies

@@ -1,0 +1,24 @@
+Downloads
+Documentation
+Get Involved
+Help
+PHP 8.1.3 Released!
+Privacy Policy
+
+This privacy policy covers php.net and its associated mirrors.
+
+Email
+
+We will not give away your email address to anyone, who is not related to the operations of php.net. We will also never ask you to send us any of your passwords via email.
+
+Logfiles
+
+Most mirrors maintain standard logs of the requests that reach the web servers, but we do only use those files for statistical purposes.
+
+And to improve your search experience, we store anonymised search terms that are submitted to the site.
+
+Cookies
+
+php.net uses cookies to keep track of user preferences. Unless you login on the site, the cookies will not be used to store personal information and we do not give away the information from the cookies.
+
+Copyright © 2001-2022 The PHP Group My PHP.net Contact Other PHP.net sites Privacy policy View Source

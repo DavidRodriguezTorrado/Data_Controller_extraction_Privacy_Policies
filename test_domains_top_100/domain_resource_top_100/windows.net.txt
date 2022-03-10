@@ -1,0 +1,175 @@
+	We use cookies to improve your experience on our websites and for advertising. Privacy Statement
+Accept all Manage cookies
+Skip to main content
+Microsoft
+.NET 
+Free. Cross-platform. Open source. A developer platform for building all your apps.
+
+Get Started Download
+
+Supported on macOS, Windows, and Linux
+
+The live event is over, watch it here.
+Upcoming events
+
+Celebrate 20 years of .NET throughout the month by attending multiple events.
+
+24
+February
+Let's Learn .NET: GitHub
+
+Date: February 24, 2022
+
+Time: 8:30 AM - 10:30 AM Pacific Time
+
+Location: Online
+
+Learn more
+3
+March
+VS Code Day
+
+Date: March 3, 2022
+
+Time: 8:00 AM - 9:30 AM Pacific Time
+
+Location: Online
+
+Learn more
+17
+March
+Visual Studio 25th anniversary broadcast
+
+Date: March 17, 2022
+
+Location: Online
+
+Details coming soon...
+
+Virtual party favors
+
+Join the .NET celebration with custom Teams backgrounds, digital wallpapers, and a printable sheet cake design.
+
+Get digital swag
+
+Go to Twitter
+#dotNETLovesMe
+Share your .NET stories with us on Twitter
+Mod the dotnet-bot
+
+The dotnet-bot is the mascot for the .NET community. Create your coding companion by modding the dotnet-bot and then share your creation with the world.
+
+Create your own dotnet-bot
+
+.NET pivotal moments in history
+2022
+20 successful years of .NET
+
+The world celebrates the 20th anniversary of .NET on February 14. Join the party on Twitter by sharing your favorite .NET moments with
+
+#dotNETLovesMe
+
+2022
+
+ 
+
+2021
+
+ 
+
+2016
+
+ 
+
+2014
+
+ 
+
+2008
+
+ 
+
+2005
+
+ 
+
+2002
+
+ 
+
+2000
+
+Explore .NET
+Web
+
+Build web apps and services for macOS, Windows, Linux, and Docker.
+
+Mobile
+
+Use a single codebase to build native mobile apps for iOS, Android, and Windows.
+
+Desktop
+
+Create beautiful and compelling desktop apps for Windows and macOS.
+
+Microservices
+
+Create independently deployable microservices that run on Docker containers.
+
+Cloud
+
+Consume existing cloud services, or create and deploy your own.
+
+Machine Learning
+
+Add vision algorithms, speech processing, predictive models, and more to your apps.
+
+Game Development
+
+Develop 2D and 3D games for the most popular desktops, phones, and consoles.
+
+Internet of Things
+
+Make IoT apps, with native support for the Raspberry Pi and other single-board computers.
+
+Languages
+
+You can write your .NET apps in C#, F#, or Visual Basic.
+
+Learn about .NET languages
+
+One Platform
+
+Your skills, code, and favorite libraries apply anywhere you use .NET.
+
+Learn about the .NET platform
+
+.NET for Beginners Video Series
+
+You can learn more about what .NET can do with these free videos.
+
+Watch Now
+
+Thank You to All the Contributors
+
+.NET is open source and we are very thankful for the many contributions it receives from the community.
+
+See the Contributors
+
+    
+
+Read customer stories
+
+Ready to Get Started?
+
+Our step-by-step tutorial will help you get .NET running on your computer.
+
+Supported on macOS, Windows, and Linux
+
+Get Started
+
+Follow us
+English (United States)
+日本語
+中文(简体)
+Powered by .NET 6.0.2 Contact Microsoft Support Privacy & Cookies Terms of Use Trademarks © Microsoft 2022

@@ -27,7 +27,7 @@ Results are divided in:
 From the 100 privacy policy links, 96 where actually privacy policies. Just 74 of those where correctly extracted.
 In this test 68 correct controllers where identified by this algorithm out of the 74 valid policies (91.9%)
 Some of the incorrect ones are due to abreviations of the controller, which do not provide enough information for being considered as identified controller.
-Those results can be found in mapa_calor_test_top_100.xlsx file at test_top_100_policies folder.
+Those results can be found in mapa_calor_test_top_100.xlsx file at test_top_100 folder.
 
 ## Test DOMAINS Top 100 Google Play Store apps
 With traffic module of CLIIP platform it has been found where (domain) user personal data (PII) was sent to. It's Second Level Domain (SLD) was stored and used it in two different methods:
@@ -38,7 +38,7 @@ With traffic module of CLIIP platform it has been found where (domain) user pers
 Both were used in order to recover the privacy policy published in that domain.
 Afterwards, Controller extraction algorithm was used to get the Data Controller, usually the owner of the web.
 
-Those results were stored in a heatmap in excel format named domain-policies-results.xlsx also a manual evaluation was made to validate those results. Green ones are correct results and red ones incorrect.
+Those results were stored in a heatmap in excel format named ./test_domains_top_100/domain-policies-results.xlsx also a manual evaluation was made to validate those results. Green ones are correct results and red ones incorrect.
 
 ### Results:
 For Privacy Policies URLs found with scrapping method:
@@ -46,6 +46,11 @@ For Privacy Policies URLs found with scrapping method:
 
 For Privacy Policies URLs found with Google search method:
 95% of the results are correct
+
+### Test with base resource of domain
+For each domain recovered where personal data is being sent, it's base resource of that domain was recovered and stored in ./test_domains_top_100/domain_resource_top_100.
+
+Then, Data controller extraction algorithm was perform in order to know if a controller can be obtained without needing the privacy policy, in case it cannot be found by scrapping or Google search method.
 
 # Data Controller Extraction Algorithm [OUTDATED]
 

@@ -1,0 +1,237 @@
+By using this site, you agree to our Terms of Use, which include a mandatory arbitration provision. Click the link in the footer to read the terms.
+TinyURL
+My URLs Plans Features Sign Up Sign In
+ Enter a long URL to make a TinyURL
+Customize your link
+tinyurl.com
+Make TinyURL!
+By clicking Make TinyURL, I agree to the Terms of Service, Privacy Policy and Use of Cookies.
+Welcome to
+TinyURL
+
+Create a free account to enjoy:
+
+Easy Link Shortening
+Full Link History
+Customized TinyURLs
+Create Free Account
+TinyURL
+Privacy Policy
+Effective April 7, 2021
+
+TinyURL LLC ("TinyURL", "we", or "us") values your trust and a key part of earning your trust is being upfront and clear in how we gather and use your information. We created this Policy to inform you on what data we collect, how we collect your data, how we share your data, and your rights around the data. This Policy applies when you use our services available through TinyURL.com ("Site") either as creator of a TinyURL Link (as defined below) or clicking on a TinyURL Link. For the purposes of this Policy, the Site, features, content, applications, and other services provided by TinyURL will be referred to as the "Services". This Policy works in conjunction with the Site’s Terms of Use. Any capitalized terms used, but not defined, in this Policy have the meanings provided in the Terms of Use. If you do not agree with our policies and practices, please do not use our Services. By accessing or using our Services, you agree to this Policy.
+
+Controller and Processor
+
+Data protection laws and privacy laws in certain jurisdictions differentiate between "controllers" and "processors" of personal information. A controller decides why and how to process personal information. A processor processes personal information on behalf of a controller based on the controller’s instructions. When you create a TinyURL Link (a "User"), we are acting as a controller. When you click on a TinyURL Link created by a User, we are acting as a processor.
+
+Broadly speaking, we use Personal Information to further our legitimate interests to:
+
+understand who our users are,
+manage our relationship with you and other Users,
+carry out core business operations such as billing and fulfilling regulatory obligations; and
+help detect, prevent, or investigate security incidents, fraud, and other abuse or misuse of our Services.
+WHAT INFORMATION WE COLLECT AND HOW WE COLLECT IT
+
+While using our Services we may collect information that identifies, relates to, describes, is reasonably capable of being associated with or could reasonably be linked, directly or indirectly, to you ("Personal Information"). This does not include aggregated or de-identified information that is maintained in a form that is not reasonably capable of being associated with or linked with you.
+
+Directly from You
+
+You may provide us with Personal Information in several ways.
+
+Account Creation: When you create an account, we collect personal information from you such as your name, email address, and other relevant information (your "Account"). If you create an Account using your login from a third-party account, such as Facebook, Google, Twitter, or Microsoft, we will access and collect your personal information provided by that third-party account. The amount of information that is shared with us from that third-party account depends on your privacy settings on your third-party account.
+Create a TinyURL Link: By using our Services, Users can create shortened URLs of websites ("TinyURL Link" or "TinyURLs). Users can create TinyURLs without registering for an Account. When you create a TinyURL Link, TinyURL collects and stores the original URL and the shortened URL and links it with your session. This applies to both User who are logged in and to those who are not.
+User Support: If you contact us for assistance or support, we may collect your name, email address, or any other content that you send us.
+Social Media Interaction: We may collect information from your social media account if you interact with our social media presence.
+
+Information Collected Automatically
+
+Log Data: When you use our Services, whether as a registered user or a non-registered user, our servers may automatically record information that your browser sends whenever you create or use a TinyURL Link ("Log Data"). This Log Data may include information such as your Internet Protocol ("IP") address, device settings (such as browser type, operating system, language), the time and date you create the TinyURL Link, the referring website, the time and date of each access, device settings, and analytics on the sharing of the TinyURL Link on third party services, such as Facebook. We use this information to monitor and analyze use of the Services, for the Site's technical administration, to increase our Site's functionality and user-friendliness, and to better tailor it to our visitors` needs.
+Mobile Devices: We may collect information from your mobile device, such as unique identifying information broadcast from your device when visiting our Services.
+Cookies and Similar Technology: "Cookies" are a small data file that we transfer to your computer's hard disk for record-keeping purposes. Please see our Cookie Policy for more information.
+
+Information We Collect from Other Sources
+
+Social Media Services: Our Services allow you to interact with social media platforms and other third-party services (e.g., Facebook, Twitter, LinkedIn). If you choose to share your TinyURL Link using third party services, we may collect information related to your use of those third-party services. Additionally, if you access the Services using one of these social media platforms or other third-party services, we may receive information about you from those third parties such as account and profile data. Please note that third-party services may have the ability to restrict the information that is provided to us based on your privacy settings of that account.
+
+No Special Category of Personal Data
+
+We do not require or collect any sensitive personal data or any special category of personal data, as such terms are defined under applicable privacy laws, as a condition of using the Services.
+
+Purposes for Which We Use Your Personal Information
+
+We will share Personal Information in the following circumstances:
+
+To operate our Site and provide the Services.
+To process and complete requested transactions.
+Where it is necessary for our legitimate interest (or those of a third party) and your interests and fundamental rights do not override those interests.
+To comply with legal or regulatory requirements.
+To enforce our Terms of Use and as otherwise described in this Policy.
+
+We have also set out in a chart below, a description of the categories of Personal Information we collect, the legal basis for our collection and use of the Personal Information, and the categories of third parties with whom some or all the Personal Information may be shared.
+
+Type of Interaction Collection and Use Applied to
+Categories of Personal Information Collected
+Purposes for Collection, Use, and Sharing
+Categories of Third Parties with Whom Some or All the Personal Information May Be Shared
+Users
+Identifiers (such as name, alias, postal address, unique personal identifier, online identifier, Internet Protocol (IP) address, email address, account name, or other similar identifiers)
+To provide the Services
+Customer support
+Security and fraud prevention
+Ad networks
+Analytics services
+Technology service providers
+Users
+Customer Records Information (such as Name, address, telephone number, bank account number, credit or debit card number, other financial information)
+To provide the Services
+Customer support
+Security and fraud prevention
+Analytics services
+Technology service providers
+Users
+Commercial information (such as records of products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies)
+To provide the Services
+Customer support
+Advertising
+Security and fraud prevention
+Ad networks
+Analytics services
+Technology service providers
+Users
+Those who click on TinyURLs
+Internet or other electronic network activity information (such as information regarding a consumer’s interaction with an Internet website, application, or advertisement)
+To provide and improve the Services
+Ad networks
+Analytics services
+Technology service providers
+Users
+Non-Precise Geolocation information (such as zip or area code, state, country)
+To provide and improve the Services to you
+Fraud and cybersecurity
+Ad networks
+Analytics services
+Technology service providers
+Users
+Those who click on TinyURLs
+Inferences drawn from the above information about your predicted characteristics and preferences
+To provide and improve the Services
+Analytics
+Fraud and cybersecurity
+Ad networks
+Analytics services
+Technology service providers
+Users
+Other information about you that is linked to the personal information above
+To Provide and Improve the Services
+Ad networks
+Analytics services
+Technology service providers
+
+No Special Category of Personal Data
+
+The purpose of our Services is to allow you to share information and to receive information on the TinyURLs you create. As a result, some Personal Information may be shared with third parties as described below:
+
+TinyURLs You Create: When you create a TinyURL Link, the shortened URL and the original URL it refers to is publicly available to anyone provided or with access to the TinyURL Link.
+Information We Share with Users: We may share the Personal Information we collect as described in this Policy with our Users. When a TinyURL Link is created, the User who created the link may be able to view aggregated information about clicks and views of the TinyURL Link, including the number of times the TinyURL Link was shared, whether or not it was viewed, comparison of that TinyURL Link’s performance to that of all TinyURLs pointing to the same content, whether others are sharing a TinyURL Link to the same content, geographic regions where the content is being viewed, and identification of social networks or websites on which the TinyURL Link appears.
+Service Providers: We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to improve our Services and to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics, payment processing, fraud detection and improvement of the Site's features) or to assist us in analyzing how our Site and Services are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+Analytics and Search Engine Providers: We may share Personal Information with analytics and search engine providers that assist us in the improvement and optimization of the Service.
+Feedback: We may collect feedback from you about your experience to compare your experience with other Users of the Services to improve the quality of the Services. This feedback is the property of TinyURL, and we reserve the right to share it with any third-party.
+Acquisition, merger, or bankruptcy: TinyURL may sell, transfer, or otherwise share some or all its assets, including your Personal Information, in connection with a merger, acquisition, reorganization, sale of assets, or in the event of bankruptcy.
+Disclosures without Your Consent: We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your information in the event of an emergency, to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or act regarding possible illegal activities, suspected fraud, the safety of person or property, or a violation of our policies.
+Disclosures with Your Consent: We will share information about you when you instruct us to do so, such as when you share TinyURLs or content with others through the Services or if we notify you that the information you provide will be shared in a particular manner and you provide such information (such as posting it to a third-party service).
+
+We may also share aggregated information that does not include Personal Information and we may otherwise disclose non-identifying information and Log Data to parties for industry analysis, demographic profiling, and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+
+Marketing and Advertising
+
+We use your Personal Information to tailor our marketing and advertising efforts. To do this, we provide your information to third party advertising networks (such as Google Doubleclick) and social media companies (such as Facebook, Instagram, and other social media platforms). When we provide data to agencies, ad networks, and other parties for targeted advertising, we do not provide them with your name, financial information, or any sensitive information. We use online identifiers such as email, cookies, and device identifiers to help us provide targeted advertising to you and others like you.
+
+We may also use aggregate information to help advertisers reach the kind of audience they want to target. We may make use of the personal information we have collected from you to enable us to display advertisements to target audiences.
+
+To opt out of targeted advertising, you may use the following links provided by third parties that manage opt outs for some ad networks:
+
+http://preferences-mgr.truste.com
+http://www.networkadvertising.org/managing/opt_out.asp
+http://www.aboutads.info/
+https://policies.google.com/privacy/partners
+
+Do Not Track Signals
+
+Your browser settings may allow you to automatically transmit a "Do Not Track" signal to online services you visit. Note, however, there is no industry consensus as to what site and app operators should do regarding these signals. Accordingly, unless and until the law is interpreted to require us to do so, we do not monitor or act with respect to "Do Not Track" signals. For more information on “Do Not Track,” visit http://www.allaboutdnt.com.
+
+Email Marketing
+
+If you sign up for our Services, we will send you marketing emails. If you change your mind, you can opt-out at any time by selecting the unsubscribe option when you receive an electronic marketing communication from us. The withdrawal of your consent will not impact the lawfulness of processing based on your consent prior to the withdrawal.
+
+Please note that even if you opt-out of receiving commercial emails, you will still receive emails that are transactional in nature, such as actions taken on your account, updates to our online policies, and other transactional communications.
+
+International Transfers
+
+When you use our Services, your Personal Information may be transferred to our service providers and trusted partners who maintain processing facilities outside the European Economic Area ("EEA"). This is only for the purposes of providing, and to the extent necessary to provide, the Services to you. The privacy laws in these countries may not be as protective with your information as the laws in your jurisdiction. Nonetheless, TinyURL takes reasonable measures to ensure that adequate security measures are in place to safeguard and maintain the integrity of your Personal Information on transfer.
+
+Retention of Your Personal Information
+
+We will retain your Personal Information only for as long as is necessary for the purposes set out in this Policy. We will retain and use your Personal Information to the extent necessary to comply with our legal obligations (for example, if we are required to retain your Personal Information to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Your Data Rights
+
+Deletion: You can ask us to delete all or some of your Personal Information (e.g., if it is no longer necessary to provide Services to you). In such case you may no longer be able to use the Services unless you create a new account with us.
+Change or Correct: You can edit some of your Personal Information through your Account. You can also ask us to change, update, or fix your Personal Information in certain cases, particularly if it is inaccurate.
+Object to, or Limit or Restrict, Use of Information ("Opt-Out"): You can ask us to stop using all or some of your Personal Information or to limit our use of it (such as objecting to the processing of your Personal Information for our marketing purposes).
+Right to Access and/or Take Your Information: You can ask us for a copy of your Personal Information and can ask for a copy of Personal Information you provided in machine readable form.
+Right to Non-Discrimination: We will not discriminate against you for exercising your data rights.
+
+To make a request please click here or email us privacy@tinyurl.com. We will consider your request in accordance with applicable laws.
+
+Please note that when certain requests will be subject to necessary verification requirements. Only you or someone legally authorized to act on your behalf may exercise the right to deletion and the right to access/and or take your information. We cannot respond to your request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information relates to you.
+
+You do not need to create an account with us to exercise your Right to Know or Right to Delete. However, we do consider requests made through your password protected account sufficiently verified when the request relates to Personal Information associated with that specific account.
+
+We will only use Personal Information provided in the request to verify the requestor’s identity or authority to make it.
+
+Personal Information Sales Opt-Out and Opt-In Rights
+
+TinyURL does not sell personal information to third parties for monetary value. However, to the extent that “sale” is interpreted under applicable laws to include interest based advertising or other data uses described in the “Purposes for Which We Use Your Personal Information” and “How We Share Your Information” Sections above, we will comply with those laws in regards to those activities. You can read more in our Cookies Policy.
+
+To exercise the Right to Opt-Out, you (or your authorized representative) may submit a request to us by filling out the webform available here or by emailing us at privacy@tinyurl.com.
+
+Once you make an opt-out request, we will wait at least twelve (12) months before asking you to reauthorize Personal Information sales.
+
+You do not need to create an account with us to exercise your Right to Opt-Out. We will only use Personal Information provided in an opt-out request to review and comply with the request.
+
+Please note that your decision to opt out of the sale of your Personal Information may impact the availability and quality of some of our Services provided to you. Furthermore, your Personal Information may still be shared pursuant to the terms the Policy, where such sharing does not constitute a sale Security
+
+The security of your Personal Information is important to us. As such, TinyURL uses standard physical, technical, and administrative measures designed to reduce risk of loss, misuse, unauthorized access, disclosure, or modification of your Personal Information. Unfortunately, no system or network can be guaranteed to be 100% secure, as such we cannot and do not guarantee or warrant the security of any information that you transmit on or through the Services or that we otherwise maintain.
+
+Not Directed to Children
+
+Our Services are not directed persons under 18. We do not knowingly collect information from persons under 18. As such, we do not knowingly “sell,” as that term is defined under applicable law, including the CCPA, the Personal Information of minors.
+
+If you are a parent or guardian of a minor who is under 16 years old and using our Services, you may contact us at privacy@tinyurl.com to request and arrange for deletion of any Personal Information, if any, we may have collected about the minor.
+
+For privacy reasons we may request proof of relationship to the minor.
+
+Updates to the Privacy Policy
+
+We may update this Policy from time to time. When we update the Policy, we will notify you by updating the “Effective Date” date at the top of this Policy, posting the new Policy, and providing any other notice required by applicable law. We recommend that you review the Policy each time you visit the Site to stay informed of our privacy practices. If you do not agree or consent to these updates or changes, do not continue to use the Services.
+
+Links to Third Party Websites
+
+Our Services, email updates, and other communications may, from time to time, contain links to and from the websites of others, including our partner networks, advertisers, and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.
+
+Contact Us
+
+If you have any questions about this Policy, please contact us at:
+
+TinyURL LLC
+3916 N Potsdam Ave Ste 4535
+Sioux Falls, South Dakota 57104
+United States of America
+Phone: +1-763-390-0044
+E-Mail: privacy@tinyurl.com
+Terms
+Privacy Policy
+We use cookies to personalize and improve your experience on our site and to serve you with relevant advertising. Visit our privacy policy for more information on our data collection practices. Got it
+×
+Copyright © TinyURL LLC  •  Terms  •  Privacy Policy  •  Accessibility

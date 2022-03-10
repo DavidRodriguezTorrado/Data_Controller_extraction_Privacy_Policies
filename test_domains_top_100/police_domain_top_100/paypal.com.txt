@@ -1,0 +1,353 @@
+PayPal
+
+>> Ver todos los acuerdos legales
+
+ 
+
+Declaración de privacidad
+
+Fecha de entrada en vigor: 9 de septiembre de 2021
+
+Imprimir
+
+ 
+
+Descripción general
+Contacto
+¿Qué Datos personales recopilamos?
+¿Por qué conservamos Datos personales?
+¿Cómo tratamos los Datos personales? 
+¿Compartimos Datos personales? 
+¿Cómo trabajamos con otros servicios y otras plataformas?
+Transferencias internacionales 
+¿Cómo utilizamos las cookies y otras tecnologías de seguimiento?
+¿De qué opciones de privacidad dispone usted?
+¿Cuáles son sus derechos?
+¿Cómo protegemos sus Datos personales?
+¿Pueden los niños usar nuestros Servicios? 
+¿Qué más debería saber?
+Definiciones
+Información adicional (incluye el Aviso sobre la normativa bancaria para clientes del Espacio Económico Europeo)
+
+ 
+
+1. Descripción general
+
+PayPal ha desarrollado esta Declaración de privacidad para explicar cómo PayPal, en calidad de Responsable del tratamiento de los datos, puede recopilar, conservar, tratar, compartir y transferir sus Datos personales cuando usted visite nuestros Sitios o utilice nuestros Servicios. Esta Declaración de privacidad se aplica a sus Datos personales cuando usted visita los Sitios o utiliza los Servicios. No se aplica a sitios web ni a servicios que no son de nuestra propiedad o que no controlamos, incluidos los de otros Usuarios de PayPal.
+
+Como banco europeo registrado en Luxemburgo, cumplimos los requisitos normativos financieros y en materia de protección de datos. Para evitar dudas, esta Declaración de privacidad no constituye ningún "contrato marco" a los efectos de la Directiva sobre servicios de pago de la UE (2007/64/CE) ni ninguna implementación de dicha Directiva en el Espacio Económico Europeo.
+
+Esta Declaración de privacidad se ha diseñado para ayudarle a obtener información sobre nuestras prácticas de privacidad y a entender las opciones de privacidad de las que dispone al utilizar nuestros Sitios y Servicios. Tenga presente que nuestras ofertas de Servicios pueden variar según la región. Esta Declaración de privacidad puede complementarse con otros avisos en función de los Sitios y Servicios. Puede encontrar más información en la Declaración sobre cookies y tecnologías de seguimiento y en el Aviso sobre la normativa bancaria.
+
+Hemos definido algunos términos que se utilizan en la Declaración de privacidad. Puede encontrar el significado de los términos en mayúscula en la sección Definiciones.
+
+Póngase en contacto con nosotros si tiene preguntas sobre nuestras prácticas en materia de privacidad que no se traten en esta Declaración de privacidad.
+
+ 
+
+2. Contacto
+
+Usted puede ponerse en contacto con nosotros si tiene preguntas o dudas generales sobre esta Declaración de privacidad y otros avisos complementarios, o bien, sobre la forma en que gestionamos sus Datos personales.
+
+Queremos asegurarnos de que sus preguntas se dirijan al lugar correcto:
+
+Haga clic aquí para ponerse en contacto con nosotros en relación a su cuenta PayPal, una transacción o un pago realizado con tarjeta a un vendedor.
+Haga clic aquí para ponerse en contacto con nosotros con relación a su cuenta de Xoom
+
+Nuestro responsable de protección de datos puede ponerse en contacto con usted en Internet o en PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxemburgo. Además, tiene derecho a presentar una reclamación a las autoridades de control de la protección de datos de su país.
+
+ 
+
+3. ¿Qué Datos personales recopilamos?
+
+Recopilamos Datos personales sobre usted cuando visita nuestros Sitios o usa nuestros Servicios, incluidos los siguientes:
+
+Información de registro y uso: cuando usted cree una Cuenta y se registre para utilizar nuestros Servicios, recopilaremos los Datos personales que sean necesarios para ofrecer y prestar los Servicios solicitados. En función de los Servicios que usted elija, podemos pedirle que nos facilite su nombre, dirección postal, número de teléfono, dirección de correo electrónico y datos identificativos para crear una Cuenta. También podemos pedirle que nos facilite más Datos personales a medida que utilice nuestros Servicios.
+
+Información sobre transacciones y experiencias: cuando usted utiliza nuestros Servicios o accede a nuestros Sitios, por ejemplo, para comprar a vendedores, recibir dinero, procesar pagos o enviar dinero a amigos y familiares, recopilamos información sobre la transacción y otros datos asociados a esta, como el importe enviado o solicitado, el importe pagado por productos o servicios, información sobre el vendedor, incluida información sobre los instrumentos de financiación utilizados para completar la transacción, Información sobre el dispositivo, Datos técnicos de uso e Información de geolocalización.
+Datos personales de los participantes: cuando usted utiliza nuestros Servicios o accede a nuestros Sitios, recopilamos los Datos personales que usted nos facilita sobre otros participantes asociados a la transacción.
+Envío y solicitud de dinero: cuando usted envía o solicita dinero a través de nuestros Servicios, recopilamos Datos personales como el nombre, la dirección postal, el número de teléfono o los datos de la cuenta bancaria del participante que recibe su dinero o le envía dinero a usted. El volumen de Datos personales necesarios sobre un participante puede variar en función de los Servicios que usted utilice para enviar o solicitar dinero.
+Pago de una factura o solicitud para que otra persona lo haga por usted:  cuando usted utiliza nuestros Servicios para pagar una factura en nombre de otra persona, o bien solicita a un Usuario que pague una factura por usted, recopilamos de usted Datos personales sobre el titular de la cuenta, como el nombre, la dirección postal, el número de teléfono, la dirección de correo electrónico y el número de cuenta de la factura que usted pretende o solicita pagar.
+Añadir valor a sus cuentas: si usted utiliza nuestros Servicios para añadir valor a su Cuenta o a otras cuentas que pueda tener, o bien si pide a un Usuario que añada valor a cualquiera de ellas, podemos recopilar de usted Datos personales sobre la otra parte o recopilar de esta Datos personales sobre usted para atender la solicitud. Por ejemplo, si usted utiliza nuestros Servicios para recargar un teléfono móvil o solicitar que se añada valor a su cuenta de telefonía móvil, podemos recopilar del otro participante Datos personales y otra información, incluido el número de la cuenta de telefonía móvil.
+Información sobre su perfil público y sus amigos y contactos: puede resultarnos más fácil ayudarle a realizar transacciones con sus amigos y contactos si opta por conectar con su Cuenta la información de su lista de contactos o si el perfil de su Cuenta se pone a disposición del público en general. Si usted conecta su dispositivo o una plataforma de redes sociales con su Cuenta, usaremos la información de su lista de contactos (como el nombre, la dirección postal o la dirección de correo electrónico) para mejorar su experiencia al utilizar los Servicios. Si el perfil de su Cuenta es de dominio público, otros usuarios podrán encontrarlo para enviarle dinero buscándole por su nombre, nombre de usuario, correo electrónico o número de móvil en PayPal; además, podrán confirmar que se trata de usted mediante su foto. Puede definir el perfil de su Cuenta como privado en cualquier momento en la configuración de PayPal.me.
+Datos personales que usted opte por facilitarnos para obtener Servicios adicionales o determinados Servicios por Internet: si usted solicita una característica opcional de un Sitio o participa en ella, o bien solicita Servicios mejorados u otras funciones optativas, podemos recopilar información adicional de usted. Le enviaremos un aviso aparte en el momento de recopilar esa información si el uso de dichos Datos personales difiere de los descritos en esta Declaración de privacidad.
+Datos personales sobre usted si utiliza Servicios sin marca: determinados Servicios están disponibles sin necesidad de iniciar sesión en una Cuenta ni de crear una. Recopilaremos Datos personales cuando usted interactúe con vendedores y les realice pagos mediante nuestros servicios de pago con tarjeta que no llevan la marca PayPal, así como cuando pague con PayPal sin iniciar sesión en una cuenta. En el caso de nuestros servicios de pago sin marca, su interacción se produce con el vendedor en la plataforma de este. Si es usted titular de una Cuenta o crea una con posterioridad, podemos recopilar información sobre transacciones sin marca y asociarlas a su Cuenta para mejorar su experiencia como titular de una Cuenta, así como a efectos analíticos y de cumplimiento de la normativa vigente. Si no es titular de una Cuenta, recopilaremos y almacenaremos toda la información que usted nos proporcione y la utilizaremos de conformidad con esta Declaración de privacidad.
+Datos personales sobre usted que obtengamos de fuentes externas: también obtenemos información de fuentes externas, como vendedores, proveedores de datos y oficinas de crédito, siempre y cuando la ley lo permita.
+Otra información que recopilemos con relación a su uso de nuestros Sitios o Servicios: podemos recopilar información adicional de usted o sobre usted cuando se comunique con nosotros, se ponga en contacto con equipos de nuestro servicio de atención al cliente o responda a una encuesta.
+
+ 
+
+4. ¿Por qué conservamos Datos personales?
+
+Conservamos los Datos personales en un formato identificable durante el tiempo mínimo necesario para cumplir con nuestras obligaciones legales y reglamentarias, así como con fines empresariales. Podemos conservar Datos personales durante plazos superiores a lo exigido por ley si nos conviene desde un punto de vista empresarial y no está prohibido por ley. Si se cierra su Cuenta, podemos tomar medidas para ocultar sus Datos personales y otra información, pero nos reservamos la posibilidad de conservar estos datos y acceder a ellos durante el tiempo necesario para cumplir con las obligaciones legales correspondientes. Continuaremos usando y revelando estos Datos personales de acuerdo con la presente Declaración de privacidad.
+
+Las cookies que utilizamos tienen tiempos de caducidad definidos; si usted no visita nuestros Sitios ni usa nuestros Servicios en ese período de tiempo, se deshabilitarán las cookies de forma automática y se eliminarán los datos conservados. Consulte nuestra Declaración sobre cookies y tecnologías de seguimiento para obtener más información.
+
+ 
+
+5. ¿Cómo tratamos los Datos personales?
+
+Podemos Tratar sus Datos personales por varias razones justificadas en virtud de la legislación de protección de datos del Espacio Económico Europeo (EEE) y Suiza. 
+
+Para mantener en funcionamiento los Sitios y prestar los Servicios, lo cual incluye lo siguiente:
+
+iniciar pagos, enviar o solicitar dinero, añadir valor a una cuenta o pagar facturas;
+autenticar su acceso a una Cuenta;
+comunicarnos con usted en relación con su Cuenta, los Sitios, los Servicios o PayPal;
+establecer una conexión entre su Cuenta y una cuenta o plataforma externa;
+realizar comprobaciones de solvencia y otras verificaciones financieras, evaluar solicitudes y comparar información para comprobar su exactitud y verificarla;
+mantener actualizadas su información financiera y de la Cuenta.
+Para gestionar nuestras necesidades empresariales, como supervisar, analizar y mejorar el rendimiento y la funcionalidad de los Servicios y los Sitios. Por ejemplo, analizamos el comportamiento de los Usuarios y estudiamos la forma en que usted usa nuestros Servicios.
+Para gestionar el riesgo e impedir que los Sitios, los Servicios o usted sean objeto de fraude mediante la verificación de su identidad. Las herramientas de protección contra riesgos y fraudes de PayPal utilizan Datos personales, Información sobre el dispositivo, Datos técnicos de uso e Información de geolocalización de nuestros Sitios y de otros sitios web que ofrecen Servicios de PayPal, para detectar y prevenir el fraude y un uso indebido de los Servicios.
+Para atender nuestras obligaciones y garantizar el cumplimiento de las condiciones de nuestros Sitios y Servicios, incluido el cumplimiento de la totalidad de las leyes y los reglamentos aplicables.
+Para velar por nuestros intereses legítimos, lo cual incluye lo siguiente:
+hacer cumplir las condiciones de nuestros Sitios y Servicios;
+administrar nuestras necesidades empresariales del día a día, como la supervisión y el análisis;
+gestionar los riesgos, el fraude y el uso indebido de los Servicios de PayPal;
+anonimizar los Datos personales con el fin de proporcionar datos estadísticos acumulados a terceros, incluidas otras empresas y particulares, sobre cómo, cuándo y por qué los Usuarios visitan nuestros Sitios y usan nuestros Servicios;
+organizar campañas de marketing entre empresas;
+prestar Servicios personalizados (lo que también se denomina "marketing basado en intereses") que PayPal ofrece en sitios web y servicios por Internet de terceros. Podemos utilizar sus Datos personales y otra información recopilada de conformidad con esta Declaración de privacidad para proporcionarle ofertas, características o anuncios orientados específicamente a usted en sitios web de terceros.
+Para que le resulte más fácil encontrar otros usuarios y conectar con ellos. Por ejemplo, si nos permite acceder a sus contactos, o bien en aquellos casos en los que el perfil de su Cuenta sea público, podemos sugerir conexiones con personas que quizá conozca. Además, permitiremos que otros usuarios encuentren su perfil y conecten con usted para enviarle dinero tras buscarle por su nombre, nombre de usuario, correo electrónico o número de móvil en PayPal. También podemos asociar información que obtengamos sobre usted a través del uso de los Servicios por su parte y por parte de sus contactos, así como la información que usted y otras personas faciliten, para sugerirle personas que quizá conozca o con las que quizá quiera realizar transacciones a través de nuestros Servicios. Las características y funciones sociales diseñadas para simplificar el uso que usted hace de los Servicios con terceros varían según el Servicio.
+Con su consentimiento para realizar, entre otras acciones, las siguientes:
+Hacerle llegar ofertas comerciales sobre productos y Servicios de PayPal y los productos y servicios de terceros no asociados. También podemos Tratar sus Datos personales para personalizar el contenido de marketing y ciertos Servicios o Sitios con la intención de responder mejor a sus intereses en PayPal y otros sitios web de terceros.
+Utilizar cookies y otras tecnologías de seguimiento para proporcionarle características, Servicios, ofertas o anuncios orientados específicamente a usted, o bien trabajar con terceros, como vendedores o empresas de análisis o publicidad, para prestar estos servicios personalizados (lo que también se denomina "marketing basado en intereses").
+Proporcionarle opciones, funciones u ofertas específicas para su ubicación si usted decide compartir su Información de geolocalización a través de los Servicios. Usaremos esta información para mejorar la seguridad de los Sitios y Servicios y para prestarle Servicios basados en su ubicación, como publicidad, resultados de búsquedas y otro contenido personalizado (lo que también se denomina "marketing basado en intereses").
+Para responder a sus solicitudes; por ejemplo, para ponernos en contacto con usted con relación a una pregunta enviada a nuestro servicio de atención al cliente.
+
+Usted puede retirar su consentimiento en cualquier momento y sin coste alguno. Consulte la sección "¿De qué opciones de privacidad dispone usted?" para obtener más información sobre cómo hacerlo.
+
+ 
+
+6. ¿Compartimos Datos personales?
+
+Podemos compartir sus Datos personales u otra información sobre usted con terceros de varias formas, tal y como se describe en esta sección de la Declaración de privacidad. Es posible que compartamos sus Datos personales u otra información por los siguientes motivos:
+
+Con otros miembros del grupo PayPal: podemos compartir sus Datos personales con miembros del grupo PayPal para, entre otras cosas, prestar los Servicios que usted ha autorizado o solicitado; gestionar riesgos; detectar y prevenir posibles acciones ilegales y fraudulentas, así como otras infracciones de nuestras políticas y nuestros acuerdos; y gestionar la disponibilidad y conectividad de las comunicaciones, los productos y los Servicios de PayPal.
+
+Con otras empresas que nos prestan sus servicios: podemos compartir Datos personales con proveedores de servicios externos que nos presten servicios y funciones o lo hagan en nuestro nombre. Es posible que estos proveedores de servicios externos, por ejemplo, le presten a usted Servicios, verifiquen su identidad, le ayuden en el procesamiento de transacciones, le envíen publicidad de nuestros productos y servicios, o bien le proporcionen asistencia. 
+
+Con otras entidades financieras: compartimos Datos personales con otras entidades financieras con las que nos hemos asociado para crear y ofrecer un producto de forma conjunta. Estas entidades financieras solo pueden utilizar esta información para comercializar y ofertar productos relacionados con PayPal, a menos que usted haya otorgado su consentimiento para otros usos. Es posible que también compartamos Datos personales para procesar transacciones, otorgarle los beneficios asociados a las tarjetas a su nombre que cumplan los requisitos y mantener actualizada su información financiera.
+
+Con las demás partes de transacciones cuando usted utilice los Servicios, como otros Usuarios, vendedores y sus proveedores de servicios: podemos compartir información sobre usted y sobre su Cuenta con el resto de las partes involucradas en el procesamiento de sus transacciones, incluidos otros Usuarios a quienes envíe fondos o de quienes los reciba, así como vendedores y sus proveedores de servicios. La información puede incluir lo siguiente:
+
+Datos personales e información de la Cuenta que se necesiten para facilitar la transacción.
+Datos personales para ayudar a otros participantes a resolver disputas y a detectar y prevenir el fraude.
+Análisis anónimos sobre el rendimiento y los datos para ayudar a los vendedores a entender mejor el uso de nuestros Servicios y a mejorar la experiencia de los Usuarios 
+
+Con otros terceros para nuestros fines empresariales o en los términos permitidos o exigidos por la ley: podemos compartir información sobre usted con otras partes para los fines empresariales de PayPal o en los términos permitidos o exigidos por la ley, lo cual incluye lo siguiente:
+
+si es necesario que lo hagamos para cumplir una ley, un procedimiento legal o una normativa;
+con las fuerzas de seguridad, otros organismos públicos y otros terceros en virtud de una citación, una orden judicial u otro requerimiento o proceso legal aplicable a PayPal o al grupo PayPal;
+si creemos, según nuestro criterio exclusivo, que la revelación de los Datos personales es necesaria o apropiada para evitar lesiones o pérdidas financieras, o bien con relación a una investigación de actividades ilegales o sospechosas de serlo;
+para proteger los intereses vitales de una persona;
+con agencias de calificación crediticia y responsables del tratamiento de datos, a efectos de comprobación crediticia, prevención del fraude y cumplimiento normativo;
+para hacer cumplir condiciones de uso u otras condiciones legales aplicables a los Servicios e investigar su incumplimiento;
+para proteger nuestros bienes, Servicios y derechos legales;
+para facilitar la compra o venta de la totalidad o parte del negocio de PayPal;
+en conexión con servicios de envío y similares relacionados con compras realizadas mediante un Servicio;
+para colaborar en la evaluación y gestión de riesgos y en la prevención del fraude contra PayPal, nuestros Usuarios, nuestros Sitios o el uso de nuestros Servicios, incluidos casos de fraude que afecten o involucren a nuestros socios empresariales, nuestras alianzas estratégicas u otros particulares, así como a vendedores como eBay, Inc.;
+con socios bancarios, en los términos exigidos por las normas de empresas emisoras de tarjetas, para la inclusión en su lista de vendedores con contratos resueltos;
+con empresas de informes crediticios y agencias de cobro;
+con empresas con las que tengamos previsto fusionarnos o que esté previsto que nos adquieran;
+para respaldar nuestras funciones de auditoría, cumplimiento normativo y gobernanza corporativa.
+
+Con su consentimiento: también compartiremos sus Datos personales y otra información con su consentimiento o siguiendo sus instrucciones, incluido, si así lo autoriza, cuando establezca una conexión entre su Cuenta y una cuenta o plataforma externa.
+
+Además, PayPal puede proporcionar datos estadísticos acumulados a terceros, incluidas otras empresas y particulares, sobre cómo, cuándo y por qué los Usuarios visitan nuestros Sitios y usan nuestros Servicios. Estos datos no le identificarán personalmente ni proporcionarán información sobre su uso de los Sitios o los Servicios. No compartimos Datos personales con terceros para los fines de marketing de estos sin su consentimiento.
+
+ 
+
+7. ¿Cómo trabajamos con otros servicios y otras plataformas?
+
+Una ventaja y una innovación importante de los Servicios de PayPal es que usted puede conectar su Cuenta con una cuenta o una plataforma de terceros. A los efectos de esta Declaración de privacidad, una "conexión de cuenta" con dichos terceros es una conexión que usted autoriza o habilita entre su Cuenta y una cuenta, un instrumento de pago o una plataforma que no sean de PayPal y que sean de su propiedad o estén bajo su control legalmente. Si usted autoriza esta conexión, PayPal y el tercero intercambiarán directamente sus Datos personales y otra información.  Como ejemplos de conexiones de cuenta, cabe citar los siguientes:
+
+vinculación de su Cuenta a una cuenta de una red social o un servicio de mensajería;
+conexión de su Cuenta con una empresa externa de servicios financieros o de agregación de datos, siempre que usted facilite a dicha empresa las credenciales de inicio de sesión de su Cuenta;
+uso de su Cuenta para realizar pagos a vendedores o permitir que un vendedor realice cargos a su Cuenta.
+
+Si decide crear una conexión de cuenta, podemos recibir del tercero información sobre usted y sobre el uso que hace de su servicio. Por ejemplo, si usted conecta su Cuenta con una cuenta de una red social, recibiremos Datos personales del proveedor de la red social a través de la conexión de la cuenta. Si conecta su Cuenta con otras cuentas financieras, ya sea directamente o a través de un proveedor de servicios externo, es posible que tengamos acceso al saldo de su cuenta y a información sobre sus transacciones, como compras o transferencias de fondos. Utilizaremos toda la información que recibamos de terceros a través de una conexión de cuenta con arreglo a esta Declaración de privacidad. 
+
+La información que compartamos con un tercero mediante una conexión de cuenta se utilizará y revelará conforme a las prácticas de privacidad del tercero. Antes de autorizar una conexión de cuenta, revise el aviso de privacidad de cualquier tercero al que haya autorizado una conexión de cuenta que le permita obtener acceso a sus Datos personales. Por ejemplo, los Datos personales que PayPal comparte con una cuenta o plataforma externa, como una cuenta de una red social, podrían a su vez compartirse con otras partes, incluido el público en general, en función de las prácticas en materia de privacidad de dicha cuenta o plataforma. 
+
+ 
+
+8. Transferencias internacionales
+
+Nuestras operaciones están respaldadas por una red de ordenadores, servidores en la nube y otras infraestructuras y tecnologías de la información que incluyen, entre otros, proveedores de servicios externos. 
+
+Las partes anteriormente mencionadas pueden estar establecidas en jurisdicciones distintas a la suya y fuera del Espacio Económico Europeo y Suiza. Estos países no siempre tienen un nivel equivalente de protección de la privacidad. Hemos tomado medidas específicas para proteger sus Datos personales de conformidad con la legislación de protección de datos del EEE. En concreto, en el caso de las transferencias de sus Datos personales entre empresas del grupo PayPal, nos basamos en Normas corporativas vinculantes aprobadas por las autoridades de control competentes (disponibles aquí). Otras transferencias pueden basarse en protecciones contractuales. Póngase en contacto con nosotros para obtener más información sobre este asunto.
+
+Si usted realiza transacciones con empresas o particulares fuera del EEE o Suiza, o bien conecta nuestros Servicios con plataformas (como redes sociales) fuera del EEE o Suiza, estamos obligados a transferir sus Datos personales a dichas partes para poder prestarle los Servicios solicitados.
+
+ 
+
+9. ¿Cómo utilizamos las cookies y otras tecnologías de seguimiento? 
+
+Si usted visita nuestros Sitios, utiliza nuestros Servicios o visita un sitio web de terceros para los que prestamos servicios por Internet, nosotros y nuestros proveedores y partners empresariales podemos utilizar cookies y otras tecnologías de seguimiento (en conjunto, las "Cookies") para lo siguiente: identificarle como Usuario y personalizar su experiencia en Internet, los Servicios que utiliza y otro contenido u otra publicidad en Internet; medir la eficacia de sus promociones y realizar análisis; y limitar los riesgos, prevenir posibles fraudes y fomentar la confianza y la seguridad en todos nuestros Sitios y Servicios. Ciertos aspectos y características de nuestros Servicios y Sitios solo están disponibles con el uso de Cookies, por lo que, si decide deshabilitarlas o rechazarlas, es posible que se impida o se limite su uso de los Sitios y Servicios.
+
+"No realizar seguimiento" (DNT, Do Not Track) es una configuración opcional de los navegadores web que le permite expresar sus preferencias con respecto al seguimiento por parte de anunciantes y otros terceros. Nosotros no respondemos a las señales DNT.
+
+Consulte nuestra Declaración sobre cookies y tecnologías de seguimiento para obtener más información sobre cómo utilizamos las Cookies.
+
+ 
+
+10. ¿De qué opciones de privacidad dispone usted?
+
+Usted tiene varias opciones con respecto a las comunicaciones y las prácticas en materia de privacidad que se describen en esta Declaración de privacidad. Muchas de estas opciones pueden explicarse en el momento de usar un Servicio o de crear una cuenta para usarlo, o bien al utilizar uno de nuestros Sitios. Usted puede recibir indicaciones o instrucciones dentro de las propias experiencias al navegar por los Servicios.
+
+Opciones relacionadas con los Datos personales que recopilamos
+Datos personales. Aunque usted puede negarse a proporcionar sus Datos personales cuando PayPal se lo solicite, en ese caso podría dejar de tener acceso a ciertos Servicios, o incluso a todos. 
+Ubicación y otra información de los dispositivos. El dispositivo con el que usted accede a los Sitios o Servicios puede recopilar información sobre usted, incluida Información de geolocalización y datos de uso del Usuario, que PayPal podría posteriormente recopilar y utilizar. Para obtener información sobre sus opciones para restringir la recopilación y el uso de dicha información, ajuste la configuración disponible en su dispositivo. 
+Opciones relacionadas con el uso que hacemos de sus Datos personales
+
+Seguimiento en Internet y marketing basado en intereses. Trabajamos con partners y proveedores de servicios externos para ofrecerle publicidad con balizas web y cookies relacionadas con anuncios. Usted puede rechazar las balizas web y cookies relacionadas con publicidad de terceros, en cuyo caso no recibirá nuestra publicidad segmentada específica. Seguirá viendo nuestros anuncios en sitios web de terceros.
+
+Para obtener más información sobre las cookies de terceros relacionadas con publicidad y sobre el marketing basado en intereses, así como para saber cómo dejar de recibir publicidad de empresas que participan en la autorregulación del sector, visite Your Online Choices.
+Búsqueda de otras personas y conexión con ellas. Si la opción está disponible, puede administrar sus preferencias para encontrar a otras personas y conectar con ellas desde su cuenta del Servicio que utilice.
+Opciones relacionadas con conexiones de cuenta
+Si usted autoriza una conexión de cuenta con una cuenta o plataforma externa, como una cuenta de una red social, puede tener la opción de administrar las preferencias de la conexión desde su Cuenta o desde la cuenta o plataforma externa. Consulte el aviso de privacidad que regula la plataforma externa para obtener más información sobre las posibles opciones.
+Opciones relacionadas con las Cookies
+Es posible que disponga de varias opciones para administrar sus preferencias sobre las Cookies. Por ejemplo, su navegador o dispositivo con Internet pueden permitirle eliminar, deshabilitar o bloquear ciertas cookies y otras tecnologías de seguimiento. Para obtener más información, visite AboutCookies.org. Aunque usted puede optar por habilitar estas opciones, es posible que, al hacerlo, deje de tener acceso a muchas de las funciones y características principales disponibles en un Servicio o Sitio.
+Usted puede tener varias opciones con respecto al uso de Cookies y de otras tecnologías de seguimiento al usar un Servicio o visitar partes de un Sitio. Por ejemplo, puede que le pregunten si quiere que el Sitio o Servicio "recuerden" ciertas cosas sobre usted, para lo que usaremos Cookies y otras tecnologías de seguimiento en la medida en que usted las permita.
+Puede obtener más información sobre nuestras Cookies y tecnologías de seguimiento en la página "Declaración sobre cookies y tecnologías de seguimiento".
+Opciones relacionadas con el proceso de registro y la información de la Cuenta
+Si usted tiene una Cuenta y desea revisar y modificar Datos personales, puede iniciar sesión y actualizar directamente la información, o bien puede ponerse en contacto con nosotros. póngase en contacto con nosotros si no dispone de una Cuenta o si tiene dudas sobre la información de su Cuenta u otros Datos personales.
+Opciones relacionadas con la comunicación
+Notificaciones, alertas y actualizaciones de nuestra parte:  
+Marketing: podemos enviarle contenido de marketing sobre nuestros Sitios, Servicios y productos, sobre productos que ofrezcamos conjuntamente con instituciones financieras y sobre los productos y servicios de terceros no asociados y de miembros del grupo PayPal, a través de numerosos canales de comunicación, como correos electrónicos, mensajes de texto, elementos emergentes, notificaciones automáticas o aplicaciones de mensajería. Puede indicar que desea dejar de recibir estas comunicaciones de marketing siguiendo las instrucciones incluidas en las propias comunicaciones. Si tiene una Cuenta con nosotros, también puede modificar sus preferencias de comunicación en la configuración de la Cuenta. En el caso de los mensajes enviados como notificaciones automáticas, puede administrar las preferencias en su dispositivo.
+Informativos y otros: le enviaremos comunicaciones necesarias u obligatorias para los Usuarios de nuestros Servicios, notificaciones que contengan información importante y otras comunicaciones que usted nos solicite. Usted no puede cancelar la recepción de estas comunicaciones. Sin embargo, es posible que sí pueda modificar el soporte y formato en el que las recibe.
+
+ 
+
+11. ¿Cuáles son sus derechos?
+
+Conforme a las limitaciones establecidas en la legislación de protección de datos del EEE, usted tiene ciertos derechos con respecto a sus Datos personales. En concreto, tiene derecho de acceso, rectificación, limitación, oposición, supresión y portabilidad de los datos. Póngase en contacto con nosotros si desea ejercer estos derechos.
+
+Además, de acuerdo con requisitos específicos, tiene derecho a oponerse al tratamiento de sus Datos personales conforme a intereses legítimos, a un interés público o a una autoridad oficial que se nos haya conferido.
+
+Si tiene una Cuenta con alguno de nuestros Servicios y desea revisar y modificar los Datos personales en la Cuenta, puede iniciar sesión y actualizar directamente la información. Podemos recurrir a un proceso automatizado de toma de decisiones para cuestiones relativas a créditos cuando hayamos obtenido su consentimiento, cuando sea necesario para formalizar o ejecutar un contrato o cuando así lo autoricen una ley de un Estado miembro de la Unión Europea o la propia legislación comunitaria.
+
+Póngase en contacto con nosotros si necesita más información sobre las decisiones automatizadas.
+
+ 
+
+12. ¿Cómo protegemos sus Datos personales?
+
+Adoptamos medidas de seguridad técnicas, físicas y administrativas diseñadas para proporcionar una protección razonable a sus Datos personales, con el fin de impedir que se pierdan, se utilicen de forma indebida, se acceda a ellos sin autorización, se revelen o se alteren. Estas medidas de seguridad incluyen cortafuegos, cifrado de datos, controles físicos de acceso a nuestros centros de datos y controles de autorización del acceso a información. Aunque nos esforzamos por proteger nuestros sistemas y Servicios, usted es el responsable de mantener la privacidad de sus contraseñas y de la información de registro de su perfil o Cuenta. Además, debe encargarse de comprobar que los Datos personales que nosotros guardamos sobre usted sean precisos y estén actualizados. No nos responsabilizamos de la protección de los Datos personales que compartimos con plataformas externas sobre la base de una conexión de cuenta que usted haya autorizado. 
+
+ 
+
+13. ¿Pueden los niños usar nuestros Servicios?
+
+Los Sitios y Servicios no están destinados a menores de 16 años. No recopilamos información de forma intencionada (incluidos Datos personales) sobre niños ni otras personas que legalmente no pueden utilizar nuestros Sitios y Servicios. Si tenemos conocimiento de haber recopilado Datos personales de un niño menor de 16 años, procederemos a su eliminación a la mayor brevedad, a menos que estemos legalmente obligados a conservar dichos datos. Póngase en contacto con nosotros si cree que hemos recopilado información de un menor de 16 años por error o de forma no intencionada.
+
+ 
+
+14. ¿Qué más debería saber?
+
+Cambios en esta Declaración de privacidad. 
+
+Podemos modificar esta Declaración de privacidad en un momento dado para reflejar los cambios realizados en nuestra empresa, en nuestros Sitios o Servicios o en la legislación aplicable. La Declaración de privacidad revisada entrará en vigor en la fecha de entrada en vigor publicada. 
+
+Si la versión revisada incluye un cambio sustancial, se lo notificaremos con 30 días de antelación publicando un aviso de cambio en la página "Actualización de políticas" de nuestro sitio web. También podemos notificar el cambio a los Usuarios por correo electrónico o por otros medios. 
+
+ 
+
+15. Definiciones
+
+Cuenta hace referencia a una cuenta de miembro de PayPal o Xoom.
+
+Responsable del tratamiento de datos significa que PayPal determina la finalidad y los medios del tratamiento de Datos personales.
+
+Información del dispositivo hace referencia a los datos que pueden recopilarse automáticamente desde cualquier dispositivo utilizado para acceder a los Sitios o Servicios. Dicha información puede incluir, entre otros, el tipo de dispositivo; las conexiones de red de su dispositivo; el nombre de su dispositivo; la dirección IP del dispositivo; información sobre el navegador web de su dispositivo y la conexión a Internet que se utiliza para acceder a los Sitios o Servicios; Información de geolocalización; información sobre las aplicaciones descargadas en el dispositivo; y datos biométricos.
+
+Información de geolocalización hace referencia a la información que identifica su ubicación, con una especificidad razonable, gracias, por ejemplo, a las coordenadas de latitud y longitud obtenidas mediante la triangulación de la ubicación del móvil, la red Wi-Fi o el GPS. 
+
+PayPal significa PayPal (Europe) S.à r.l. et Cie, S.C.A. y sus empresas filiales o participadas. En esta Declaración de privacidad, se hace referencia a PayPal en ocasiones como "nosotros", "nos" o "nuestro/a", según el contexto.
+
+Datos personales hace referencia a la información que puede asociarse a una persona física identificada o que pueda identificarse directa o indirectamente. Los Datos personales pueden incluir, entre otra información, el nombre, la dirección postal (incluidas las direcciones de envío y facturación), el número de teléfono, la dirección de correo electrónico, el número de tarjeta de pago, otra información de la cuenta bancaria, el número de cuenta, la fecha de nacimiento y credenciales oficiales (por ejemplo, el número de carné de conducir, el DNI o el número de pasaporte). 
+
+Tratar hace referencia a cualquier método o forma de gestionar Datos personales o conjuntos de Datos personales, se usen o no medios automatizados, como la recopilación, el registro, la organización, la estructuración, el almacenamiento, la adaptación o alteración, la recuperación, la consulta, la revelación por transmisión, la divulgación o la difusión mediante cualquier otro medio, la alineación o combinación, la restricción, la eliminación o la destrucción de Datos personales.
+
+Servicios hace referencia a los productos, servicios, contenidos, características, tecnologías o funciones, así como a la totalidad de los sitios web, las aplicaciones y los servicios relacionados que le ofrece PayPal.
+
+Sitios hace referencia a los sitios web, las aplicaciones para móviles, las plataformas oficiales de redes sociales u otras propiedades en Internet a través de las cuales PayPal ofrece los Servicios y en las que ha publicado la presente Declaración de privacidad o ha incluido vínculos a esta.
+
+Datos técnicos de uso hace referencia a la información que recopilamos del teléfono, ordenador o dispositivo con el que usted accede a los Sitios o Servicios. Los Datos técnicos de uso nos indican cómo utiliza usted los Sitios y Servicios, por ejemplo, lo que ha buscado o visto en los Sitios y la forma en que usa nuestros Servicios, incluida su dirección IP, estadísticas relacionadas con el modo en que se cargan o ven las páginas, los sitios web que ha visitado antes de llegar a los Sitios y otra información de uso o navegación recopilada mediante Cookies.
+
+Usuario hace referencia a un particular que utiliza los Servicios o accede a los Sitios.
+
+ 
+
+16. Información adicional
+
+La información que se proporciona en esta sección puede ser específica para los clientes en función de su región o su uso de los Servicios. Esta información la proporcionan a PayPal terceros con los que usted puede interactuar al utilizar los Servicios.
+
+Aviso sobre la normativa bancaria para clientes del Espacio Económico Europeo
+Google ReCaptcha
+
+ 
+
+Aviso sobre la normativa bancaria para clientes del Espacio Económico Europeo
+
+En general, la legislación de Luxemburgo a la que está sujeta la gestión por parte de PayPal de los datos de los usuarios (protección de datos y secreto bancario) requiere un grado mayor de transparencia que la mayoría de las demás leyes de la UE. Por este motivo, a diferencia de la inmensa mayoría de los proveedores de servicios basados en Internet o servicios financieros de la UE, PayPal ha incluido en su Declaración de privacidad a todos los partners empresariales y proveedores de servicios externos a quienes puede revelar sus datos, así como la finalidad de esta revelación y el tipo de información que se revela. Encontrará un vínculo a esos terceros aquí. Al aceptar esta Declaración de privacidad y mantener una cuenta en PayPal, usted da su consentimiento expreso para que transfiramos sus datos a dichos terceros para los fines indicados.
+
+PayPal puede actualizar la lista de terceros antes mencionada cada trimestre (el 1 de enero, 1 de abril, 1 de julio y 1 de octubre). PayPal solo empezará a transferir datos a cualquiera de las nuevas entidades o para los nuevos fines o los tipos de datos indicados en cada actualización una vez transcurridos 30 días desde la fecha de publicación de la lista a través de esta Declaración de privacidad. Usted debe revisar la lista cada trimestre en el sitio web de PayPal en las fechas antes mencionadas. Si no se opone a la nueva revelación de datos en los 30 días posteriores a la publicación de la lista actualizada de terceros, se considerará que ha aceptado los cambios efectuados en la lista y en esta Declaración de privacidad. Si no está de acuerdo con los cambios, puede cerrar su cuenta y dejar de usar nuestros Servicios.
+
+Para prestar los Servicios de PayPal, puede que debamos transferir parte de la información que recopilamos (en los términos establecidos en esta Declaración de privacidad) a empresas relacionadas con PayPal o a otras entidades, incluidas las mencionadas en esta sección en su condición de proveedores de pagos, procesadores de pagos o titulares de cuentas (o competencias parecidas). Usted reconoce que dichas entidades, según la legislación local que se les aplique, pueden estar sujetas a leyes, reglamentos, consultas, investigaciones u órdenes que pueden exigir la revelación de información a las autoridades competentes del país correspondiente. Su uso de los Servicios de PayPal constituye su consentimiento para que transfiramos dicha información con el fin de prestarle estos Servicios.
+
+En concreto, usted da permiso e instrucciones a PayPal para que lleve a cabo con su información la totalidad o parte de las acciones que se describen a continuación:
+
+Revelar a la policía y otros organismos de seguridad; fuerzas de seguridad; instituciones gubernamentales, intergubernamentales o supranacionales competentes; agencias, departamentos, autoridades reguladoras o autorreguladoras y organizaciones competentes (incluidos, entre otros, los organismos a los que se hace referencia en la sección "Agencias" de la Lista de proveedores externos aquí); y a otros terceros, incluidas empresas del Grupo PayPal, toda la información (i) que nos obligue y permita la ley, incluidas, entre otras, las leyes de Luxemburgo del 24 de julio de 2015 sobre la Ley de cumplimiento tributario de cuentas extranjeras de los EE. UU. (Foreign Account Tax Compliance Act, "Ley FATCA") y del 18 de diciembre de 2015 sobre el Estándar para el intercambio automático de información sobre cuentas financieras de la OCDE ("Ley CRS"); (ii) que tengamos motivos para pensar que es adecuada para colaborar en las investigaciones de fraudes o actividades potencialmente ilegales; o (iii) para realizar investigaciones de infracciones de nuestras Condiciones de uso (incluidos, entre otros, su fuente de fondos y el proveedor de su tarjeta de crédito o débito).
+
+Si a usted le amparan la Ley FATCA o la Ley CRS, estamos obligados a avisarle de la información sobre usted que podemos transferir a las distintas autoridades. Le rogamos que consulte las obligaciones de PayPal de conformidad con las leyes FATCA y CRS, y cómo podrían afectarle, y que tome nota de la información que podemos revelar de conformidad con dichas obligaciones.
+
+También puede que nosotros y otras organizaciones, incluidas partes que acepten PayPal, compartamos y usemos (incluso desde otros países) información necesaria (incluida, entre otra, la registrada por las agencias de prevención del fraude), y que accedamos a ella, para evaluar y gestionar el riesgo (lo que incluye, entre otras acciones, evitar el fraude, el blanqueo de dinero y la financiación de actividades terroristas). Póngase en contacto con nosotros si desea recibir más detalles de las agencias de prevención del fraude correspondientes. Para obtener más información sobre las agencias indicadas anteriormente, las agencias de prevención del fraude y otros terceros, haga clic aquí.
+
+Revelar Información de la cuenta a titulares de derechos de propiedad intelectual si estos, en virtud de la legislación nacional aplicable de un Estado miembro de la UE, presentan una reclamación contra PayPal con vistas a la revelación de información extrajudicial debido a una infracción de sus derechos de propiedad intelectual para la que se han utilizado Servicios de PayPal (por ejemplo, entre otras, la sección 19, párrafo 2, subsección 3 de la Ley sobre Marcas Comerciales de Alemania o la sección 101, párrafo 2, subsección 3 de la Ley de Propiedad Intelectual de ese mismo país).
+
+Revelar información necesaria en respuesta a los requerimientos de las asociaciones de tarjetas de crédito o un proceso civil o penal.
+
+Revelar su nombre y vínculo de PayPal en el directorio de usuarios de PayPal. Sus datos se confirmarán a otros usuarios de PayPal en respuesta a una búsqueda de usuario por su nombre, dirección de correo electrónico o número de teléfono, o bien parte de estos datos. De este modo, queda garantizado que las personas realicen pagos al usuario correcto. Esta función se puede desactivar en la configuración del perfil de PayPal.
+
+Si usted, como vendedor, recurre a un tercero para acceder a PayPal o integrarlo, podemos revelar a dicho socio la información necesaria para facilitar y mantener este acuerdo (incluida, entre otra información, el estado de su integración de PayPal, si tiene una cuenta PayPal activa y si ya colabora con otro socio de integración de PayPal).
+
+Revelar información necesaria a los procesadores de pagos, auditores, proveedores de servicios de atención al cliente, organismos de referencia crediticia, agencias de prevención del fraude, proveedores de productos financieros, socios comerciales, empresas de marketing y relaciones públicas, proveedores de servicios operativos, empresas del grupo, agencias, marketplaces y otros terceros que se enumeran aquí. La finalidad de esta revelación es permitirnos proporcionarle los Servicios de PayPal. También exponemos en la lista de terceros, bajo cada "Categoría", ejemplos no exclusivos de los terceros reales (lo que puede incluir a sus cesionarios y sucesores) a quienes revelamos actualmente información de su cuenta o a quienes es posible que consideremos revelar información de su Cuenta, junto con el propósito de hacerlo, así como la información real que revelamos. (Salvo en los casos en que se disponga expresamente, estos terceros tienen limitado por ley o por contrato el uso de la información para fines secundarios más allá de los fines para los que se compartió dicha información).
+
+Revelar la información necesaria a su agente o representante legal (por ejemplo, al titular de un poder legal que usted haya concedido o a un tutor que usted haya designado).
+
+Revelar datos estadísticos acumulados a nuestros socios empresariales o a efectos de relaciones públicas. Por ejemplo, podemos revelar que un porcentaje determinado de los Usuarios vive en Mánchester. No obstante, esta información agregada no está vinculada a información personal.
+
+Compartir la información necesaria de la Cuenta con terceros no afiliados (enumerados aquí) para su uso con los siguientes fines:
+
+Prevención del fraude y gestión de riesgos: para ayudar a prevenir fraudes o evaluar y gestionar los riesgos. Por ejemplo, si usted usa los Servicios de PayPal para comprar o vender productos a través de eBay Inc. o sus participadas ("eBay"), es posible que compartamos información de la Cuenta con eBay para proteger sus cuentas de actividades fraudulentas, avisarle si detectamos dichas actividades en sus cuentas o evaluar el riesgo de impago.
+
+Como parte de nuestras acciones de prevención del fraude y gestión de riesgos, también es posible que compartamos la información necesaria de la Cuenta con eBay en los casos en los que PayPal haya aplicado una retención u otra restricción en su Cuenta basada en disputas, reclamaciones, devoluciones de cargo u otras situaciones que guarden relación con la venta o compra de productos. Además, como parte de nuestras acciones de prevención del fraude y gestión de riesgos, podemos compartir información de la Cuenta con eBay de forma que pueda utilizar sus programas para evaluar a compradores o vendedores.
+
+Servicio de atención al cliente: para prestar asistencia a los clientes, por ejemplo, con el funcionamiento de sus cuentas o con la resolución de disputas (relacionadas con la facturación o transacciones, entre otros).
+
+Envío: con respecto a servicios de envío y similares relacionados con compras realizadas mediante PayPal.
+
+Cumplimiento legal: para ayudarles a cumplir con los requisitos de verificación contra el blanqueo de dinero y contra la financiación del terrorismo.
+
+Proveedores de servicios: para permitir a los proveedores de servicios bajo contrato con nosotros apoyar nuestras operaciones empresariales, como la prevención del fraude, el cobro de facturas, el marketing, la atención al cliente y servicios de tecnología. En nuestros contratos se estipula que estos proveedores de servicios solo usan su información en relación con los servicios que realizan para nosotros y no para su propio beneficio.
+
+ 
+
+Google ReCaptcha
+
+PayPal utiliza ReCaptcha en los Sitios y Servicios. El uso de ReCaptcha está sujeto a la Política de privacidad y las Condiciones de uso de Google.
+
+ReCaptcha solo se utiliza para luchar contra el correo no deseado y los usos indebidos.
+
+© 1999–2022 
+Accesibilidad
+ 
+Privacidad
+ 
+Acuerdos legales
+
+Si aceptas las cookies, las usaremos para mejorar y personalizar tu experiencia y para permitir que nuestros partners te muestren anuncios personalizados de PayPal cuando visites otros sitios web. Administrar las cookies y obtener más información
+
+Aceptar
+Rechazar

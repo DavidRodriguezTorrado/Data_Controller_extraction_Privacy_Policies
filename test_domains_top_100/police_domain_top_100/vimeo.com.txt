@@ -1,0 +1,92 @@
+California Right to Know Information
+
+Last Updated: December 12, 2019
+
+The table below is a part of Vimeo’s Privacy Policy. It describes the categories of personal information we receive when you use our services or visit our websites, our purposes for collecting that information, and the third parties we share it with. For more information on rights that California users have, please refer to our Privacy Policy.
+
+Account Information
+What it includes	Account information means information that forms part of your account profile. This includes your name or username, contact information (including email address and location), Vimeo account ID, and any personal characteristics you might choose to add to your profile (like your pronoun preferences). If you use Vimeo to seek employment opportunities, your account information may include (at your option), employment history and status.
+
+We may, in certain cases, enrich the information you've provided with data we receive from third parties. Some enriched data may include inferences about your use of other platforms.
+Sources	We collect most account information directly from you. For example, to register, you must provide an email address and a screen name. We may provide other opportunities to directly provide personal information, such as in your user profile.
+
+We may receive certain account information, like your email address, from a third-party platform if you choose to authenticate your account using third-party log-ins. We may also receive enriched data from third-party platforms where we advertise and third-party analytics vendors.
+Purposes	We use account information to:
+Provide our services, manage interactions on our services, fulfil orders, implement your preferences, and provide customer support;
+Improve our services, provide quality assurance, and correct errors;
+Implement security measures and prevent fraud and other abuse; and
+Provide updates and offers that you may be interested in.
+
+Third-Party Disclosures	We share account information with select third parties for numerous business objectives:
+We store your information on third-party cloud infrastructure providers. These providers are not permitted to use your data for any purpose other than providing services to us.
+We share your account information with our customer support partners and vendors who provide customer relations management (CRM) tools, which allow us to provide support, send you emails, and provide other services.
+If you purchase a physical product, we will share your shipping information with our fulfilment and delivery partners.
+When you authenticate with a third-party account, we will provide information to that platform indicating that you have logged onto our platform with the credentials stored on the third-party platform.
+The information provided in your profile page is displayed pursuant to the privacy settings you have chosen.
+Payment Information
+What it includes	Payment information means payment card information, bank accounts, PayPal information, and other payment-related information.
+Sources	You provide payment information to our authorized payment processing vendors when you make a purchase. We may obtain certain payment information from those vendors for certain limited purposes, such as investigating fraud.
+
+If you use one of our monetization products, you must provide a bank account or other financial account to receive monies, and you may need to provide us with your tax information, which could include your taxpayer identification number.
+Purposes	We use payment information to fulfil orders, pay amounts owed to you, prevent fraud and other abuse, handle chargebacks and refunds, and provide support.
+Third-Party Disclosures	Your payment information is collected directly by our payment processing vendors; we do not directly collect such information in the first instance. This information will be disclosed to other parties in the financial payments system solely for the purpose of processing your transactions and complying with PCI (payment card industry) and legal requirements. We may also disclose certain financial information to our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance.
+Automatically Collected Information
+What it includes	Automatically collected information means technical and activity information that is collected when you access our services. It includes the public IP address of the device you are using, geolocation that is derived from the IP address, information about your device and Internet service provider, information about your viewing activities and actions on our services, and information about the website you last visited or search query that you entered before being directed to our service.
+Sources	We collect this information directly when you use our websites and apps. We also collect it through third parties who may include cookies, pixels, and similar technologies on our services. We may also receive this information from our authorized vendors and business partners.
+Purposes	We use automatically collected information to: provide services to you, manage interactions on our services, fulfill orders, complete transactions, manage advertising spend, manage preferences, implement security measures, provide customer support, quality assurance, and debugging, prevent fraud and other abuse, and improve our services.
+Third-Party Disclosures	We share automatically collected information with authorized vendors, including:
+Cloud storage and delivery providers, so that we can optimize the delivery of our services, taking into account your location and device capabilities;
+CRM providers, so that we can understand how to best address any issues you might write to us about;
+Vendors who help us detect fraud, spam, and other abuse;Analytics providers, so that we can understand how our services are being used and improve them; and
+Advertising partners, so that we can show you ads on third-party sites and understand how our advertising money is being spent.
+Product
+Webinar
+Virtual Events
+Video Player
+Video Library
+Create
+Live Streaming
+Screen Recorder
+Privacy
+Collaboration
+Distribution & Marketing
+Monetization
+Analytics
+Hosting & Management
+Stock
+For Hire
+Resources
+Help Center
+Blog
+Video School
+OTT Resources
+Developers
+Students
+Become a Partner
+Join Vimeo Experts
+Guidelines
+Apps
+Vimeo for macOS
+Vimeo for iOS
+Vimeo for Android
+Vimeo Create for iOS
+Vimeo Create for Android
+Magisto
+Vimeo for Shopify
+Vimeo for Zoom
+Vimeo
+Pricing
+Upload
+Staff Picks
+On Demand
+Vimeo OTT
+Site map
+About
+Investor Relations
+Press
+Jobs
+
+© 2022 Vimeo.com, Inc. All rights reserved.
+
+Terms  Privacy  CA Privacy  Copyright  Cookies
+Language: English Mature content filter: None

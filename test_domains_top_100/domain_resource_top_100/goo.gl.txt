@@ -1,0 +1,135 @@
+menu
+search
+search
+Tags
+Latest
+Get Inspired
+Announcements
+Events
+Resources
+Return to Google Developers
+Latest posts
+ML Olympiad: Globally Distributed ML Competitions by the Community
+
+February 18, 2022
+
+Posted by Hee Jung, DevRel Community Manager
+
+Announcements
+community
+DevFest hits ten year milestone and hosts diverse developers worldwide
+
+February 17, 2022
+
+Posted by Komal Sandhu - Global Program Manager, Google Developer Groups
+
+devfest
+GDG
+Making Google OAuth interactions safer by using more secure OAuth flows
+
+February 16, 2022
+
+Posted by Vikrant Rana, Product Manager and Badi Azad, Group Product Manager, Google
+
+Android
+Identity
+Announcing authorization support for Google Identity Services APIs
+
+February 15, 2022
+
+Posted by Rohey Livne, Product Manager Google Identity Services (GIS) At Google, keeping users safe online is our top priority, so...
+
+Authorization
+deprecation
+Hyper-local ads targeting made easy and automated with Radium
+
+February 08, 2022
+
+Posted by Álvaro Lamas, Natalija Najdova
+
+Ads
+Radium
+Announcing Flutter for Windows
+
+February 04, 2022
+
+Posted by @Tim Sneath
+
+Announcements
+flutter
+Expanding access to Differential Privacy to create a safer online ecosystem
+
+January 28, 2022
+
+Posted by Miguel Guevara, Product Manager, Privacy and Data Protection Office
+
+How a student leader cultivates on-campus diversity and leadership in Australia
+
+January 27, 2022
+
+Posted by Matthew Ranocchiari, Developer Relations Community Manager, Australia & New Zealand
+
+Developer Student Clubs
+GDSC
+Year in review: the Google Workspace Platform 2021
+
+January 25, 2022
+
+Posted by Charles Maxson, Developer Advocate
+
+Announcements
+Google Cloud
+Google Developer Group Spotlight: A conversation with software developer Aditi Soni
+
+January 24, 2022
+
+Posted by Manoranjan Padhy - Developer Relations Lead, India
+
+GDG
+Get Inspired
+Make Payments with Google Pay and Firebase
+
+January 20, 2022
+
+Posted by Stephen McDonald, Developer Relations Engineer, Google Pay Connect Multiple Payment Gateways with Google Pay and Firebas...
+
+Android
+Firebase
+Google Play Games beta launches on PC in Korea, Taiwan, and Hong Kong
+
+January 19, 2022
+
+Posted by Arjun Dayal, Group Product Manager, Google Play Games
+
+Android Games
+Announcements
+Newer posts
+Previous posts
+Connect
+Blog
+Facebook
+Medium
+Twitter
+YouTube
+Programs
+Women Techmakers
+Google Developer Groups
+Google Developers Experts
+Accelerators
+Google Developer Student Clubs
+Developer consoles
+Google API Console
+Google Cloud Platform Console
+Google Play Console
+Firebase Console
+Actions on Google Console
+Cast SDK Developer Console
+Chrome Web Store Dashboard
+Android
+Chrome
+Firebase
+Google Cloud Platform
+All products
+Terms | Privacy
+Sign up for the Google Developers newsletter Subscribe
+Este sitio utiliza cookies de Google para prestar sus servicios y para analizar su tráfico. Tu dirección IP y user-agent se comparten con Google, junto con las métricas de rendimiento y de seguridad, para garantizar la calidad del servicio, generar estadísticas de uso y detectar y solucionar abusos.MÁS INFORMACIÓNACEPTAR

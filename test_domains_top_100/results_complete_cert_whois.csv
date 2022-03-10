@@ -1,0 +1,1079 @@
+timestamp;apk;version;domain;ip;traffic;int_transfer;whois;certificate2;certificate1
+2022-03-02T22:08:25.003Z;drawing.lessons.sketch.how.to.draw.portrait;267;firebaseremoteconfig.googleapis.com;172.217.17.10;Identifier_SSID_BSSID_Close;False;;Google Trust Services LLC;
+2022-03-02T22:08:25.003Z;drawing.lessons.sketch.how.to.draw.portrait;267;hermes-api.learnings.ai;13.248.194.136;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-02T22:08:25.003Z;drawing.lessons.sketch.how.to.draw.portrait;267;firebase-settings.crashlytics.com;142.250.185.3;Certificate Pinning;False;Google LLC;Google Trust Services LLC;
+2022-03-02T22:08:25.003Z;drawing.lessons.sketch.how.to.draw.portrait;267;graph.facebook.com;31.13.83.8;Identifier_MAC_Router_Close;False;Meta Platforms, Inc.;Facebook, Inc.;Facebook, Inc.
+2022-03-02T22:08:25.002Z;drawing.lessons.sketch.how.to.draw.portrait;267;matrix.dailyinnovation.biz;52.85.187.13;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-02T22:08:25.002Z;drawing.lessons.sketch.how.to.draw.portrait;267;firebaseinstallations.googleapis.com;142.250.185.10;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T22:04:32.539Z;com.hrnstudios.outfitwomen;2;googleads.g.doubleclick.net;142.250.185.2;Identifier_SSID_BSSID_Close;False;Google Inc.;Google Trust Services LLC;
+2022-03-02T22:04:32.539Z;com.hrnstudios.outfitwomen;2;csi.gstatic.com;216.239.32.3;Identifier_MAC_Router_Close;True;;Google Trust Services LLC;
+2022-03-02T21:58:31.110Z;galiona.app.yandres;1;logs.ironsrc.mobi;13.33.232.62;Identifier_SSID_BSSID_Close;False;;;
+2022-03-02T21:58:31.110Z;galiona.app.yandres;1;pm-gateway.supersonicads.com;13.33.232.41;Identifier_SSID_BSSID_Close;False;;Amazon;
+2022-03-02T21:58:31.110Z;galiona.app.yandres;1;outcome-ssp.supersonicads.com;13.33.232.60;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-02T21:58:31.110Z;galiona.app.yandres;1;networksdk.ssacdn.com;13.33.237.47;Identifier_MAC_Router_Close;False;;;
+2022-03-02T21:58:31.109Z;galiona.app.yandres;1;init.supersonicads.com;52.85.187.107;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-02T21:58:31.109Z;galiona.app.yandres;1;code.jquery.com;69.16.175.10;Identifier_MAC_Router_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-03-02T21:54:55.100Z;com.maroc.music.jcplayerexample;12;rr5---sn-h5qzen7d.googlevideo.com;74.125.97.42;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T21:54:55.100Z;com.maroc.music.jcplayerexample;12;api.onesignal.com;104.18.226.52;Identifier_MAC_Router_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-03-02T21:54:55.099Z;com.maroc.music.jcplayerexample;12;lh3.googleusercontent.com;142.250.200.129;Identifier_SSID_BSSID_Close;False;;;
+2022-03-02T21:54:55.098Z;com.maroc.music.jcplayerexample;12;www.googletagservices.com;142.250.201.66;Identifier_MAC_Router_Close;False;;;
+2022-03-02T21:54:55.097Z;com.maroc.music.jcplayerexample;12;www.gstatic.com;216.58.215.163;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T21:54:55.097Z;com.maroc.music.jcplayerexample;12;fonts.gstatic.com;142.250.184.3;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T21:54:55.097Z;com.maroc.music.jcplayerexample;12;img.onesignal.com;104.18.225.52;Identifier_MAC_Router_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-03-02T21:54:55.096Z;com.maroc.music.jcplayerexample;12;tpc.googlesyndication.com;142.250.200.129;Identifier_SSID_BSSID_Close;False;;Google Trust Services LLC;
+2022-03-02T21:54:55.095Z;com.maroc.music.jcplayerexample;12;fonts.googleapis.com;142.250.184.170;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T21:34:54.063Z;com.modelmanagement.modelnow;73;www.modelmanagement.com;172.67.68.146;Identifier_MAC_Router_Close;True;PrivateName Services Inc.;;Cloudflare, Inc.
+2022-03-02T21:34:54.059Z;com.modelmanagement.modelnow;73;api2.branch.io;13.33.232.11;Identifier_Ad_ID;False;;;Branch Metrics, Inc.
+2022-03-02T21:30:56.236Z;stretching.stretch.exercises.back;33;apidis.period-calendar.com;13.33.232.105;Identifier_MAC_Router_Close;False;;GoDaddy.com, Inc.;
+2022-03-02T21:30:56.235Z;stretching.stretch.exercises.back;33;adservice.google.com;216.58.215.130;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T21:30:56.235Z;stretching.stretch.exercises.back;33;ad.leap.app;54.177.216.127;Identifier_MAC_Router_Close;True;;GoDaddy.com, Inc.;
+2022-03-02T21:15:32.335Z;com.cerdillac.filmmaker;232;src.guangzhuiyuan.com;13.33.232.32;Identifier_SSID_BSSID_Close;False;;ZeroSSL;
+2022-03-02T21:11:40.705Z;es.auvasapay.auvasapay;123459;clientes.e-pase.es;82.223.134.188;Identifier_SSID_BSSID_Close;False;;DigiCert Inc;
+2022-03-02T21:05:12.021Z;de.mobiletrend.lovidoo;14140395;a.service.yoomee.love;159.69.139.102;Identifier_MAC_Router_Close;False;;Mobile Trend;
+2022-03-02T20:58:51.961Z;com.vg.car.transporter.heacy.truck.games;5;config.unityads.unity3d.com;130.206.192.18;Identifier_SSID_BSSID_Close;False;Unity Technologies SF;Unity Technologies ApS;Unity Technologies ApS
+2022-03-02T20:58:51.961Z;com.vg.car.transporter.heacy.truck.games;5;webview.unityads.unity3d.com;130.206.192.18;Identifier_MAC_Router_Close;False;;Unity Technologies ApS;Unity Technologies ApS
+2022-03-02T20:54:14.339Z;com.agilebits.onepassword;70901007;watchtower.1password.com;13.33.232.26;Identifier_MAC_Router_Close;False;1Password;;
+2022-03-02T20:44:23.561Z;co.tapcart.app.npQt0DXZpj;150;notify.bugsnag.com;35.186.205.6;Identifier_SSID_BSSID_Close;True;Bugsnag Inc.;;
+2022-03-02T20:44:23.550Z;co.tapcart.app.npQt0DXZpj;150;fnova.myshopify.com;23.227.38.74;Identifier_SSID_BSSID_Close;True;Shopify Inc.;Cloudflare, Inc.;Cloudflare, Inc.
+2022-03-02T20:44:23.549Z;co.tapcart.app.npQt0DXZpj;150;api.tapcart.com;35.222.35.36;Identifier_MAC_Router_Close;True;Tapcart Inc.;;
+2022-03-02T20:44:23.548Z;co.tapcart.app.npQt0DXZpj;150;service-cdn.tapcart.com;104.22.25.167;Identifier_SSID_BSSID_Close;True;Tapcart Inc.;;
+2022-03-02T20:44:23.548Z;co.tapcart.app.npQt0DXZpj;150;xn5vepvd4i-dsn.algolia.net;63.251.115.92;Identifier_MAC_Router_Close;True;;Algolia;Algolia
+2022-03-02T20:44:23.548Z;co.tapcart.app.npQt0DXZpj;150;storage.googleapis.com;142.250.200.144;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T20:44:23.547Z;co.tapcart.app.npQt0DXZpj;150;devices.carnivalmobile.com;54.147.66.111;Identifier_MAC_Router_Close;True;Sailthru, Inc.;;
+2022-03-02T20:44:23.547Z;co.tapcart.app.npQt0DXZpj;150;cdn.tapcart.com;35.227.237.110;Identifier_MAC_Router_Close;True;Tapcart Inc.;;
+2022-03-02T20:44:23.538Z;co.tapcart.app.npQt0DXZpj;150;sessions.bugsnag.com;35.190.88.7;Identifier_MAC_Router_Close;True;Bugsnag Inc.;;
+2022-03-02T20:39:08.915Z;com.parallax4d.live.wallpapers;60;track.tenjin.com;34.237.251.118;Identifier_SSID_BSSID_Close;True;;Amazon;
+2022-03-02T20:39:08.913Z;com.parallax4d.live.wallpapers;60;mobotoolpush.moboapps.io;54.179.197.51;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-02T20:39:08.913Z;com.parallax4d.live.wallpapers;60;kvinit-prod.api.kochava.com;35.186.201.211;Identifier_MAC_Router_Close;True;PLAYXPERT;;
+2022-03-02T20:39:08.912Z;com.parallax4d.live.wallpapers;60;api.u-launcher.com;18.136.142.133;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-02T20:26:54.713Z;com.empel.android.dommuss;83;api.branch.io;52.85.187.121;Identifier_Ad_ID;False;;;Branch Metrics, Inc.
+2022-03-02T20:26:54.713Z;com.empel.android.dommuss;83;cdn.branch.io;13.33.232.71;Certificate Pinning;False;;;Branch Metrics, Inc.
+2022-03-02T20:24:15.518Z;com.adpog.diary;60;www.writediary.com;138.68.122.164;Identifier_MAC_Router_Close;False;VESTNES CONSULTING;Sectigo Limited;
+2022-03-02T20:21:31.416Z;podmusic.player.equalizer.bassbooster;64;privacypolicy.oss-us-west-1.aliyuncs.com;47.254.114.108;Identifier_MAC_Router_Close;True;;;Alibaba (China) Technology Co., Ltd.
+2022-03-02T20:17:48.831Z;br.com.tapps.donotdisturb3;124;www.googleapis.com;142.250.201.74;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T20:13:35.987Z;com.appicon.changerplus;4;infoevent.startappservice.com;188.42.123.172;Identifier_Ad_ID;True;StartApp;;
+2022-03-02T20:13:35.987Z;com.appicon.changerplus;4;adsmetadata.startappservice.com;188.42.122.140;Identifier_MAC_Router_Close;True;StartApp;;
+2022-03-02T20:05:38.206Z;net.andromo.dev554305.app782733;1008;s3.eu-central-1.amazonaws.com;52.219.75.207;Identifier_SSID_BSSID_Close;False;Amazon.com, Inc.;Amazon;
+2022-03-02T19:58:14.750Z;com.glasses.selfiesunglasses.photolab.beautyplus.photoeditor;1;pagead2.googlesyndication.com;142.250.184.162;Certificate Pinning;False;;Google Trust Services LLC;
+2022-03-02T19:55:40.407Z;com.yandex.yango;30122303;tc.mobile.yandex.net;5.45.217.132;Identifier_SSID_BSSID_Close;True;;Yandex LLC;Yandex LLC
+2022-03-02T19:55:40.403Z;com.yandex.yango;30122303;app.adjust.com;185.151.204.8;Identifier_MAC_Router_Close;False;;Adjust GmbH;Adjust GmbH
+2022-03-02T19:55:40.398Z;com.yandex.yango;30122303;startup.mobile.yandex.net;213.180.204.244;Identifier_MAC_Router_Close;True;;Yandex LLC;Yandex LLC
+2022-03-02T19:55:40.397Z;com.yandex.yango;30122303;www.googleadservices.com;142.250.201.66;Identifier_SSID_BSSID_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T19:55:40.397Z;com.yandex.yango;30122303;store.hispace.hicloud.com;80.158.2.135;Certificate Pinning;False;该域名已开通隐私保护;;
+2022-03-02T19:46:55.146Z;com.lotus.smartime;26;adiu.amap.com;59.82.31.149;Identifier_SSID_BSSID_Close;True;;Alibaba (China) Technology Co., Ltd.;Alibaba (China) Technology Co., Ltd.
+2022-03-02T19:27:22.674Z;app.cryptomania.com;3013;unknown;Unknown;Identifier_MAC_Router_Close;False;;;
+2022-03-02T19:12:55.610Z;hexiangian.birthdaysong.birthdaysongswithname.birthdaysongsmakermaster;9;bpi.petroltoday.com;173.212.224.198;Identifier_SSID_BSSID_Close;False;;;
+2022-03-02T19:12:55.610Z;hexiangian.birthdaysong.birthdaysongswithname.birthdaysongsmakermaster;9;www.facebook.com;31.13.83.36;Identifier_MAC_Router_Close;False;Meta Platforms, Inc.;Facebook, Inc.;Facebook, Inc.
+2022-03-02T19:09:00.138Z;com.alsa.app.maas;826;api.alsa.meep.me;176.34.182.142;Identifier_MAC_Router_Close;False;;;
+2022-03-02T19:02:03.450Z;com.qobuz.music;22021615;api.mixpanel.com;107.178.240.159;Identifier_MAC_Router_Close;True;;DigiCert Inc;
+2022-03-02T19:02:03.449Z;com.qobuz.music;22021615;www.qobuz.com;52.208.118.56;Identifier_MAC_Router_Close;False;;Gandi;
+2022-03-02T19:02:03.446Z;com.qobuz.music;22021615;api.instabug.com;52.84.70.114;Identifier_MAC_Router_Close;False;;;
+2022-03-02T18:58:12.598Z;com.ted.android;3688;firebaselogging-pa.googleapis.com;172.217.17.10;Identifier_Cookie_or_similar_Tech;False;;Google Trust Services LLC;
+2022-03-02T18:58:12.597Z;com.ted.android;3688;hxbtpvl2j2.execute-api.us-east-1.amazonaws.com;44.194.119.62;Identifier_MAC_Router_Close;True;Amazon.com, Inc.;;
+2022-03-02T18:58:12.596Z;com.ted.android;3688;devices.ted.com;34.197.87.195;Identifier_SSID_BSSID_Close;True;TED Conferences;Sectigo Limited;
+2022-03-02T18:54:16.934Z;com.cyworld.camera;35040360;openapi.cymera.com;211.234.242.61;Identifier_MAC_Router_Close;True;;GlobalSign nv-sa;
+2022-03-02T18:48:59.547Z;com.jrustonapps.myauroraforecast;168;control.teragence.net;51.195.224.113;Identifier_MAC_Router_Close;True;Teragence;;Cloudflare, Inc.
+2022-03-02T18:48:59.547Z;com.jrustonapps.myauroraforecast;168;www.jrustonapps.net;209.222.98.112;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-03-02T18:48:59.547Z;com.jrustonapps.myauroraforecast;168;api.appodealx.com;116.202.170.35;Identifier_MAC_Router_Close;False;;;
+2022-03-02T18:48:59.546Z;com.jrustonapps.myauroraforecast;168;www.jrustonapps.com;107.155.81.146;Identifier_MAC_Router_Close;True;;cPanel, Inc.;
+2022-03-02T18:45:10.849Z;com.helloweatherapp;73;skywisetiles.wdtinc.com;13.33.232.62;Identifier_SSID_BSSID_Close;False;;Weather Decision Technologies, LLC;
+2022-03-02T18:34:13.338Z;com.google.android.apps.youtube.kids;130401030;youtubei.googleapis.com;142.250.184.10;Certificate Pinning;False;;Google Trust Services LLC;
+2022-03-02T18:30:21.926Z;com.dailyyoga.inc;249;dailyyogaappimage.dailyyoga.com;52.85.187.70;Identifier_SSID_BSSID_Close;False;;GoDaddy.com, Inc.;
+2022-03-02T18:30:21.926Z;com.dailyyoga.inc;249;api.dailyyoga.com;52.85.187.26;Identifier_Ad_ID;False;;GoDaddy.com, Inc.;
+2022-03-02T18:30:21.926Z;com.dailyyoga.inc;249;dev.dailyyoga.com:8106;Unknown;Identifier_MAC_Router_Close;False;;GoDaddy.com, Inc.;
+2022-03-02T18:30:21.924Z;com.dailyyoga.inc;249;pre.dailyyoga.com;52.85.187.55;Identifier_MAC_Router_Close;False;;GoDaddy.com, Inc.;
+2022-03-02T18:30:21.922Z;com.dailyyoga.inc;249;da.anythinktech.com;47.115.0.205;Identifier_MAC_Router_Close;True;;;
+2022-03-02T18:30:21.921Z;com.dailyyoga.inc;249;api.anythinktech.com;54.254.82.46;Identifier_MAC_Router_Close;True;;;
+2022-03-02T18:23:44.703Z;com.mobile.number.locator.phone.gps.map;28;d2x8f0whw4zu0x.cloudfront.net;13.32.91.185;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-02T18:19:57.255Z;fm.rockfm.radio;5111;mobile-1411.api.privacy-center.org;13.33.232.24;Identifier_MAC_Router_Close;False;;;
+2022-03-02T18:19:57.254Z;fm.rockfm.radio;5111;sdk.privacy-center.org;52.85.187.119;Identifier_MAC_Router_Close;False;;;
+2022-03-02T18:19:57.254Z;fm.rockfm.radio;5111;sb.scorecardresearch.com;13.33.232.26;Identifier_MAC_Router_Close;False;TMRG, Inc;Sectigo Limited;
+2022-03-02T18:19:57.254Z;fm.rockfm.radio;5111;mobileconfig.sascdn.com;2.22.234.8;Identifier_MAC_Router_Close;False;Smartadserver;SAFEBRANDS S.A.S;
+2022-03-02T18:09:10.122Z;com.rayandating.eliteSingles;15;rayandating4.eu;192.99.65.93;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-03-02T18:09:10.122Z;com.rayandating.eliteSingles;15;karima.website;192.124.249.161;Identifier_MAC_Router_Close;True;;GoDaddy.com, Inc.;
+2022-03-02T18:05:28.788Z;app.modfnf.evilboyfriend.corruptedmod;1006;drive.google.com;142.250.200.78;Certificate Pinning;False;Google LLC;Google Trust Services LLC;
+2022-03-02T18:05:28.787Z;app.modfnf.evilboyfriend.corruptedmod;1006;fundingchoicesmessages.google.com;142.250.185.14;Identifier_SSID_BSSID_Close;False;;Google Trust Services LLC;
+2022-03-02T18:05:28.786Z;app.modfnf.evilboyfriend.corruptedmod;1006;o582999.ingest.sentry.io;34.120.195.249;Identifier_SSID_BSSID_Close;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-03-02T17:38:52.517Z;com.chatmirchi.video.livechat;10;chatmirchi.livedigitalgroup.com;3.16.51.197;Identifier_MAC_Router_Close;True;;;
+2022-03-02T17:27:42.840Z;com.sharekomry.androidapp;10305;pagead2.googleadservices.com;172.217.168.162;Identifier_SSID_BSSID_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T17:27:42.840Z;com.sharekomry.androidapp;10305;cm.g.doubleclick.net;142.250.200.98;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T17:27:42.839Z;com.sharekomry.androidapp;10305;m.stripe.network;52.85.187.85;Identifier_MAC_Router_Close;False;;Stripe, Inc;Stripe, Inc
+2022-03-02T17:27:42.838Z;com.sharekomry.androidapp;10305;assets.sharekomry.com;13.33.232.16;Identifier_SSID_BSSID_Close;False;;Amazon;
+2022-03-02T17:27:42.837Z;com.sharekomry.androidapp;10305;www.google-analytics.com;142.250.200.110;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T17:27:42.836Z;com.sharekomry.androidapp;10305;server.sharekomry.com;52.59.121.248;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-02T17:27:42.836Z;com.sharekomry.androidapp;10305;js.stripe.com;52.84.70.104;Identifier_MAC_Router_Close;False;;Stripe, Inc;Stripe, Inc
+2022-03-02T17:27:42.836Z;com.sharekomry.androidapp;10305;www.googletagmanager.com;216.58.215.136;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T17:23:56.643Z;com.colt;2006421801;codepush.appcenter.ms;20.44.73.19;Identifier_SSID_BSSID_Close;True;Microsoft Corporation;Microsoft Corporation;Microsoft Corporation
+2022-03-02T17:23:56.642Z;com.colt;2006421801;sentry-dev.inkitt.com;136.243.1.167;Identifier_MAC_Router_Close;False;Inkitt GmbH;;
+2022-03-02T17:19:28.054Z;com.dreamdiner.planner;106;digidine-server.herokuapp.com;18.211.231.38;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-02T17:08:16.308Z;com.mcu.reolink;513;apis.reolink.com;52.3.105.46;Identifier_SSID_BSSID_Close;True;;Amazon;
+2022-03-02T17:08:16.307Z;com.mcu.reolink;513;home-cdn.reolink.us;104.21.234.109;Identifier_MAC_Router_Close;True;;;
+2022-03-02T17:01:20.356Z;com.westwingnow.android;22193;s2s.adjust.com;185.151.204.200;Identifier_MAC_Router_Close;False;;Adjust GmbH;Adjust GmbH
+2022-03-02T17:01:20.355Z;com.westwingnow.android;22193;clientstream.launchdarkly.com;76.223.31.44;Identifier_MAC_Router_Close;True;Catamorphic Co.;Fastly, Inc.;
+2022-03-02T17:01:20.355Z;com.westwingnow.android;22193;mobile.launchdarkly.com;18.210.141.212;Identifier_MAC_Router_Close;True;Catamorphic Co.;Fastly, Inc.;
+2022-03-02T16:53:22.414Z;ma.safe.bnau;100826;translate.google.com;172.217.168.174;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T16:53:22.414Z;ma.safe.bnau;100826;read.areclipse.com;188.114.96.12;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-03-02T16:53:22.413Z;ma.safe.bnau;100826;bng.areclipse.com;188.114.96.12;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-03-02T16:49:42.980Z;net.aljazeera.arabic;253;device-api.urbanairship.com;35.244.184.98;Identifier_MAC_Router_Close;True;;Urban Airship, Inc.;Urban Airship, Inc.
+2022-03-02T16:49:42.979Z;net.aljazeera.arabic;253;ip-api.com;208.95.112.1;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-03-02T16:49:42.979Z;net.aljazeera.arabic;253;sdb.eu-west-1.amazonaws.com;52.95.121.75;Identifier_MAC_Router_Close;False;;;
+2022-03-02T16:49:42.979Z;net.aljazeera.arabic;253;remote-data.urbanairship.com;35.201.74.116;Identifier_MAC_Router_Close;True;;Urban Airship, Inc.;Urban Airship, Inc.
+2022-03-02T16:45:55.477Z;com.tefood.trustone;20000;www.eurofins-eclinical.com;104.26.8.247;Identifier_MAC_Router_Close;True;EUROFINS SCIENTIFIC (IRELAND) LIMITED;;Cloudflare, Inc.
+2022-03-02T16:45:55.476Z;com.tefood.trustone;20000;maps.googleapis.com;142.250.178.170;Identifier_SSID_BSSID_Close;False;;Google Trust Services LLC;
+2022-03-02T16:40:43.500Z;com.mobile.android.eris;130;api.erisdating.com;144.217.66.5;Certificate Pinning;True;;;
+2022-03-02T16:33:13.833Z;co.lucky.hookup;323;mlkit.googleapis.com;216.58.209.74;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T16:33:13.833Z;co.lucky.hookup;323;gcdsdk.appsflyer.com;52.84.70.82;Identifier_MAC_Router_Close;False;AppsFlyer;Amazon;
+2022-03-02T16:33:13.832Z;co.lucky.hookup;323;statistic.live.126.net;115.236.121.9;Identifier_MAC_Router_Close;True;Guangzhou NetEase Computer System Co., Ltd;;
+2022-03-02T16:33:13.832Z;co.lucky.hookup;323;wannos.127.net;103.129.255.75;Identifier_MAC_Router_Close;True;Guangzhou NetEase Computer System Co., Ltd;;
+2022-03-02T16:33:13.832Z;co.lucky.hookup;323;api.kasualapp.com;104.21.4.53;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-03-02T16:29:25.109Z;com.wetter.androidclient;1515247312;cdn.ampproject.org;142.250.184.161;Identifier_SSID_BSSID_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T16:29:25.108Z;com.wetter.androidclient;1515247312;api.usercentrics.eu;35.241.3.184;Identifier_MAC_Router_Close;True;;;
+2022-03-02T16:29:25.107Z;com.wetter.androidclient;1515247312;aggregator.service.usercentrics.eu;34.120.28.121;Identifier_MAC_Router_Close;True;;;
+2022-03-02T16:29:25.107Z;com.wetter.androidclient;1515247312;www.wetter.com;52.214.24.9;Identifier_MAC_Router_Close;False;;DigiCert Inc;
+2022-03-02T16:29:25.107Z;com.wetter.androidclient;1515247312;data-ce54b2d2bd.apps.iocnt.de;185.102.95.106;Identifier_MAC_Router_Close;False;;;
+2022-03-02T16:29:25.106Z;com.wetter.androidclient;1515247312;graphql.usercentrics.eu;34.120.238.166;Identifier_MAC_Router_Close;True;;;
+2022-03-02T16:29:25.106Z;com.wetter.androidclient;1515247312;app.usercentrics.eu;35.190.14.188;Identifier_MAC_Router_Close;True;;;
+2022-03-02T16:25:07.666Z;es.race.eurekar;10002;www.eurekar.com;195.235.243.91;Identifier_MAC_Router_Close;False;;RACE;
+2022-03-02T16:25:07.665Z;es.race.eurekar;10002;consent.cookiebot.com;2.17.211.210;Identifier_MAC_Router_Close;False;CYBOT;Sectigo Limited;
+2022-03-02T16:25:07.665Z;es.race.eurekar;10002;consentcdn.cookiebot.com;23.216.99.36;Identifier_MAC_Router_Close;False;CYBOT;Sectigo Limited;
+2022-03-02T16:15:19.084Z;com.prism.live;22022500;resource.prismlive.com;130.206.192.24;Identifier_MAC_Router_Close;False;;NAVER Corp.;NAVER Corp.
+2022-03-02T16:15:19.081Z;com.prism.live;22022500;global.apis.naver.com;203.104.162.224;Identifier_MAC_Router_Close;False;;NAVER Corp.;NAVER Corp.
+2022-03-02T16:15:19.080Z;com.prism.live;22022500;ace.loginfra.com;203.104.163.19;Identifier_MAC_Router_Close;False;;;
+2022-03-02T16:15:19.080Z;com.prism.live;22022500;apis.naver.com;203.104.162.224;Identifier_MAC_Router_Close;False;;NAVER Corp.;NAVER Corp.
+2022-03-02T16:07:42.308Z;my.photo.picture.keyboard.app.keyboard.theme;66;onesignal.com;104.18.225.52;Identifier_Ad_ID;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-03-02T16:07:42.308Z;my.photo.picture.keyboard.app.keyboard.theme;66;s0.2mdn.net;216.58.209.70;Identifier_MAC_Router_Close;False;Google Inc.;;
+2022-03-02T16:07:42.306Z;my.photo.picture.keyboard.app.keyboard.theme;66;api.monedata.io;34.98.112.212;Identifier_MAC_Router_Close;True;;Netlify, Inc;
+2022-03-02T16:07:42.303Z;my.photo.picture.keyboard.app.keyboard.theme;66;picturekeyboardapps.in;209.97.160.79;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-03-02T16:07:42.302Z;my.photo.picture.keyboard.app.keyboard.theme;66;api.tenor.com;142.250.201.74;Identifier_MAC_Router_Close;False;Google LLC;GlobalSign nv-sa;
+2022-03-02T16:02:44.917Z;ru.yandex.mail;94743;account.mail.ru;94.100.180.61;Identifier_MAC_Router_Close;True;MGL Mail.ru Internet Assets Limited;LLC Mail.Ru;LLC Mail.Ru
+2022-03-02T16:02:44.917Z;ru.yandex.mail;94743;img.imgsmail.ru;217.69.139.102;Identifier_MAC_Router_Close;True;MGL Mail.ru Internet Assets Limited;;
+2022-03-02T16:02:44.916Z;ru.yandex.mail;94743;o2.mail.ru;94.100.180.61;Identifier_MAC_Router_Close;True;MGL Mail.ru Internet Assets Limited;LLC Mail.Ru;LLC Mail.Ru
+2022-03-02T16:02:44.916Z;ru.yandex.mail;94743;xray.mail.ru;217.69.140.238;Identifier_MAC_Router_Close;True;MGL Mail.ru Internet Assets Limited;LLC Mail.Ru;LLC Mail.Ru
+2022-03-02T16:02:44.915Z;ru.yandex.mail;94743;mail.yandex.ru;77.88.21.37;Identifier_MAC_Router_Close;True;YANDEX, LLC.;Yandex LLC;Yandex LLC
+2022-03-02T16:02:44.915Z;ru.yandex.mail;94743;cdn.aaacdn.net;149.5.241.81;Identifier_MAC_Router_Close;False;;;
+2022-03-02T16:02:44.915Z;ru.yandex.mail;94743;social.yandex.com;213.180.204.201;Identifier_MAC_Router_Close;True;;Yandex LLC;Yandex LLC
+2022-03-02T15:57:09.387Z;io.sa.pelisplay;3;www.themoviedb.org;52.85.187.114;Identifier_MAC_Router_Close;False;Fanhattan LLC;;
+2022-03-02T15:57:09.387Z;io.sa.pelisplay;3;d.applovin.com;2.17.154.21;Identifier_MAC_Router_Close;False;;COMODO CA Limited;
+2022-03-02T15:57:09.386Z;io.sa.pelisplay;3;api.themoviedb.org;52.84.70.47;Identifier_MAC_Router_Close;False;Fanhattan LLC;;
+2022-03-02T15:57:09.385Z;io.sa.pelisplay;3;rt.applovin.com;2.17.154.21;Identifier_MAC_Router_Close;False;;COMODO CA Limited;
+2022-03-02T15:57:09.385Z;io.sa.pelisplay;3;ms.applovin.com;2.17.154.21;Identifier_MAC_Router_Close;False;;COMODO CA Limited;
+2022-03-02T15:57:09.384Z;io.sa.pelisplay;3;play.google.com;142.250.201.78;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T15:57:09.383Z;io.sa.pelisplay;3;moviespanish-495ad.web.app;199.36.158.100;Identifier_MAC_Router_Close;True;Charleston Road Registry, Inc.;Google Trust Services LLC;
+2022-03-02T15:46:10.410Z;com.imo.android.imoim;22012031;api.imotech.tech;164.90.105.129;Identifier_SSID_BSSID_Close;False;guang zhou jin huan wang luo ke ji you xian gong si;;
+2022-03-02T15:46:10.410Z;com.imo.android.imoim;22012031;gdl.news-cdn.site;164.90.112.144;Identifier_MAC_Router_Close;False;;;
+2022-03-02T15:46:10.408Z;com.imo.android.imoim;22012031;api.likee.video;202.168.102.29;Identifier_MAC_Router_Close;False;;DigiCert Inc;
+2022-03-02T15:40:38.275Z;schan.main;676;cognito-identity.us-east-1.amazonaws.com;3.92.246.97;Identifier_MAC_Router_Close;True;Amazon.com, Inc.;Amazon;
+2022-03-02T15:36:51.817Z;com.bybutter.nichi;311;launches.appsflyer.com;52.84.70.35;Certificate Pinning;False;AppsFlyer;Amazon;
+2022-03-02T15:36:51.816Z;com.bybutter.nichi;311;mini-hk.bybutter.com;47.56.206.238;Identifier_MAC_Router_Close;True;;北京缪客科技有限公司;北京缪客科技有限公司
+2022-03-02T15:33:17.192Z;life.stroller.preggers;1970;firebasestorage.googleapis.com;142.250.178.170;Identifier_SSID_BSSID_Close;False;;Google Trust Services LLC;
+2022-03-02T15:33:17.192Z;life.stroller.preggers;1970;api2.amplitude.com;54.149.64.13;Identifier_Ad_ID;True;Amplitude;COMODO CA Limited;
+2022-03-02T15:33:17.191Z;life.stroller.preggers;1970;europe-west1-preggers-production.cloudfunctions.net;216.239.36.54;Identifier_MAC_Router_Close;True;;Google Trust Services LLC;
+2022-03-02T15:33:17.190Z;life.stroller.preggers;1970;preggers-production.firebaseio.com;35.201.97.85;Identifier_MAC_Router_Close;True;Google LLC;;
+2022-03-02T15:17:33.266Z;com.tabtale.babycareanddressup;122;api.appsflyer.com;13.224.106.126;Identifier_SSID_BSSID_Close;False;AppsFlyer;Amazon;
+2022-03-02T15:17:33.266Z;com.tabtale.babycareanddressup;122;impression.appsflyer.com;52.84.70.49;Identifier_MAC_Router_Close;False;AppsFlyer;Amazon;
+2022-03-02T15:17:33.266Z;com.tabtale.babycareanddressup;122;promo-images.ttpsdk.info;52.85.187.100;Identifier_MAC_Router_Close;False;;;
+2022-03-02T15:17:33.265Z;com.tabtale.babycareanddressup;122;t.appsflyer.com;52.84.70.99;Identifier_MAC_Router_Close;False;AppsFlyer;Amazon;
+2022-03-02T15:17:33.265Z;com.tabtale.babycareanddressup;122;live.chartboost.com;34.107.157.36;Identifier_Ad_ID;True;Chartboost, Inc.;;
+2022-03-02T15:17:33.261Z;com.tabtale.babycareanddressup;122;gateway.ttpsdk.info;13.224.106.79;Identifier_Ad_ID;False;;;
+2022-03-02T15:13:40.928Z;com.lluraferi.endado;27417030;cdn.reskyt.com;52.85.187.46;Identifier_MAC_Router_Close;False;RESKYT ONLINE SL;Sectigo Limited;
+2022-03-02T15:13:40.928Z;com.lluraferi.endado;27417030;app.reskyt.com;52.215.165.78;Identifier_MAC_Router_Close;False;RESKYT ONLINE SL;Sectigo Limited;
+2022-03-02T15:13:40.925Z;com.lluraferi.endado;27417030;api.reskyt.com;52.215.165.78;Identifier_MAC_Router_Close;False;RESKYT ONLINE SL;Sectigo Limited;
+2022-03-02T15:11:02.440Z;com.WoodenHouseDesign.someiatiAPP;1;ajax.googleapis.com;142.250.201.74;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T15:08:37.136Z;com.devmobile.nadorcity;4;www.souksegangan.com;92.205.3.88;Identifier_MAC_Router_Close;False;;Starfield Technologies, Inc.;
+2022-03-02T14:57:50.461Z;com.ducati.myducati;109;mc8kpxypxhn6gycy0pfjf8k90gz4.device.marketingcloudapis.com;13.111.95.28;Identifier_MAC_Router_Close;True;Salesforce.com, Inc.;;
+2022-03-02T14:54:03.709Z;air.com.rosytales.princessmermaidathairsalon;1000003;encrypted-tbn2.gstatic.com;142.250.178.174;Certificate Pinning;False;;Google Trust Services LLC;
+2022-03-02T14:54:03.704Z;air.com.rosytales.princessmermaidathairsalon;1000003;cdn.glulo.com;185.76.11.112;Identifier_SSID_BSSID_Close;False;;cPanel, Inc.;
+2022-03-02T14:54:03.702Z;air.com.rosytales.princessmermaidathairsalon;1000003;www.rosy-tales.com;82.77.199.11;Identifier_MAC_Router_Close;False;Racz Ioan Paul II;cPanel, Inc.;
+2022-03-02T14:46:31.888Z;com.littlelunchess.android;56;o567697.ingest.sentry.io;34.120.195.249;Identifier_SSID_BSSID_Close;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-03-02T14:45:27.319Z;com.littlelunchess.android;56;api.littlelunches.com;72.44.62.81;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-03-02T14:42:49.028Z;com.casasdeapuestas;5;www.casasdeapuestas.com;104.26.6.5;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-03-02T14:31:58.253Z;com.zenput.mobile;1527372263;cp.pushwoosh.com;78.47.243.139;Identifier_SSID_BSSID_Close;False;Arello Mobile;Sectigo Limited;
+2022-03-02T14:17:12.965Z;com.coincodex.coincodexapp;341;coincodex.com;172.67.70.249;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-03-02T14:13:14.350Z;com.podcastsapp;49;aud.apioz.com;13.36.128.150;Identifier_MAC_Router_Close;False;;;
+2022-03-02T14:13:14.348Z;com.podcastsapp;49;api.audecibel.com;13.36.128.150;Identifier_SSID_BSSID_Close;False;AppSmartz;Let's Encrypt;
+2022-03-02T14:09:17.718Z;com.vdate.match.like.uu;110;ads.mopub.com;192.48.236.4;Identifier_SSID_BSSID_Close;True;MoPub Inc.;Twitter, Inc.;Twitter, Inc.
+2022-03-02T14:09:17.717Z;com.vdate.match.like.uu;110;ukulive.com;188.114.97.12;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-03-02T14:09:17.717Z;com.vdate.match.like.uu;110;scontent-mad1-1.xx.fbcdn.net;31.13.83.4;Identifier_MAC_Router_Close;False;Meta Platforms, Inc.;Facebook, Inc.;Facebook, Inc.
+2022-03-02T14:09:17.715Z;com.vdate.match.like.uu;110;data.ukulive.com;188.114.96.12;Identifier_SSID_BSSID_Close;True;;;Cloudflare, Inc.
+2022-03-02T14:04:36.584Z;com.viajessancecilio.abadiadelsacromonte;11;audioguiaarchidiocesis.winecta.com;37.187.252.63;Identifier_MAC_Router_Close;False;APP&WEB INNOVA, S.L.;Let's Encrypt;
+2022-03-02T13:55:39.224Z;com.vibrator.massage;17;api.revenuecat.com;184.73.63.49;Identifier_SSID_BSSID_Close;True;;;
+2022-03-02T13:53:26.742Z;me.discotech;200114;api.discotech.me;52.37.139.46;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-02T13:46:50.629Z;com.pepiplay.pepihome;122;us-central1-pepi-functions.cloudfunctions.net;216.239.36.54;Identifier_MAC_Router_Close;True;;Google Trust Services LLC;
+2022-03-02T13:46:50.629Z;com.pepiplay.pepihome;122;z.moatads.com;92.123.34.205;Identifier_MAC_Router_Close;False;;Oracle Corporation;Oracle Corporation
+2022-03-02T13:39:28.700Z;com.vorwerk.cookidoo;85;gb.tmmobile.vorwerk-digital.com;13.33.232.57;Certificate Pinning;False;;Let's Encrypt;
+2022-03-02T13:31:52.246Z;es.eltiempo.weatherapp;1299;mobile-1550.api.privacy-center.org;13.33.232.100;Identifier_MAC_Router_Close;False;;;
+2022-03-02T13:31:52.244Z;es.eltiempo.weatherapp;1299;api.eltiempo.es;52.49.236.101;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-02T13:31:49.624Z;es.eltiempo.weatherapp;1299;connect-dre.dbankcloud.cn;80.158.56.80;Certificate Pinning;False;;;
+2022-03-02T13:19:03.202Z;sk.tb.ib.tatraandroid;15390;moja.tatrabanka.sk;213.215.88.236;Certificate Pinning;False;;Tatra banka, a.s.;Tatra banka, a.s.
+2022-03-02T13:13:23.577Z;com.linkdev.egyptair.app;60;partners.egyptair.com;104.22.6.20;Identifier_SSID_BSSID_Close;True;;EgyptAir Holding Company;EgyptAir Holding Company
+2022-03-02T13:10:29.480Z;com.iViNi.bmwhatLite;48004;decide.mixpanel.com;35.186.241.51;Identifier_MAC_Router_Close;True;;DigiCert Inc;
+2022-03-02T13:08:54.609Z;com.iViNi.bmwhatLite;48004;cdn-settings.segment.com;13.32.90.40;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-02T13:03:36.650Z;com.buscounchollo;301;appmovil.buscounchollo.com;52.18.157.185;Identifier_MAC_Router_Close;False;canaldominios.com;Amazon;
+2022-03-02T12:22:46.010Z;org.easyweb.browser;223;appgiftwall.oss-us-west-1.aliyuncs.com;47.254.114.101;Identifier_MAC_Router_Close;True;;;Alibaba (China) Technology Co., Ltd.
+2022-03-02T12:22:46.010Z;org.easyweb.browser;223;api.worldweatheronline.com;185.59.220.194;Identifier_MAC_Router_Close;False;;GoDaddy.com, Inc.;
+2022-03-02T12:15:49.774Z;es.enaire.androiddrones;2006;servais.enaire.es;194.224.110.24;Identifier_MAC_Router_Close;False;;Org;ENAIRE
+2022-03-02T12:12:06.452Z;com.leolegaltechapps.officetools;29;cdn-api.admost.com;185.93.3.243;Identifier_SSID_BSSID_Close;False;Kokteyl A.S.;Sectigo Limited;
+2022-03-02T12:01:35.672Z;facturascloud.app;82;facturascloud.com;35.187.49.57;Identifier_SSID_BSSID_Close;False;;Sectigo Limited;
+2022-03-02T11:54:01.017Z;com.diodev.guaguas;19;movil.titsa.com;54.38.37.224;Identifier_MAC_Router_Close;False;;Transportes Interurbanos de Tenerife S.A.U.;Transportes Interurbanos de Tenerife S.A.U.
+2022-03-02T11:51:24.424Z;com.mm.android.smartlifeiot;500119;logreport-v2.easy4ipcloud.com;35.156.44.236;Certificate Pinning;False;;;
+2022-03-02T11:51:24.421Z;com.mm.android.smartlifeiot;500119;app-v2.easy4ipcloud.com;18.194.63.115;Identifier_MAC_Router_Close;False;;;
+2022-03-02T11:46:26.414Z;com.nike.snkrs;2022020215;logx.optimizely.com;34.195.245.151;Identifier_SSID_BSSID_Close;True;Optimizely;Sectigo Limited;
+2022-03-02T11:46:26.414Z;com.nike.snkrs;2022020215;api.nike.com;2.17.211.208;Identifier_MAC_Router_Close;False;Nike, Inc.;;
+2022-03-02T11:46:26.414Z;com.nike.snkrs;2022020215;2419f262b831daae582d1079ea6f270ad4a2a9ee7-8821d708132b.cdn.forter.com;54.81.184.157;Identifier_MAC_Router_Close;True;Forter;COMODO CA Limited;
+2022-03-02T11:46:26.414Z;com.nike.snkrs;2022020215;nike.sc.omtrdc.net;15.188.95.229;Identifier_MAC_Router_Close;False;Adobe Inc.;;
+2022-03-02T11:46:26.413Z;com.nike.snkrs;2022020215;www.nike.com;95.100.125.161;Identifier_SSID_BSSID_Close;False;Nike, Inc.;;
+2022-03-02T11:46:26.412Z;com.nike.snkrs;2022020215;raw.githubusercontent.com;185.199.110.133;Identifier_MAC_Router_Close;True;;GitHub, Inc.;GitHub, Inc.
+2022-03-02T11:46:26.412Z;com.nike.snkrs;2022020215;dpm.demdex.net;52.49.194.103;Identifier_MAC_Router_Close;False;Adobe Inc.;;
+2022-03-02T11:46:26.412Z;com.nike.snkrs;2022020215;combine.urbanairship.com;35.190.53.75;Identifier_MAC_Router_Close;True;DNStination Inc.;Urban Airship, Inc.;Urban Airship, Inc.
+2022-03-02T11:46:26.411Z;com.nike.snkrs;2022020215;mobile-collector.newrelic.com;162.247.243.189;Identifier_SSID_BSSID_Close;True;New Relic;GlobalSign nv-sa;
+2022-03-02T11:46:26.411Z;com.nike.snkrs;2022020215;cdn.optimizely.com;2.17.153.36;Identifier_MAC_Router_Close;False;Optimizely;Sectigo Limited;
+2022-03-02T11:46:26.411Z;com.nike.snkrs;2022020215;8821d708132b.cdn4.forter.com;52.85.187.86;Identifier_MAC_Router_Close;False;Forter;COMODO CA Limited;
+2022-03-02T11:46:26.409Z;com.nike.snkrs;2022020215;analytics.nike.com;23.37.164.109;Identifier_Ad_ID;False;Nike, Inc.;;
+2022-03-02T11:46:26.408Z;com.nike.snkrs;2022020215;m.api.forter.com;184.72.67.62;Identifier_SSID_BSSID_Close;True;Forter;COMODO CA Limited;
+2022-03-02T11:46:26.406Z;com.nike.snkrs;2022020215;bot-mitigation.nike.com;23.37.164.109;Identifier_MAC_Router_Close;False;;;
+2022-03-02T11:46:26.405Z;com.nike.snkrs;2022020215;api.weibo.com;114.134.80.166;Identifier_MAC_Router_Close;True;;Sina.com Technology(China)Co.,ltd;Sina.com Technology(China)Co.,ltd
+2022-03-02T11:39:29.708Z;com.iyia.repost;202;in.appcenter.ms;52.177.138.113;Identifier_MAC_Router_Close;True;Microsoft Corporation;Microsoft Corporation;Microsoft Corporation
+2022-03-02T11:34:31.597Z;com.grashof.precioelectricidadpvpc;192;api.esios.ree.es;45.60.65.41;Identifier_SSID_BSSID_Close;True;;Sony Corporation of America;Red Electrica de España SA
+2022-03-02T11:30:54.579Z;downloader.video.download.free;3145808;ssp-events.chartboost.com;35.172.66.252;Identifier_SSID_BSSID_Close;True;Chartboost, Inc.;;
+2022-03-02T11:30:54.579Z;downloader.video.download.free;3145808;t2.chartboost.com;209.197.3.85;Identifier_MAC_Router_Close;True;Chartboost, Inc.;;
+2022-03-02T11:30:54.577Z;downloader.video.download.free;3145808;aax-eu.amazon-adsystem.com;52.95.126.138;Identifier_SSID_BSSID_Close;False;Amazon Technologies, Inc.;;
+2022-03-02T11:30:54.575Z;downloader.video.download.free;3145808;wv.inner-active.mobi;23.37.170.32;Identifier_MAC_Router_Close;False;;;
+2022-03-02T11:30:54.572Z;downloader.video.download.free;3145808;aax.amazon-adsystem.com;52.95.126.138;Identifier_Ad_ID;False;Amazon Technologies, Inc.;;
+2022-03-02T11:30:54.571Z;downloader.video.download.free;3145808;sf16-fe-tos-va.i18n-pglstatp.com;2.22.234.56;Identifier_MAC_Router_Close;False;;;
+2022-03-02T11:30:54.569Z;downloader.video.download.free;3145808;s3.castbox.fm;13.33.232.109;Identifier_SSID_BSSID_Close;False;;Amazon;
+2022-03-02T11:30:54.569Z;downloader.video.download.free;3145808;mads.amazon-adsystem.com;52.94.224.25;Identifier_MAC_Router_Close;True;Amazon Technologies, Inc.;;
+2022-03-02T11:30:54.569Z;downloader.video.download.free;3145808;saas.castbox.fm;34.200.130.190;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-02T11:30:54.569Z;downloader.video.download.free;3145808;dm16-useast2a.byteoversea.com;2.17.211.170;Identifier_MAC_Router_Close;False;;;
+2022-03-02T11:30:54.568Z;downloader.video.download.free;3145808;sf16-muse-va.ibytedtos.com;84.53.132.107;Identifier_SSID_BSSID_Close;False;;;
+2022-03-02T11:30:54.568Z;downloader.video.download.free;3145808;www.google.com;142.250.184.4;Identifier_SSID_BSSID_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T11:30:54.568Z;downloader.video.download.free;3145808;dm16-useast1a.byteoversea.com;2.17.211.170;Identifier_MAC_Router_Close;False;;;
+2022-03-02T11:30:54.567Z;downloader.video.download.free;3145808;c.amazon-adsystem.com;54.230.95.224;Identifier_MAC_Router_Close;False;;;
+2022-03-02T11:26:32.527Z;com.jkfantasy.gpsmapcamera;94;api.openweathermap.org;188.166.16.132;Identifier_SSID_BSSID_Close;False;Openweather Ltd.;ZeroSSL;
+2022-03-02T11:22:49.043Z;watts.abbeygoldenpluslastseentracker2;2;config.e-droid.net;82.165.74.143;Certificate Pinning;False;;Sectigo Limited;
+2022-03-02T11:19:04.215Z;com.atpc;517;pangolin16.isnssdk.com;2.17.211.162;Identifier_SSID_BSSID_Close;False;;;
+2022-03-02T11:19:04.214Z;com.atpc;517;www.youtube.com;142.250.184.14;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T11:15:09.509Z;com.thegosa.huaweithemes;52;github.com;140.82.121.4;Identifier_MAC_Router_Close;False;;GitHub, Inc.;GitHub, Inc.
+2022-03-02T11:11:22.076Z;com.topu.livechat;9;e.1-1.io;52.89.66.51;Identifier_SSID_BSSID_Close;True;;;
+2022-03-02T11:11:22.075Z;com.topu.livechat;9;navi.1-1.io;13.56.245.155;Certificate Pinning;True;;;
+2022-03-02T11:07:41.714Z;com.parkourrace.game;1090600;o487869.ingest.sentry.io;34.120.195.249;Identifier_MAC_Router_Close;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-03-02T10:51:01.738Z;com.netpulse.mobile.netpulsefitness;498;one.netpulse.com;52.84.70.22;Identifier_MAC_Router_Close;False;eGym GmbH;;
+2022-03-02T10:34:20.427Z;com.google.android.apps.books;120141;books.google.com;216.58.209.78;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T10:34:20.427Z;com.google.android.apps.books;120141;playbooks-pa.googleapis.com;172.217.17.10;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T10:34:20.425Z;com.google.android.apps.books;120141;android.clients.google.com;216.58.215.142;Identifier_SSID_BSSID_Close;False;;Google Trust Services LLC;
+2022-03-02T10:23:31.874Z;com.pdf.ocr.scanner.free.file.document.doc.app.scan.camera;37;lh5.googleusercontent.com;142.250.200.129;Identifier_MAC_Router_Close;False;;;
+2022-03-02T10:23:31.873Z;com.pdf.ocr.scanner.free.file.document.doc.app.scan.camera;37;api.photoeditorsdk.com;35.190.50.119;Identifier_SSID_BSSID_Close;True;;Google Trust Services LLC;
+2022-03-02T10:23:31.871Z;com.pdf.ocr.scanner.free.file.document.doc.app.scan.camera;37;img.ly;35.190.50.119;Identifier_MAC_Router_Close;True;Basar Deutsch GBR;Google Trust Services LLC;
+2022-03-02T10:23:31.869Z;com.pdf.ocr.scanner.free.file.document.doc.app.scan.camera;37;lh4.googleusercontent.com;142.250.200.129;Identifier_MAC_Router_Close;False;Google LLC;;
+2022-03-02T10:23:31.868Z;com.pdf.ocr.scanner.free.file.document.doc.app.scan.camera;37;photoeditorsdk.com;151.101.65.195;Identifier_SSID_BSSID_Close;True;;Google Trust Services LLC;
+2022-03-02T10:23:31.868Z;com.pdf.ocr.scanner.free.file.document.doc.app.scan.camera;37;lh6.googleusercontent.com;142.250.200.129;Identifier_MAC_Router_Close;False;Google LLC;;
+2022-03-02T10:23:31.866Z;com.pdf.ocr.scanner.free.file.document.doc.app.scan.camera;37;www.photoeditorsdk.com;151.101.1.195;Identifier_MAC_Router_Close;True;;Google Trust Services LLC;
+2022-03-02T10:18:20.278Z;com.icg.teamicgapp;20061;api.teamicg.online;88.99.220.204;Identifier_SSID_BSSID_Close;False;;Let's Encrypt;
+2022-03-02T10:14:32.772Z;es.inmovens.vhebron.ictusproject;150;crashlyticsreports-pa.googleapis.com;142.250.185.3;Identifier_SSID_BSSID_Close;False;;Google Trust Services LLC;
+2022-03-02T10:14:32.766Z;es.inmovens.vhebron.ictusproject;150;ictus.vhebron.net;84.88.74.6;Identifier_MAC_Router_Close;False;;;
+2022-03-02T10:07:45.685Z;com.impelsys.elibro.android.ebookstore;8;ioffline.ipublishcentral.com;52.201.185.177;Identifier_SSID_BSSID_Close;True;;GoDaddy.com, Inc.;
+2022-03-02T10:07:45.685Z;com.impelsys.elibro.android.ebookstore;8;kinesis.us-east-1.amazonaws.com;3.91.171.227;Identifier_MAC_Router_Close;True;Amazon.com, Inc.;Amazon;
+2022-03-02T10:02:36.487Z;es.emtmadrid.mobility360;213;maas.emtmadrid.es;132.145.244.221;Certificate Pinning;False;;;
+2022-03-02T09:45:18.117Z;com.hovans.autoguard;4193;alpha-autoguard.hovans.com;152.70.251.146;Identifier_MAC_Router_Close;True;;;
+2022-03-02T09:41:59.468Z;com.camerafilter.lomopalaro;40;adc3-launch.adcolony.com;3.222.88.204;Identifier_MAC_Router_Close;True;;COMODO CA Limited;
+2022-03-02T09:41:59.468Z;com.camerafilter.lomopalaro;40;config.inmobi.com;104.45.180.93;Identifier_MAC_Router_Close;True;;INMOBI TECHNOLOGIES PRIVATE LIMITED;INMOBI TECHNOLOGIES PRIVATE LIMITED
+2022-03-02T09:41:59.467Z;com.camerafilter.lomopalaro;40;haiwai-kodacam.oss-accelerate.aliyuncs.com;8.208.41.158;Identifier_MAC_Router_Close;True;;;Alibaba (China) Technology Co., Ltd.
+2022-03-02T09:38:13.315Z;com.kdmedia.nailsdesigns;23;req.startappservice.com;217.65.34.27;Identifier_SSID_BSSID_Close;True;StartApp;;
+2022-03-02T09:38:13.315Z;com.kdmedia.nailsdesigns;23;danielkeresztes.com;195.228.152.176;Identifier_MAC_Router_Close;False;Keresztes Daniel;;
+2022-03-02T09:28:22.905Z;duduoapp.apligtm;9;imgs1.e-droid.net;185.76.11.111;Identifier_MAC_Router_Close;False;;Sectigo Limited;
+2022-03-02T09:25:43.802Z;com.king.candycrushsaga;12210041;mobilecrush.king.com;185.48.81.27;Identifier_MAC_Router_Close;False;Midasplayer (Skills) Limited, Malta branch;Google Trust Services LLC;
+2022-03-02T09:25:43.801Z;com.king.candycrushsaga;12210041;play.king.com;185.48.81.54;Identifier_MAC_Router_Close;False;Midasplayer (Skills) Limited, Malta branch;Google Trust Services LLC;
+2022-03-02T09:25:43.800Z;com.king.candycrushsaga;12210041;adtrack1.midasplayer.com;52.85.185.28;Identifier_MAC_Router_Close;False;King.com Limited;;
+2022-03-02T09:20:47.067Z;com.givvyplayearngamesfun;200;theoremreach.com;50.19.196.239;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-02T09:20:47.066Z;com.givvyplayearngamesfun;200;connect.tapjoy.com;3.208.255.17;Identifier_Ad_ID;True;;Amazon;
+2022-03-02T09:20:47.065Z;com.givvyplayearngamesfun;200;analytics.rayjump.com;8.209.68.18;Identifier_MAC_Router_Close;False;;;
+2022-03-02T09:20:47.065Z;com.givvyplayearngamesfun;200;configure.rayjump.com;35.156.250.39;Identifier_MAC_Router_Close;False;;;
+2022-03-02T09:16:57.801Z;es.orangebank.app;1430001;mc4ycbg2r98ndtdlz6w1lxg2r3rq.device.marketingcloudapis.com;161.71.33.241;Identifier_MAC_Router_Close;False;Salesforce.com, Inc.;;
+2022-03-02T09:16:57.801Z;es.orangebank.app;1430001;ob.orangebank.es;52.84.70.16;Certificate Pinning;False;;Amazon;
+2022-03-02T09:10:59.770Z;com.tiosignals.app;16;license.gonative.io;192.155.91.240;Identifier_MAC_Router_Close;True;;DigiCert Inc;
+2022-03-02T09:10:59.768Z;com.tiosignals.app;16;tiomarkets-signals-app.herokuapp.com;54.220.192.176;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-02T09:07:28.841Z;com.idle.railway.empire.tycoon;1255069;aos.go2s.co;47.241.5.81;Identifier_MAC_Router_Close;True;;;
+2022-03-02T09:07:28.840Z;com.idle.railway.empire.tycoon;1255069;spatial.fineboost.com;47.74.186.101;Identifier_MAC_Router_Close;True;;;
+2022-03-02T09:07:28.840Z;com.idle.railway.empire.tycoon;1255069;errlog.umeng.com;223.109.148.143;Identifier_MAC_Router_Close;True;;;
+2022-03-02T09:07:28.840Z;com.idle.railway.empire.tycoon;1255069;game7.aihelp.net;169.45.173.37;Identifier_MAC_Router_Close;True;;GoDaddy.com, Inc.;
+2022-03-02T09:07:28.840Z;com.idle.railway.empire.tycoon;1255069;e3log1.fineboost.com;47.241.29.29;Identifier_MAC_Router_Close;True;;;
+2022-03-02T09:07:28.839Z;com.idle.railway.empire.tycoon;1255069;epcfg.fineboost.com;47.241.216.224;Identifier_MAC_Router_Close;True;;;
+2022-03-02T09:07:28.839Z;com.idle.railway.empire.tycoon;1255069;e3log3.fineboost.com;47.241.29.29;Certificate Pinning;True;;;
+2022-03-02T09:07:28.839Z;com.idle.railway.empire.tycoon;1255069;e3log2.fineboost.com;47.241.29.29;Certificate Pinning;True;;;
+2022-03-02T08:51:21.579Z;com.nut.inc.wakeyboard;1211010;i.imgur.com;151.101.240.193;Identifier_MAC_Router_Close;False;;Imgur, Inc.;Imgur, Inc.
+2022-03-02T08:51:21.577Z;com.nut.inc.wakeyboard;1211010;ogmods.app;104.21.1.237;Identifier_MAC_Router_Close;True;Private by Design, LLC;;Cloudflare, Inc.
+2022-03-02T08:42:17.957Z;com.degaltec.lisapp;10013;m.stripe.com;35.162.209.223;Identifier_MAC_Router_Close;True;;Stripe, Inc;Stripe, Inc
+2022-03-02T08:38:57.975Z;com.beautysalon.makeupartist;39;res.funlandinggame.com;13.33.232.14;Identifier_MAC_Router_Close;False;;;
+2022-03-02T08:38:57.974Z;com.beautysalon.makeupartist;39;app.funlandinggame.com;54.236.73.0;Identifier_MAC_Router_Close;True;;;
+2022-03-02T08:38:57.972Z;com.beautysalon.makeupartist;39;conversions.appsflyer.com;52.84.70.99;Certificate Pinning;False;AppsFlyer;Amazon;
+2022-03-02T08:33:48.693Z;audio.books.summaries;11;fstream.in;188.114.96.12;Identifier_SSID_BSSID_Close;True;;;Cloudflare, Inc.
+2022-03-02T08:33:48.692Z;audio.books.summaries;11;cookbookapp.in;52.207.57.185;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-02T08:30:05.515Z;com.imperon.android.gymapp;281;docs.google.com;142.250.200.110;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T08:22:34.904Z;com.chestionare.auto.online;1;ca2020.zasearch.com;160.153.129.234;Identifier_MAC_Router_Close;False;;Starfield Technologies, Inc.;
+2022-03-02T08:15:59.840Z;com.eyefilter.nightmode.bluelightfilter;77;ad.period-calendar.com;54.177.216.127;Identifier_MAC_Router_Close;True;;GoDaddy.com, Inc.;
+2022-03-02T08:12:10.836Z;com.Mobile.Number.Locator.Caller.Location;56;onex-28c2.kxcdn.com;185.172.149.132;Identifier_SSID_BSSID_Close;False;proinity GmbH;DigiCert Inc;
+2022-03-02T08:04:46.971Z;com.timp;1645794579;api.timp.pro;63.32.161.232;Identifier_MAC_Router_Close;False;;;
+2022-03-02T08:01:00.925Z;com.desygner.pdf;5446;static.webrand.com;13.33.232.5;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-02T08:01:00.924Z;com.desygner.pdf;5446;static.desygner.com;52.85.187.108;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-02T08:01:00.924Z;com.desygner.pdf;5446;s3.amazonaws.com;54.231.132.56;Identifier_MAC_Router_Close;True;Amazon.com, Inc.;Amazon.com, Inc.;
+2022-03-02T07:36:50.448Z;com.ringdom.reader;218;inapps.appsflyer.com;52.84.70.117;Certificate Pinning;False;AppsFlyer;Amazon;
+2022-03-02T07:36:50.448Z;com.ringdom.reader;218;bi.dreame.com;35.174.97.120;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-02T07:36:50.448Z;com.ringdom.reader;218;api.dreame.com;54.146.230.129;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-02T07:36:50.447Z;com.ringdom.reader;218;api.tradplusad.com;8.209.77.223;Identifier_MAC_Router_Close;False;;DigiCert Inc;
+2022-03-02T07:30:13.596Z;com.pixlr.express;161;ms4.applovin.com;2.17.154.21;Identifier_SSID_BSSID_Close;False;;COMODO CA Limited;
+2022-03-02T07:30:13.591Z;com.pixlr.express;161;pixlr.com;52.84.70.114;Identifier_SSID_BSSID_Close;False;;;
+2022-03-02T07:18:50.921Z;com.spongebob.bikinibottom.mcpe;1;ngirimnotip.blogspot.com;172.217.168.161;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T07:18:50.920Z;com.spongebob.bikinibottom.mcpe;1;resources.blogblog.com;216.58.215.137;Identifier_SSID_BSSID_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-02T07:18:50.919Z;com.spongebob.bikinibottom.mcpe;1;www.blogger.com;216.58.215.137;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T07:18:50.918Z;com.spongebob.bikinibottom.mcpe;1;apis.google.com;142.250.184.14;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-02T07:15:17.007Z;com.wilysis.cellinfolite;225023;data.m2appinsight.com;3.229.96.40;Identifier_MAC_Router_Close;True;M2Catalyst, LLC;Sectigo Limited;
+2022-03-02T07:12:29.737Z;com.bergfex.mobile.android;202;www.bergfex.at;62.99.159.50;Identifier_SSID_BSSID_Close;False;bergfex GmbH;Sectigo Limited;
+2022-03-02T07:06:10.515Z;sticker.ly;62;magedalqerbi.cachefly.net;205.234.175.175;Identifier_MAC_Router_Close;True;;;
+2022-03-02T07:06:10.515Z;sticker.ly;62;packs.stickers.network;34.120.80.220;Identifier_MAC_Router_Close;True;;Google Trust Services LLC;
+2022-03-01T20:59:42.466Z;com.limebike;1266;web-production.lime.bike;104.18.27.23;Identifier_MAC_Router_Close;True;Neutron Holding, Inc.;;Cloudflare, Inc.
+2022-03-01T20:59:42.465Z;com.limebike;1266;api.amplitude.com;34.208.157.6;Identifier_MAC_Router_Close;True;Amplitude;COMODO CA Limited;
+2022-03-01T20:59:42.463Z;com.limebike;1266;sdk.iad-03.braze.com;151.101.133.208;Identifier_MAC_Router_Close;True;Braze, Inc.;GlobalSign nv-sa;
+2022-03-01T20:38:58.819Z;com.zhengjunwhizz.owm;136;olderwomenmeet.com;47.89.247.115;Identifier_SSID_BSSID_Close;True;;DigiCert Inc;
+2022-03-01T20:25:32.407Z;top.appdate.fia.android612940124a462;1000002;info.startappservice.com;68.232.34.193;Identifier_MAC_Router_Close;True;StartApp;;
+2022-03-01T20:25:32.405Z;top.appdate.fia.android612940124a462;1000002;fia.appdate.top;91.235.129.186;Identifier_MAC_Router_Close;False;Hosting Ukraine LLC;Sectigo Limited;
+2022-03-01T20:21:40.429Z;com.turkishairlines.mobile;534;smart-mobile-api.cloud.thy.com;52.84.70.69;Identifier_SSID_BSSID_Close;False;;Turk Hava Yollari Anonim Ortakligi;
+2022-03-01T20:21:40.428Z;com.turkishairlines.mobile;534;sm-config.cloud.thy.com;13.33.232.101;Identifier_MAC_Router_Close;False;;Turk Hava Yollari Anonim Ortakligi;
+2022-03-01T20:21:40.428Z;com.turkishairlines.mobile;534;api.storyly.io;52.16.76.150;Identifier_MAC_Router_Close;False;;DigiCert Inc;
+2022-03-01T20:21:40.424Z;com.turkishairlines.mobile;534;push-service-mobile.cloud.thy.com;52.84.70.101;Identifier_MAC_Router_Close;False;;Turk Hava Yollari Anonim Ortakligi;
+2022-03-01T19:59:07.898Z;com.free2move.app;635;sdk.fra-01.braze.eu;151.101.133.208;Identifier_MAC_Router_Close;True;;GlobalSign nv-sa;
+2022-03-01T19:48:03.753Z;com.verse;675;app.joinverse.com;35.227.245.106;Identifier_SSID_BSSID_Close;True;;Let's Encrypt;
+2022-03-01T19:48:03.753Z;com.verse;675;verify.uxcam.com;54.236.65.160;Identifier_SSID_BSSID_Close;True;;;
+2022-03-01T19:39:33.364Z;com.ivoox.lite.carnecruda;8;static-2.ivoox.com;195.181.167.3;Identifier_MAC_Router_Close;False;Ivoox Global Podcasting Service, S.L.;Sectigo Limited;
+2022-03-01T19:39:33.364Z;com.ivoox.lite.carnecruda;8;carnecruda.es;176.34.179.218;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-03-01T19:39:33.364Z;com.ivoox.lite.carnecruda;8;static-1.ivoox.com;195.181.167.3;Identifier_MAC_Router_Close;False;Ivoox Global Podcasting Service, S.L.;Sectigo Limited;
+2022-03-01T19:39:33.364Z;com.ivoox.lite.carnecruda;8;www.carnecruda.es;185.76.11.193;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-03-01T19:39:33.363Z;com.ivoox.lite.carnecruda;8;api.ivoox.com;77.73.84.26;Identifier_SSID_BSSID_Close;False;Ivoox Global Podcasting Service, S.L.;Sectigo Limited;
+2022-03-01T19:33:59.140Z;com.unibail.maquinista;58302;api.loyalty.unibail-rodamco.com;13.224.106.51;Identifier_MAC_Router_Close;False;Unibail Management;UNIBAIL-RODAMCO-WESTFIELD SE;UNIBAIL-RODAMCO-WESTFIELD SE
+2022-03-01T19:26:14.198Z;free.files.downloader.save.video.manager;3145809;cdn2.inner-active.mobi;88.221.213.120;Certificate Pinning;False;;;
+2022-03-01T19:22:11.463Z;com.danielme.pantanos;14;danielmedina.info;139.162.163.154;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-03-01T19:22:11.463Z;com.danielme.pantanos;14;upload.wikimedia.org;91.198.174.208;Identifier_MAC_Router_Close;False;Wikimedia Foundation, Inc.;Wikimedia Foundation, Inc.;Wikimedia Foundation, Inc.
+2022-03-01T19:19:33.228Z;com.camera.galaxyx;90;prod-ms.applovin.com;2.17.154.21;Identifier_SSID_BSSID_Close;False;;COMODO CA Limited;
+2022-03-01T19:19:33.227Z;com.camera.galaxyx;90;a4.applovin.com;2.17.154.21;Identifier_MAC_Router_Close;False;;COMODO CA Limited;
+2022-03-01T19:19:33.227Z;com.camera.galaxyx;90;pdn.applovin.com;92.123.34.81;Identifier_MAC_Router_Close;False;;COMODO CA Limited;
+2022-03-01T19:19:33.227Z;com.camera.galaxyx;90;img.applovin.com;92.123.34.81;Identifier_MAC_Router_Close;False;;COMODO CA Limited;
+2022-03-01T19:19:33.227Z;com.camera.galaxyx;90;res1.applovin.com;92.123.34.81;Identifier_MAC_Router_Close;False;;COMODO CA Limited;
+2022-03-01T19:19:33.226Z;com.camera.galaxyx;90;assets.applovin.com;92.123.34.81;Identifier_MAC_Router_Close;False;;COMODO CA Limited;
+2022-03-01T19:19:33.223Z;com.camera.galaxyx;90;track.apflyer.com;172.67.145.154;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-03-01T19:19:33.222Z;com.camera.galaxyx;90;graph-facebook.com;104.21.234.72;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-03-01T19:11:38.769Z;com.wallpapersking.superheroes.wallpaper;10002;rr1---sn-h5q7kned.googlevideo.com;74.125.97.166;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-01T19:03:34.874Z;com.lyrebirdstudio.cartoon;200;app.adjust.net.in;185.151.204.33;Identifier_MAC_Router_Close;False;;Adjust GmbH;Adjust GmbH
+2022-03-01T18:59:50.149Z;com.bg.flyermaker;68;www.flyerbuilder.app;18.191.114.12;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-03-01T18:59:50.148Z;com.bg.flyermaker;68;obiha.videoflyer.co.in;3.83.199.173;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-03-01T18:48:41.508Z;com.turboenergy.app;9;turboenergysmart.com;54.73.250.99;Identifier_MAC_Router_Close;False;TurboEnergy;DigiCert Inc;
+2022-03-01T18:26:33.500Z;me.number.app.im;240;dt-apigateway-log.dt-pn1.com;13.224.106.39;Identifier_MAC_Router_Close;False;;;
+2022-03-01T18:26:33.495Z;me.number.app.im;240;gateway.funblocks.io;13.224.106.6;Identifier_SSID_BSSID_Close;False;;GoDaddy.com, Inc.;
+2022-03-01T18:26:33.495Z;me.number.app.im;240;dzekpyeyt9umm.cloudfront.net;13.224.106.83;Identifier_MAC_Router_Close;False;;;
+2022-03-01T18:09:26.736Z;com.google.android.apps.maps;1066387008;mobilemaps.googleapis.com;216.239.38.135;Identifier_MAC_Router_Close;True;;Google Trust Services LLC;
+2022-03-01T17:40:08.876Z;com.englishscore;155;api2.englishscore.com;151.101.122.133;Identifier_MAC_Router_Close;True;BC EnglishScore Ltd;;Cloudflare, Inc.
+2022-03-01T17:36:14.883Z;com.publyland.frusurapp;12;gestorapp.frusur.com;107.6.184.165;Identifier_SSID_BSSID_Close;False;;cPanel, Inc.;
+2022-03-01T17:14:50.628Z;mobapp.at.Venca;300005;m.venca.es;107.154.118.99;Identifier_SSID_BSSID_Close;True;;GlobalSign nv-sa;Digital Lola Commerce SA
+2022-03-01T17:14:50.628Z;mobapp.at.Venca;300005;cdn.cookielaw.org;104.16.148.64;Identifier_MAC_Router_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-03-01T17:11:02.929Z;com.qiblap.hakimiapps;7;mts0.google.com;216.58.215.142;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-01T17:00:43.312Z;dibujosalapiz.sombreadocarboncillo.dibujorealista;10000;www.pedeamu.com;161.35.209.155;Identifier_MAC_Router_Close;False;;;
+2022-03-01T17:00:43.312Z;dibujosalapiz.sombreadocarboncillo.dibujorealista;10000;www.misamuapp.com;161.35.209.155;Identifier_MAC_Router_Close;False;;;
+2022-03-01T17:00:43.312Z;dibujosalapiz.sombreadocarboncillo.dibujorealista;10000;adlic.rjfun.com;52.33.55.53;Identifier_MAC_Router_Close;True;;ZeroSSL;
+2022-03-01T16:53:26.537Z;com.perfumesclub.app;54;www.perfumesclub.co.uk;20.54.163.246;Identifier_MAC_Router_Close;False;;GoDaddy.com, Inc.;
+2022-03-01T16:53:26.536Z;com.perfumesclub.app;54;c.perfumesclub.com;13.224.106.122;Identifier_SSID_BSSID_Close;False;Beauty Luxe Distributions S.L.;GoDaddy.com, Inc.;
+2022-03-01T16:53:26.536Z;com.perfumesclub.app;54;classic-assets.eascdn.net;104.18.0.204;Identifier_MAC_Router_Close;True;;;
+2022-03-01T16:53:26.533Z;com.perfumesclub.app;54;exp.host;34.132.55.135;Identifier_MAC_Router_Close;True;;Acme Co;
+2022-03-01T16:46:58.462Z;com.prosegur.rrhh.intranet;3050172;graph.microsoft.com;40.126.31.164;Identifier_SSID_BSSID_Close;False;Microsoft Corporation;Microsoft Corporation;Microsoft Corporation
+2022-03-01T16:35:37.635Z;com.carsbarter.carsbarter;11;api.carsbarter.es;35.176.82.251;Identifier_MAC_Router_Close;True;;;
+2022-03-01T16:35:37.634Z;com.carsbarter.carsbarter;11;d1wp6m56sqw74a.cloudfront.net;13.33.232.50;Identifier_MAC_Router_Close;False;;;
+2022-03-01T16:35:37.630Z;com.carsbarter.carsbarter;11;expo.io;34.132.55.135;Identifier_MAC_Router_Close;True;;Acme Co;
+2022-03-01T16:27:58.636Z;com.rumbo.mobile.android;7001158;firebaseinappmessaging.googleapis.com;142.250.178.170;Certificate Pinning;False;;Google Trust Services LLC;
+2022-03-01T16:24:00.124Z;com.wheelsize;71;www.wheel-size.com;52.0.224.33;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-01T16:24:00.124Z;com.wheelsize;71;api.tiresvote.com;18.235.212.116;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-01T16:06:59.972Z;com.hammersecurity;195;us-central1-hammer-security.cloudfunctions.net;216.239.36.54;Identifier_SSID_BSSID_Close;True;;Google Trust Services LLC;
+2022-03-01T16:03:10.810Z;com.shape.change;53;cdp.cloud.unity3d.com;35.241.52.229;Location_Bluetooth_Name;True;Unity Technologies SF;Unity Technologies ApS;Unity Technologies ApS
+2022-03-01T16:03:10.809Z;com.shape.change;53;track.saygames.io;35.244.172.51;Identifier_MAC_Router_Close;True;;;
+2022-03-01T16:03:10.808Z;com.shape.change;53;app.saygames.io;34.102.213.67;Certificate Pinning;True;;;
+2022-03-01T16:03:10.808Z;com.shape.change;53;config.uca.cloud.unity3d.com;35.227.244.186;Identifier_MAC_Router_Close;True;Unity Technologies SF;Unity Technologies ApS;Unity Technologies ApS
+2022-03-01T15:51:15.832Z;com.horebtech.walftv;16;script.google.com;142.250.184.14;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-01T15:38:53.481Z;com.tsm.espn1510;31;parse.townsquaremedia.com;66.155.35.250;Identifier_SSID_BSSID_Close;True;;Let's Encrypt;
+2022-03-01T15:38:53.480Z;com.tsm.espn1510;31;foxsports1510.com;192.229.233.172;Identifier_MAC_Router_Close;True;;Verizon Digital Media Services, Inc.;Verizon Digital Media Services, Inc.
+2022-03-01T15:31:28.815Z;org.registradores.app;33;app.registradores.org;217.114.136.12;Identifier_SSID_BSSID_Close;False;Colegio de Registradores de la Propiedad;COLEGIO DE REGISTRADORES DE LA PROPIEDAD Y MERCANTILES DE ESPAÑA;COLEGIO DE REGISTRADORES DE LA PROPIEDAD Y MERCANTILES DE ESPAÑA
+2022-03-01T15:31:28.815Z;org.registradores.app;33;www.registradores.org;217.114.136.30;Identifier_MAC_Router_Close;False;Colegio de Registradores de la Propiedad;COLEGIO DE REGISTRADORES DE LA PROPIEDAD Y MERCANTILES DE ESPAÑA;COLEGIO DE REGISTRADORES DE LA PROPIEDAD Y MERCANTILES DE ESPAÑA
+2022-03-01T15:31:28.815Z;org.registradores.app;33;cdnjs.cloudflare.com;104.16.19.94;Certificate Pinning;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-03-01T15:31:28.815Z;org.registradores.app;33;cdn.datatables.net;104.22.51.93;Certificate Pinning;True;;;Cloudflare, Inc.
+2022-03-01T15:04:11.386Z;com.wisecart.installment;1027;api.wisecartapp.com;47.254.137.181;Certificate Pinning;False;;GoDaddy.com, Inc.;
+2022-03-01T15:04:11.385Z;com.wisecart.installment;1027;datasinksc.wisecartapp.com;162.62.116.214;Identifier_SSID_BSSID_Close;False;;GoDaddy.com, Inc.;
+2022-03-01T15:04:11.385Z;com.wisecart.installment;1027;ec-cstatic.akulaku.net;52.84.70.108;Identifier_MAC_Router_Close;False;;;
+2022-03-01T15:04:11.385Z;com.wisecart.installment;1027;rt.wisecartapp.com;185.32.241.65;Identifier_MAC_Router_Close;False;;GoDaddy.com, Inc.;
+2022-03-01T15:04:11.385Z;com.wisecart.installment;1027;eur-device.altracking.net;162.62.220.98;Certificate Pinning;False;;;
+2022-03-01T15:04:11.384Z;com.wisecart.installment;1027;cstatic.akulaku.net;52.85.187.124;Identifier_MAC_Router_Close;False;;;
+2022-03-01T15:04:11.383Z;com.wisecart.installment;1027;d12x8ezp3au6m3.cloudfront.net;13.33.232.75;Identifier_SSID_BSSID_Close;False;;;
+2022-03-01T15:04:11.381Z;com.wisecart.installment;1027;r.akulaku.net;149.129.224.183;Identifier_SSID_BSSID_Close;True;;;
+2022-03-01T14:54:27.309Z;getloan.quickloan.app;2;policy.app.cookieinformation.com;152.199.21.175;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-03-01T14:54:27.309Z;getloan.quickloan.app;2;assets.stage.4finance.com;52.84.70.97;Identifier_MAC_Router_Close;False;4finance AS;;
+2022-03-01T14:54:27.309Z;getloan.quickloan.app;2;assets.website-files.com;52.84.70.18;Certificate Pinning;False;;;
+2022-03-01T14:54:27.308Z;getloan.quickloan.app;2;assets-global.website-files.com;13.33.232.76;Identifier_MAC_Router_Close;False;;;
+2022-03-01T14:54:27.305Z;getloan.quickloan.app;2;www.googleoptimize.com;142.250.200.110;Identifier_SSID_BSSID_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-01T14:54:27.305Z;getloan.quickloan.app;2;unpkg.com;104.16.124.175;Identifier_MAC_Router_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-03-01T14:54:27.304Z;getloan.quickloan.app;2;go.lead-click.com;104.21.16.184;Identifier_MAC_Router_Close;True;Smart City OU;;
+2022-03-01T14:54:27.304Z;getloan.quickloan.app;2;exc4finance.com;52.19.227.97;Identifier_MAC_Router_Close;False;CSC TFI in Progress;;
+2022-03-01T14:54:27.304Z;getloan.quickloan.app;2;client.vivus.es;45.60.198.243;Identifier_MAC_Router_Close;True;;;
+2022-03-01T14:54:27.304Z;getloan.quickloan.app;2;www.vivus.es;52.49.198.28;Identifier_MAC_Router_Close;False;;;
+2022-03-01T14:54:27.303Z;getloan.quickloan.app;2;getloanquickloanapp.xyz;188.114.97.12;Identifier_SSID_BSSID_Close;True;;;
+2022-03-01T14:54:27.303Z;getloan.quickloan.app;2;getfastloanonline.com;188.114.97.12;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-03-01T14:50:34.482Z;com.gismart.karaoke;190;prod-defaulting-subscriptiontool.gismart.xyz;52.213.16.110;Identifier_MAC_Router_Close;False;Gismart;;
+2022-03-01T14:50:34.481Z;com.gismart.karaoke;190;gdpr.gismart.xyz;34.249.99.29;Identifier_MAC_Router_Close;False;Gismart;;
+2022-03-01T14:45:26.943Z;com.gta.grandtheftauto.cheats.five;6;a.appbaqend.com;104.17.72.8;Identifier_SSID_BSSID_Close;True;;GoDaddy.com, Inc.;
+2022-03-01T14:45:26.943Z;com.gta.grandtheftauto.cheats.five;6;cdn.liftoff.io;13.224.106.92;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-03-01T14:45:26.943Z;com.gta.grandtheftauto.cheats.five;6;asasda.ru;95.213.252.14;Identifier_MAC_Router_Close;True;;;
+2022-03-01T14:45:26.943Z;com.gta.grandtheftauto.cheats.five;6;impression-europe.liftoff.io;3.122.16.67;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-03-01T14:45:26.942Z;com.gta.grandtheftauto.cheats.five;6;gum.criteo.com;178.250.0.157;Identifier_Ad_ID;False;Criteo SA;Criteo SA;Criteo SA
+2022-03-01T14:45:26.942Z;com.gta.grandtheftauto.cheats.five;6;report.appmetrica.yandex.net;87.250.250.207;Certificate Pinning;True;;Yandex LLC;Yandex LLC
+2022-03-01T14:45:26.941Z;com.gta.grandtheftauto.cheats.five;6;systlink.ru;95.213.252.14;Identifier_SSID_BSSID_Close;True;;;
+2022-03-01T14:27:56.441Z;com.tutotoons.app.fluvsiespocketworld;20000017;sdk-api-v1.singular.net;2.22.234.33;Identifier_MAC_Router_Close;False;;DigiCert Inc;
+2022-03-01T14:27:56.440Z;com.tutotoons.app.fluvsiespocketworld;20000017;ads.superawesome.tv;52.18.84.7;Identifier_MAC_Router_Close;False;Epic Games, Inc.;Let's Encrypt;
+2022-03-01T14:27:56.436Z;com.tutotoons.app.fluvsiespocketworld;20000017;analytics.kidoz.net;3.224.46.142;Identifier_SSID_BSSID_Close;True;KIDOZ Ltd;GoDaddy.com, Inc.;
+2022-03-01T14:27:56.436Z;com.tutotoons.app.fluvsiespocketworld;20000017;get.tutoads.tv;3.127.130.89;Identifier_MAC_Router_Close;False;;;Cloudflare, Inc.
+2022-03-01T14:27:56.436Z;com.tutotoons.app.fluvsiespocketworld;20000017;tracy.tutoads.tv;18.156.31.1;Identifier_MAC_Router_Close;False;;;Cloudflare, Inc.
+2022-03-01T14:27:56.435Z;com.tutotoons.app.fluvsiespocketworld;20000017;cdn.tutoads.tv;67.216.91.85;Identifier_MAC_Router_Close;False;;;Cloudflare, Inc.
+2022-03-01T14:27:56.434Z;com.tutotoons.app.fluvsiespocketworld;20000017;sdk-api.kidoz.net;52.85.187.90;Identifier_MAC_Router_Close;False;KIDOZ Ltd;GoDaddy.com, Inc.;
+2022-03-01T14:23:02.438Z;com.wachanga.babycare;149;babycare.wachanga.com;144.76.163.203;Identifier_SSID_BSSID_Close;False;;;
+2022-03-01T14:23:02.432Z;com.wachanga.babycare;149;sync-gw.wachanga.com;144.76.163.203;Identifier_MAC_Router_Close;False;;;
+2022-03-01T14:07:14.431Z;com.android12.launcherandroid12.android12wallpaper.android12theme.android12colors;1;control.kochava.com;107.178.254.148;Identifier_MAC_Router_Close;True;PLAYXPERT;;
+2022-03-01T14:03:47.031Z;com.bendk97.platenumber.unofficial;213;init.startappservice.com;188.42.122.148;Identifier_MAC_Router_Close;True;StartApp;;
+2022-03-01T13:49:14.990Z;com.pupgam.dev.airfi.canruti;102000;edit-eu.meridianapps.com;142.250.185.19;Identifier_MAC_Router_Close;False;;;Cloudflare, Inc.
+2022-03-01T13:49:14.990Z;com.pupgam.dev.airfi.canruti;102000;wsm.ics.gencat.cat;83.247.141.3;Identifier_MAC_Router_Close;False;Generalitat de Catalunya;Generalitat de Catalunya;Generalitat de Catalunya
+2022-03-01T13:46:24.551Z;com.short.hair.changer;4;sturnhan.000webhostapp.com;145.14.145.68;Identifier_SSID_BSSID_Close;True;GDPR Masked;;
+2022-03-01T13:43:45.081Z;com.sirma.mobile.bible.android;6054007;friends.youversionapi.com;151.101.241.32;Identifier_SSID_BSSID_Close;False;Life.Church;;
+2022-03-01T13:43:45.080Z;com.sirma.mobile.bible.android;6054007;friendships.youversionapi.com;104.22.59.73;Identifier_SSID_BSSID_Close;True;Life.Church;;
+2022-03-01T13:43:45.080Z;com.sirma.mobile.bible.android;6054007;sdk.iad-01.braze.com;151.101.241.208;Identifier_MAC_Router_Close;False;Braze, Inc.;GlobalSign nv-sa;
+2022-03-01T13:43:45.080Z;com.sirma.mobile.bible.android;6054007;geoip.youversionapi.com;151.101.242.2;Identifier_MAC_Router_Close;False;Life.Church;;
+2022-03-01T13:43:45.080Z;com.sirma.mobile.bible.android;6054007;cache.youversionapi.com;151.101.242.2;Identifier_MAC_Router_Close;False;Life.Church;;
+2022-03-01T13:43:45.080Z;com.sirma.mobile.bible.android;6054007;bible.youversionapi.com;151.101.241.32;Identifier_MAC_Router_Close;False;Life.Church;;
+2022-03-01T13:43:45.080Z;com.sirma.mobile.bible.android;6054007;audio-bible.youversionapi.com;151.101.241.32;Identifier_MAC_Router_Close;False;Life.Church;;
+2022-03-01T13:43:45.080Z;com.sirma.mobile.bible.android;6054007;notifications.youversionapi.com;151.101.241.32;Identifier_MAC_Router_Close;False;Life.Church;;
+2022-03-01T13:39:31.131Z;com.ezitwoo.com.app;100023;ezitwoo.com;54.39.16.172;Identifier_MAC_Router_Close;True;;COMODO CA Limited;
+2022-03-01T13:35:52.708Z;fr.banquepopulaire.cyberplus;22020301;device-api.asnapieu.com;130.211.7.30;Contact_City;True;DNStination Inc.;;
+2022-03-01T13:35:52.708Z;fr.banquepopulaire.cyberplus;22020301;combine.asnapieu.com;35.244.242.208;Identifier_MAC_Router_Close;True;;;
+2022-03-01T13:35:52.708Z;fr.banquepopulaire.cyberplus;22020301;www.as-ex-ano-groupe.banquepopulaire.fr;91.135.189.79;Certificate Pinning;False;;;
+2022-03-01T13:35:52.707Z;fr.banquepopulaire.cyberplus;22020301;remote-data.asnapieu.com;34.96.96.216;Identifier_MAC_Router_Close;True;DNStination Inc.;;
+2022-03-01T13:35:52.707Z;fr.banquepopulaire.cyberplus;22020301;mupdates-de.trusteer.com;18.195.194.60;Identifier_MAC_Router_Close;False;;;
+2022-03-01T13:35:52.707Z;fr.banquepopulaire.cyberplus;22020301;www.eum2.banquepopulaire.fr;91.135.190.47;Identifier_MAC_Router_Close;False;;;
+2022-03-01T13:35:52.706Z;fr.banquepopulaire.cyberplus;22020301;tags.tiqcdn.com;2.17.152.183;Identifier_MAC_Router_Close;False;;;
+2022-03-01T13:23:15.994Z;es.lfp.laligatv;202112170;laligaprod.blob.core.windows.net;52.239.134.164;Identifier_MAC_Router_Close;False;Microsoft Corporation;Microsoft Corporation;
+2022-03-01T13:23:15.993Z;es.lfp.laligatv;202112170;api.laligasportstv.com;2.22.234.56;Identifier_MAC_Router_Close;False;Liga Nacional de Fútbol Profesional;Microsoft Corporation;
+2022-03-01T13:23:15.993Z;es.lfp.laligatv;202112170;mc427j0tj2k-gh8g-ft1-pbf8884.device.marketingcloudapis.com;161.71.33.241;Identifier_MAC_Router_Close;False;Salesforce.com, Inc.;;
+2022-03-01T13:23:15.992Z;es.lfp.laligatv;202112170;a-fds.youborafds01.com;85.17.144.180;Identifier_SSID_BSSID_Close;False;;;
+2022-03-01T13:16:45.151Z;org.internations;1912003222;inassets1-internationsgmbh.netdna-ssl.com;94.31.29.128;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-03-01T13:16:45.150Z;org.internations;1912003222;www.internations.org;87.230.99.56;Identifier_SSID_BSSID_Close;False;InterNations GmbH;InterNations GmbH;InterNations GmbH
+2022-03-01T13:16:45.150Z;org.internations;1912003222;cdn.trackjs.com;94.31.29.32;Identifier_MAC_Router_Close;True;;GitHub, Inc.;
+2022-03-01T13:08:47.572Z;com.maybeyou;95;adc-ad-assets.adtilt.com;8.238.15.124;Identifier_SSID_BSSID_Close;False;;;
+2022-03-01T13:08:44.941Z;com.maybeyou;95;sentry.devpnd.com;172.67.160.201;Certificate Pinning;True;;;Cloudflare, Inc.
+2022-03-01T12:50:26.807Z;es.awg.movilidadEOL;421;mczfl07tthlktslw3h2spj62zbz1.device.marketingcloudapis.com;13.111.18.59;Identifier_MAC_Router_Close;True;Salesforce.com, Inc.;;
+2022-03-01T12:50:26.806Z;es.awg.movilidadEOL;421;www.endesaclientes.com;45.60.13.133;Identifier_MAC_Router_Close;True;;GlobalSign nv-sa;
+2022-03-01T12:50:26.806Z;es.awg.movilidadEOL;421;assets.adobedtm.com;92.123.32.10;Identifier_MAC_Router_Close;False;Adobe Inc.;;
+2022-03-01T12:50:26.806Z;es.awg.movilidadEOL;421;www.movil.endesaclientes.com;45.60.13.133;Identifier_MAC_Router_Close;True;;GlobalSign nv-sa;
+2022-03-01T12:35:04.460Z;com.netkia.heraempleados;45;mobile.heraempleados.es;185.91.136.107;Certificate Pinning;False;;Comodo CA Limited;
+2022-03-01T12:27:47.697Z;com.consultar.asnefonline;3;asnef.online;5.135.40.24;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-03-01T12:20:21.432Z;com.igg.android.lordsmobile;414;dkv3ys1ydcyet.cloudfront.net;13.32.91.47;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-01T12:20:21.432Z;com.igg.android.lordsmobile;414;config-snd.igg.com;192.243.47.7;Identifier_MAC_Router_Close;True;;;
+2022-03-01T11:59:52.433Z;slide.carFrenzy.free;24;carfrenzy.herokuapp.com;3.210.192.5;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-01T11:50:01.217Z;com.tomtom.gplay.navapp;1647424;appanalytics.tomtom.com;40.113.146.222;Identifier_MAC_Router_Close;False;TomTom International B.V.;TomTom International B.V.;TomTom International B.V.
+2022-03-01T11:50:01.216Z;com.tomtom.gplay.navapp;1647424;android.lcms.services.tomtom.com;20.101.215.111;Identifier_MAC_Router_Close;False;;TomTom International B.V.;TomTom International B.V.
+2022-03-01T11:50:01.214Z;com.tomtom.gplay.navapp;1647424;api.leanplum.com;34.107.164.83;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-03-01T11:45:07.532Z;com.app.p4424FG;240;ams.ekhohouse.com;104.21.78.11;Identifier_MAC_Router_Close;True;SOLUTEC LLC;;Cloudflare, Inc.
+2022-03-01T11:33:49.061Z;afriquemedia.tv.live.direct;20001;46.105.114.82;Unknown;Identifier_MAC_Router_Close;False;;;
+2022-03-01T11:33:49.057Z;afriquemedia.tv.live.direct;20001;51.38.177.70:8080;Unknown;Identifier_MAC_Router_Close;False;;;
+2022-03-01T11:33:49.055Z;afriquemedia.tv.live.direct;20001;afriquetv.live;51.68.226.56;Identifier_SSID_BSSID_Close;False;;ZeroSSL;
+2022-03-01T11:26:51.304Z;app.arcopypaste;85;o463841.ingest.sentry.io;34.120.195.249;Identifier_MAC_Router_Close;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-03-01T11:16:03.410Z;com.deltafingerbodyscanfitness.bloodpressurecheck;2;cdn.boost-your-app.com;116.203.228.234;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-03-01T11:16:03.409Z;com.deltafingerbodyscanfitness.bloodpressurecheck;2;95.217.167.84;213.239.204.242;Identifier_SSID_BSSID_Close;False;;;
+2022-03-01T11:16:03.409Z;com.deltafingerbodyscanfitness.bloodpressurecheck;2;imp.startappservice.com;188.42.123.68;Identifier_Ad_ID;True;StartApp;;
+2022-03-01T11:16:03.409Z;com.deltafingerbodyscanfitness.bloodpressurecheck;2;api.boost-your-app.com;116.203.228.234;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-03-01T11:12:10.495Z;com.accuweather.android;80002006;dlsdk.appsflyer.com;34.240.88.32;Identifier_Ad_ID;False;AppsFlyer;Amazon;
+2022-03-01T11:05:58.391Z;com.avcrbt.funimate;783;cdn-lb.vungle.com;130.206.192.18;Identifier_MAC_Router_Close;False;;Vungle Inc;Vungle Inc
+2022-03-01T11:05:58.389Z;com.avcrbt.funimate;783;api.vungle.com;84.53.132.147;Identifier_SSID_BSSID_Close;False;;Vungle Inc;Vungle Inc
+2022-03-01T11:05:58.384Z;com.avcrbt.funimate;783;ads.api.vungle.com;2.16.8.176;Identifier_Ad_ID;False;;Vungle Inc;Vungle Inc
+2022-03-01T11:05:58.382Z;com.avcrbt.funimate;783;api.funimate.com;50.112.51.186;Identifier_MAC_Router_Close;True;;Amazon;
+2022-03-01T10:52:37.764Z;com.bas.hit.volm.dy;21;season.nexttoai.com;143.244.180.204;Identifier_Ad_ID;True;;Let's Encrypt;
+2022-03-01T10:52:37.764Z;com.bas.hit.volm.dy;21;icm.kochava.com;34.102.169.67;Identifier_MAC_Router_Close;True;PLAYXPERT;;
+2022-03-01T10:52:37.764Z;com.bas.hit.volm.dy;21;cfg.flurry.com;74.6.138.80;Certificate Pinning;True;Yahoo Ad Tech LLC;Oath Inc;Oath Inc
+2022-03-01T10:52:37.760Z;com.bas.hit.volm.dy;21;ads.nexage.com;3.120.230.219;Identifier_MAC_Router_Close;False;;Oath Inc;
+2022-03-01T10:52:37.760Z;com.bas.hit.volm.dy;21;comp.nexttoai.com;143.244.180.204;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-03-01T10:52:37.759Z;com.bas.hit.volm.dy;21;service.cmp.oath.com;152.195.53.200;Identifier_MAC_Router_Close;True;Yahoo IP Holdings LLC;Oath Inc;Oath Inc
+2022-03-01T10:48:44.413Z;com.covidtracker.hse;143;app.covidtracker.ie;13.224.106.82;Identifier_SSID_BSSID_Close;False;;GlobalSign nv-sa;Health Service Executive
+2022-03-01T10:48:44.413Z;com.covidtracker.hse;143;gen.digitalcovidcertificates.gov.ie;52.18.173.52;Identifier_MAC_Router_Close;False;;;
+2022-03-01T10:45:05.887Z;com.bookmate;2007060000;api.bookmate.rocks;93.190.136.174;Identifier_MAC_Router_Close;False;;Sectigo Limited;
+2022-03-01T10:34:07.731Z;com.pakwheels;167;www.pakwheels.com;104.26.6.233;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-03-01T10:30:18.196Z;deeply.beauty.stereoscopic.wallpapers;51;res.super3dwallpaper.live;52.84.70.71;Identifier_MAC_Router_Close;False;;;Cloudflare, Inc.
+2022-03-01T10:22:05.924Z;python.learnpython.learn.pythonx.coding.programming.python3.tutorials.codingx;14;eu1.clevertap-prod.com;13.33.232.77;Identifier_MAC_Router_Close;False;;;
+2022-03-01T10:22:05.922Z;python.learnpython.learn.pythonx.coding.programming.python3.tutorials.codingx;14;wzrkt.com;52.85.187.122;Identifier_MAC_Router_Close;False;;;
+2022-03-01T10:07:50.493Z;com.personalization.tips.happymod;1;kikaapps.in;122.201.127.177;Identifier_MAC_Router_Close;True;;;
+2022-03-01T10:00:02.140Z;ru.innim.notes;4069;spire.aarki.net;67.26.97.250;Identifier_SSID_BSSID_Close;False;;;
+2022-03-01T10:00:02.140Z;ru.innim.notes;4069;rm-nl.aarki.net;154.45.52.49;Identifier_MAC_Router_Close;False;;;
+2022-03-01T10:00:02.138Z;ru.innim.notes;4069;adx-asia.aarki.net;38.134.100.100;Identifier_MAC_Router_Close;True;;;
+2022-03-01T09:52:24.747Z;com.footballscore.festlive.liveteamscore;2;pubads.g.doubleclick.net;142.250.184.162;Identifier_MAC_Router_Close;False;Google Inc.;Google Trust Services LLC;
+2022-03-01T09:52:24.746Z;com.footballscore.festlive.liveteamscore;2;adx.g.doubleclick.net;142.250.200.66;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-01T09:52:24.745Z;com.footballscore.festlive.liveteamscore;2;mtlmedia.xyz;66.29.146.37;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-03-01T09:41:35.730Z;com.notificationcenter.icenter;7;dl.dropboxusercontent.com;162.125.68.15;Identifier_MAC_Router_Close;False;Dropbox, Inc.;;
+2022-03-01T09:34:41.210Z;com.epicsolutions.apuntatv5;40017;apuntat.com;185.196.112.249;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-03-01T09:31:11.189Z;com.vitesia.asturias.citaprevia;7;maps.google.com;216.58.215.142;Identifier_SSID_BSSID_Close;False;;Google Trust Services LLC;
+2022-03-01T09:31:11.189Z;com.vitesia.asturias.citaprevia;7;scraperlnx.asturias.es;88.151.16.103;Identifier_MAC_Router_Close;False;;PRINCIPADO DE ASTURIAS;PRINCIPADO DE ASTURIAS
+2022-03-01T09:28:10.288Z;com.ismaelkmhotmail.com.practicatest;602240000;ssl.gstatic.com;142.250.201.67;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-01T09:17:56.295Z;com.duckduckmoosedesign.cpkids;8;www.duckduckmooseapps.com;74.208.236.202;Identifier_MAC_Router_Close;True;1&1 Internet Inc;;
+2022-03-01T09:08:00.644Z;org.acestream.core;301710013;127.0.0.1:6878;Unknown;Identifier_MAC_Router_Close;False;;;
+2022-03-01T09:04:21.369Z;prestige.labelmaker.labelcreator;1;publisher-config.unityads.unity3d.com;35.190.33.178;Identifier_MAC_Router_Close;True;Unity Technologies SF;Unity Technologies ApS;Unity Technologies ApS
+2022-03-01T09:04:21.367Z;prestige.labelmaker.labelcreator;1;trackdownload.startappservice.com;217.65.34.29;Demographic_Age;True;StartApp;;
+2022-03-01T09:00:40.323Z;com.teldarcapital.eventelling.mediasetespanahr;132;mediasetappwebapi.eventelling.com;79.137.20.64;Identifier_MAC_Router_Close;False;teldar capital s.l.;DigiCert Inc;
+2022-03-01T08:56:54.008Z;com.aoe2companion;390000;yaml-to-json.vercel.app;76.223.122.104;Identifier_MAC_Router_Close;True;;;
+2022-03-01T08:41:28.138Z;com.eg.android.AlipayGphone;472;cdn.ynuf.aliapp.org;58.216.15.240;Identifier_MAC_Router_Close;True;Taobao (China) Software Co., Ltd.;;
+2022-03-01T08:41:28.138Z;com.eg.android.AlipayGphone;472;amdc.m.taobao.com;203.119.215.159;Identifier_MAC_Router_Close;True;;Alibaba (China) Technology Co., Ltd.;Alibaba (China) Technology Co., Ltd.
+2022-03-01T08:41:28.138Z;com.eg.android.AlipayGphone;472;audid-api.taobao.com;59.82.31.182;Identifier_MAC_Router_Close;True;;Alibaba (China) Technology Co., Ltd.;Alibaba (China) Technology Co., Ltd.
+2022-03-01T08:41:28.137Z;com.eg.android.AlipayGphone;472;amdc.alipay.com;203.209.247.95;Identifier_MAC_Router_Close;True;;;
+2022-03-01T08:41:28.132Z;com.eg.android.AlipayGphone;472;mdap.alipay.com;110.76.3.1;Identifier_SSID_BSSID_Close;True;;;
+2022-03-01T01:58:09.872Z;com.euronews.express;252;api.euronews.com;151.101.242.133;Identifier_MAC_Router_Close;False;;Euronews;
+2022-03-01T01:47:58.489Z;com.mytel.myid;131;mytelsupperapp.mocha.com.vn;103.85.106.213;Identifier_SSID_BSSID_Close;True;;GlobalSign nv-sa;
+2022-03-01T01:47:58.489Z;com.mytel.myid;131;rultron.mytel.com.mm;65.18.117.78;Certificate Pinning;True;;Telecom International Myanmar Co., Ltd;
+2022-03-01T01:47:58.488Z;com.mytel.myid;131;mobile.useinsider.com;104.17.171.114;Identifier_MAC_Router_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-03-01T01:36:17.212Z;com.appfour.wearaltimeter;2008100010;ingest.probelytics.com;142.250.200.83;Identifier_SSID_BSSID_Close;False;appfour GmbH;Google Trust Services LLC;
+2022-03-01T01:36:17.208Z;com.appfour.wearaltimeter;2008100010;probes.probelytics.com;172.67.147.19;Identifier_MAC_Router_Close;True;appfour GmbH;Google Trust Services LLC;
+2022-03-01T01:23:26.630Z;es.escrol.TTO;26;iws.escrol.es;195.55.105.23;Identifier_SSID_BSSID_Close;False;;DigiCert Inc;
+2022-03-01T01:23:26.629Z;es.escrol.TTO;26;ws.escrol.es;195.55.105.25;Identifier_SSID_BSSID_Close;False;;DigiCert Inc;
+2022-03-01T01:19:57.058Z;com.zoneof.shy;1;spice.surf;44.236.34.98;Identifier_MAC_Router_Close;True;;;
+2022-03-01T01:19:57.058Z;com.zoneof.shy;1;ppctestdomain.com;3.124.82.123;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-01T01:16:28.729Z;ro.bcr.georgego;215008;api.bcr.ro;213.150.17.10;Identifier_MAC_Router_Close;False;;Banca Comerciala Romana SA;Banca Comerciala Romana SA
+2022-03-01T01:01:29.032Z;com.endless.chocolaterecipes;73;64.91.245.178;69.16.223.254;Identifier_SSID_BSSID_Close;True;;;
+2022-03-01T00:57:49.120Z;com.helbiz.android;136;content-cdn.swrve.com;52.84.70.60;Identifier_SSID_BSSID_Close;False;;;
+2022-03-01T00:57:49.119Z;com.helbiz.android;136;7111.eu-content.swrve.com;13.33.232.20;Identifier_MAC_Router_Close;False;;;
+2022-03-01T00:57:49.119Z;com.helbiz.android;136;7111.eu-api.swrve.com;13.224.106.44;Identifier_MAC_Router_Close;False;;;
+2022-03-01T00:52:23.707Z;com.brytonsport.active;341;active.brytonsport.com;3.66.103.216;Identifier_MAC_Router_Close;False;;;
+2022-03-01T00:52:23.707Z;com.brytonsport.active;341;www.strava.com;52.203.136.76;Identifier_MAC_Router_Close;True;Strava;GoDaddy.com, Inc.;
+2022-03-01T00:52:23.706Z;com.brytonsport.active;341;www.brytonsport.com;3.66.103.216;Identifier_MAC_Router_Close;False;;;
+2022-03-01T00:48:40.097Z;com.mitula.homes;419;pisos.mitula.com;62.97.82.35;Identifier_SSID_BSSID_Close;False;;Let's Encrypt;
+2022-03-01T00:46:02.504Z;com.groupon.redemption;1590747485;na.groupondata.com;23.37.168.70;Identifier_MAC_Router_Close;False;Groupon Inc.;Akamai Technologies, Inc.;
+2022-03-01T00:46:02.504Z;com.groupon.redemption;1590747485;api.groupon.com;23.37.168.70;Identifier_MAC_Router_Close;False;;Groupon, Inc;Groupon, Inc
+2022-03-01T00:46:02.503Z;com.groupon.redemption;1590747485;api.qualaroo.com;54.83.197.165;Identifier_SSID_BSSID_Close;True;;Amazon;
+2022-03-01T00:33:02.578Z;com.bbg.crimecar.chasedriving.crimecop;3;www.dropbox.com;162.125.68.18;Identifier_MAC_Router_Close;False;Dropbox, Inc.;Dropbox, Inc;Dropbox, Inc
+2022-03-01T00:33:02.578Z;com.bbg.crimecar.chasedriving.crimecop;3;a.applovin.com;2.17.154.21;Identifier_MAC_Router_Close;False;;COMODO CA Limited;
+2022-03-01T00:33:02.577Z;com.bbg.crimecar.chasedriving.crimecop;3;ecommerce.iap.unity3d.com;35.241.22.100;Identifier_MAC_Router_Close;True;;Unity Technologies ApS;Unity Technologies ApS
+2022-03-01T00:29:04.380Z;milkshake.website.builder;13143;looks.hosting.msha.ke;13.33.232.35;Identifier_SSID_BSSID_Close;False;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-03-01T00:29:04.377Z;milkshake.website.builder;13143;sentry.io;35.188.42.15;Identifier_MAC_Router_Close;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-03-01T00:25:11.631Z;com.customsolutions.android.alexa;333000;www.ultimatevoiceassistant.com;52.44.42.107;Identifier_MAC_Router_Close;True;Custom Solutions;Unspecified;
+2022-03-01T00:06:45.855Z;air.com.lunime.gachaclub;1001001;rr5---sn-h5q7knes.googlevideo.com;173.194.139.202;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-03-01T00:01:57.494Z;com.xvideostudio.videocompress;89;imasdk.googleapis.com;142.250.185.10;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-03-01T00:01:57.493Z;com.xvideostudio.videocompress;89;d10nkoc3mu17gd.cloudfront.net;13.32.91.123;Identifier_MAC_Router_Close;False;;Amazon;
+2022-03-01T00:01:54.936Z;com.xvideostudio.videocompress;89;analytics.enjoymobiserver.com;54.92.48.137;Certificate Pinning;True;;;
+2022-02-28T23:44:30.000Z;com.logitech.circle;30500019;connectivitycheck.gstatic.com;142.250.200.99;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-02-28T23:40:44.967Z;com.alibrate.mobile;261;api.alibrate.com;34.227.0.111;Identifier_MAC_Router_Close;True;Alibrate LLC;Starfield Technologies, Inc.;
+2022-02-28T23:40:44.965Z;com.alibrate.mobile;261;o158461.ingest.sentry.io;34.120.195.249;Identifier_SSID_BSSID_Close;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-02-28T23:36:55.509Z;com.cuatroochenta.subusalicante;25;atualicante.cuatroochenta.com;52.44.233.124;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-28T23:36:55.509Z;com.cuatroochenta.subusalicante;25;parse-multi-new.cuatroochenta.com;52.87.126.155;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-28T23:20:37.158Z;com.falabella.falabellaApp;240;falabella.sc.omtrdc.net;15.188.95.229;Identifier_MAC_Router_Close;False;Adobe Inc.;;
+2022-02-28T23:16:45.065Z;com.newarabchat.nac;901;www.newarabchat.com;172.67.72.105;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-28T23:09:52.766Z;com.ebooks.ebookreader;50047;sec.ebooks.com;104.20.246.133;Identifier_SSID_BSSID_Close;True;EBOOKS.COM PTY LIMITED;Cloudflare, Inc.;Cloudflare, Inc.
+2022-02-28T23:06:06.441Z;ru.taboo.app;157;chocoapp.ru;116.202.117.253;Identifier_MAC_Router_Close;False;;DigiCert Inc;
+2022-02-28T22:15:49.363Z;eu.smartpatient.mytherapy;2564;production.smartpatient.eu;52.58.254.10;Certificate Pinning;False;;Let's Encrypt;
+2022-02-28T22:11:44.431Z;period.tracker.calendar.ovulation.women.fertility.cycle;13;rr2---sn-h5qzen76.googlevideo.com;74.125.97.7;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-02-28T22:07:52.167Z;com.albaitdevs.soriabus;34001;soriabus-web.appspot.com;142.250.200.116;Identifier_SSID_BSSID_Close;False;;Google Trust Services LLC;
+2022-02-28T22:00:29.166Z;com.nortehispana.nortehispana;2005002000;testamentonline.nortehispana.com;178.62.251.72;Identifier_MAC_Router_Close;False;GRUPO CATALANA OCCIDENTE TECNOLOGIA Y SERVICIOS,  AIE;GRUPO CATALANA OCCIDENTE TECNOLOGIA Y SERVICIOS, AIE;GRUPO CATALANA OCCIDENTE TECNOLOGIA Y SERVICIOS, AIE
+2022-02-28T22:00:29.165Z;com.nortehispana.nortehispana;2005002000;maxcdn.bootstrapcdn.com;104.18.10.207;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-28T21:50:18.880Z;com.lluraferi.dosfarma;27284623;app.dosfarma.com;104.26.13.137;Identifier_MAC_Router_Close;True;;Google Trust Services LLC;
+2022-02-28T21:50:18.879Z;com.lluraferi.dosfarma;27284623;ajax.cloudflare.com;104.17.73.14;Identifier_MAC_Router_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-02-28T20:56:27.530Z;com.cherru.video.live.chat;6;report.cherruvideo.com;54.169.21.76;Identifier_MAC_Router_Close;True;;;
+2022-02-28T20:56:27.529Z;com.cherru.video.live.chat;6;d1huing7tth573.cloudfront.net;13.224.118.151;Identifier_MAC_Router_Close;False;;Amazon;
+2022-02-28T20:46:17.366Z;com.linkses.calculaprestamo;10009;www.calculaprestamo.com;51.68.35.172;Identifier_MAC_Router_Close;False;;Plesk;
+2022-02-28T20:43:53.457Z;com.lydia;18507;lydia-app.com;91.194.60.137;Identifier_MAC_Router_Close;False;LYDIA Solutions;Let's Encrypt;
+2022-02-28T20:43:53.455Z;com.lydia;18507;api.lydia-app.com;34.117.84.152;Identifier_MAC_Router_Close;True;LYDIA Solutions;Let's Encrypt;
+2022-02-28T20:43:53.455Z;com.lydia;18507;grs.dbankcloud.asia;80.158.20.103;Certificate Pinning;False;华为软件技术有限公司;;
+2022-02-28T20:43:53.455Z;com.lydia;18507;cdn.phraseapp.com;13.33.232.99;Identifier_MAC_Router_Close;False;;;
+2022-02-28T20:43:53.454Z;com.lydia;18507;ota.phraseapp.com;52.30.63.30;Identifier_MAC_Router_Close;False;;;
+2022-02-28T20:43:53.454Z;com.lydia;18507;grs.dbankcloud.cn;80.158.40.21;Certificate Pinning;False;;;
+2022-02-28T20:43:53.454Z;com.lydia;18507;grs.dbankcloud.com;14.137.149.80;Certificate Pinning;False;;;
+2022-02-28T20:31:27.165Z;de.zalando.mobile;866;accounts.zalando.com;23.216.103.177;Identifier_MAC_Router_Close;False;;Zalando SE;Zalando SE
+2022-02-28T20:31:27.165Z;de.zalando.mobile;866;www.zalando.de;23.216.103.177;Identifier_MAC_Router_Close;False;;Zalando SE;Zalando SE
+2022-02-28T20:31:27.164Z;de.zalando.mobile;866;mosaic01.ztat.net;52.84.70.63;Identifier_MAC_Router_Close;False;;;
+2022-02-28T20:27:38.719Z;com.microsoft.powerbim;21547592;dc.services.visualstudio.com;52.138.227.130;Identifier_SSID_BSSID_Close;False;Microsoft Corporation;Microsoft Corporation;
+2022-02-28T20:27:38.717Z;com.microsoft.powerbim;21547592;oneclient.sfx.ms;92.123.34.51;Identifier_SSID_BSSID_Close;False;Microsoft Corporation;;
+2022-02-28T20:23:58.036Z;com.climbaroundtheglobe.climbaround;41702;pg-app-z24tq5n0cf6qse9j98eagyh3dr4vra.scalabl.cloud;212.83.132.23;Identifier_SSID_BSSID_Close;False;CloudStrap.io;;
+2022-02-28T20:20:12.902Z;com.h8games.helixjump;309051;splash-screen.voodoo-ads.io;Unknown;Identifier_MAC_Router_Close;False;;;
+2022-02-28T20:20:12.902Z;com.h8games.helixjump;309051;api.gameanalytics.com;44.195.221.28;Identifier_Ad_ID;True;;DigiCert Inc;
+2022-02-28T20:12:08.015Z;com.hitouch.barbieminecraft;59;imgur.com;199.232.192.193;Identifier_MAC_Router_Close;True;;Imgur, Inc.;Imgur, Inc.
+2022-02-28T20:12:08.014Z;com.hitouch.barbieminecraft;59;stock.1002.pw;185.199.110.153;Identifier_MAC_Router_Close;True;;GitHub, Inc.;
+2022-02-28T20:12:08.013Z;com.hitouch.barbieminecraft;59;kozuza.robotemplates.com;37.205.11.96;Identifier_SSID_BSSID_Close;True;;;Cloudflare, Inc.
+2022-02-28T20:06:15.502Z;com.lluraferi.barrabes;27045333;cdn.doofinder.com;185.76.11.115;Identifier_MAC_Router_Close;False;Doofinder;Sectigo Limited;
+2022-02-28T20:03:27.284Z;org.alias;24000;config2.mparticle.com;151.101.66.133;Identifier_MAC_Router_Close;True;mParticle, inc;GoDaddy.com, Inc.;
+2022-02-28T20:03:27.284Z;org.alias;24000;nativesdks.mparticle.com;151.101.194.133;Identifier_Ad_ID;True;mParticle, inc;GoDaddy.com, Inc.;
+2022-02-28T20:03:27.283Z;org.alias;24000;data.emb-api.com;50.112.196.121;Identifier_MAC_Router_Close;True;;;
+2022-02-28T20:03:27.283Z;org.alias;24000;identity.mparticle.com;151.101.242.133;Identifier_Ad_ID;False;mParticle, inc;GoDaddy.com, Inc.;
+2022-02-28T20:03:27.282Z;org.alias;24000;sell-api.goat.com;104.18.25.81;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-28T20:03:27.282Z;org.alias;24000;collector-pxkhczyfrg.perimeterx.net;35.190.10.112;Certificate Pinning;True;PerimeterX, Inc.;;
+2022-02-28T20:03:27.281Z;org.alias;24000;config.emb-api.com;52.88.167.214;Identifier_SSID_BSSID_Close;True;;;
+2022-02-28T20:03:27.281Z;org.alias;24000;px-conf.perimeterx.net;34.149.45.163;Identifier_MAC_Router_Close;True;PerimeterX, Inc.;;
+2022-02-28T19:59:32.000Z;com.orvibo.hm;40700303;beacon-api.aliyuncs.com;47.116.84.196;Identifier_SSID_BSSID_Close;True;;;Alibaba (China) Technology Co., Ltd.
+2022-02-28T19:59:32.000Z;com.orvibo.hm;40700303;adash.man.aliyuncs.com;59.82.40.77;Identifier_MAC_Router_Close;True;;;Alibaba (China) Technology Co., Ltd.
+2022-02-28T19:59:32.000Z;com.orvibo.hm;40700303;homemate.orvibo.com;18.197.83.128;Certificate Pinning;False;;深圳市欧瑞博科技股份有限公司;深圳市欧瑞博科技股份有限公司
+2022-02-28T19:51:37.997Z;com.matchfun.gmergeb;168;cloudflare.natmovable.cc;172.67.177.159;Identifier_SSID_BSSID_Close;True;;TrustAsia Technologies, Inc.;
+2022-02-28T19:49:44.631Z;com.matchfun.gmergeb;168;natmovable.cc;87.245.210.15;Identifier_MAC_Router_Close;True;;TrustAsia Technologies, Inc.;
+2022-02-28T19:49:44.631Z;com.matchfun.gmergeb;168;www.natmovable.cc;52.85.187.2;Identifier_MAC_Router_Close;False;;TrustAsia Technologies, Inc.;
+2022-02-28T19:40:00.360Z;com.groupeseb.companion;21010002;sebplatform.api.groupe-seb.com;13.224.106.26;Identifier_MAC_Router_Close;False;SEB DEVELOPPEMENT;;
+2022-02-28T19:35:58.474Z;com.groupeseb.companion;21010002;cookies-manager.groupe-seb.com;52.213.20.89;Identifier_SSID_BSSID_Close;False;SEB DEVELOPPEMENT;;
+2022-02-28T19:27:54.572Z;com.groupeseb.companion;21010002;s3-eu-west-1.amazonaws.com;52.218.97.10;Identifier_MAC_Router_Close;False;Amazon.com, Inc.;Amazon;
+2022-02-28T12:44:28.762Z;com.google.android.apps.primer;46012;primer-api.appspot.com;216.58.209.84;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-02-28T12:38:44.666Z;shree.zoom.zoomvideo.videocall;8;d1nexf8vxmu4h9.cloudfront.net;13.224.118.98;Identifier_MAC_Router_Close;False;;Amazon;
+2022-02-28T12:38:44.664Z;shree.zoom.zoomvideo.videocall;8;shreenathdeveloper.website;162.222.226.77;Identifier_SSID_BSSID_Close;True;;Let's Encrypt;
+2022-02-28T12:38:44.664Z;shree.zoom.zoomvideo.videocall;8;api64.ipify.org;108.171.202.203;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-02-28T12:32:25.040Z;com.bosch.ebike;4070006;www.ebike-connect.com;3.67.148.128;Identifier_MAC_Router_Close;False;Robert Bosch GmbH;Robert Bosch GmbH;Robert Bosch GmbH
+2022-02-28T12:32:25.040Z;com.bosch.ebike;4070006;9d6fd0fd2e8f322a50e019737c00d23b.cache.sko.fm;13.224.106.50;Certificate Pinning;False;;;
+2022-02-28T12:28:45.008Z;us.mirrorlink.carconnector.mirrorlinkandroid.mirrorlinkcar;1;adclick.g.doubleclick.net;142.250.184.2;Identifier_MAC_Router_Close;False;Google Inc.;Google Trust Services LLC;
+2022-02-28T12:24:55.218Z;com.gabimedi.app;4;app.tuotempo.com;54.247.171.209;Identifier_SSID_BSSID_Close;False;tuotempo;Sectigo Limited;
+2022-02-28T12:24:55.216Z;com.gabimedi.app;4;ttappimages.s3.eu-west-1.amazonaws.com;52.218.120.98;Identifier_MAC_Router_Close;False;;;
+2022-02-28T12:07:17.095Z;com.correos.homepaq;90;www.correos.es;13.224.106.77;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-02-28T12:04:00.754Z;com.mttnow.droid.transavia;22022;prod-cms.platform.mttnow.com;34.250.216.178;Certificate Pinning;False;Mobile Travel Technologies Limited;Let's Encrypt;
+2022-02-28T12:04:00.754Z;com.mttnow.droid.transavia;22022;prod-iaps.platform.mttnow.com;54.76.223.203;Certificate Pinning;False;Mobile Travel Technologies Limited;Let's Encrypt;
+2022-02-28T12:00:37.422Z;com.newbalanceapp;3146046;new-balance-club.myshopify.com;23.227.38.74;Identifier_MAC_Router_Close;True;Shopify Inc.;Cloudflare, Inc.;Cloudflare, Inc.
+2022-02-28T11:57:37.929Z;com.dropbox.paper;26510400;paper.dropbox.com;184.72.1.76;Identifier_MAC_Router_Close;True;;Dropbox, Inc;Dropbox, Inc
+2022-02-28T11:47:40.564Z;adriandp.santiagobus;56;app.tussa.org;195.57.25.217;Identifier_SSID_BSSID_Close;False;TUSSA;PRIVACIDAD WHOIS SL;
+2022-02-28T11:41:38.193Z;moldesbrothers.miradio;31;connect-dre.hispace.hicloud.com;80.158.32.134;Identifier_SSID_BSSID_Close;False;该域名已开通隐私保护;;
+2022-02-28T11:38:55.999Z;es.gva.coronavirus;10009;madppvalgaia00.indra.es;Unknown;Identifier_SSID_BSSID_Close;False;;;
+2022-02-28T11:36:40.104Z;com.yingsheng.hayloufun;35;cgi.connect.qq.com;129.226.107.77;Identifier_SSID_BSSID_Close;True;Shenzhen Tencent Computer Systems CO.,Ltd;Shenzhen Tencent Computer Systems Company Limited;Shenzhen Tencent Computer Systems Company Limited
+2022-02-28T11:32:34.486Z;com.accurate.weather.forecast.channel.live;9;api.accuweather.com;92.123.34.91;Identifier_MAC_Router_Close;False;AccuWeather, Inc.;Accuweather, Inc.;Accuweather, Inc.
+2022-02-28T11:02:20.365Z;com.myostudioapps.pollitopio;2;encrypted-tbn0.gstatic.com;142.250.200.110;Identifier_SSID_BSSID_Close;False;;Google Trust Services LLC;
+2022-02-28T11:02:20.365Z;com.myostudioapps.pollitopio;2;encrypted-tbn3.gstatic.com;216.58.215.142;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-02-28T11:02:20.365Z;com.myostudioapps.pollitopio;2;encrypted-tbn1.gstatic.com;172.217.17.14;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-02-28T11:02:20.363Z;com.myostudioapps.pollitopio;2;androidads4-2.adcolony.com;44.194.156.148;Identifier_SSID_BSSID_Close;True;;COMODO CA Limited;
+2022-02-28T09:35:39.773Z;com.deliberry.android;36001;60a31-7c111.api.pushwoosh.com;78.47.243.139;Identifier_MAC_Router_Close;False;Arello Mobile;Sectigo Limited;
+2022-02-28T09:35:39.773Z;com.deliberry.android;36001;api.deliberry.com;35.234.130.147;Identifier_MAC_Router_Close;True;Deliberry;Acme Co;
+2022-02-28T09:28:31.339Z;com.familyappsnative.colonirritabile;1;familyappsnative.com;172.67.223.206;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-28T09:24:45.764Z;com.nbcuni.telemundostation.utah;2022010303;bidder.criteo.com;178.250.2.131;Identifier_Ad_ID;False;Criteo SA;Criteo SA;Criteo SA
+2022-02-28T09:24:45.764Z;com.nbcuni.telemundostation.utah;2022010303;www.telemundoutah.com;37.26.116.171;Identifier_MAC_Router_Close;False;NBCUniversal Media, LLC;NBCUniversal Media, LLC;NBCUniversal Media, LLC
+2022-02-28T09:24:45.763Z;com.nbcuni.telemundostation.utah;2022010303;nbcume.sc.omtrdc.net;13.36.218.177;Identifier_MAC_Router_Close;False;Adobe Inc.;;
+2022-02-28T09:21:05.103Z;com.kutxabank.android;91;www.kutxabank.es;212.142.161.22;Identifier_SSID_BSSID_Close;False;;KUTXABANK SOCIEDAD ANONIMA;KUTXABANK SOCIEDAD ANONIMA
+2022-02-28T09:21:05.102Z;com.kutxabank.android;91;portal.kutxabank.es;104.83.221.35;Identifier_SSID_BSSID_Close;False;;KUTXABANK SOCIEDAD ANONIMA;KUTXABANK SOCIEDAD ANONIMA
+2022-02-28T09:21:05.101Z;com.kutxabank.android;91;fd.browseranalytic.com;172.67.17.80;Identifier_SSID_BSSID_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-02-28T09:21:05.101Z;com.kutxabank.android;91;o403136.ingest.sentry.io;34.120.195.249;Identifier_MAC_Router_Close;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-02-28T09:17:33.198Z;com.mancity;236;api.wonderpush.com;130.211.45.215;Identifier_MAC_Router_Close;True;WonderPush;Google Trust Services LLC;
+2022-02-28T09:17:33.196Z;com.mancity;236;cdn.by.wonderpush.com;104.18.19.183;Identifier_MAC_Router_Close;True;;Google Trust Services LLC;
+2022-02-28T09:17:33.196Z;com.mancity;236;measurements-api.wonderpush.com;216.239.36.21;Identifier_MAC_Router_Close;True;;Google Trust Services LLC;
+2022-02-28T09:13:57.913Z;com.glutenfreegroup;11;codepush.azurewebsites.net;40.112.243.12;Identifier_SSID_BSSID_Close;True;;Microsoft Corporation;
+2022-02-28T09:10:22.553Z;io.strongapp.strong;252;o489857.ingest.sentry.io;34.120.195.249;Identifier_MAC_Router_Close;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-02-28T00:25:17.184Z;com.mttnow.android.etihad;1000639;oneapp.etihad.com;104.83.51.94;Identifier_MAC_Router_Close;False;ETIHAD AIRWAYS PJSC;Etihad Airways PJSC;Etihad Airways PJSC
+2022-02-28T00:03:55.837Z;org.toshi;48000413;mainnet-infura.wallet.coinbase.com;104.18.21.159;Identifier_MAC_Router_Close;True;Coinbase, Inc.;;Cloudflare, Inc.
+2022-02-28T00:03:55.836Z;org.toshi;48000413;api.wallet.coinbase.com;104.18.20.159;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-27T23:59:57.361Z;com.buttonpublish.buttonview;37;buttonpublish.com;188.226.131.38;Identifier_MAC_Router_Close;False;Beta Software S.L.;Let's Encrypt;
+2022-02-27T23:56:41.183Z;com.lecturas.de.reflexion.cuentos.vida.reflexiones;14;www.myappterms.com;138.68.106.86;Identifier_MAC_Router_Close;False;Smart Speech Solutions, S.L.;;
+2022-02-27T23:50:22.796Z;learn.to.draw.glow.cartoon;42;img.go2s.co;13.33.232.15;Identifier_SSID_BSSID_Close;False;;;
+2022-02-27T23:50:22.795Z;learn.to.draw.glow.cartoon;42;go2s.co;13.33.232.77;Identifier_MAC_Router_Close;False;;;
+2022-02-27T23:50:22.793Z;learn.to.draw.glow.cartoon;42;aos.gop1.co;47.241.5.81;Identifier_MAC_Router_Close;True;;;
+2022-02-27T23:46:46.726Z;com.bluefish.text2voice;10;pr.ybp.yahoo.com;188.125.95.240;Identifier_SSID_BSSID_Close;False;Yahoo Assets LLC;Oath Inc;Oath Inc
+2022-02-27T23:21:04.156Z;com.anemon.socifind;13;api.monoverify.com;46.101.199.187;Identifier_MAC_Router_Close;False;;;
+2022-02-27T23:21:04.156Z;com.anemon.socifind;13;api.socifind.net;51.81.196.126;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-27T23:21:04.151Z;com.anemon.socifind;13;med-api.admost.com;195.244.38.22;Identifier_MAC_Router_Close;False;Kokteyl A.S.;Sectigo Limited;
+2022-02-27T22:57:27.576Z;com.microsoft.stream;12147241;login.microsoftonline.com;20.190.159.131;Identifier_SSID_BSSID_Close;False;Microsoft Corporation;;
+2022-02-27T22:57:27.575Z;com.microsoft.stream;12147241;config.edge.skype.com;13.107.42.16;Identifier_SSID_BSSID_Close;True;;Microsoft Corporation;
+2022-02-27T22:46:46.350Z;com.sabapp;16;api.ionicjs.com;54.188.153.173;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-27T22:30:36.654Z;com.wke.portalempleado;406101;a3hrgo.wolterskluwer.es;20.50.2.32;Identifier_MAC_Router_Close;False;;;
+2022-02-27T22:30:36.654Z;com.wke.portalempleado;406101;www.portalempleado.net;52.149.108.40;Identifier_MAC_Router_Close;False;WOLTERS KLUWER ESPANA, S.A.;GoDaddy.com, Inc.;
+2022-02-27T22:19:32.953Z;es.gobcantabria.citaPrevia;10006;aplicacionesweb.cantabria.es;195.235.112.34;Identifier_SSID_BSSID_Close;False;;Gobierno de Cantabria;
+2022-02-27T22:15:53.495Z;ballenoil.com.ballenoil;45;www.ballenoil.es;178.32.24.100;Identifier_SSID_BSSID_Close;False;;;
+2022-02-27T22:15:53.487Z;ballenoil.com.ballenoil;45;app.ballenoil.net;217.182.41.139;Identifier_MAC_Router_Close;False;GDPR Masked;;
+2022-02-27T22:04:33.167Z;com.gameloft.android.ANMP.GloftA8HM;62211;eve.gameloft.com;208.71.185.246;Identifier_MAC_Router_Close;True;GAMELOFT SE;Gameloft;Gameloft
+2022-02-27T22:04:33.167Z;com.gameloft.android.ANMP.GloftA8HM;62211;in-game-news.gameloft.com;208.71.186.111;Identifier_MAC_Router_Close;True;;Gameloft;Gameloft
+2022-02-27T22:04:33.167Z;com.gameloft.android.ANMP.GloftA8HM;62211;201205igp.gameloft.com;208.71.185.246;Identifier_MAC_Router_Close;True;;Gameloft;Gameloft
+2022-02-27T22:04:33.167Z;com.gameloft.android.ANMP.GloftA8HM;62211;vgold-eur.gameloft.com;208.71.185.241;Identifier_MAC_Router_Close;True;;Gameloft;Gameloft
+2022-02-27T22:04:33.166Z;com.gameloft.android.ANMP.GloftA8HM;62211;gameloft.helpshift.com;34.226.127.4;Identifier_SSID_BSSID_Close;True;;COMODO CA Limited;
+2022-02-27T21:52:36.124Z;com.trackingtopia.skyscan;8;mobile-tracking.aviasales.ru;213.196.48.84;Identifier_SSID_BSSID_Close;False;Go Travel Un Limited (Hong Kong);Sectigo Limited;
+2022-02-27T21:34:58.285Z;com.medtronic.diabetes.carepartner;1170;clcloud.minimed.eu;18.157.50.91;Identifier_MAC_Router_Close;False;;Medtronic, Inc;
+2022-02-27T21:31:33.897Z;com.rentalia.androidapp;119;api.rentalia.com;172.67.18.197;Identifier_MAC_Router_Close;True;Idealista S.A.;Cloudflare, Inc.;Cloudflare, Inc.
+2022-02-27T21:31:33.897Z;com.rentalia.androidapp;119;mobile-1300.api.privacy-center.org;13.33.232.4;Identifier_Ad_ID;False;;;
+2022-02-25T20:51:05.111Z;com.bagy.plus;6;a1f5r7gfdenl77444saf4gfr44ea4aafdfv.bagyhost.ga;172.67.142.222;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-25T20:37:03.886Z;com.brothapps.futbar;323;api.futbarapp.net;52.51.14.250;Identifier_SSID_BSSID_Close;False;MEDIA PRODUCCION S.L.U.;Sectigo Limited;
+2022-02-25T20:37:03.885Z;com.brothapps.futbar;323;o556365.ingest.sentry.io;34.120.195.249;Identifier_MAC_Router_Close;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-02-25T20:33:18.702Z;com.safescan.timemoto.app;10057942;auth.timemoto.com;52.137.61.159;Identifier_MAC_Router_Close;False;;Sectigo Limited;
+2022-02-25T20:33:16.057Z;com.safescan.timemoto.app;10057942;cloud.timemoto.com;52.137.61.159;Certificate Pinning;False;;Sectigo Limited;
+2022-02-25T20:16:22.843Z;com.turner.cartoonnetworkgames;300115;turnerinternational.sc.omtrdc.net;15.236.176.210;Identifier_MAC_Router_Close;False;Adobe Inc.;;
+2022-02-25T20:11:41.630Z;music.musicplayer;60428;config.toto.zipoapps.com;13.33.232.118;Identifier_MAC_Router_Close;False;;GitHub, Inc.;
+2022-02-25T20:11:41.630Z;music.musicplayer;60428;0.0.0.0;Unknown;Identifier_MAC_Router_Close;False;;;
+2022-02-25T20:07:48.330Z;com.lumary.smart;15;a1.tuyaeu.com;3.64.229.202;Identifier_SSID_BSSID_Close;False;;;
+2022-02-25T20:01:48.263Z;com.sinyee.jojo.careIII;8580200;apic.babybus.com;163.181.49.232;Identifier_SSID_BSSID_Close;False;;DigiCert Inc;
+2022-02-25T20:01:48.259Z;com.sinyee.jojo.careIII;8580200;app-api.babybus.com;47.251.16.132;Identifier_MAC_Router_Close;True;;DigiCert Inc;
+2022-02-25T20:01:48.258Z;com.sinyee.jojo.careIII;8580200;switch.babybus.com;47.96.234.62;Identifier_MAC_Router_Close;True;;DigiCert Inc;
+2022-02-25T20:01:48.257Z;com.sinyee.jojo.careIII;8580200;tjinit-global.babybus.com;116.62.40.76;Identifier_MAC_Router_Close;True;;DigiCert Inc;
+2022-02-25T19:45:45.214Z;who.whsportsbookspain;583;sports.williamhill.es;52.85.187.124;Identifier_MAC_Router_Close;False;;;WHG (International) Limited
+2022-02-25T19:45:45.214Z;who.whsportsbookspain;583;deportes.staticcache.org;13.33.232.108;Certificate Pinning;False;WHG (International) Ltd;;
+2022-02-25T19:45:45.214Z;who.whsportsbookspain;583;sports.whcdn.net;52.85.187.68;Certificate Pinning;False;;;
+2022-02-25T19:45:45.210Z;who.whsportsbookspain;583;eu-cdn.contentstack.com;151.101.134.217;Identifier_MAC_Router_Close;True;;Amazon;
+2022-02-25T19:41:51.608Z;com.atistudios.mondly.languages;6102;a.mondlylanguages.com;52.17.55.51;Identifier_MAC_Router_Close;False;ATi Studios Apps SRL;Amazon;
+2022-02-25T19:41:51.602Z;com.atistudios.mondly.languages;6102;d37sy4vufic209.cloudfront.net;13.32.91.72;Identifier_MAC_Router_Close;False;;Amazon;
+2022-02-25T19:41:51.602Z;com.atistudios.mondly.languages;6102;stats.g.doubleclick.net;173.194.76.154;Identifier_MAC_Router_Close;True;Google Inc.;Google Trust Services LLC;
+2022-02-25T19:41:51.601Z;com.atistudios.mondly.languages;6102;d13tz37rv54ob.cloudfront.net;13.32.91.62;Identifier_MAC_Router_Close;False;;Amazon;
+2022-02-25T19:41:51.600Z;com.atistudios.mondly.languages;6102;api.mondlylanguages.com;54.170.147.234;Identifier_MAC_Router_Close;False;ATi Studios Apps SRL;Amazon;
+2022-02-25T19:41:51.598Z;com.atistudios.mondly.languages;6102;www.mondlylanguages.com;99.81.222.80;Identifier_MAC_Router_Close;False;ATi Studios Apps SRL;Amazon;
+2022-02-25T16:59:56.339Z;com.rccl.royalcaribbean;2160;api.rccl.com;2.17.211.200;Identifier_MAC_Router_Close;False;Royal Caribbean Cruises Ltd.;;
+2022-02-25T16:59:56.339Z;com.rccl.royalcaribbean;2160;rcci.sc.omtrdc.net;15.188.95.229;Identifier_MAC_Router_Close;False;Adobe Inc.;;
+2022-02-25T16:59:56.337Z;com.rccl.royalcaribbean;2160;sdkapicdn.applanga.com;52.84.70.65;Identifier_MAC_Router_Close;False;;Starfield Technologies, Inc.;
+2022-02-25T16:31:36.570Z;com.bundesliga;4980;napp.bapi.bundesliga.com;13.224.106.124;Identifier_MAC_Router_Close;False;;;
+2022-02-25T16:31:36.569Z;com.bundesliga;4980;w.usabilla.com;52.48.18.21;Identifier_MAC_Router_Close;False;;;
+2022-02-25T16:31:36.568Z;com.bundesliga;4980;ota.lokalise.co;35.156.175.20;Identifier_MAC_Router_Close;False;Lokalise, Inc.;Sectigo Limited;
+2022-02-25T16:31:36.565Z;com.bundesliga;4980;sdk.out.usbla.net;13.33.232.87;Identifier_MAC_Router_Close;False;;;
+2022-02-25T16:31:36.565Z;com.bundesliga;4980;mobile-data.onetrust.io;104.18.30.82;Identifier_MAC_Router_Close;True;;;
+2022-02-25T16:27:50.123Z;com.toomics.global.google;90;www.toomics.info;65.49.30.176;Identifier_MAC_Router_Close;True;;TOOMICS INC;
+2022-02-25T16:23:46.335Z;com.calendar.schedule.event;109;s.dessaly.com;18.203.144.158;Identifier_MAC_Router_Close;False;;Default Company Ltd;
+2022-02-25T16:23:43.687Z;com.calendar.schedule.event;109;stats.calldorado.com;34.249.241.243;Certificate Pinning;False;;Calldorado ApS;Calldorado ApS
+2022-02-25T16:19:43.115Z;com.jfr.homecenter.app;197;prd-apphc-cdn-hc.azureedge.net;152.199.21.175;Identifier_MAC_Router_Close;True;Microsoft Corporation;;
+2022-02-25T16:19:43.115Z;com.jfr.homecenter.app;197;us1.wzrkt.com;52.85.187.69;Identifier_MAC_Router_Close;False;;;
+2022-02-25T16:19:43.115Z;com.jfr.homecenter.app;197;mobilesdk-us.kampyle.com;52.84.70.129;Identifier_MAC_Router_Close;False;;GlobalSign nv-sa;
+2022-02-25T16:19:43.114Z;com.jfr.homecenter.app;197;report.sodimac.gbqofs.io;34.98.92.11;Identifier_MAC_Router_Close;True;;;
+2022-02-25T16:15:46.130Z;com.besalt.app;700053000;api.be-salt.com;52.212.52.84;Certificate Pinning;False;;;Cloudflare, Inc.
+2022-02-25T16:15:46.130Z;com.besalt.app;700053000;o508266.ingest.sentry.io;34.120.195.249;Certificate Pinning;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-02-25T16:01:31.551Z;girlsvideochat.livevideocall.prankcall;2;play-lh.googleusercontent.com;216.58.215.150;Certificate Pinning;False;Google LLC;;
+2022-02-25T16:01:31.551Z;girlsvideochat.livevideocall.prankcall;2;st.depositphotos.com;23.8.24.254;Certificate Pinning;False;;Depositphotos Inc.;Depositphotos Inc.
+2022-02-25T16:01:28.900Z;girlsvideochat.livevideocall.prankcall;2;www.gajeraconsultancy.com;103.21.58.247;Certificate Pinning;True;;;
+2022-02-25T15:57:53.229Z;com.grupozeta.epextremadura;102;mobile-1390.api.privacy-center.org;13.33.232.24;Identifier_MAC_Router_Close;False;;;
+2022-02-25T15:57:53.225Z;com.grupozeta.epextremadura;102;estaticos-cdn.prensaiberica.es;151.101.134.133;Identifier_MAC_Router_Close;True;;;Prensa Iberica Media S.L
+2022-02-25T15:57:53.225Z;com.grupozeta.epextremadura;102;app.elperiodicoextremadura.com;151.101.134.133;Identifier_MAC_Router_Close;True;EDITORIAL EXTREMADURA, S.A.;;
+2022-02-25T15:54:07.117Z;com.tagheuer.companion;207043250;apis.tagheuerconnected.com;104.83.47.234;Identifier_MAC_Router_Close;False;;;
+2022-02-25T15:22:55.089Z;com.ost.wsautool;130;sdk.api.oaid.wocloud.cn;118.212.68.96;Identifier_MAC_Router_Close;True;;;
+2022-02-25T15:22:55.089Z;com.ost.wsautool;130;download.ecowitt.net;163.181.49.213;Identifier_MAC_Router_Close;False;;Alibaba (China) Technology Co., Ltd.;
+2022-02-25T15:22:55.089Z;com.ost.wsautool;130;api.ecowitt.net;163.181.49.209;Identifier_MAC_Router_Close;False;;Alibaba (China) Technology Co., Ltd.;
+2022-02-25T15:22:55.089Z;com.ost.wsautool;130;api.bspapp.com;47.93.95.208;Identifier_MAC_Router_Close;True;;;
+2022-02-25T15:19:17.110Z;com.patook.patook;13131152;patook.com;51.161.118.200;Identifier_SSID_BSSID_Close;True;;Patook LLC;Patook LLC
+2022-02-25T15:15:46.613Z;net.aljazeera.english;4616;ping.chartbeat.net;3.221.23.137;Identifier_MAC_Router_Close;True;Chartbeat;;
+2022-02-25T15:15:46.612Z;net.aljazeera.english;4616;www.aljazeera.com;104.125.28.167;Identifier_SSID_BSSID_Close;False;DNStination Inc.;Al Jazeera;Al Jazeera
+2022-02-25T15:15:46.609Z;net.aljazeera.english;4616;sdb.amazonaws.com;54.239.24.238;Identifier_MAC_Router_Close;True;Amazon.com, Inc.;;
+2022-02-25T15:05:05.617Z;com.prisaradio.replicapp.radiole;300;apps1.aim-data.com;178.79.147.16;Identifier_MAC_Router_Close;True;All In Media;;
+2022-02-25T15:05:05.617Z;com.prisaradio.replicapp.radiole;300;fapi-top.prisasd.com;151.101.134.133;Identifier_MAC_Router_Close;True;;;
+2022-02-25T15:05:05.616Z;com.prisaradio.replicapp.radiole;300;www.radiole.com;13.33.232.48;Identifier_MAC_Router_Close;False;;;
+2022-02-25T15:05:05.616Z;com.prisaradio.replicapp.radiole;300;recursosweb.prisaradio.com;151.101.134.133;Identifier_MAC_Router_Close;True;;;
+2022-02-25T15:05:05.615Z;com.prisaradio.replicapp.radiole;300;www.omnycontent.com;52.85.187.111;Identifier_MAC_Router_Close;False;iHM Identity, Inc.;;
+2022-02-25T15:01:21.635Z;com.prisaradio.replicapp.radiole;300;apipr.prisaradio.com;52.232.127.196;Identifier_MAC_Router_Close;False;;;
+2022-02-25T14:24:55.781Z;com.avuscapital.trading212;13000775;stats.azmsoft.com;217.163.18.25;Identifier_MAC_Router_Close;True;;;
+2022-02-25T14:24:55.781Z;com.avuscapital.trading212;13000775;live.trading212.com;2.17.39.56;Identifier_MAC_Router_Close;False;Trading 212 UK Ltd.;;
+2022-02-25T14:17:09.280Z;com.littlepako.opusplayer3;84;api-eu.bidmachine.io;116.202.170.58;Identifier_MAC_Router_Close;False;;;Cloudflare, Inc.
+2022-02-25T14:10:58.869Z;cz.seznam.mapy;9140003;vectmap.mapy.cz;77.75.77.28;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-02-25T14:10:58.867Z;cz.seznam.mapy;9140003;mapserver.mapy.cz;77.75.77.155;Identifier_SSID_BSSID_Close;True;;Let's Encrypt;
+2022-02-25T14:10:58.867Z;cz.seznam.mapy;9140003;h.seznam.cz;77.75.78.44;Identifier_SSID_BSSID_Close;True;;Let's Encrypt;
+2022-02-25T14:10:58.866Z;cz.seznam.mapy;9140003;app-ks.seznam.cz;77.75.78.220;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-02-25T14:10:58.865Z;cz.seznam.mapy;9140003;mapy.cz;77.75.77.138;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-02-25T14:06:30.674Z;com.ecoembes.aire;11;www.chatbot-reciclaje-agent.com;15.236.138.43;Identifier_MAC_Router_Close;False;;Amazon;
+2022-02-25T14:02:53.271Z;com.kpgame.PokerBros;56;logstorage.cocos.com;34.102.193.10;Identifier_SSID_BSSID_Close;True;;DigiCert Inc;
+2022-02-25T13:49:38.974Z;com.emoji.coolkeyboard;345901;api.pro.kikakeyboard.com;52.84.70.107;Identifier_MAC_Router_Close;False;;;
+2022-02-25T13:49:38.973Z;com.emoji.coolkeyboard;345901;api.kika-backend.com;13.33.232.98;Identifier_SSID_BSSID_Close;False;xinmeihutong;;
+2022-02-25T13:45:41.963Z;hu.viala.newiapp;212215400;api3.siftscience.com;35.244.208.123;Identifier_SSID_BSSID_Close;True;Sift Science;Sift Science, Inc.;Sift Science, Inc.
+2022-02-25T13:45:41.963Z;hu.viala.newiapp;212215400;global.fd-api.com;104.16.173.55;Identifier_MAC_Router_Close;True;;;
+2022-02-25T13:45:41.962Z;hu.viala.newiapp;212215400;static.fd-api.com;104.16.173.55;Identifier_MAC_Router_Close;True;;;
+2022-02-25T13:45:41.962Z;hu.viala.newiapp;212215400;eu-client.fwf.deliveryhero.net;104.18.23.27;Identifier_MAC_Router_Close;True;Delivery Hero SE;;Cloudflare, Inc.
+2022-02-25T13:45:41.960Z;hu.viala.newiapp;212215400;perseus-productanalytics.deliveryhero.net;104.18.14.86;Identifier_Ad_ID;True;;;Cloudflare, Inc.
+2022-02-25T13:45:41.959Z;hu.viala.newiapp;212215400;collector-pxljub4etb.cl6.perimeterx.net;35.186.220.184;Certificate Pinning;True;PerimeterX, Inc.;;
+2022-02-25T13:45:41.955Z;hu.viala.newiapp;212215400;www.paypalobjects.com;104.83.200.200;Identifier_MAC_Router_Close;False;PayPal Inc.;PayPal, Inc.;PayPal, Inc.
+2022-02-25T13:41:24.481Z;com.kalimat.hikam;6;newkech.com;188.114.96.12;Identifier_SSID_BSSID_Close;True;THE ENDURANCE INTERNATIONAL GROUP, INC.;;Cloudflare, Inc.
+2022-02-25T13:34:11.531Z;com.apowersoft.beecut;84;api-multi.aoscdn.com;163.181.49.232;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-25T13:34:11.531Z;com.apowersoft.beecut;84;stszjl.aoscdn.com;47.246.45.226;Certificate Pinning;False;;Let's Encrypt;
+2022-02-25T13:30:29.161Z;com.efrenfierros.recetascocinaespanola;63;cloud.cdn-res.com;104.21.6.180;Certificate Pinning;True;;;Cloudflare, Inc.
+2022-02-25T13:30:29.161Z;com.efrenfierros.recetascocinaespanola;63;cloud.cdn-res.net;103.224.182.242;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-02-25T13:30:29.158Z;com.efrenfierros.recetascocinaespanola;63;analytics.seattleclouds.com;Unknown;Identifier_SSID_BSSID_Close;False;;;
+2022-02-25T13:26:51.771Z;com.anime.girly.pink.cute.kawaii.wallpapers.backgrounds.uhd4k;8;wallpaper-api.kika-backend.com;52.26.208.212;Identifier_MAC_Router_Close;True;xinmeihutong;;
+2022-02-25T13:22:56.000Z;com.ismaker.android.simsimi;527;secureapp.simsimi.com;52.45.249.20;Identifier_MAC_Router_Close;True;Hangang systems Inc.;Amazon;
+2022-02-25T13:18:57.986Z;com.germany.usedcars;13;autobing.de;195.20.240.14;Identifier_SSID_BSSID_Close;False;;Let's Encrypt;
+2022-02-25T13:01:22.570Z;com.foreverbilisim.sevgilibul;113;sevgilibul.club;167.71.4.201;Identifier_MAC_Router_Close;False;Forever Bilisim;cPanel, Inc.;
+2022-02-25T12:57:36.383Z;com.teetimesbooking;23;api.imaster.golf;104.40.151.129;Identifier_MAC_Router_Close;False;;;
+2022-02-25T12:57:36.382Z;com.teetimesbooking;23;events.appsflyer.com;52.84.70.36;Identifier_Ad_ID;False;AppsFlyer;Amazon;
+2022-02-25T12:57:36.376Z;com.teetimesbooking;23;192.168.1.149:9090;Unknown;Identifier_MAC_Router_Close;False;;;
+2022-02-25T12:51:03.390Z;com.panareadigital.Nearpod;900019;html.nearpod.com;13.224.106.42;Identifier_SSID_BSSID_Close;False;;;Cloudflare, Inc.
+2022-02-25T12:51:03.390Z;com.panareadigital.Nearpod;900019;api.nearpod.com;104.18.27.72;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-25T12:51:03.389Z;com.panareadigital.Nearpod;900019;app.nearpod.com;104.18.27.72;Identifier_SSID_BSSID_Close;True;;;Cloudflare, Inc.
+2022-02-25T12:51:03.389Z;com.panareadigital.Nearpod;900019;js.live.net;72.247.17.97;Identifier_MAC_Router_Close;False;Microsoft Corporation;;
+2022-02-25T12:44:49.211Z;es.pintxos.app;29;api.segment.io;52.88.180.59;Identifier_MAC_Router_Close;True;;Amazon;
+2022-02-25T12:41:13.941Z;com.opennemas.nosdiario;10004;www.nosdiario.gal;104.21.74.217;Identifier_SSID_BSSID_Close;True;Sermos Galiza S.A.;;Cloudflare, Inc.
+2022-02-25T12:37:36.890Z;com.eumlab.android.prometronome;90;oc.umeng.com;203.119.128.55;Identifier_SSID_BSSID_Close;True;;;
+2022-02-25T12:37:36.890Z;com.eumlab.android.prometronome;90;oc.umeng.co;Unknown;Identifier_MAC_Router_Close;False;Alibaba Group Holding Limited;Cloudflare, Inc.;
+2022-02-25T12:34:01.401Z;com.aliasaguirremagnaapps.quienmellamaenprivadoalmovilguiafacil;4;api.apperalinstante.com;34.203.62.20;Identifier_SSID_BSSID_Close;True;;;
+2022-02-25T12:34:01.401Z;com.aliasaguirremagnaapps.quienmellamaenprivadoalmovilguiafacil;4;playerservices.streamtheworld.com;208.92.55.233;Identifier_MAC_Router_Close;True;iHM Identity, Inc.;GoDaddy.com, Inc.;
+2022-02-25T12:34:01.401Z;com.aliasaguirremagnaapps.quienmellamaenprivadoalmovilguiafacil;4;stream.produccionesdale.com:8899;Unknown;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-25T12:34:01.401Z;com.aliasaguirremagnaapps.quienmellamaenprivadoalmovilguiafacil;4;21263.live.streamtheworld.com;149.14.243.139;Identifier_MAC_Router_Close;False;iHM Identity, Inc.;GoDaddy.com, Inc.;
+2022-02-25T12:30:17.360Z;com.supersport.android.phone;2012153225;cdn.permutive.app;104.18.5.81;Identifier_MAC_Router_Close;True;;;
+2022-02-25T12:30:17.359Z;com.supersport.android.phone;2012153225;s.effectivemeasure.net;34.249.11.162;Identifier_MAC_Router_Close;False;;;
+2022-02-25T12:26:29.438Z;com.manantialesdev.bibliadevocionaldeadoracion;10021;www.bibliadeestudo.net;52.87.20.90;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-02-25T12:20:44.564Z;org.northernrail.android;500012;fasttrackapi.trainline.com;184.27.4.235;Identifier_SSID_BSSID_Close;False;Trainline.com Limited;Trainline.com Limited;Trainline.com Limited
+2022-02-25T12:17:03.710Z;it.immobiliare.android;257;catcher.immobiliare.it;193.22.136.10;Identifier_MAC_Router_Close;False;;IMMOBILIARE.IT SPA;IMMOBILIARE.IT SPA
+2022-02-25T12:17:03.709Z;it.immobiliare.android;257;sentry.ekbl.net;91.209.97.38;Contact_City;False;;;
+2022-02-25T12:14:04.133Z;yogaworkout.dailyyoga.go.weightloss.loseweight;11;resource.leap.app;52.85.187.22;Identifier_SSID_BSSID_Close;False;;GoDaddy.com, Inc.;
+2022-02-25T12:10:14.042Z;com.voicefive.mms;42;rules.securestudies.com;65.151.188.176;Identifier_MAC_Router_Close;True;TMRG, Inc;Sectigo Limited;
+2022-02-25T12:10:14.042Z;com.voicefive.mms;42;www.mobilexpression.com;165.193.78.251;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-02-25T12:07:34.123Z;br.com.rodrigokolb.realdrum;235;yfce98mkm9.execute-api.us-east-1.amazonaws.com;52.85.187.82;Identifier_MAC_Router_Close;False;;;
+2022-02-25T12:07:34.123Z;br.com.rodrigokolb.realdrum;235;ozzk8grwsj.execute-api.us-east-1.amazonaws.com;52.84.70.103;Identifier_MAC_Router_Close;False;;;
+2022-02-25T12:03:56.420Z;es.santander.justicia;44;microsite.bancosantander.es;195.149.208.16;Identifier_MAC_Router_Close;False;;Banco Santander S.A;Banco Santander S.A
+2022-02-25T11:45:58.442Z;go.dev.matchandtalk;237;www.matchandtalk.com;54.229.204.220;Identifier_SSID_BSSID_Close;False;Invitelecom Limited;Amazon;
+2022-02-25T11:41:31.315Z;es.rosaoazul.app;2021091304;assets.babymarkt.com;52.85.187.28;Identifier_MAC_Router_Close;False;Babymarkt.de GmbH;;
+2022-02-25T11:41:31.315Z;es.rosaoazul.app;2021091304;www.rosaoazul.es;185.56.131.114;Identifier_MAC_Router_Close;False;;Acme Co;
+2022-02-25T11:41:31.312Z;es.rosaoazul.app;2021091304;cdn.epoq.de;13.224.106.125;Identifier_MAC_Router_Close;False;;;
+2022-02-25T11:41:31.311Z;es.rosaoazul.app;2021091304;browser.sentry-cdn.com;151.101.66.217;Identifier_MAC_Router_Close;True;;;
+2022-02-25T11:41:31.310Z;es.rosaoazul.app;2021091304;api.cleverpush.com;104.26.15.31;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-25T11:38:06.821Z;logo.maker;9;www.tailorbrands.com;104.19.174.21;Identifier_MAC_Router_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-02-25T11:21:31.758Z;com.edenred.share;157;share.shell.com;40.65.151.231;Identifier_SSID_BSSID_Close;True;Shell International Petroleum Company Limited;Let's Encrypt;
+2022-02-25T11:21:31.757Z;com.edenred.share;157;68c74-e6c92.api.pushwoosh.com;78.47.243.139;Identifier_SSID_BSSID_Close;False;Arello Mobile;Sectigo Limited;
+2022-02-24T23:19:33.224Z;mobisocial.arcade;100249;arcade.omlet.me;52.84.70.34;Identifier_MAC_Router_Close;False;;;
+2022-02-24T23:19:33.224Z;mobisocial.arcade;100249;idp.omlet.me;13.33.232.110;Identifier_MAC_Router_Close;False;;;
+2022-02-24T23:15:30.162Z;com.copart.membermobile;102;mmember.copart.com;45.60.80.154;Identifier_MAC_Router_Close;True;;GlobalSign nv-sa;
+2022-02-24T23:15:30.162Z;com.copart.membermobile;102;copart.sc.omtrdc.net;15.188.95.229;Identifier_MAC_Router_Close;False;Adobe Inc.;;
+2022-02-24T23:11:39.598Z;com.hdscreenmirroring.castphonetotv.casttotv;2;appmanager.videoeditors.in;167.71.229.227;Identifier_SSID_BSSID_Close;True;;ServerAvatar;
+2022-02-24T22:53:56.043Z;com.makemake.earthquake;7;earthquake.usgs.gov;52.85.187.3;Identifier_MAC_Router_Close;False;;U.S. Geological Survey;U.S. Geological Survey
+2022-02-24T22:53:56.042Z;com.makemake.earthquake;7;clients4.google.com;216.58.209.78;Certificate Pinning;False;Google LLC;Google Trust Services LLC;
+2022-02-24T22:50:15.717Z;app.tellows;153;www.tellows.de;104.26.13.149;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-24T22:46:37.203Z;com.appinf.in.happymod;1;mygalaxy.online;122.201.127.177;Identifier_SSID_BSSID_Close;True;;;
+2022-02-24T22:24:57.062Z;com.luzeon.BiggerCity;533;cdn.biggercityapp.com;104.26.8.2;Identifier_SSID_BSSID_Close;True;BCPI;;Cloudflare, Inc.
+2022-02-24T22:24:57.059Z;com.luzeon.BiggerCity;533;api.biggercity.com;104.21.35.68;Identifier_MAC_Router_Close;True;BCPI;;Cloudflare, Inc.
+2022-02-24T22:21:18.717Z;com.enel.mobile.nexo;6894;usage.trackjs.com;167.114.119.127;Identifier_MAC_Router_Close;True;;GitHub, Inc.;
+2022-02-24T22:04:59.272Z;toca.life.mars;1;cdn-f.adsmoloco.com;151.101.134.110;Identifier_MAC_Router_Close;True;;;
+2022-02-24T22:04:59.268Z;toca.life.mars;1;actoz.xyz;199.188.200.199;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-02-24T21:39:06.132Z;com.rahulkalouni.superheroeswallpapers4khd;37;mrspider.rahulkalouni.com;198.54.116.164;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-02-24T21:31:42.117Z;com.gadisa.gadis;145;app.gadis.es;178.60.27.170;Identifier_MAC_Router_Close;False;;Parallels;GALLEGA DE DISTRIBUIDORES DE ALIMENTACION, SOCIEDAD ANONIMA
+2022-02-24T21:28:04.031Z;eu.theusefulapps.peakfinder;335;peakfinder.co;194.11.154.68;Identifier_Cookie_or_similar_Tech;True;;Sectigo Limited;
+2022-02-24T21:24:32.452Z;com.stickpolice.manrope.hero;1;rr5---sn-h5q7kned.googlevideo.com;74.125.97.170;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-02-24T21:24:32.448Z;com.stickpolice.manrope.hero;1;api.uca.cloud.unity3d.com;35.241.52.229;Identifier_Ad_ID;True;;Unity Technologies ApS;Unity Technologies ApS
+2022-02-24T21:00:28.036Z;com.tresandroides.dilse;7;fundacioncnse-dilse.org;90.160.10.52;Identifier_MAC_Router_Close;False;Fundacion CNSE;;
+2022-02-24T20:49:47.277Z;com.elcorral.app;10205;elcorral.appadomicilios.com;89.248.107.77;Identifier_MAC_Router_Close;False;GDPR Masked;Let's Encrypt;
+2022-02-24T20:49:47.272Z;com.elcorral.app;10205;www.appadomicilios.com;89.248.107.77;Identifier_MAC_Router_Close;False;GDPR Masked;Let's Encrypt;
+2022-02-24T20:46:12.016Z;com.comprea.client;9040000;api.comprea.com;99.81.76.51;Identifier_MAC_Router_Close;False;Promotech Digital S.L.;;
+2022-02-24T20:37:40.018Z;com.visitnorway.norwaylights;6;www.norway-lights.com;192.229.220.65;Identifier_SSID_BSSID_Close;True;INNOVASJON NORGE;Domeneshop AS;
+2022-02-24T20:34:13.897Z;com.themobilecompany.delijn;1643710685;api.delijn.be;20.101.205.248;Identifier_MAC_Router_Close;False;Combell nv;Sectigo Limited;
+2022-02-24T20:34:13.897Z;com.themobilecompany.delijn;1643710685;www.delijn.be;84.199.146.211;Identifier_MAC_Router_Close;False;Combell nv;Sectigo Limited;
+2022-02-24T20:34:13.897Z;com.themobilecompany.delijn;1643710685;cdn.contentful.com;151.101.134.49;Identifier_MAC_Router_Close;True;Contentful GmbH;Netlify, Inc;
+2022-02-24T20:14:34.333Z;com.bereal.ft;448;rum.browser-intake-datadoghq.com;3.233.149.201;Identifier_MAC_Router_Close;True;;;
+2022-02-24T20:10:56.860Z;baby.balloon.popping.magic.land.of.games;2002;www.tapsong.net;162.144.61.65;Identifier_MAC_Router_Close;True;;GlobalSign nv-sa;
+2022-02-24T20:03:43.439Z;com.hamsoft.face.follow;15002680;hamsoftintro.appspot.com;142.250.185.20;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-02-24T19:57:17.485Z;com.applidium.vianavigo;27415317;is-iv.iledefrance-mobilites.fr;51.103.6.210;Identifier_MAC_Router_Close;False;;Gandi;ILE DE FRANCE MOBILITES
+2022-02-24T19:57:17.485Z;com.applidium.vianavigo;27415317;ws.batch.com;54.36.246.133;Identifier_MAC_Router_Close;False;;;
+2022-02-24T19:49:28.046Z;com.iphonedroid.marca;52869;a12d634881c24f669bbaca6bffd0648bc892905c0a3f27c7547e5d25.trk.sensic.net;13.33.232.79;Identifier_MAC_Router_Close;False;;;
+2022-02-24T19:49:28.046Z;com.iphonedroid.marca;52869;ads.pubmatic.com;23.62.184.201;Identifier_MAC_Router_Close;False;PubMatic, Inc.;PubMatic, Inc.;
+2022-02-24T19:49:28.046Z;com.iphonedroid.marca;52869;phantom-marca.unidadeditorial.es;13.33.232.20;Identifier_MAC_Router_Close;False;;GlobalSign nv-sa;
+2022-02-24T19:49:28.045Z;com.iphonedroid.marca;52869;img.youtube.com;172.217.17.14;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-02-24T19:49:28.042Z;com.iphonedroid.marca;52869;mobile-1530.api.privacy-center.org;13.33.232.38;Identifier_SSID_BSSID_Close;False;;;
+2022-02-24T19:49:28.038Z;com.iphonedroid.marca;52869;www.marca.com;151.101.133.50;Certificate Pinning;True;UNIDAD EDITORIAL INFORMACION DEPORTIVA, S.L.U;;
+2022-02-24T19:49:28.038Z;com.iphonedroid.marca;52869;es-config.sensic.net;13.33.232.89;Identifier_MAC_Router_Close;False;;;
+2022-02-24T19:45:22.327Z;com.mangamaster.manga.geek.ofa;230;wx3.sinaimg.cn;163.181.49.228;Identifier_SSID_BSSID_Close;False;;Sina.com Technology(China)Co.,ltd;Sina.com Technology(China)Co.,ltd
+2022-02-24T19:45:22.326Z;com.mangamaster.manga.geek.ofa;230;api.mangageek.net;47.88.216.94;Identifier_MAC_Router_Close;True;;;
+2022-02-24T19:45:22.326Z;com.mangamaster.manga.geek.ofa;230;wx2.sinaimg.cn;163.181.49.227;Identifier_MAC_Router_Close;False;;Sina.com Technology(China)Co.,ltd;Sina.com Technology(China)Co.,ltd
+2022-02-24T19:45:22.324Z;com.mangamaster.manga.geek.ofa;230;aaid.umeng.com;111.63.137.74;Identifier_Ad_ID;True;;;
+2022-02-24T19:38:21.193Z;com.projectystudio.lasratitashdwallpaper.newphotos;12;apkfile.website;199.188.201.150;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-02-24T19:25:13.929Z;com.attack.aotmobile.guidetitans;1;ms.applvn.com;104.16.70.81;Identifier_SSID_BSSID_Close;True;;COMODO CA Limited;Cloudflare, Inc.
+2022-02-24T19:25:13.925Z;com.attack.aotmobile.guidetitans;1;goldenstopo.github.io;185.199.110.153;Identifier_SSID_BSSID_Close;True;;GitHub, Inc.;GitHub, Inc.
+2022-02-24T18:50:02.278Z;com.evsoft.photoshoot.fun1;1905031900;rr4---sn-h5qzen7d.googlevideo.com;74.125.97.41;Identifier_MAC_Router_Close;False;Google LLC;Google Trust Services LLC;
+2022-02-24T18:46:32.665Z;com.ficohsa.activities;105;secure.ficohsa.com;66.22.1.82;Identifier_SSID_BSSID_Close;True;Banco Financiera Comercial Hondurena S.A;;
+2022-02-24T18:46:32.665Z;com.ficohsa.activities;105;campaigns.ficohsa.com;207.248.66.68;Identifier_MAC_Router_Close;True;Banco Financiera Comercial Hondurena S.A;;
+2022-02-24T18:39:23.680Z;org.zwanoo.android.speedtest;154326;user-api.speedtest.net;151.101.134.219;Identifier_SSID_BSSID_Close;True;Ookla LLC;GlobalSign nv-sa;
+2022-02-24T18:39:23.679Z;org.zwanoo.android.speedtest;154326;m.optout.ziffdavis.com;23.62.180.210;Identifier_SSID_BSSID_Close;False;Ziff Davis LLC;Amazon;
+2022-02-24T18:39:23.679Z;org.zwanoo.android.speedtest;154326;www.speedtest.net;151.101.134.219;Identifier_MAC_Router_Close;True;Ookla LLC;GlobalSign nv-sa;
+2022-02-24T18:39:23.678Z;org.zwanoo.android.speedtest;154326;sb.voicefive.com;52.84.70.95;Identifier_MAC_Router_Close;False;VoiceFive, Inc;Sectigo Limited;
+2022-02-24T18:35:24.055Z;com.chinalove;61576;data.clickocean.io;104.19.252.11;Identifier_SSID_BSSID_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-02-24T18:35:24.054Z;com.chinalove;61576;api.zendate.com;104.83.183.244;Identifier_MAC_Router_Close;False;SOL Networks Limited;SOL Networks Limited;SOL Networks Limited
+2022-02-24T18:35:24.054Z;com.chinalove;61576;check-version.flexible.agency;13.33.232.124;Identifier_MAC_Router_Close;False;Schof.co;;
+2022-02-24T18:35:24.052Z;com.chinalove;61576;tr.snapchat.com;35.186.226.184;Certificate Pinning;True;DNStination Inc.;;Snap Inc.
+2022-02-24T18:35:24.051Z;com.chinalove;61576;sentry.communicationservicesplatform.com;37.26.120.128;Identifier_MAC_Router_Close;False;;;
+2022-02-24T18:31:46.213Z;com.flipd.app;262;apiv2.flipdapp.co;13.90.213.204;Identifier_MAC_Router_Close;True;FLIPD APP;;
+2022-02-24T18:20:16.954Z;com.tagus;116;imagessl.casadellibro.com;8.238.25.122;Identifier_SSID_BSSID_Close;True;Espasa Calpe, SA;Planeta Innovacion SA;Planeta Innovacion SA
+2022-02-24T18:20:16.954Z;com.tagus;116;www.casadellibro.com;8.238.25.122;Identifier_MAC_Router_Close;True;Espasa Calpe, SA;Planeta Innovacion SA;Planeta Innovacion SA
+2022-02-24T18:20:16.953Z;com.tagus;116;imagessl0.casadellibro.com;8.247.222.122;Identifier_SSID_BSSID_Close;False;Espasa Calpe, SA;Planeta Innovacion SA;Planeta Innovacion SA
+2022-02-24T18:20:16.953Z;com.tagus;116;imagessl5.casadellibro.com;8.238.54.122;Identifier_MAC_Router_Close;True;Espasa Calpe, SA;Planeta Innovacion SA;Planeta Innovacion SA
+2022-02-24T18:20:16.953Z;com.tagus;116;device-api.indigitall.com;130.211.16.250;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-02-24T18:20:16.952Z;com.tagus;116;staticsni.casadellibro.com;8.241.106.122;Identifier_MAC_Router_Close;False;Espasa Calpe, SA;Planeta Innovacion SA;Planeta Innovacion SA
+2022-02-24T18:20:16.949Z;com.tagus;116;imagessl1.casadellibro.com;8.248.184.22;Identifier_MAC_Router_Close;False;Espasa Calpe, SA;Planeta Innovacion SA;Planeta Innovacion SA
+2022-02-24T18:20:16.948Z;com.tagus;116;imagessl2.casadellibro.com;8.247.223.122;Identifier_SSID_BSSID_Close;False;Espasa Calpe, SA;Planeta Innovacion SA;Planeta Innovacion SA
+2022-02-24T18:20:16.947Z;com.tagus;116;imagessl6.casadellibro.com;8.248.184.22;Identifier_MAC_Router_Close;False;Espasa Calpe, SA;Planeta Innovacion SA;Planeta Innovacion SA
+2022-02-24T18:06:03.285Z;com.adeveloper.soccer10;6;3.134.99.77:1337;Unknown;Identifier_SSID_BSSID_Close;False;;;
+2022-02-24T18:02:17.641Z;es.mediamarkt.app;2021000101;o1040326.ingest.sentry.io;34.120.195.249;Identifier_SSID_BSSID_Close;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-02-24T17:55:57.260Z;com.sidechef.sidechef;652;pinpoint.us-west-2.amazonaws.com;13.224.106.20;Identifier_MAC_Router_Close;False;Amazon.com, Inc.;;
+2022-02-24T17:55:57.259Z;com.sidechef.sidechef;652;api.sidechef.com;13.33.232.77;Identifier_MAC_Router_Close;False;SideChef;;
+2022-02-24T17:55:57.257Z;com.sidechef.sidechef;652;cognito-identity.us-west-2.amazonaws.com;34.215.64.45;Identifier_MAC_Router_Close;True;Amazon.com, Inc.;;
+2022-02-24T17:55:57.255Z;com.sidechef.sidechef;652;expo-sidechef.s3.us-west-2.amazonaws.com;52.218.169.161;Identifier_MAC_Router_Close;True;;;
+2022-02-24T17:52:21.563Z;com.gemini.android.app;29956;gemini.com;52.85.187.62;Identifier_MAC_Router_Close;False;Gemini Trust Company, LLC;;
+2022-02-24T17:52:21.563Z;com.gemini.android.app;29956;mobile.gemini.com;99.83.200.252;Identifier_MAC_Router_Close;True;Gemini Trust Company, LLC;;
+2022-02-24T17:52:21.563Z;com.gemini.android.app;29956;ota.gemini.com;52.84.70.61;Identifier_MAC_Router_Close;False;;;
+2022-02-24T17:52:21.562Z;com.gemini.android.app;29956;d1jex8ycf0npfv.cloudfront.net;13.32.91.129;Identifier_SSID_BSSID_Close;False;;Amazon;
+2022-02-24T17:52:21.562Z;com.gemini.android.app;29956;www.gemini.com;18.135.239.82;Identifier_MAC_Router_Close;True;;;
+2022-02-24T17:52:21.560Z;com.gemini.android.app;29956;api.getbouncer.com;216.239.36.21;Identifier_SSID_BSSID_Close;True;;;
+2022-02-24T17:52:21.560Z;com.gemini.android.app;29956;rest.iad-03.braze.com;151.101.133.208;Certificate Pinning;True;Braze, Inc.;GlobalSign nv-sa;
+2022-02-24T17:52:21.560Z;com.gemini.android.app;29956;o472445.ingest.sentry.io;34.120.195.249;Certificate Pinning;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-02-24T17:43:45.847Z;es.grupocastilla.e3mobile;109;e3common.grupocastilla.es;107.154.80.59;Identifier_MAC_Router_Close;True;;GlobalSign nv-sa;
+2022-02-24T17:40:18.472Z;com.OppanaGames.Test.Drive.Vesta.Simulator;11;auction.unityads.unity3d.com;34.136.36.206;Identifier_MAC_Router_Close;True;Unity Technologies SF;Unity Technologies ApS;Unity Technologies ApS
+2022-02-24T17:40:18.470Z;com.OppanaGames.Test.Drive.Vesta.Simulator;11;perf-events.cloud.unity3d.com;35.190.78.8;Identifier_SSID_BSSID_Close;True;;Unity Technologies ApS;Unity Technologies ApS
+2022-02-24T17:37:27.958Z;es.mercadona.tienda;13403030;api.lab.amplitude.com;151.101.134.132;Identifier_MAC_Router_Close;True;;COMODO CA Limited;
+2022-02-24T17:33:50.439Z;com.followers.for.titok.likes;2;sentry.instag.cloud;104.21.6.200;Identifier_MAC_Router_Close;True;InsTag;;Cloudflare, Inc.
+2022-02-24T17:33:50.439Z;com.followers.for.titok.likes;2;taggins.xyz;188.114.97.12;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-24T17:30:15.801Z;com.saramart.android;92;src-gw.saramart.com;54.154.213.203;Identifier_MAC_Router_Close;False;;;Cloudflare, Inc.
+2022-02-24T17:30:15.799Z;com.saramart.android;92;gw.saramart.com;104.18.31.31;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-24T17:30:15.798Z;com.saramart.android;92;ire-d01.fordealdc.com;104.18.15.201;Identifier_MAC_Router_Close;True;;;
+2022-02-24T17:30:15.798Z;com.saramart.android;92;dot-hub-x.fordealdc.com;104.18.14.201;Identifier_Ad_ID;True;;;
+2022-02-24T17:30:15.797Z;com.saramart.android;92;2658f06a73ef76721f9682c78225ee2c5987b5c50-b1c895c26dcd.cdn.forter.com;3.234.25.89;Identifier_MAC_Router_Close;True;Forter;COMODO CA Limited;
+2022-02-24T17:30:15.796Z;com.saramart.android;92;s3.forcloudcdn.com;104.18.25.201;Identifier_MAC_Router_Close;True;;DigiCert Inc;
+2022-02-24T17:30:15.793Z;com.saramart.android;92;b1c895c26dcd.cdn4.forter.com;52.85.187.119;Identifier_MAC_Router_Close;False;;COMODO CA Limited;
+2022-02-24T17:26:07.029Z;com.pons.onlinedictionary;304;privacyportal-de.onetrust.com;104.20.185.68;Identifier_MAC_Router_Close;True;;OneTrust LLC;OneTrust LLC
+2022-02-24T17:26:07.028Z;com.pons.onlinedictionary;304;optanon.blob.core.windows.net;52.239.137.4;Identifier_MAC_Router_Close;False;Microsoft Corporation;Microsoft Corporation;
+2022-02-24T17:08:22.832Z;com.labs.merlinbirdid.app;639;packs.merlin.birds.cornell.edu;52.217.133.33;Identifier_SSID_BSSID_Close;True;;Cornell University;Cornell University
+2022-02-24T17:04:27.077Z;com.ortm.mali;10000;ortm.grin.esy.es;141.136.39.142;Identifier_MAC_Router_Close;True;;Apache Friends;
+2022-02-24T17:00:59.255Z;reina.valera.gratis1909;3;biblekjvverses.com;68.183.82.19;Identifier_SSID_BSSID_Close;True;;Let's Encrypt;
+2022-02-24T16:53:50.287Z;com.brainbow.peak.app;800931;collector.peakcloud.org;3.230.23.189;Identifier_MAC_Router_Close;True;;;
+2022-02-24T16:53:50.284Z;com.brainbow.peak.app;800931;manifest.peakcloud.org;34.231.164.97;Identifier_MAC_Router_Close;True;;;
+2022-02-24T16:53:50.284Z;com.brainbow.peak.app;800931;billing.peakcloud.org;34.231.164.97;Identifier_MAC_Router_Close;True;;;
+2022-02-24T16:53:50.282Z;com.brainbow.peak.app;800931;api.peakcloud.org;34.231.164.97;Identifier_SSID_BSSID_Close;True;;;
+2022-02-24T16:53:50.280Z;com.brainbow.peak.app;800931;paypal-config-live.s3-website-us-east-1.amazonaws.com;52.217.204.29;Identifier_MAC_Router_Close;True;Amazon.com, Inc.;;
+2022-02-24T16:53:50.280Z;com.brainbow.peak.app;800931;md-a-c.apptimize.com;130.211.33.132;Identifier_MAC_Router_Close;True;DNStination Inc.;Urban Airship, Inc.;Urban Airship, Inc.
+2022-02-24T16:48:53.804Z;com.imyfone.famiguard;46;api.famiguard.com;54.200.27.47;Certificate Pinning;True;;;
+2022-02-24T16:48:53.804Z;com.imyfone.famiguard;46;famiguard.imyfone.com;54.200.27.47;Identifier_MAC_Router_Close;True;;DigiCert Inc;
+2022-02-24T16:41:59.188Z;ddoers.vozpopuli;136;media.vozpopuli.com;104.26.0.78;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-24T16:41:59.186Z;ddoers.vozpopuli;136;www.vozpopuli.com;104.26.1.78;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-24T16:41:59.186Z;ddoers.vozpopuli;136;www8.smartadserver.com;185.86.137.17;Identifier_MAC_Router_Close;False;Smartadserver;GoDaddy.com, Inc.;
+2022-02-24T16:41:59.186Z;ddoers.vozpopuli;136;cdn.taboola.com;151.101.37.44;Identifier_MAC_Router_Close;False;;GlobalSign nv-sa;TABOOLA.COM LTD
+2022-02-24T16:41:59.185Z;ddoers.vozpopuli;136;www.estrategiasdeinversion.com;172.66.40.143;Identifier_SSID_BSSID_Close;True;Publicaciones Tecnicas Profesionales SL;;Cloudflare, Inc.
+2022-02-24T16:41:59.184Z;ddoers.vozpopuli;136;quantcast.mgr.consensu.org;13.224.106.127;Identifier_SSID_BSSID_Close;False;IAB Europe;;
+2022-02-24T16:41:59.184Z;ddoers.vozpopuli;136;securepubads.g.doubleclick.net;216.58.209.66;Identifier_MAC_Router_Close;False;Google Inc.;Google Trust Services LLC;
+2022-02-24T16:41:59.183Z;ddoers.vozpopuli;136;cdn.unblockia.com;104.26.6.134;Identifier_MAC_Router_Close;True;Claudator S.L.;;Cloudflare, Inc.
+2022-02-24T16:41:59.183Z;ddoers.vozpopuli;136;static.cloudflareinsights.com;104.16.94.65;Identifier_MAC_Router_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-02-24T16:41:59.182Z;ddoers.vozpopuli;136;ced.sascdn.com;84.53.132.10;Identifier_MAC_Router_Close;False;Smartadserver;SAFEBRANDS S.A.S;
+2022-02-24T16:41:59.182Z;ddoers.vozpopuli;136;secure.quantserve.com;91.228.74.133;Identifier_MAC_Router_Close;False;Quantcast;;
+2022-02-24T16:34:32.336Z;com.bint.fullsdelsenginyers;2;www.fullsdenginyeria.cat;88.87.193.116;Identifier_MAC_Router_Close;False;Col.legi Oficial D'Enginyers Industrials De Catalunya;SomeOrganization;
+2022-02-24T16:34:32.335Z;com.bint.fullsdelsenginyers;2;use.fontawesome.com;188.114.96.12;Identifier_MAC_Router_Close;True;;;Fonticons Inc
+2022-02-24T16:23:56.917Z;com.peat.GartenBank;227;ape.peat-cloud.com;34.249.123.6;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-24T15:51:15.071Z;com.apstem.veganizeit;180;veganizedtheapp.com;151.101.1.195;Identifier_MAC_Router_Close;True;;Google Trust Services LLC;
+2022-02-24T15:47:41.449Z;es.radioplayer.android;1266;esrpimagecache.s3.amazonaws.com;52.218.101.74;Identifier_MAC_Router_Close;False;Amazon.com, Inc.;Amazon;
+2022-02-24T15:47:41.448Z;es.radioplayer.android;1266;np.es.radioplayer.org;52.49.59.62;Certificate Pinning;False;UK Radioplayer Ltd;;Cloudflare, Inc.
+2022-02-24T15:47:41.448Z;es.radioplayer.android;1266;api.es.radioplayer.org;108.129.64.244;Identifier_MAC_Router_Close;False;UK Radioplayer Ltd;;Cloudflare, Inc.
+2022-02-24T15:43:48.986Z;com.seven.shang.jianqi.zui.kan.wallpaper;8;bz01.sjapp51.com;163.171.131.195;Identifier_MAC_Router_Close;False;;;
+2022-02-24T15:25:21.767Z;com.chronologytemplate.suman;6;api.creator.kodular.io;3.122.163.3;Identifier_MAC_Router_Close;False;;;Cloudflare, Inc.
+2022-02-24T15:21:45.959Z;es.onnix.briones;10008;micita.onnix.es;82.223.81.38;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-24T15:14:51.312Z;com.las.ratitas.fans;5;i1.ytimg.com;216.58.209.78;Identifier_SSID_BSSID_Close;False;Google LLC;;
+2022-02-24T15:14:51.312Z;com.las.ratitas.fans;5;i2.ytimg.com;142.250.178.174;Identifier_MAC_Router_Close;False;;;
+2022-02-24T15:14:51.312Z;com.las.ratitas.fans;5;i4.ytimg.com;216.58.215.174;Identifier_MAC_Router_Close;False;;;
+2022-02-24T15:14:51.312Z;com.las.ratitas.fans;5;i3.ytimg.com;142.250.184.174;Identifier_MAC_Router_Close;False;;;
+2022-02-24T15:14:51.311Z;com.las.ratitas.fans;5;i.ytimg.com;216.58.215.150;Identifier_SSID_BSSID_Close;False;;;
+2022-02-24T15:14:51.311Z;com.las.ratitas.fans;5;pbs.twimg.com;192.229.233.50;Identifier_MAC_Router_Close;True;Twitter, Inc.;;
+2022-02-24T15:14:51.310Z;com.las.ratitas.fans;5;www.appyet.com;37.187.133.69;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-24T15:14:51.309Z;com.las.ratitas.fans;5;www.pinclipart.com;173.208.239.244;Identifier_MAC_Router_Close;True;;Let's Encrypt;
+2022-02-24T15:00:29.494Z;com.gvam.salamanca2;20703;salamanca-2.gvam.es;3.10.230.105;Identifier_SSID_BSSID_Close;True;;Arsys Internet S.L.;
+2022-02-24T15:00:29.494Z;com.gvam.salamanca2;20703;gsafe-websockets-service.gvam.es;18.134.75.115;Identifier_MAC_Router_Close;True;;Arsys Internet S.L.;
+2022-02-24T15:00:29.494Z;com.gvam.salamanca2;20703;gvam.cst.smartvel.com;52.210.71.120;Identifier_MAC_Router_Close;False;;Sectigo Limited;
+2022-02-24T14:56:59.775Z;com.dhservices.daddyhunt;4050101;api-v3.daddyhunt.com;54.196.16.164;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-02-24T14:53:32.837Z;air.com.readysquare.scsm;2003164;readysquare.ovh;213.186.33.85;Certificate Pinning;False;;Sectigo Limited;
+2022-02-24T14:49:48.772Z;com.aita;608;iappintheair.appspot.com;142.250.201.84;Identifier_MAC_Router_Close;False;;Google Trust Services LLC;
+2022-02-24T14:49:48.772Z;com.aita;608;booking.aita.travel;104.22.39.74;Identifier_MAC_Router_Close;True;App in the Air;;Cloudflare, Inc.
+2022-02-24T14:46:05.970Z;com.starmakerinteractive.starmaker;84819003;api.starmakerstudios.com;119.28.243.139;Identifier_MAC_Router_Close;True;StarMaker Interactive Inc;Akamai Technologies, Inc.;
+2022-02-24T14:46:05.966Z;com.starmakerinteractive.starmaker;84819003;ddns.tspot.vip;124.156.67.13;Identifier_MAC_Router_Close;True;;;
+2022-02-24T14:34:43.786Z;com.luxypro;1015;api.onluxy.com;54.71.26.204;Identifier_SSID_BSSID_Close;True;;DigiCert Inc;
+2022-02-24T14:30:41.095Z;io.gonative.android.opllqp;20121;www.gustazos.com;13.33.232.126;Identifier_MAC_Router_Close;False;;Amazon;
+2022-02-24T14:27:07.639Z;com.appwallet.outline;5;178.128.6.196;Unknown;Identifier_MAC_Router_Close;False;;;
+2022-02-24T13:59:20.209Z;gob.defensa.prensa;32;publicaciones.defensa.gob.es;185.73.172.120;Identifier_SSID_BSSID_Close;False;;;
+2022-02-24T13:59:20.209Z;gob.defensa.prensa;32;revistadefensa.observalia.com;185.73.172.126;Identifier_MAC_Router_Close;False;;DigiCert Inc;
+2022-02-24T13:55:43.047Z;com.poppy.playtime.huggycall;2;instiacompany.fun;198.54.114.236;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-02-24T13:52:19.457Z;com.shopgate.android.app30712;549000;sgxs-rapid2-prod.shopgate.services;34.76.147.52;Identifier_MAC_Router_Close;False;Shopgate GmbH;;
+2022-02-24T13:52:19.457Z;com.shopgate.android.app30712;549000;data.shopgate.com;13.224.106.106;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-24T13:52:19.456Z;com.shopgate.android.app30712;549000;connect.shopgate.com;52.85.187.52;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-24T13:52:19.455Z;com.shopgate.android.app30712;549000;rapid-php.shopgate.com;34.253.251.17;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-24T13:52:19.454Z;com.shopgate.android.app30712;549000;cdn.shopgate.com;52.84.70.21;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-24T13:52:19.452Z;com.shopgate.android.app30712;549000;api.shopgate.com;52.210.143.202;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-24T13:52:19.449Z;com.shopgate.android.app30712;549000;rapid2.shopgate.com;52.28.107.139;Identifier_Ad_ID;False;;Let's Encrypt;
+2022-02-24T13:48:39.862Z;com.ibearsoft.moneyproandroid;542;pinpoint.us-east-1.amazonaws.com;52.84.70.54;Identifier_SSID_BSSID_Close;False;Amazon.com, Inc.;;
+2022-02-24T13:48:39.861Z;com.ibearsoft.moneyproandroid;542;moneypro.net;13.224.106.52;Identifier_MAC_Router_Close;False;;;
+2022-02-24T13:48:39.860Z;com.ibearsoft.moneyproandroid;542;ibearsoft.com;52.84.70.32;Identifier_MAC_Router_Close;False;;;
+2022-02-24T13:39:09.087Z;com.latbus.app;11;api.latbus.com;54.37.20.112;Identifier_SSID_BSSID_Close;False;;;
+2022-02-24T13:35:38.535Z;org.dpvtech.com;140;pasalapagina.com;169.48.223.138;Identifier_MAC_Router_Close;True;Publicaciones Digitales SAS;Let's Encrypt;
+2022-02-24T13:20:10.953Z;cn.xingread.dny;80;ulogs.umeng.com;8.211.35.113;Certificate Pinning;False;;;
+2022-02-24T13:20:10.952Z;cn.xingread.dny;80;androidhw.xingread.cn;107.155.55.97;Identifier_MAC_Router_Close;True;;DigiCert Inc;
+2022-02-24T13:20:10.952Z;cn.xingread.dny;80;cloud.xdrig.com;116.198.14.42;Identifier_MAC_Router_Close;True;;TalkingData.com;
+2022-02-24T13:20:10.952Z;cn.xingread.dny;80;conf.xdrig.com;114.67.244.173;Identifier_MAC_Router_Close;True;;TalkingData.com;
+2022-02-24T13:20:10.951Z;cn.xingread.dny;80;i.tddmp.com;116.196.71.30;Identifier_MAC_Router_Close;True;;;
+2022-02-24T13:16:31.079Z;com.marriott.mrt;312;gatewaydsapprd.marriott.com;104.83.52.152;Identifier_MAC_Router_Close;False;Marriott International Inc;Marriott International Inc.;Marriott International Inc.
+2022-02-24T13:16:31.079Z;com.marriott.mrt;312;smetrics.marriott.com;15.236.176.210;Identifier_MAC_Router_Close;False;Marriott International Inc;Marriott International Inc.;Marriott International Inc.
+2022-02-24T13:16:31.078Z;com.marriott.mrt;312;network.bazaarvoice.com;3.216.15.21;Identifier_Ad_ID;True;Bazaarvoice, Inc.;Pantheon Systems Inc.;
+2022-02-24T13:16:31.077Z;com.marriott.mrt;312;api.apptentive.com;3.234.112.58;Identifier_SSID_BSSID_Close;True;Apptentive;Sectigo Limited;
+2022-02-24T13:16:31.077Z;com.marriott.mrt;312;www.marriott.com;104.83.11.72;Identifier_MAC_Router_Close;False;Marriott International Inc;Marriott International Inc.;Marriott International Inc.
+2022-02-24T13:06:20.140Z;it.scontiriservati.app;251;app.api.ventis.it;34.252.239.222;Identifier_MAC_Router_Close;False;;Amazon;
+2022-02-24T12:46:31.807Z;com.moongaming.raidmasterfree;6;ads.tapdaq.com;104.22.17.93;Identifier_MAC_Router_Close;True;;Amazon;
+2022-02-24T12:42:57.604Z;br.com.bb.android;2919;eni.bb.com.br;170.66.72.2;Identifier_SSID_BSSID_Close;True;;Banco do Brasil S.A.;Banco do Brasil S.A.
+2022-02-24T12:42:57.604Z;br.com.bb.android;2919;mobi.bb.com.br;170.66.193.2;Certificate Pinning;True;;Banco do Brasil S.A.;Banco do Brasil S.A.
+2022-02-24T12:42:57.603Z;br.com.bb.android;2919;kodiak-engine.mov.bb.com.br;170.66.215.15;Certificate Pinning;True;;Banco do Brasil S.A.;Banco do Brasil S.A.
+2022-02-24T12:38:07.510Z;increaseheightworkout.heightincreaseexercise.tallerexercise;29;api-cms.mobihealthplus.com;52.202.23.131;Identifier_MAC_Router_Close;True;;GoDaddy.com, Inc.;
+2022-02-24T12:34:26.241Z;com.bonbongame.learn.colors.and.shapes.kids.games;31;edugames.vn;159.65.79.37;Identifier_MAC_Router_Close;True;;;
+2022-02-24T12:21:14.334Z;com.loseweight.weightloseathome;24;tnc16-useast1a.byteoversea.com;2.17.211.160;Identifier_MAC_Router_Close;False;Lemon Inc;;
+2022-02-24T12:21:14.331Z;com.loseweight.weightloseathome;24;d2jdedpnnupm90.cloudfront.net;13.32.91.101;Identifier_MAC_Router_Close;False;;Amazon;
+2022-02-24T12:21:14.330Z;com.loseweight.weightloseathome;24;tnc16-useast1a.isnssdk.com;23.47.189.65;Identifier_SSID_BSSID_Close;False;Lemon Inc;;
+2022-02-24T11:47:30.670Z;es.gva.itacafamilias;10123;familia.edu.gva.es;193.145.207.239;Identifier_MAC_Router_Close;False;;;Generalitat Valenciana
+2022-02-23T14:30:08.730Z;its.myapps.haircolorchanger;28;www.amitchawla.in;43.255.154.109;Identifier_MAC_Router_Close;True;;Starfield Technologies, Inc.;
+2022-02-23T14:23:07.900Z;com.booknet;1521;api.booknet.com;85.10.224.193;Identifier_MAC_Router_Close;False;Litnet Group;Sectigo Limited;
+2022-02-23T14:15:52.642Z;com.yoigo.energia;10400;dashboard-api.energygo.es;104.26.7.193;Identifier_MAC_Router_Close;True;;;Cloudflare, Inc.
+2022-02-23T14:15:52.641Z;com.yoigo.energia;10400;shared-api.energygo.es;172.67.69.234;Identifier_SSID_BSSID_Close;True;;;Cloudflare, Inc.
+2022-02-23T14:12:34.732Z;com.kidsfoodinc.unicorn.cooking.game;20220121;bid.g.doubleclick.net;142.251.5.156;Certificate Pinning;True;Google Inc.;Google Trust Services LLC;
+2022-02-23T14:12:34.729Z;com.kidsfoodinc.unicorn.cooking.game;20220121;food0001-b2.huskymobile.com;104.26.10.34;Identifier_MAC_Router_Close;True;;Squarespace, Inc.;
+2022-02-23T13:59:03.519Z;com.csmart.cartooncomic.stripmaker;19;creinnovations.in;182.50.135.99;Identifier_MAC_Router_Close;True;;;
+2022-02-23T13:55:31.664Z;com.agilecontent.agiletv.mobile;95;infinity-c5.youboranqs01.com;178.162.146.164;Identifier_MAC_Router_Close;False;;;
+2022-02-23T13:55:31.662Z;com.agilecontent.agiletv.mobile;95;flags.agiletv.net;34.255.225.50;Identifier_MAC_Router_Close;False;;;Agile Content SA
+2022-02-23T13:48:15.074Z;com.holosfind.showroom;628362;waps.showroomprive.com;185.29.148.36;Identifier_SSID_BSSID_Close;False;SHOWROOMPRIVE.COM;showroomprive.com SARLU;showroomprive.com SARLU
+2022-02-23T13:48:15.074Z;com.holosfind.showroom;628362;mtandao.showroomprive.com;185.29.148.32;Identifier_MAC_Router_Close;False;SHOWROOMPRIVE.COM;showroomprive.com SARLU;showroomprive.com SARLU
+2022-02-23T13:48:15.073Z;com.holosfind.showroom;628362;sdk.follow-apps.com;99.83.210.18;Identifier_MAC_Router_Close;True;;;
+2022-02-23T13:48:15.072Z;com.holosfind.showroom;628362;auth.follow-apps.com;75.2.19.149;Identifier_MAC_Router_Close;True;;;
+2022-02-23T13:40:59.067Z;com.tribab.tricount.android;1491;api.tricount.com;52.57.175.45;Identifier_MAC_Router_Close;False;TRICOUNT SA;Sectigo Limited;
+2022-02-23T13:37:35.039Z;com.optimizer.pro.beeztel;60;www.corporissanum.com;51.254.146.24;Identifier_MAC_Router_Close;False;Correomaster, S.L.;Let's Encrypt;
+2022-02-23T13:34:00.735Z;com.beruby.app;7;es.beruby.com;35.241.34.48;Identifier_MAC_Router_Close;True;MiRubi Internet SL;Sectigo Limited;
+2022-02-23T13:30:34.423Z;com.lluraferi.inside;27046766;app.inside-shops.com;54.72.156.63;Identifier_MAC_Router_Close;False;;;Cloudflare, Inc.
+2022-02-23T13:27:04.818Z;com.weather.ZWeather;10;lbs.gtimg.com;203.205.137.227;Identifier_MAC_Router_Close;True;Shenzhen Tencent Computer Systems CO.,Ltd;;
+2022-02-23T13:27:04.818Z;com.weather.ZWeather;10;cc.map.qq.com;203.205.253.140;Identifier_MAC_Router_Close;True;Shenzhen Tencent Computer Systems CO.,Ltd;Shenzhen Tencent Computer Systems Company Limited;Shenzhen Tencent Computer Systems Company Limited
+2022-02-23T13:23:17.049Z;com.bpmobile.iscanner.free;18428;bpmob.com;46.229.171.44;Identifier_SSID_BSSID_Close;True;;Let's Encrypt;
+2022-02-23T13:19:30.209Z;es.bancosantander.apps;90080077;consumer.exacttargetapis.com;66.231.91.133;Identifier_MAC_Router_Close;True;Salesforce.com, Inc.;;
+2022-02-23T13:19:30.209Z;es.bancosantander.apps;90080077;www.bsan.mobi;195.149.208.52;Identifier_MAC_Router_Close;False;;Grupo Santander (Banco Santander, S.A.);Grupo Santander (Banco Santander, S.A.)
+2022-02-23T13:15:13.384Z;com.hp.printercontrol;3183;www.hpsmart.com;104.18.9.134;Identifier_MAC_Router_Close;True;HP Inc.;;Cloudflare, Inc.
+2022-02-23T13:15:13.384Z;com.hp.printercontrol;3183;mosaic.hpoobe.com;54.68.45.87;Identifier_MAC_Router_Close;True;;;
+2022-02-23T13:06:47.787Z;com.sleekbit.dormi;58;sb-001.appspot.com;216.58.215.180;Identifier_SSID_BSSID_Close;False;;Google Trust Services LLC;
+2022-02-23T12:56:11.327Z;es.motor.app;65;services.motor.es;35.201.65.134;Identifier_MAC_Router_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-02-23T12:56:11.327Z;es.motor.app;65;www.motor.es;104.16.95.71;Identifier_MAC_Router_Close;True;;Cloudflare, Inc.;Cloudflare, Inc.
+2022-02-23T12:56:11.326Z;es.motor.app;65;cdn.privacy-mgmt.com;13.224.106.52;Identifier_MAC_Router_Close;False;;;
+2022-02-23T12:41:51.885Z;com.nyxell;205;apinyxell.com;40.89.141.103;Identifier_MAC_Router_Close;False;NYXELL SDAD COOP;Microsoft Corporation;
+2022-02-23T12:37:10.176Z;cz.master.lois;1918064028;bonnie-vip.masterinter.net;89.185.246.123;Certificate Pinning;True;Master Internet, s.r.o.;Unizeto Technologies S.A.;
+2022-02-23T12:26:25.394Z;mobapp.at.Venca;300005;statics.venca.com;45.60.65.18;Identifier_MAC_Router_Close;True;DIGITAL LOLA COMMERCE S.A.U;GlobalSign nv-sa;Digital Lola Commerce SA
+2022-02-23T12:16:17.317Z;biz.arrowstar.funnyfood2;2901028;androidads4-5.adcolony.com;54.174.109.193;Identifier_Ad_ID;True;;COMODO CA Limited;
+2022-02-23T12:16:17.313Z;biz.arrowstar.funnyfood2;2901028;o990177.ingest.sentry.io;34.120.195.249;Identifier_MAC_Router_Close;True;;Functional Software, Inc.;Functional Software, Inc.
+2022-02-23T12:16:17.313Z;biz.arrowstar.funnyfood2;2901028;bini.b-cdn.net;185.93.3.243;Identifier_MAC_Router_Close;False;;Sectigo Limited;
+2022-02-23T12:08:52.388Z;dj.mixer.music.pro.sound.effects;72;dj.gismart.xyz;52.48.110.34;Identifier_SSID_BSSID_Close;False;Gismart;;
+2022-02-23T12:02:59.519Z;com.mysugr.android.companion;350984;countly-api.mysugr.com;34.254.101.18;Identifier_MAC_Router_Close;False;;Let's Encrypt;mySugr GmbH
+2022-02-23T11:50:07.423Z;com.mobile.number.locator.phone.gps.map;28;applog.uc.cn;123.182.50.230;Certificate Pinning;True;;Alibaba (China) Technology Co., Ltd.;Alibaba (China) Technology Co., Ltd.
+2022-02-23T11:46:22.064Z;com.delgeo.desygner;459;cdn.jsdelivr.net;104.16.88.20;Identifier_MAC_Router_Close;True;;;
+2022-02-23T11:46:22.062Z;com.delgeo.desygner;459;desygner.com;54.235.128.120;Identifier_MAC_Router_Close;True;;Amazon;
+2022-02-23T11:39:02.650Z;com.clapp.jobs;2012071045;api-p.cornerjob.com;63.35.91.55;Identifier_SSID_BSSID_Close;False;Job Digital Networks S.L.;Amazon;
+2022-02-23T11:39:02.648Z;com.clapp.jobs;2012071045;api-c.cornerjob.com;63.35.91.55;Identifier_MAC_Router_Close;False;Job Digital Networks S.L.;Amazon;
+2022-02-23T11:39:02.645Z;com.clapp.jobs;2012071045;piper.cornerjob.com;63.35.91.55;Identifier_MAC_Router_Close;False;Job Digital Networks S.L.;Amazon;
+2022-02-23T11:17:33.370Z;com.l;210064505;lcpapi.listonic.com;99.80.58.185;Identifier_Ad_ID;False;;Let's Encrypt;
+2022-02-23T11:13:13.874Z;us.SummerMadness.HairDryerSounds;2;global.appnext.com;34.250.96.32;Identifier_MAC_Router_Close;False;Appnext Ltd;DigiCert Inc;
+2022-02-23T11:13:13.872Z;us.SummerMadness.HairDryerSounds;2;andromastersss.eu;Unknown;Identifier_SSID_BSSID_Close;False;;;
+2022-02-23T11:13:13.872Z;us.SummerMadness.HairDryerSounds;2;cdn.appnext.com;52.84.70.74;Identifier_MAC_Router_Close;False;Appnext Ltd;DigiCert Inc;
+2022-02-23T11:13:13.872Z;us.SummerMadness.HairDryerSounds;2;admin.appnext.com;35.169.218.83;Certificate Pinning;True;Appnext Ltd;DigiCert Inc;
+2022-02-23T11:09:47.281Z;freemusic.player;166;hearthis.at;172.67.75.158;Identifier_SSID_BSSID_Close;True;1&1 Internet AG;;Cloudflare, Inc.
+2022-02-23T11:09:47.281Z;freemusic.player;166;stream39.hearthis.at;116.202.163.84;Identifier_MAC_Router_Close;False;1&1 Internet AG;;Cloudflare, Inc.
+2022-02-23T11:09:47.281Z;freemusic.player;166;stream35.hearthis.at;116.202.163.84;Certificate Pinning;False;1&1 Internet AG;;Cloudflare, Inc.
+2022-02-23T11:09:47.280Z;freemusic.player;166;radioedit.iheart.com;151.101.134.84;Identifier_MAC_Router_Close;True;iHM Identity, Inc.;GlobalSign nv-sa;
+2022-02-23T11:09:47.279Z;freemusic.player;166;images.hearthis.at;172.67.75.158;Certificate Pinning;True;1&1 Internet AG;;Cloudflare, Inc.
+2022-02-23T11:09:47.279Z;freemusic.player;166;i.iheart.com;151.101.134.84;Certificate Pinning;True;iHM Identity, Inc.;GlobalSign nv-sa;
+2022-02-23T11:09:47.279Z;freemusic.player;166;img.discogs.com;104.18.16.126;Certificate Pinning;True;;Acme Co;
+2022-02-23T11:05:30.039Z;com.forja.ffcv;20211202;ispot.es;213.32.62.112;Identifier_SSID_BSSID_Close;False;;Plesk;
+2022-02-23T11:05:30.039Z;com.forja.ffcv;20211202;fcylf.es;213.32.62.112;Identifier_MAC_Router_Close;False;;Plesk;
+2022-02-23T11:05:30.036Z;com.forja.ffcv;20211202;www.ispot.es;213.32.62.112;Identifier_MAC_Router_Close;False;;Plesk;
+2022-02-23T10:53:55.341Z;com.turijobs;186000002;developer.stepstone.com;72.247.20.106;Identifier_SSID_BSSID_Close;False;StepStone GmbH;StepStone GmbH;StepStone GmbH
+2022-02-23T10:36:44.046Z;com.hushed.release;50701;api.hushed.com;52.206.235.159;Identifier_MAC_Router_Close;True;;DigiCert Inc;
+2022-02-23T10:31:19.421Z;com.os12.lock.screen.iphone12;6;icamerahd.xyz;112.213.89.32;Identifier_MAC_Router_Close;True;Tran Viet Ha;;
+2022-02-23T09:34:41.440Z;com.pixel4d.wallpaper.background.hd.livewallpapers3d;7;api2.mobo.ai;52.77.174.234;Identifier_MAC_Router_Close;True;;cPanel, Inc.;
+2022-02-23T09:19:59.133Z;enjoy.with.our.apps.thermomixrecipes;107;thermomix.myappstorage.com;78.47.199.87;Identifier_MAC_Router_Close;False;;DigiCert Inc;
+2022-02-23T09:09:39.907Z;org.ocu.ocu;200020001;api.twixlmedia.com;178.128.139.215;Identifier_MAC_Router_Close;False;;Twixl media;Twixl media
+2022-02-23T08:59:07.154Z;com.dunkin.coffee;160580;srv.dunkincoffee.es;34.251.134.146;Identifier_MAC_Router_Close;False;;;
+2022-02-23T08:53:37.887Z;fortnitebattleroyale.chaptertwoseasonfor;3;pastebin.com;104.23.99.190;Identifier_MAC_Router_Close;True;;COMODO CA Limited;Cloudflare, Inc.
+2022-02-23T08:53:37.887Z;fortnitebattleroyale.chaptertwoseasonfor;3;vecto.xyz;198.54.126.246;Identifier_MAC_Router_Close;True;;Sectigo Limited;
+2022-02-23T08:41:47.837Z;scratch.lucky.money.free.real.big.win;95;ga.luckymoney.vip;13.248.192.23;Identifier_SSID_BSSID_Close;True;;;
+2022-02-23T08:41:47.836Z;scratch.lucky.money.free.real.big.win;95;inneractive-assets.s3-eu-west-1.amazonaws.com;52.218.112.40;Certificate Pinning;False;Amazon.com, Inc.;Amazon;
+2022-02-23T08:41:47.836Z;scratch.lucky.money.free.real.big.win;95;global.market.xiaomi.com;18.194.235.45;Identifier_MAC_Router_Close;False;;DigiCert Inc;
+2022-02-23T08:41:47.836Z;scratch.lucky.money.free.real.big.win;95;a7ef23195bf8cad10.awsglobalaccelerator.com;13.248.192.23;Identifier_MAC_Router_Close;True;Amazon Technologies, Inc.;;
+2022-02-23T08:37:09.795Z;com.t11.skyviewfree;51;terminaleleven.com;50.62.160.212;Identifier_SSID_BSSID_Close;True;Terminal Eleven LLC;Plesk;
+2022-02-23T08:37:09.795Z;com.t11.skyviewfree;51;www.terminaleleven.com;50.62.160.212;Identifier_MAC_Router_Close;True;Terminal Eleven LLC;Plesk;
+2022-02-23T08:33:41.017Z;es.roid.and.trovit;7093;api.trovit.com;213.229.152.166;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-23T08:30:05.254Z;com.baby.toddler.games;3009009;idz-remoteservices.s3.us-east-1.amazonaws.com;52.217.206.2;Identifier_MAC_Router_Close;True;Amazon.com, Inc.;Amazon.com, Inc.;Amazon.com, Inc.
+2022-02-23T08:22:10.989Z;com.equirozdev.animecast.app;34;justpaste.it;51.83.143.177;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-23T08:22:10.989Z;com.equirozdev.animecast.app;34;stats.justpaste.it;51.83.143.177;Identifier_MAC_Router_Close;False;;Let's Encrypt;
+2022-02-23T08:12:05.784Z;com.wizzair.WizzAirApp;1755;mobilelivea2.mobile.wizzair.com;23.216.113.219;Identifier_MAC_Router_Close;False;;Wizz Air Hungary Zrt.;Wizz Air Hungary Zrt.
+2022-02-23T08:12:05.779Z;com.wizzair.WizzAirApp;1755;software.regulaforensics.com;188.40.58.12;Identifier_MAC_Router_Close;False;SIA Regula Baltija;Sectigo Limited;
+2022-02-23T08:07:22.977Z;com.whatlogapp;7;whatlogapp.com;159.65.26.113;Identifier_SSID_BSSID_Close;True;;;
+2022-02-23T08:00:58.072Z;com.jotun.colourdesign;50;colourdesignmeia.jotun.com;52.172.135.197;Identifier_SSID_BSSID_Close;True;Jotun AS;;
+2022-02-23T08:00:58.072Z;com.jotun.colourdesign;50;colourdesignseap.jotun.com;137.116.143.6;Identifier_MAC_Router_Close;True;Jotun AS;;
+2022-02-23T08:00:58.071Z;com.jotun.colourdesign;50;colourdesign.jotun.com;104.40.178.57;Identifier_SSID_BSSID_Close;False;Jotun AS;;
+2022-02-23T08:00:58.066Z;com.jotun.colourdesign;50;cmscolourdesign.jotun.com;52.232.83.5;Identifier_MAC_Router_Close;False;Jotun AS;;

@@ -1,0 +1,60 @@
+VK
+	
+Sign in
+	
+Sign up
+By tapping Accept, you consent to our use of cookies. You can read our Cookie Policy here.
+Accept
+VK.COM COOKIES POLICY
+
+This document is posted by V Kontakte LLC (registered at prem. 1-N, bld. 12-14, Lit. A, Khersonskaya st., St. Petersburg, Russia, 191024), hereinafter named “VK” and also “we”, “our” or “us”, to assist users VK.COM Services with knowing our cookies policy.
+We believe in being clear and open about how we collect and use data related to you. In the spirit of transparency, this policy provides detailed information about how and when we use cookies.
+This Privacy Policy applies only to the European Union-based users. If you are not a European Union-based user, please refer to the Privacy Policy applicable in the relevant jurisdiction.
+
+
+
+1. How we use cookies, tags and similar technologies
+1.1 Please review this Cookie Policy carefully. This policy describes our information practices relating to using our web site www.vk.com (including mobile version m.vk.com) and all of our online products and services (together "website").
+1.2 This Cookie Policy should be read together with the terms and conditions posted elsewhere on our website, including our Privacy Policy and our website terms and conditions.
+
+
+2. Cookies
+2.1 A cookie is a small text file which includes a unique identifier that is sent by a web server to your computer, mobile phone or any other internet enabled device when you visit a website or mobile app. Cookies are widely used to make sites work efficiently and to collect information about users' online preferences. For simplicity, this Policy refers to cookies but we may use other similar technologies in the same way.
+
+
+3. How do we use cookies?
+3.1 We use cookies to record session information and provide our services to you. We use this information to make decisions about ways to improve the services we offer you by making browsing easier, providing a more personalised service, tailoring the recommendations and advertising that you see on our site, and our own analysis which helps us develop and improve our site.
+3.2 We use all or some of the following categories of cookies on our website:
+(a) Essential cookies. These cookies are essential for parts of our website to operate. They enable you to move around our website and allow us to recognise you within our website so that we can provide you with the service that you have asked for such as remembering your sign-in details.
+(b) Functionality cookies. These cookies help us customise our site content based on your preferences. They remember choices you make, your language and the country you visit our website from. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+(c) Performance cookies. These cookies collect information on how you use our website in order to help us improve areas such as navigation and to help us fix technical issues or errors. For example, we use these cookies to help us understand how you arrive at our website, browse or use our website and highlight areas where we can improve. The information stored by these cookies never shows personal details from which your identity can be established.
+(d) Targeting cookies. These cookies collect information about your browsing habits in order to make advertising, and the content we deliver, more relevant to you and your interests. They are also used to limit the number of times you see an advert or particular content, as well as help measure the effectiveness of an advertising or marketing campaign. These cookies are usually placed by third party advertising networks. They remember the websites you visit and that information is shared with other parties such as advertisers.
+3.3 Some of the cookies we commonly use are listed below:
+
+
+
+Cookie purpose	Cookie provider	Examples of commonly used cookies
+Essential cookies	vk.com	remixsid, remixsid6, remixttpid, remixnreg_sid, remixauthcheck, remixesid, remixdsid, remixusid, remixq_, remixapi_sid, remixuas, remixluas, remixcpl, remixcp, remixh, remixs, remixl, remixp, remixt, remixlns, remixnsid, remixnsid6, remixlgck, remixtst, remixexp, remixfbstate, remixetd, remixmdevice, remixmobile_app_r, remixat, remixat_view, remixtempsid, h, s, l, p, t, w_at
+Functionality cookies	vk.com	remixff, remixdt, remixlang, remixvoice, remixfeed, remixvkcom, remixforce_full, remixshow_fvbar, remixmhideads, remixpermit, remixesip, remixmimagesoff, remixdark_color_scheme, remixcolor_scheme_mode, remixaudio, remixaudio_playlist, remixvideo_menu_collapsed, remixarph, remixmlet, remixm_tabs_expanded, remixref_invite_hash, remixref_invite_by, remixredir, remixhideresmsg, remixhidemchg, remixtmp_hash_nav
+Performance cookies	vk.com	remixflash, remixstid, remixrefkey, remixcurr_audio, remixrt, remixmdv, remixua, remixaudio_show_alert_today, remixaudio_date, remixsts, remixscreen_width, remixscreen_height, remixscreen_orient, remixscreen_winzoom, remixscreen_dpr, remixsec_redir, remixapp_session, remixjsp, remixjse
+Targeting cookies	vk.com	remixscreen_depth, remixseenads, remixab, remixdwcookie, remixpuad
+
+
+4. How do I reject cookies?
+4.1 At any time, you can prevent cookies from being set on your browser. For instructions on how to block, delete or disable any cookies, please consult your browser's 'Help' or 'Support' section. Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
+4.2 Please consult the following links for information on cookie management and blocking according to your browser:
+a) Chrome: http://support.google.com/chrome/answer/95647
+b) Edge: http://support.microsoft.com/en-us/help/4027947/windows-delete-cookies
+c) Firefox: http://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox
+d) Internet Explorer: http://support.microsoft.com/en-gb/help/278835/how-to-delete-cookie-files-in-internet-explorer
+e) Safari: http://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac
+4.3 You can find general information and opt-out resources at youronlinechoices.eu.
+
+
+5. Changes to this Policy
+5.1 From time to time, we may change and/or update this Cookie Policy. If this Cookie Policy changes in any way, we will post an updated version on this page. We recommend you regularly review this page to ensure that you are always aware of our information practices and any changes to such. Any changes to this Cookie Policy will go into effect on posting to this page.
+
+
+6. Contact Details
+6.1 If you have any comments or questions about this policy and our use of cookies please contact us at http://vk.com/support or at prem. 1-N, bld. 12-14, Lit. A, Khersonskaya st., St. Petersburg, Russia, 191024.
+Last revision: May 21, 2018

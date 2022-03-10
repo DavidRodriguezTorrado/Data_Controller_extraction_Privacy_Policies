@@ -1,0 +1,83 @@
+	
+Legal documents
+	
+Log in
+Cookie Policy
+Cookie Policy
+
+The Cookie Policy (hereinafter referred to as the "Policy") shall extend to the terms of the Privacy Policy, apply to the sites, programs, products and/or services (hereinafter jointly referred to as — “Services”) offered by YANDEX LLC and/or its affiliated entities, including all entities of the same group as YANDEX LLC (jointly referred to as “Yandex”). The Policy describes types of cookies, purposes of their use and methods of user’s consent.
+
+1. What cookies are and why Yandex uses them
+
+Cookie files are small fragments of information with service data about website visits that are sent by the server to users’ devices. They store information about your preferences and customize the browsing experience of the websites you visit for a certain period of time. For example, thanks to cookies the Services can offer you information in the language of your preference.
+
+Yandex uses various types of cookies:
+
+to help you remain logged in to the Services;
+to improve your experience of the Services;
+to show information relevant to your search queries;
+to save your advertising preferences and safe search settings;
+to display ads that may be of your interest;
+to analyze the Services’ usage statistics.
+
+The data obtained through cookies lets Yandex develop those functions of the Services that meet your needs, conduct statistical and marketing research, correct errors, test new functions to improve and personalize the Services, and provide the information that is most relevant to you.
+
+2. What cookies Yandex uses
+
+Yandex uses various types of cookies. The purpose of their use is to ensure smooth user experience and a high security level on the Services, as well as counting visitors, supporting payments, enabling page browsing, etc. Yandex uses the following types of cookies:
+
+(i)Technical cookies: these files are functionally necessary for correct operation of the Services, as well as providing the full range of the Services’ functions. Some of the most common technical cookies, for example, yandex_uid or session_id are installed automatically. They enable authentication and subsequent authorization on the Services. The cookies named secure_session_id are used to authenticate users and ensure the security of their credentials for payment processing.
+
+(ii)Analytical and marketing cookies allow us:
+
+to recognize visitors, calculate their number, and collect information, including, for example, data about your actions, page views or page visits on the Services;
+to identify your hardware or software, such as the type of your browser or device (for instance, using the cookie device_id)
+to collect information about your interaction with the Services, such as whether the product or service has been purchased;
+to ensure the relevance of advertising and to increase the effectiveness of advertising campaigns.
+
+(iii)Other cookies perform various service functions and make it more convenient for you to use Yandex sites and services. These cookies help remember page status, select region (for example, using the cookie yandex_gid), save personal preferences, for example, website settings such as text size, font (for example, using the cookie font_loaded), and others.
+
+Yandex may use web beacons (pixel tags) to access cookies previously placed on your device. Their use is necessary to analyze your activities when using the Services through accessing and using the cookie files stored on your device for collection of statistics on the operation of the Services or other Yandex products and utilities.
+
+Yandex also uses cookie containers with multiple values, called Y-cookies. For example, a cookie container named ys stores the Yandex data for the duration of the user session (until you close the page or browser window). The Y-cookie reduces the number of cookies processed by your browser and improves page loading.
+
+Yandex’s web analytics tool Yandex.Metrica allows us to collect impersonal information about website traffic and its sources, and evaluate ad effectiveness. For counting website visitors Yandex.Metrica uses anonymous browser identifiers stored in cookies. You can read more about cookies used by Yandex.Metrica here.
+
+Yandex may use Google Analytics on the gaming platform located at: https://yandex.com/games. Yandex uses Google Analytics cookies to provide you with gaming services for the purpose of maintaining and improving them, developing new features and services, personalizing content and measuring the effectiveness of advertising. The information received through Google Analytics is used in accordance with the Privacy Disclosures Policy, as well as with specific guidelines on how Google uses data of partners' sites or apps. For more details on functionality, security and analytics features of the cookies used by Google Analytics, as well as managing cookies’ preferences, please visit Types of Cookies Used by Google.
+
+Disabling some of the above types of cookies may affect proper functioning of our sites and Services. For example, access to sections of the Services that require authorization is provided by technical cookies, and without their use, the site may not work correctly.
+
+3. How long cookies are stored on your device
+
+Yandex uses session cookies to provide a comfortable user experience on the Services. For example, the file cookie_check memorizes your authorization on the Services, so that when you switch to another domain within the Services, you do not need to go through the authorization process again. Session cookies expire at the end of each session when you close the page or browser window.
+
+Yandex may also use cookies that stored for a longer period, for example, to remember your preferences on the Services, such as language or location. How long collected data will be stored on your device depends on the type of cookies, which are automatically removed from your system as soon as their task is performed.
+
+Yandex uses information contained in cookies only according to the terms and during the period specified in this Policy and the Privacy Policy.
+
+4. Manage Cookies
+
+A pop-up window (or other applicable technical solution) may ask your consent to use the cookies when you visit the Services for the first time. Technical cookies are installed automatically when the page is loaded, unless otherwise indicated in the browser settings. If you have accepted the use of cookies, but later decided to change your choice, then you shall refer to the device or browser settings and delete the stored cookies.
+
+You may also change the interest based advertising settings or opt-out of such advertising via special tool located at https://yandex.com/tune/adv.
+
+Yandex does not require mandatory consent to the cookies’ installation on your device when you use the Services. If you do not want cookies stored on your device, you can disable this feature in your browser settings. You may delete the stored cookies at any time in the system settings of your browser. You can also change your browser settings to accept or decline by default all cookies or cookies from certain sites including Yandex Services. More information about how to manage cookies in the Yandex browser can be found at: https://browser.yandex.com/help/personal-data-protection/cookies.html.
+
+If you have approved the use of cookies on one of the Yandex Services, we assume that such consent has been given by you to use cookies on all Yandex Services.
+
+5. Who else can access cookies information
+
+Information collected through cookies is stored in accordance with applicable law and provisions of Sections 7 and 8 of the Privacy Policy.
+
+Yandex partners may also collect information about users on the Services using cookies, tags and pixels in the course your using the Services. The use of cookies and other technologies allows Yandex and its partners to analyze the use of the Services, to count the number of visits, and to display ads tailored to the Services.
+
+The use of information stored on your device, if any, can be transferred and available to Yandex and/or the partners under the terms of the Privacy Policy. The use of information outside the scope of the Services, if any, may be the subject of separate user agreements available on third-party websites. Yandex and/or partners may also provide you with the opportunity to opt out of the personalized advertising, which may be subject to regulation of the legislation and rules applicable to such products and offers.
+
+Date of publication: 18.11.2021
+
+Previous version of the document: https://yandex.com/legal/cookies_policy_eng/06072021
+
+Previous version of the document: https://yandex.com/legal/cookies_policy_eng/03082020
+
+Yandex.Support homepage
+© 2015–2022  YANDEX LLC

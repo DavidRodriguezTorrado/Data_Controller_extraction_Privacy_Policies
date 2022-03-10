@@ -1,0 +1,206 @@
+Microsoft
+Privacidad 
+Declaración de privacidad de Microsoft
+Última actualización: Diciembre de 2021 Novedades
+Expandir todo
+Imprimir
+
+Su privacidad es importante para nosotros. Esta declaración de privacidad explica cuáles son los datos personales que recopila Microsoft, cómo los trata y con qué fines lo hace.
+
+Microsoft ofrece una amplia gama de productos, entre los que se incluyen productos de servidor usados para ayudar a funcionar a empresas de todo el mundo, dispositivos de uso doméstico, software que los estudiantes emplean en su centro educativo y desarrolladores de servicios, cuya finalidad es crear y hospedar lo que está por venir. Entre las referencias a productos de Microsoft usadas en esta declaración se encuentran los servicios, los sitios web, las aplicaciones, el software, los servidores y los dispositivos de Microsoft.
+
+Consulte los detalles específicos de cada producto en esta declaración de privacidad, que ofrecen información adicional relevante. Esta declaración se aplica a las interacciones de Microsoft con usted y a los productos de Microsoft enumerados a continuación, así como a otros productos de Microsoft en los que figure esta declaración.
+
+Es posible que los jóvenes prefieran empezar con la página Privacidad para los más jóvenes. En esa página se resalta información que puede ser útil para la gente joven.
+
+Datos personales que recopilamos
+Cómo usamos los datos personales
+Razones por las que compartimos datos personales
+Cómo acceder a sus datos personales y controlarlos
+Cookies y tecnologías similares
+Productos proporcionados por su organización: aviso a los usuarios finales
+Cuenta de Microsoft
+Recopilación de datos de menores
+Otra información importante sobre privacidad
+Detalles específicos del producto:
+Productos para empresas y desarrolladores
+Productos de productividad y comunicaciones
+Búsqueda, Microsoft Edge e inteligencia artificial
+Windows
+Entretenimiento y servicios relacionados
+Cookies
+
+La mayoría de los sitios de Microsoft usan cookies, que son pequeños archivos de texto colocados en su dispositivo, que los servidores web del dominio que las hubieran dejado allí pueden recuperar posteriormente. Usamos las cookies para almacenar sus preferencias y su configuración, ayudar con el inicio de sesión, proporcionar anuncios dirigidos y analizar las operaciones en los sitios. Para obtener más información, consulte la sección Cookies y tecnologías similares de esta declaración de privacidad.
+
+Escudos de privacidad UE - EE. UU. y Suiza - EE. UU.
+
+Microsoft se adhiere a los principios de los marcos de los Escudos de privacidad UE - EE. UU. y Suiza - EE. UU., aunque Microsoft no depende del marco del Escudo de privacidad UE - EE. UU. como base jurídica para la transferencia de datos personales con arreglo a la sentencia del Tribunal de Justicia de la UE en el caso C-311/18. Para obtener más información, Visite el sitio web de protección de privacidad del departamento de comercio de Estados Unidos.
+
+Ponerse en contacto con nosotros
+
+Ante cualquier duda sobre privacidad, para presentar una reclamación o para formular alguna pregunta al Director de privacidad o al Responsable de protección de datos de la UE de Microsoft, póngase en contacto con nosotros a través de nuestro formulario web. Para obtener más información sobre cómo contactar con Microsoft, incluyendo Microsoft Ireland Operations Limited, consulte la sección Cómo ponerse en contacto con nosotros de esta declaración de privacidad.
+
+Datos personales que recopilamos
+
+Microsoft recopila datos suyos, a través de nuestras interacciones con usted y de nuestros productos. Usted proporciona algunos de estos datos directamente y nosotros obtenemos otros recopilando datos sobre sus interacciones, su uso y sus experiencias con nuestros productos. Los datos que recopilamos dependen del contexto de sus interacciones con Microsoft y de las elecciones que realice, incluyendo las relativas a su configuración de privacidad y a los productos y funciones que use. También obtenemos datos sobre usted de terceros.
+
+Si representa a una organización, como puede ser una empresa o un centro educativo, que use productos de Microsoft para empresas y desarrolladores, consulte la sección Productos para empresas y desarrolladores de esta declaración de privacidad para conocer cómo tratamos sus datos. Si es usuario final de un producto de Microsoft o una cuenta de Microsoft proporcionada por la organización, consulte las secciones Productos proporcionados por su organización y Cuenta de Microsoft para obtener más información.
+
+Dispone de posibilidades de elección relativas a la tecnología que usa y los datos que comparte. Cuando se le pide facilitar datos personales, puede negarse a ello. Muchos de nuestros productos requieren algunos datos personales para poder proporcionarle un servicio. Si elige no facilitar los datos requeridos para proporcionarle un producto o una función, no podrá usar dicho producto o dicha función. De igual modo, cuando necesitemos recopilar datos personales por imperativo legal, para celebrar un contrato con usted o cumplirlo y no facilite los datos, no podremos celebrar el contrato; o bien, si esto está relacionado con un producto existente que esté usando, puede que debamos suspenderlo o cancelarlo. En su momento, se lo notificaremos cuando sea el caso. Cuando proporcionar los datos sea opcional y decida no compartir datos personales, las funciones que usen tales datos, como la personalización, no funcionarán para usted.
+
+Más información
+Principio de la página
+Cómo usamos los datos personales
+
+Microsoft utiliza los datos que recopilamos para proporcionarle experiencias enriquecidas e interactivas. En particular, usamos los datos para:
+
+Proporcionar nuestros productos, lo que incluye la actualización, protección y solución de problemas, así como facilitar soporte técnico. También incluye compartir datos, cuando sea necesario para proporcionar el servicio o realizar las transacciones que solicite.
+Mejorar y desarrollar nuestros productos.
+Personalizar nuestros productos y hacer recomendaciones.
+Anunciarle y comercializarle, lo que incluye el envío de comunicaciones de carácter promocional, publicidad dirigida y presentarle ofertas relevantes.
+
+También usamos los datos para operar nuestro negocio, lo que incluye analizar nuestro rendimiento, cumplir con nuestras obligaciones legales, desarrollar nuestra capacidad de trabajo y realizar investigación.
+
+Con esta finalidad, combinamos los datos que recopilamos de diferentes contextos (por ejemplo, de su uso de dos productos de Microsoft) u obtenemos de terceros para ofrecerle una experiencia más agradable, coherente y personalizada, para tomar decisiones empresariales informadas, y con otros fines legítimos.
+
+Nuestro procesamiento de datos personales para estos fines incluye métodos de procesamiento tanto automatizados como manuales (humanos). Nuestros métodos automatizados a menudo están relacionados y se admiten por nuestros métodos manuales. Por ejemplo, nuestros métodos automatizados incluyen inteligencia artificial (AI), que concebimos como un conjunto de tecnologías que permiten a los equipos percibir, aprender, razonar y ayudar en la toma de decisiones para resolver problemas de maneras similares a las de las personas. Para compilar, entrenar y mejorar la precisión de nuestros métodos automatizados de procesamiento (incluyendo IA), revisamos manualmente algunas de las predicciones e inferencias producidas por los métodos automatizados frente a los datos subyacentes de los que se realizaron las predicciones e interferencias. Por ejemplo, revisaremos manualmente fragmentos breves de los datos de voz en los que hemos seguido los pasos para desinstalar y mejorar las tecnologías de reconocimiento de voz. Es posible que los empleados de Microsoft o los proveedores que estén trabajando en nombre de Microsoft puedan llevar a cabo esta revisión manual.
+
+Más información
+Principio de la página
+Razones por las que compartimos datos personales
+
+Compartimos sus datos personales con su consentimiento, para completar cualquier transacción o para proporcionar cualquier producto que haya solicitado o autorizado. También compartimos datos con las filiales y subsidiarias controladas por Microsoft, con los proveedores que trabajan en nuestro nombre, cuando las leyes lo requieran o para responder a procesos legales, para proteger a nuestros clientes, para proteger vidas, para mantener la seguridad de nuestros productos y para proteger los derechos o la propiedad de Microsoft y sus clientes.
+
+Más información
+Principio de la página
+Cómo acceder a sus datos personales y controlarlos
+
+También puede elegir respecto a la recopilación y uso de sus datos por parte de Microsoft. Puede controlar sus datos personales que Microsoft haya obtenido y ejercer sus derechos en materia de protección de datos, poniéndose en contacto con Microsoft o usando diversas herramientas que ofrecemos. En algunos casos, estará limitada su posibilidad de acceder a sus datos personales o controlarlos, según lo requiera o permita la legislación aplicable. La manera de acceder a sus datos personales o de controlarlos dependerá también de los productos que use. Por ejemplo, puede:
+
+Controlar el uso de sus datos para publicidad basada en intereses de Microsoft, visitando nuestra página de rechazo.
+Elegir si desea recibir correos, mensajes SMS, llamadas telefónicas y correo postal de carácter promocional de Microsoft.
+Puede acceder a algunos de sus datos y borrarlos mediante el Panel de privacidad de Microsoft.
+
+No se puede acceder a todos los datos personales procesados por Microsoft, ni controlarlos, mediante las herramientas anteriores. Si quiere acceder a datos personales tratados por Microsoft, o controlarlos, que no estén disponibles mediante las herramientas anteriores ni directamente a través de los productos de Microsoft que usa, siempre puede ponerse en contacto con Microsoft en la dirección de la sección Cómo ponerse en contacto con nosotros o usando nuestro formulario web.
+
+Ofrecemos métricas agregadas sobre las solicitudes de los usuarios para ejercer sus derechos de protección de datos por medio del Informe de privacidad de Microsoft.
+
+Más información
+Principio de la página
+Cookies y tecnologías similares
+
+Las cookies son pequeños archivos de texto colocados en su dispositivo para almacenar datos que puede leer un servidor web del dominio que colocó la cookie. Usamos cookies y tecnologías similares para almacenar y seguir sus preferencias y configuración, posibilitándole iniciar sesión, proporcionando publicidad basada en intereses, luchando contra el fraude, analizando cómo funcionan nuestros productos y satisfaciendo otros fines legítimos. Las aplicaciones de Microsoft usan identificadores adicionales, como el id. de publicidad en Windows, que se describe en la sección Id. de publicidad de esta declaración de privacidad, con fines similares.
+
+También usamos “balizas web” para ayudar a entregar cookies y recopilar datos de uso y rendimiento. Nuestros sitios web pueden incluir balizas web, cookies o tecnologías similares de proveedores de servicios de terceros.
+
+Dispone de diversas herramientas para controlar los datos recopilados por las cookies, las balizas web y tecnologías similares. Por ejemplo, puede usar controles en el explorador de Internet para limitar el modo en que los sitios web que visita pueden usar cookies y retirar su consentimiento borrando o bloqueando las cookies.
+
+Más información
+Principio de la página
+Productos proporcionados por su organización: aviso a los usuarios finales
+
+Si usa un producto de Microsoft con una cuenta proporcionada por una organización a la que esté afiliado, por ejemplo, una cuenta profesional o educativa, dicha organización puede:
+
+Controlar y administrar su producto de Microsoft y la cuenta del producto, incluido el control de la configuración relacionada con la privacidad del producto o de la cuenta del producto.
+Acceder a sus datos y tratarlos, incluyendo el los datos de interacción, los datos de diagnóstico y el contenido de sus comunicaciones y archivos asociados con su producto Microsoft y las cuentas del producto.
+
+Si pierde el acceso a su cuenta profesional o educativa (en caso de cambio de empleo, por ejemplo), puede perder el acceso a los productos y el contenido asociado a dichos productos, incluyendo los adquiridos en su propio nombre, si estaba usando su cuenta profesional o educativa para iniciar sesión en dichos productos.
+
+Muchos productos de Microsoft están destinados a su uso por parte de organizaciones, como centros educativos y empresas. Consulte la sección Productos para empresas y desarrolladores de esta declaración de privacidad. Si su organización le proporciona acceso a productos de Microsoft, el uso de los productos de Microsoft está sujeto a las directivas de la organización, si las hubiera. Debe dirigir sus consultas sobre privacidad, incluidas las solicitudes para ejercer sus derechos en materia de protección de datos, al administrador de la organización. Cuando use funciones sociales en productos de Microsoft, otros usuarios de la red podrían ver parte de su actividad. Para más información sobre las funciones sociales y otras funcionalidades, revise la documentación o el contenido de ayuda específicos del producto de Microsoft. Microsoft no se hace responsable de las prácticas de privacidad o de seguridad de nuestros clientes, que puedan diferir de las establecidas en esta declaración de privacidad.
+
+Cuando usted usa un producto de Microsoft proporcionado por su organización, el tratamiento por parte de Microsoft de sus datos personales en relación con ese producto se rige por un contrato entre Microsoft y su organización. Microsoft trata sus datos personales para proporcionar el producto a usted y a su organización, así como para operaciones comerciales de Microsoft relativas a proporcionar el producto, según se describe en la sección Productos para empresas y desarrolladores. Como se mencionó anteriormente, si tiene dudas sobre el tratamiento de sus datos personales por parte de Microsoft en lo relativo a proporcionar productos a su organización, contacte con ella. Si tiene preguntas acerca de las operaciones de empresa de Microsoft relacionadas con la oferta de productos de su organización, tal y como se describe en los Términos de producto, póngase en contacto con Microsoft tal como se describe en la sección Cómo ponerse en contacto con nosotros. Para más información sobre nuestras operaciones comerciales, consulte la sección Productos para empresas y desarrolladores.
+
+Para productos de Microsoft ofrecidos por su centro educativo de educación primaria, secundaria o bachillerato, incluido Microsoft 365 Educación, Microsoft:
+
+no recopilará ni usará datos personales de los estudiantes más allá de lo necesario para fines educativos o escolares autorizados;
+no venderá ni alquilará datos personales de estudiantes;
+no usará ni compartirá datos personales de estudiantes con fines publicitarios o comerciales similares, como la segmentación conductual de anuncios a estudiantes;
+no construirá perfiles personales de estudiantes, excepto para apoyar propósitos educativos o escolares autorizados o según lo autorizado por el padre, tutor o estudiante de edad apropiada; y
+requerirá que nuestros proveedores con los que se compartan datos personales de estudiantes para prestar el servicio educativo, si los hay, estén obligados a implementar estos mismos compromisos respecto a los datos personales de estudiantes.
+Principio de la página
+Cuenta de Microsoft
+
+Con una cuenta de Microsoft, puede iniciar sesión en los productos de Microsoft, así como en los de determinados asociados de Microsoft. Los datos personales asociados con su cuenta de Microsoft incluyen credenciales, nombre y datos de contacto, datos de pago, dispositivos y uso de datos, sus contactos, información acerca de sus actividades y sus intereses y favoritos. Iniciar sesión en su cuenta de Microsoft permite experiencias de personalización y coherentes entre productos y dispositivos, le permite usar el almacenamiento de datos en la nube, le permite realizar pagos mediante instrumentos de pago almacenados en su cuenta de Microsoft y también posibilita otras funciones.
+
+Existen tres tipos de cuentas de Microsoft:
+
+Al crear su propia cuenta de Microsoft, vinculada a su cuenta de correo electrónico, nos referimos a dicha cuenta como una cuenta personal de Microsoft.
+Cuando usted o su organización (por ejemplo, un empleador o centro educativo) crean su cuenta de Microsoft vinculada a su dirección de correo electrónico proporcionada por dicha organización, nos referimos a esa cuenta como una cuenta profesional o educativa.
+Cuando usted o su proveedor de servicios (por ejemplo, un proveedor de servicios por cable o Internet) crean su cuenta de Microsoft vinculada a su dirección de correo electrónico con el dominio del proveedor de servicios, nos referimos a esa cuenta como una cuenta de tercero.
+
+Si inicia sesión en un servicio ofrecido por un tercero con su cuenta de Microsoft, compartirá con el tercero los datos de su cuenta que ese servicio requiera.
+
+Más información
+Principio de la página
+Recopilación de datos de menores
+
+Cuando un producto de Microsoft recopila la edad y existe una edad en su jurisdicción bajo la cual se requiere el consentimiento o autorización de los padres para usar el producto, el propio producto bloqueará a los usuarios menores de esa edad o les pedirá que faciliten el consentimiento o la autorización de un padre o tutor para poder usarlo. No pediremos intencionadamente a ningún menor de dicha edad que proporcione más datos de los requeridos para proporcionar el producto.
+
+Una vez que se otorgue el consentimiento o autorización parental, la cuenta del menor se trata de modo muy similar a cualquier otra cuenta. El menor puede obtener acceso a los servicios de comunicación, como Outlook y Skype, y puede libremente comunicarse con otros usuarios de todas las edades y compartir datos con ellos. Más información sobre consentimiento parental y cuentas de menores de Microsoft.
+
+Los padres o tutores pueden cambiar o revocar la elección del consentimiento que hubieran hecho anteriormente, así como revisar, editar o solicitar la eliminación de los datos personales de los niños a los que hubieran concedido consentimiento o autorización. Como organizador de un grupo familiar de Microsoft, los padres o tutores pueden administrar la información y la configuración de un niño en la página Protección infantil y ver y eliminar los datos del niño en su panel de privacidad.
+
+Seleccione Obtener más información para más información sobre niños y perfiles de Xbox.
+
+Más información
+Principio de la página
+Otra información importante sobre privacidad
+
+A continuación, encontrará información adicional sobre la privacidad, como la forma en que protegemos sus datos, donde los tratamos y cuánto tiempo los conservamos. Puede encontrar más información sobre Microsoft y nuestro compromiso con la protección de su privacidad en Privacidad de Microsoft.
+
+Más información
+Principio de la página
+Detalles específicos del producto:
+Productos para empresas y desarrolladores
+
+Los productos para empresas y desarrolladores son productos de Microsoft y software relacionado que se ofrecen y diseñan principalmente para su uso por parte de organizaciones y desarrolladores. Entre estos, se incluyen los siguientes:
+
+Servicios en la nube, denominados Servicios en línea en los Términos de producto, como Microsoft 365 y Office 365, Microsoft Azure, Microsoft Dynamics365 y Microsoft Intune, para los que una organización (nuestro cliente) contrata los servicios ("Servicios en línea para empresas") con Microsoft.
+Otros servicios basados en la nube y herramientas para empresas y desarrolladores, como los Servicios Azure PlayFab (para más información, consulte Condiciones de servicio de Azure PlayFab).
+Productos para servidores, desarrolladores y plataformas de nubes híbridas, como Windows Server, SQL Server, Visual Studio, System Center, Azure Stack y software de código abierto, como soluciones Bot Framework (“Software para empresas y desarrolladores”).
+Dispositivos y hardware usados para la infraestructura de almacenamiento, como Microsoft Azure StorSimple (“Dispositivos para empresas”).
+Los servicios profesionales señalados en los Términos de producto que están disponibles con servicios en línea de empresa, como los servicios de incorporación, servicios de migración de datos, servicios de la ciencia de datos o servicios para complementar las funciones existentes en los servicios en línea de empresa.
+
+En caso de conflicto entre esta declaración de privacidad de Microsoft y los términos de cualquier contrato entre un cliente y Microsoft para productos para empresas y desarrolladores, prevalecerán los términos de dicho contrato.
+
+También puede obtener más información sobre la configuración y funciones de nuestros productos para empresas y desarrolladores, incluidas las opciones que afectan a su privacidad y a la privacidad de los usuarios finales, en la documentación del producto.
+
+Si alguno de los siguientes términos no está definido en esta declaración de privacidad o en Términos de producto, se aplican las siguientes definiciones.
+
+General. Cuando un cliente prueba, compra, usa o se suscribe a los productos para empresas y desarrolladores, u obtiene soporte técnico o servicios profesionales para dichos productos, Microsoft recibe sus datos y genera datos para ofrecer el servicio (incluyendo la mejora, protección, aseguramiento y actualización del servicio), llevar a cabo nuestras operaciones comerciales y comunicarnos con el cliente. Por ejemplo:
+
+Cuando un cliente se pone en contacto con un representante de ventas de Microsoft, recopilamos el nombre y los datos de contacto del cliente, junto con información sobre la organización del cliente, para respaldar este contacto.
+Cuando un cliente interactúa con un profesional del soporte técnico de Microsoft, recopilamos datos de uso y del dispositivo o informes de errores, para diagnosticar y resolver problemas.
+Cuando un cliente paga por productos, recopilamos datos de contacto y de pago para tratar este último.
+Cuando Microsoft envía comunicaciones a un cliente, usamos datos para personalizar el contenido de la comunicación.
+Cuando un cliente se pone en contacto con Microsoft por los servicios profesionales, recopilamos el nombre y datos de contacto designado del punto de contacto designado del cliente y utilizamos la información proporcionada por el cliente para llevar a cabo los servicios que el cliente ha solicitado.
+
+Los productos para empresas y desarrolladores le permiten comprar, suscribirse a otros productos y servicios en línea de Microsoft o de terceros, o utilizarlos, con distintas prácticas de privacidad. Estos otros productos y servicios en línea se rigen por sus respectivas directivas y declaraciones de privacidad.
+
+Más información
+Principio de la página
+Productos de productividad y comunicaciones
+
+Los productos de productividad y comunicaciones son aplicaciones, software y servicios que puede utilizar para crear, almacenar y compartir documentos, así como para comunicarse con otros usuarios.
+
+Más información
+Principio de la página
+Búsqueda, Microsoft Edge e inteligencia artificial
+
+Los productos de búsqueda e inteligencia artificial le conectan con la información y detectan, tratan y actúan de forma inteligente sobre la información, aprendiendo y adaptándose con el paso del tiempo.
+
+Más información
+Principio de la página
+Windows
+
+Windows es un entorno informático personalizado que le permite itinerar y acceder a servicios, preferencias y contenidos de forma fluida, en todos sus dispositivos informáticos, desde teléfonos y tabletas hasta Surface Hub. En lugar de residir como un programa de software estático en el dispositivo, los componentes clave de Windows se basan en la nube, y tanto la nube como los elementos locales de Windows se actualizan periódicamente, proporcionándole las mejoras y funciones más recientes. Para ofrecer esta experiencia informática, recopilamos información acerca de usted, su dispositivo y el modo en que usa Windows. Además, gracias a que Windows es personal para usted, le proporcionamos elecciones sobre los datos personales que recopilamos y cómo los usamos. Tenga en cuenta que si su dispositivo Windows lo administra su organización (por ejemplo, su empleador o centro educativo), es posible que la organización use herramientas de administración centralizadas proporcionadas por Microsoft u otros para acceder a sus datos y tratarlos, así como para controlar la configuración del dispositivo (incluyendo la configuración de privacidad), las directivas del dispositivo, las actualizaciones de software, la recopilación de datos que haga la empresa o que hagamos nosotros, u otros aspectos de su dispositivo. Además, la organización puede usar las herramientas de administración proporcionadas por Microsoft u otros para acceder a sus datos y procesarlos desde ese dispositivo, incluyendo sus datos de interacción, datos de diagnóstico y el contenido de sus comunicaciones y archivos. Para más información sobre la recopilación de datos en Windows, consulte Resumen de recopilación de datos para Windows. En esta declaración se abordan Windows 10 y Windows 11 y las referencias a Windows en esta sección se relacionan con esas versiones de producto. Las versiones anteriores de Windows (incluyendo Windows Vista, Windows 7, Windows 8 y Windows 8.1) están sujetas a sus propias declaraciones de privacidad.
+
+Más información
+Principio de la página
+Entretenimiento y servicios relacionados
+
+El entretenimiento y los servicios relacionados posibilitan experiencias enriquecidas y le permiten acceder a una variedad de contenido, aplicaciones y juegos.
+
+Más información
+Principio de la página
+Ponte en contacto con MicrosoftPrivacidadCondiciones de usoMarcas registradasSobre nuestra publicidadDocs de cumplimiento de la UE© Microsoft 2022

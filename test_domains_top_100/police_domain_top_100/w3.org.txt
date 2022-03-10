@@ -1,0 +1,351 @@
+W3C
+
+Leading the web to its full potential
+
+STANDARDS
+PARTICIPATE
+MEMBERSHIP
+ABOUT W3C
+Site Navigation
+MAIL, NEWS, BLOGS, PODCASTS, AND TUTORIALS 
+News
+Weekly Newsletter
+W3C Blog
+Mailing Lists
+Podcasts and Video
+Tutorials and Courses
+Team Submissions
+Skip
+W3C »  Participate »  Mail, News, Blogs, Podcasts, and… »  W3C Blog
+PRIVACY INTEREST GROUP (PING) 2021 YEAR IN REVIEW AND THANK YOUS
+
+10 January 2022 by Samuel Weiler | Posted in: Privacy and Security
+
+PING 2021 Year in Review
+
+PING performed 24 privacy reviews in 2021 and provided guidance on several other APIs.
+
+PING privacy reviews resulted in privacy improvements in proposed specifications. Some examples include:
+
+Payment Request API: The specification identifies the potential for sites to use the API for tracking instead of payments and recommends requiring users’ consent as mitigation.
+Web Neural Network API: The specification restricts functionality to first-party contexts to prevent others from using the functionality for tracking.
+WebCodecs: We identified ways that sites could abuse the proposed functionality to learn details about a user’s CPU and GPU. The specification mitigates this risk by limiting the revealed data to only what would be otherwise available and by suggesting ways that user agents could further dynamically limit exposure.
+Incremental Font Transfer: The API no longer sends unneeded information about the user’s local network conditions.
+CSS Masking Module Level 1: The specification now warns that it should not be used for privacy-protecting purposes because the masking is purely cosmetic and does not irreversibly redact data.
+Ambient Light Sensor API: The working group made its data minimization guidance normative.
+
+Here are some other privacy issues we uncovered:
+
+Decentralized Identifier Specification v1.0: The specification could introduce new unique identifiers that could be used to track individual users and the associated user activity could end up stored as persistent data in blockchains.
+Federated Learning of Cohorts (FLoC): The specification could enable trackers to combine a cohort identifier with existing profiles to learn more information about individuals. Additionally, the proposal requires implementers to define a singular set of sensitive topics, which may not be shared by all users.
+Resource Timing, Performance Timeline, User Timing: Sites could abuse the functionality enabled by these specifications to learn when users are using VPNs, or whether a user is logged into a third-party site.
+Multiple specifications could allow sites to learn when people are using assistive technologies. PING will work on mitigations with the TAG and the ARIA WG.
+Secure Payment Confirmation: The specification could allow payment providers (e.g., banks, cryptocurrency wallets, etc.) to learn when a user has multiple, different accounts, posing a privacy harm for users who want to maintain distinct identities on the Web. This could also be abused by sites that are not payment providers to do cross-site tracking.
+CSS Color Adjustment Module Level 1: We identified non-standard color configurations as a potential fingerprinting vector, one that may also reveal disability status.
+
+Here are some improvements currently being discussed, and which we hope to see before the proposals move to Recommendation status:
+
+Media Stream Image Capture: Add protections to prevent sites from learning a user’s location through image metadata. Plus, remove capabilities that could be misused by trackers for communicating across site boundaries or apply other mitigations for this potential abuse.
+EPUB 3.3: Consider privacy threats specific to the ecosystem of ebooks, including authors, publishers, online book sellers and readers, and address privacy issues from packaging, DRM, obfuscation and fingerprinting.
+HTML Review Draft: Add a warning around interactions with the Reporting API because of unresolved concerns around privacy and user consent in that API. Add privacy and security considerations sections.
+DOM Review Draft: Add privacy and security considerations sections.
+
+What you don’t see here are all the privacy improvements that Working Groups already made to their specifications before they came to PING, aided by privacy expertise and documentation, including the Self-review Questionnaire: Security and Privacy and Mitigating Browser Fingerprinting. We are pleased to note that privacy is increasingly seen as integral to functionality, not an afterthought.
+
+Looking forward
+
+Keeping up with privacy reviews of every new Web feature is a challenge, and we expect the rush to continue this year with even more new and updated Web platform technologies. But building a more privacy-friendly Web isn’t just a matter of catching new issues as they arise. This year we aim to:
+
+begin more comprehensive reviews of foundational Web standards: HTML and DOM, for example, long predate our privacy review processes;
+improve systematic guidance, including: working with the TAG on privacy principles and providing advice on fingerprinting, permissions and threat modeling; and,
+start consideration of privacy even earlier by reaching out to WHATWG and WICG processes.
+Thanks
+
+We thank all the groups that reached out to PING last year and worked with us to make a more privacy-respecting Web for users all over the world.
+
+We would also like to thank all our 2021 privacy reviewers. These volunteers, from a variety of organizations, have contributed to privacy on the Web for all:
+
+Kris Chapman (Salesforce)
+Nick Doty (Center for Democracy & Technology)
+Konrad Dzwinel (DuckDuckGo)
+Matthew Finkel (Tor)
+Joe Genereux (Brave Software)
+Pranjal Jumde (Brave Software)
+Jonathan Kingston (DuckDuckGo)
+Lei Mu (Roy) (Invited Expert)
+Eric Mwobobia (ARTICLE19)
+Theodore Olsauskas-Warren (Google)
+Christine Runnegar (Invited Expert)
+Shivan Sahib (Salesforce, now Brave Software)
+Kris Shrishak (Invited Expert)
+Peter Snyder (Brave Software)
+Samuel Weiler (W3C)
+Aram Zucker-Scharff (The Washington Post)
+
+Sincerely,
+
+Nick Doty, Center for Democracy & Technology (PING Co-Chair)
+Christine Runnegar, ISOC (PING Co-Chair)
+Wendy Seltzer, W3C (Team Contact)
+Pete Snyder, Brave Software (PING Co-Chair)
+Samuel Weiler, W3C/MIT (Team Contact)
+Post navigation
+
+← MOW complaints about W3C | Blog home | Web standards makers share their thoughts on W3C TPAC 2021 →
+
+Leave a Reply
+
+Your email address will not be published. Required fields are marked *
+
+Comment 
+
+Name * 
+
+Email * 
+
+Website 
+
+The W3C blog is for discussions within W3C and the Web community at large. Announcements, issues on Web standards and educational materials among other topics are posted here; see the W3C home page for official announcements from W3C.
+
+Search W3C Blog
+ 
+Archives
+Archives 
+Select Month
+February 2022  (1)
+January 2022  (1)
+December 2021  (2)
+November 2021  (1)
+October 2021  (5)
+September 2021  (1)
+August 2021  (3)
+June 2021  (2)
+May 2021  (1)
+April 2021  (5)
+March 2021  (2)
+February 2021  (1)
+January 2021  (6)
+December 2020  (2)
+November 2020  (2)
+October 2020  (1)
+September 2020  (2)
+August 2020  (2)
+July 2020  (1)
+June 2020  (5)
+May 2020  (5)
+April 2020  (1)
+March 2020  (6)
+February 2020  (3)
+December 2019  (3)
+November 2019  (6)
+October 2019  (10)
+September 2019  (6)
+August 2019  (7)
+July 2019  (7)
+June 2019  (7)
+May 2019  (3)
+April 2019  (7)
+March 2019  (16)
+February 2019  (16)
+January 2019  (10)
+December 2018  (5)
+November 2018  (11)
+October 2018  (8)
+September 2018  (8)
+August 2018  (4)
+July 2018  (10)
+June 2018  (13)
+May 2018  (8)
+April 2018  (7)
+March 2018  (9)
+February 2018  (6)
+January 2018  (11)
+December 2017  (13)
+November 2017  (7)
+October 2017  (7)
+September 2017  (9)
+August 2017  (7)
+July 2017  (5)
+June 2017  (10)
+May 2017  (6)
+April 2017  (5)
+March 2017  (8)
+February 2017  (8)
+January 2017  (6)
+December 2016  (2)
+November 2016  (9)
+October 2016  (9)
+September 2016  (7)
+August 2016  (11)
+July 2016  (4)
+June 2016  (13)
+May 2016  (6)
+April 2016  (5)
+March 2016  (9)
+February 2016  (10)
+January 2016  (7)
+December 2015  (15)
+November 2015  (13)
+October 2015  (11)
+September 2015  (9)
+August 2015  (9)
+July 2015  (8)
+June 2015  (11)
+May 2015  (7)
+April 2015  (10)
+March 2015  (7)
+February 2015  (8)
+January 2015  (13)
+December 2014  (9)
+November 2014  (10)
+October 2014  (10)
+September 2014  (10)
+August 2014  (3)
+July 2014  (6)
+June 2014  (6)
+May 2014  (7)
+April 2014  (8)
+March 2014  (23)
+February 2014  (14)
+January 2014  (16)
+December 2013  (11)
+November 2013  (13)
+October 2013  (26)
+September 2013  (9)
+August 2013  (12)
+July 2013  (11)
+June 2013  (9)
+May 2013  (13)
+April 2013  (14)
+March 2013  (18)
+February 2013  (19)
+January 2013  (13)
+December 2012  (6)
+November 2012  (9)
+October 2012  (8)
+September 2012  (13)
+August 2012  (7)
+July 2012  (11)
+June 2012  (18)
+May 2012  (14)
+April 2012  (10)
+March 2012  (13)
+February 2012  (11)
+January 2012  (17)
+December 2011  (11)
+November 2011  (15)
+October 2011  (14)
+September 2011  (13)
+August 2011  (5)
+July 2011  (8)
+June 2011  (12)
+May 2011  (17)
+April 2011  (12)
+March 2011  (13)
+February 2011  (5)
+January 2011  (5)
+December 2010  (6)
+November 2010  (5)
+October 2010  (12)
+September 2010  (8)
+August 2010  (3)
+July 2010  (10)
+June 2010  (19)
+May 2010  (8)
+April 2010  (6)
+March 2010  (14)
+February 2010  (9)
+January 2010  (9)
+December 2009  (4)
+November 2009  (6)
+October 2009  (10)
+September 2009  (16)
+August 2009  (4)
+July 2009  (9)
+June 2009  (16)
+May 2009  (9)
+April 2009  (7)
+March 2009  (9)
+February 2009  (7)
+January 2009  (8)
+December 2008  (16)
+November 2008  (16)
+October 2008  (12)
+September 2008  (16)
+August 2008  (14)
+July 2008  (17)
+June 2008  (22)
+May 2008  (12)
+April 2008  (16)
+March 2008  (17)
+February 2008  (11)
+January 2008  (21)
+December 2007  (20)
+November 2007  (25)
+October 2007  (16)
+September 2007  (12)
+August 2007  (8)
+July 2007  (12)
+June 2007  (8)
+May 2007  (15)
+April 2007  (4)
+March 2007  (16)
+February 2007  (8)
+January 2007  (5)
+December 2006  (4)
+November 2006  (3)
+October 2006  (12)
+September 2006  (9)
+August 2006  (2)
+July 2006  (4)
+April 2006  (1)
+March 2006  (1)
+February 2006  (3)
+January 2006  (2)
+November 2005  (1)
+October 2005  (1)
+September 2005  (4)
+August 2005  (3)
+May 2005  (3)
+April 2005  (3)
+February 2005  (2)
+Categories
+Categories
+Select Category
+Accessibility
+Corporate
+Data
+Developers
+Events
+Immersive Web
+Internationalization
+Privacy and Security
+Systems
+Testing
+Tools
+Training
+Tutorials
+Uncategorized
+Web Architecture
+Create a Post
+
+POST
+
+Or log in to dashboard
+
+Footer Navigation
+NAVIGATION
+Home
+Standards
+Participate
+Membership
+About W3C
+CONTACT W3C
+Contact
+Help and FAQ
+Sponsor / Donate
+Site Map
+Feedback
+W3C UPDATES
+
+Copyright © 2022 W3C ® ( MIT , ERCIM , Keio, Beihang) Usage policies apply.

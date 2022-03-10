@@ -1,0 +1,59 @@
+WordPress.com
+Create a free website.
+VaultPress
+Backup and security scanning for your site.
+Akismet
+The anti-spam service for the web.
+Crowdsignal
+Create surveys for the web and mobile.
+Sign in
+One avatar for
+everything, everywhere.
+
+Gravatar powers your public profile, visible wherever you post, comment, and interact online.
+
+Create your Gravatar
+Implement Gravatar API
+
+Gravatar is free for everyone—forever.
+
+Close
+Set once, seen everywhere.
+
+Create, upload, and manage your globally recognized avatar from a single place.
+
+Play video
+More than just an image.
+
+Instantly tell the web who you are and where people can find you. Gravatar can display links, photos, contact info, wallet addresses, and other details.
+
+Trusted by top brands.
+
+The biggest companies you know use Gravatar. Your avatar is automatically recognized by Slack, GitHub, WordPress, and other popular services.
+
+Public, open, and responsible.
+
+Your avatar is linked to a public email address. You choose what to display on Gravatar-enabled sites: what you share on your profile is open to the world.
+
+As always, your data is yours.
+
+Read our Privacy Policy
+FOR SITE OWNERS & DEVELOPERS
+Join a network of brands building an open web.
+
+Resources and plugins for popular content management systems will help you use Gravatar in no time. From a streamlined signup flow to image manipulation and other built‑in benefits, Gravatar offers many possibilities through open standards.
+
+Implement Gravatar API
+Building a better web for over 15 years.
+Create your Gravatar
+
+Integrated on millions of sites, Gravatar is a free service for site owners, developers, and anyone else who wants an effortless and verified way to establish their identity online.
+
+An Automattic project since 2007, Gravatar is built into every WordPress.com account and is widely implemented across the open web.
+
+Languages
+Developer Resources
+Privacy Policy
+Support
+An  venture
+Work With Us

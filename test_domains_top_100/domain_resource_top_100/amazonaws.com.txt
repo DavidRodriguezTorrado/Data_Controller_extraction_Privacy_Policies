@@ -1,0 +1,255 @@
+Select your cookie preferences
+
+We use cookies and similar tools to enhance your experience, provide our services, deliver relevant advertising, and make improvements. Approved third parties also use these tools to help us deliver advertising and provide certain site features.
+
+Customize
+Accept all
+Click here to return to Amazon Web Services homepage
+Contact Us
+Support 
+English 
+My Account 
+Sign In 
+Create an AWS Account
+Products Solutions Pricing Documentation Learn Partner Network AWS Marketplace Customer Enablement Events Explore More
+Explore the AWS platform, cloud products, and capabilities
+Get started  
+Getting Started Resource Center
+Technical documentation and other free resources to help you build with AWS
+Get started  
+Explore AWS Cloud Control API
+Manage your cloud infrastructure consistently and leverage the latest AWS capabilities faster
+Learn more  
+AI/ML Innovate Online EMEA I February 24
+Level up your AI and Machine Learning skills at our AWS Innovate Online Conference.
+Register now  
+Use Amazon EC2, S3, and more — free for a full year
+Learn more about the AWS Free Tier  
+Explore the AWS platform, cloud products, and capabilities
+Get started  
+Getting Started Resource Center
+Technical documentation and other free resources to help you build with AWS
+Get started  
+Explore AWS Cloud Control API
+Manage your cloud infrastructure consistently and leverage the latest AWS capabilities faster
+Learn more  
+AI/ML Innovate Online EMEA I February 24
+Level up your AI and Machine Learning skills at our AWS Innovate Online Conference.
+Register now  
+Use Amazon EC2, S3, and more — free for a full year
+Learn more about the AWS Free Tier  
+Explore the AWS platform, cloud products, and capabilities
+Get started  
+Amazon Lightsail Extended Free Tier
+New customers get up to three months free on select virtual private servers
+AWS DataSync Primer Training
+Learn how to use AWS DataSync to easily move your data to the cloud
+Amazon FSx for NetApp ONTAP
+Launch and run complete, fully managed ONTAP file systems in the cloud
+Free AWS Training
+Advance your career with AWS Cloud Practitioner Essentials—a free, six-hour, foundational course
+AWS Customer News
+
+Nasdaq and AWS announce a multi-year partnership to build the next generation of cloud-enabled infrastructure for the world's capital markets.
+
+ Read the press release 
+
+Best Buy selects AWS as its strategic cloud provider to further unleash the innovative work of its technology teams and advance its mission to create world-class digital experiences for its customers.
+
+ Read the press release 
+
+Rivian selects AWS as its preferred cloud provider to drive efficiency, performance, and refinement of electric vehicles.
+
+ Read the press release 
+
+AIG selects AWS as its preferred public cloud provider to drive business transformation, increase operational efficiency, and accelerate innovation in the cloud.
+
+ Read the press release 
+
+Meta selects AWS as key, long-term strategic cloud provider to scale research and development, facilitate third party collaborations, and drive operational efficiency.
+
+ Read the press release 
+
+adidas selects AWS as its preferred cloud provider for SAP workloads to transform its business by implementing SAP S/4HANA.
+
+ Read the press release 
+Explore Our Solutions
+By Industry
+Advertising & Marketing
+Achieve cost-efficiency for petabyte-scale analytics and single-digit millisecond latency workloads.
+Learn More
+Financial Services
+Less cost. More resiliency. Explore AWS solutions across banking, payments, capital markets, and insurance.
+Learn More
+Game Tech
+Create computationally ridiculous games across all genres and platforms.
+Learn More
+Media & Entertainment
+From content creation to distribution, purpose-built media solutions so you can move faster, smarter, and more efficiently.
+Learn More
+View All Industries 
+By Technology Category
+Analytics & Data Lakes
+Securely store, categorize, and analyze all your data in one, centralized repository.
+Learn More
+Machine Learning
+Build with powerful services and platforms, and the broadest machine learning framework support anywhere.
+Learn More
+Serverless Computing
+Build and run applications and services without thinking about servers.
+Learn More
+Storage
+Durable, cost-effective options for backup, disaster recovery, and data archiving at petabyte scale.
+Learn More
+View All Solutions 
+Explore Our Products
+Featured Services
+Analytics
+Cloud Financial Management
+Compute
+Containers
+Database
+Front-End Web & Mobile
+Internet of Things
+Machine Learning
+Networking & Content Delivery
+Security, Identity, & Compliance
+Serverless
+Storage
+Free Trial
+Amazon Lightsail
+Launch and manage virtual private servers
+Free Trial
+Amazon EC2
+Virtual servers in the cloud
+Free Trial
+Amazon Simple Storage Service (S3)
+Storage Service (S3) Scalable storage in the cloud
+ 
+Amazon Aurora
+High performance managed relational database
+Free Trial
+Amazon DynamoDB
+Managed NoSQL database
+View All Product Categories 
+Training and Certification
+For Builders
+ 
+For Decision Makers
+For developers, data scientists, solutions architects, or anyone interested in learning how to build on AWS today
+Free Online Training
+
+Go from learning to doing with more than 500 free digital training courses built by AWS experts
+
+
+Take a Digital Course »
+
+AWS Learning Recommendations
+
+Start building today with Ramp-Up guides featuring curated resources to grow your AWS knowledge
+
+
+Browse by Role or Solution »
+
+AWS Certification
+
+Grow your career and business with industry-recognized credentials validating your cloud skills
+
+
+Learn More About AWS Certification »
+
+
+AWS Hybrid Cloud Solutions
+Consistent experience across AWS and on-premises environments
+VMware Cloud on AWS
+Migrate and extend VMware environments to the AWS Cloud
+Learn More  
+AWS Outposts
+Run AWS infrastructure on-premises for a truly consistent hybrid experience
+Learn More  
+Powering Customer Innovation
+Featured Customer Innovations
+Advertising & Marketing
+Aerospace & Satellite
+Agriculture
+Automotive
+Education
+Energy
+Financial Services
+Government
+Healthcare & Life Sciences
+Manufacturing
+Media & Entertainment
+Nonprofit
+Retail | Consumer Packaged Goods
+Travel & Hospitality
+Retail & Consumer Packaged Goods
+Building a contactless mobile beverage pouring solution in less than 100 days
+Travel & Hospitality
+Growing an online travel platform with innovative vendor global payments
+Media & Entertainment
+Delivering award-winning entertainment to more than 200 million members
+Automotive
+Revolutionizing global operations by connecting data worldwide
+.
+View All Customer Stories 
+Engineered for the Most Demanding Requirements
+Secure
+Comprehensive security capabilities to satisfy the most demanding requirements.
+Compliant
+Rich controls, auditing and broad security accreditations.
+Hybrid
+Build hybrid architectures that extend your on-premises infrastructure to the Cloud.
+Scalable
+Access as much or as little as you need, and scale up and down as required with only a few minutes notice.
+Global Network of AWS Regions
+The AWS Cloud spans 84 Availability Zones within 26 geographic regions around the world, with announced plans for 24 more Availability Zones and 8 more AWS Regions in Australia, Canada, India, Israel, New Zealand, Spain, Switzerland, and United Arab Emirates (UAE).
+ Regions  Coming Soon
+Learn More 
+Analyst Reports
+Read what top analysts such as Gartner and IDC are saying about AWS
+AWS Marketplace
+Launch a variety of popular software on AWS in minutes
+Work with AWS Partners
+Build and grow your business with the help of AWS Partners
+The Amazon Builders' Library
+Learn how Amazon builds and operates software from the builders themselves
+Learn About AWS
+What Is AWS?
+What Is Cloud Computing?
+AWS Inclusion, Diversity & Equity
+What Is DevOps?
+What Is a Container?
+What Is a Data Lake?
+AWS Cloud Security
+What's New
+Blogs
+Press Releases
+Resources for AWS
+Getting Started
+Training and Certification
+AWS Solutions Portfolio
+Architecture Center
+Product and Technical FAQs
+Analyst Reports
+AWS Partner Network
+Developers on AWS
+Developer Center
+SDKs & Tools
+.NET on AWS
+Python on AWS
+Java on AWS
+PHP on AWS
+JavaScript on AWS
+Help
+Contact Us
+File a Support Ticket
+Knowledge Center
+AWS re:Post
+AWS Support Overview
+Legal
+AWS Careers
+Create an AWS Account
+Amazon is an Equal Opportunity Employer: Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.
+Language عربي Bahasa Indonesia Deutsch English Español Français Italiano Português Tiếng Việt Türkçe Ρусский ไทย 日本語 한국어 中文 (简体) 中文 (繁體)
+Privacy | Site Terms | Cookie Preferences | © 2022, Amazon Web Services, Inc. or its affiliates. All rights reserved.
